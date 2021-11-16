@@ -4,13 +4,13 @@ import Layout from '../../components/layout'
 const importBlogPosts = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
   const markdownFiles = require
-    .context('../../content/blogPosts', false, /\.md$/)
+    .context('../../content/bopPosts', false, /\.md$/)
     .keys()
     .map((relativePath) => relativePath.substring(2))
 
   return Promise.all(
     markdownFiles.map(async (path) => {
-      const markdown = await import(`../../content/blogPosts/${path}`)
+      const markdown = await import(`../../content/bopPosts/${path}`)
       return { ...markdown, slug: path.substring(0, path.length - 3) }
     })
   )
