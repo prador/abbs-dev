@@ -1,12 +1,12 @@
-local_backend: true
 backend:
-  name: git-gateway
+  name: github
   branch: main
-media_folder: static/img
+media_folder: public/static/img
 slug:
   encoding: 'ascii'
   clean_accents: true
   sanitize_replacement: '_'
+local_backend: true
 collections:
   - name: 'pages'
     label: 'Pages'
