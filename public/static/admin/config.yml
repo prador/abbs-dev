@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 media_folder: static/img
 slug:
   encoding: 'ascii'
@@ -27,6 +27,26 @@ collections:
   - label: 'Blog'
     name: 'blog'
     folder: 'content/blogPosts'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          required: true,
+        }
+      - {
+          label: 'Featured Image',
+          name: 'thumbnail',
+          widget: 'image',
+          required: true,
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: true }
+  - label: 'Nog'
+    name: 'nog'
+    folder: 'content/bopPosts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
     fields:
