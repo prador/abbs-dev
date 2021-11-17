@@ -32,10 +32,6 @@ function DropdownMenu() {
 		
     function DropdownItem(props) {
 			
-
-			console.log("gotomenu",props.goToMenu)
-			console.log("url",props.url)
-			console.log("aspath",router.asPath)
 			const style = {
 				marginRight: 10,
 				color: router.asPath === props.url ? 'red' : 'gray',
