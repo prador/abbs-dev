@@ -12,10 +12,10 @@ module.exports = {
     local_backend: true,
   
     // Where to store the images
-    media_folder: "public/images/",
+    media_folder: "public/static/img/",
   
     // Where to link the images
-    public_folder: "public/images/",
+    public_folder: "static/img/",
     collections: [
       {
         name: "pages",

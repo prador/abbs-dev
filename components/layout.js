@@ -12,14 +12,14 @@ const Layout = ({ children }) => (
         <a>blog</a>
       </Link>
       <Link href="/nog">
-        <a>nog</a>
+        <a>nog</a> 
       </Link>
       <Link href="/about">
         <a>about</a>
       </Link>
     </nav>
     {/* <SideNav/> */}
-    {/* <SideBar/> */}
+    <SideBar/>
     <main>{children}</main>
     <style jsx>{`
       nav {
