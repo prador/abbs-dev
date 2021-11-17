@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import SideBar from './SideBar'
-import SideNav from './SideNav'
 
 const Layout = ({ children }) => (
   <>
@@ -18,7 +17,6 @@ const Layout = ({ children }) => (
         <a>about</a>
       </Link>
     </nav>
-    {/* <SideNav/> */}
     <SideBar/>
     <main>{children}</main>
     <style jsx>{`

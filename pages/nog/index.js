@@ -16,7 +16,7 @@ const importBlogPosts = async () => {
   )
 }
 
-const Blog = ({ postsList }) => (
+const Nog = ({ postsList }) => (
   <Layout>
     {postsList.map((post) => (
       <div key={post.slug} className="post">
@@ -50,4 +50,4 @@ export async function getStaticProps() {
   }
 }
 
-export default Blog
+export default Nog

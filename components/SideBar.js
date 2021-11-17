@@ -7,7 +7,6 @@ function SideBar() {
   return (
     <Navbar>
       <DropdownMenu/>
-    blah blah
     </Navbar>
   );
 }

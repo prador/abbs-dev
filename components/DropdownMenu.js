@@ -7,28 +7,47 @@ import ChevronIcon from '../assets/icons/chevron.svg';
 import ArrowIcon from '../assets/icons/arrow.svg';
 import BoltIcon from '../assets/icons/bolt.svg';
 import Link from "next/link";
+import {useRouter} from "next/router"
 
 import React, { useState, useEffect, useRef } from 'react';
 import  {CSSTransition}  from 'react-transition-group';
 
 function DropdownMenu() {
+		const router = useRouter();
+		const [pathName, setPathName] = useState(router.pathname);
     const [activeMenu, setActiveMenu] = useState('main');
     const [menuHeight, setMenuHeight] = useState(null);
     const dropdownRef = useRef(null);
   
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
+			const menu = pathName.split('/')[1]
+			{menu === "" ? setActiveMenu('main') : setActiveMenu(menu)}
     }, [])
   
     function calcHeight(el) {
       const height = el.offsetHeight;
       setMenuHeight(height);
     }
-  
+		
     function DropdownItem(props) {
+			
+
+			console.log("gotomenu",props.goToMenu)
+			console.log("url",props.url)
+			console.log("aspath",router.asPath)
+			const style = {
+				marginRight: 10,
+				color: router.asPath === props.url ? 'red' : 'gray',
+			}
+			const handleClick = (e) => {
+				e.preventDefault()
+				router.push(props.url ? props.url : router.asPath)
+				setActiveMenu(props.goToMenu)
+			}
       return (
         <Link href={props.url ? props.url : "#"} >
-        <a className={"menu-item"} onClick={() => props.goToMenu && setActiveMenu(props.goToMenu)}>
+        <a className={"menu-item"} href={props.url} onClick={handleClick} style={style}>
           {/* <span className={"icon-button"}>{props.leftIcon}</span> */}
           {props.children}
           {/* <span className={"icon-right"}>{props.rightIcon}</span> */}
@@ -47,50 +66,49 @@ function DropdownMenu() {
           unmountOnExit
           onEnter={calcHeight}>
           <div className="menu">
-            <DropdownItem>My Profile</DropdownItem>
-            <DropdownItem url="/nog"
-              goToMenu="settings">
-              Settings
+            <DropdownItem url="/">My Profile</DropdownItem>
+            <DropdownItem 
+              goToMenu="nog">
+              Nog
             </DropdownItem>
             <DropdownItem
-              goToMenu="animals">
-              Animals
+              goToMenu="blog">
+              Blog
             </DropdownItem>
   
           </div>
         </CSSTransition>
   
         <CSSTransition
-          in={activeMenu === 'settings'}
+          in={activeMenu === 'nog'}
           timeout={500}
           classNames="menu-secondary"
           unmountOnExit
           onEnter={calcHeight}>
           <div className="menu">
-            <DropdownItem goToMenu="main" leftIcon={<ArrowIcon />}>
-              <h2>My Tutorial</h2>
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
             </DropdownItem>
-            <DropdownItem url="/nog/test">HTML</DropdownItem>
-            <DropdownItem >CSS</DropdownItem>
-            <DropdownItem >JavaScript</DropdownItem>
-            <DropdownItem >Awesome!</DropdownItem>
+            <DropdownItem url="/nog/bots/its_not_the_problem_you_want_to_solve_boiiiiii" goToMenu="nog">HTML</DropdownItem>
+            <DropdownItem url="/nog/bots/why_did_the_chicken_cross_the_road" goToMenu="nog">CSS</DropdownItem>
+            <DropdownItem url="/nog/bots/sarwrwerwe" goToMenu="nog">JavaScript</DropdownItem>
           </div>
         </CSSTransition>
   
         <CSSTransition
-          in={activeMenu === 'animals'}
+          in={activeMenu === 'blog'}
           timeout={500}
           classNames="menu-secondary"
           unmountOnExit
           onEnter={calcHeight}>
           <div className="menu">
-            <DropdownItem goToMenu="main" leftIcon={<ArrowIcon />}>
-              <h2>Animals</h2>
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
             </DropdownItem>
-            <DropdownItem >Kangaroo</DropdownItem>
-            <DropdownItem >Frog</DropdownItem>
-            <DropdownItem >Horse?</DropdownItem>
-            <DropdownItem >Hedgehog</DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
           </div>
         </CSSTransition>
       </div>
