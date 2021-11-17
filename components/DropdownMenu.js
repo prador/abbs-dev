@@ -85,9 +85,9 @@ function DropdownMenu() {
             <DropdownItem goToMenu="main">
               <h5>Back</h5>
             </DropdownItem>
-            <DropdownItem url="/nog/bots/its_not_the_problem_you_want_to_solve_boiiiiii" goToMenu="nog">HTML</DropdownItem>
-            <DropdownItem url="/nog/bots/why_did_the_chicken_cross_the_road" goToMenu="nog">CSS</DropdownItem>
-            <DropdownItem url="/nog/bots/sarwrwerwe" goToMenu="nog">JavaScript</DropdownItem>
+            <DropdownItem url="/nog/post/its_not_the_problem_you_want_to_solve_boiiiiii" goToMenu="nog">HTML</DropdownItem>
+            <DropdownItem url="/nog/post/why_did_the_chicken_cross_the_road" goToMenu="nog">CSS</DropdownItem>
+            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">JavaScript</DropdownItem>
           </div>
         </CSSTransition>
   

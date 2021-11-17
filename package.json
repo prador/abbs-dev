@@ -4,7 +4,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "npm run build && next export"
+    "export": "npm run build && next export",
+    "cache-posts": "node scripts/cache.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
@@ -15,9 +16,17 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-markdown": "^7.1.0",
-    "react-transition-group": "4.3.0"
+    "react-transition-group": "4.3.0",
+    "remark": "^14.0.1",
+    "remark-html": "^15.0.0"
   },
   "devDependencies": {
-    "frontmatter-markdown-loader": "^2.0.0"
+    "frontmatter-markdown-loader": "^2.0.0",
+    "husky": "^4.2.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn cache-posts && git add cache/data.js"
+    }
   }
 }
