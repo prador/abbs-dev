@@ -20,6 +20,7 @@ module.exports = {
       {
         name: "pages",
         label: "Pages",
+        format:"frontmatter",
         files: [
           {
             label: "Home",
@@ -70,6 +71,7 @@ module.exports = {
       {
         label: "Blog",
         name: "blog",
+        format:"frontmatter",
         folder: "content/blogPosts",
         create: true,
         slug: "{{year}}-{{month}}-{{day}}_{{slug}}",
@@ -103,6 +105,7 @@ module.exports = {
       {
         label: "Nog",
         name: "nog",
+        format:"frontmatter",
         folder: "content/bopPosts",
         create: true,
         slug: "{{slug}}",
