@@ -1,8 +1,8 @@
 import Link from 'next/link'
 import Layout from '../../components/layout'
-import { attributes, html } from '../../content/blog.md'
+import { attributes, html } from '../../content/programs.md'
 
-const importBlogPosts = async () => {
+const importPrograms = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
   const markdownFiles = require
     .context('../../content/blogPosts', false, /\.md$/)
@@ -17,11 +17,11 @@ const importBlogPosts = async () => {
   )
 }
 
-const Blog = ({ postsList }) => (
+const Programs = ({ programList }) => (
   <Layout>
     <h1 className="black-txt">{attributes.title}</h1>
     <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
-    {postsList.map((post) => (
+    {programList.map((post) => (
       <div key={post.slug} className="post">
         <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
           <a>
@@ -44,13 +44,13 @@ const Blog = ({ postsList }) => (
 )
 
 export async function getStaticProps() {
-  const postsList = await importBlogPosts()
+  const programList = await importPrograms()
 
   return {
     props: {
-      postsList,
+      programList,
     }, // will be passed to the page component as props
   }
 }
 
-export default Blog
+export default Programs

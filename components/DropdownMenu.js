@@ -6,6 +6,8 @@ import CogIcon from '../assets/icons/cog.svg';
 import ChevronIcon from '../assets/icons/chevron.svg';
 import ArrowIcon from '../assets/icons/arrow.svg';
 import BoltIcon from '../assets/icons/bolt.svg';
+import Search from './Search'
+
 import Link from "next/link";
 import {useRouter} from "next/router"
 
@@ -22,7 +24,7 @@ function DropdownMenu() {
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
 			const menu = pathName.split('/')[1]
-			{menu === "" ? setActiveMenu('main') : setActiveMenu(menu)}
+			{menu === "" || menu === "about" || menu === "blog" || menu === "nog" ? setActiveMenu('main') : setActiveMenu(menu)}
     }, [])
   
     function calcHeight(el) {
@@ -53,8 +55,8 @@ function DropdownMenu() {
     }
   
     return (
-      <div className="dropdown" style={{ height: menuHeight }} ref={dropdownRef}>
-  
+      <div className="dropdown" ref={dropdownRef}>
+        <Search/>
         <CSSTransition
           in={activeMenu === 'main'}
           timeout={500}
@@ -63,13 +65,16 @@ function DropdownMenu() {
           onEnter={calcHeight}>
           <div className="menu">
             <DropdownItem url="/">My Profile</DropdownItem>
-            <DropdownItem 
+            <DropdownItem url="/nog"
               goToMenu="nog">
               Nog
             </DropdownItem>
-            <DropdownItem
+            <DropdownItem url="/blog"
               goToMenu="blog">
               Blog
+            </DropdownItem>
+            <DropdownItem url="/about">
+              about
             </DropdownItem>
   
           </div>
@@ -87,7 +92,22 @@ function DropdownMenu() {
             </DropdownItem>
             <DropdownItem url="/nog/post/its_not_the_problem_you_want_to_solve_boiiiiii" goToMenu="nog">HTML</DropdownItem>
             <DropdownItem url="/nog/post/why_did_the_chicken_cross_the_road" goToMenu="nog">CSS</DropdownItem>
-            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">JavaScript</DropdownItem>
+            <DropdownItem url="/programs" goToMenu="programs">JavaScript</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'programs'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="nog">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem url="/programs" >next </DropdownItem>
+            <DropdownItem url="/nog/post/why_did_the_chicken_cross_the_road" goToMenu="nog">netlify</DropdownItem>
+            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">something else</DropdownItem>
           </div>
         </CSSTransition>
   
