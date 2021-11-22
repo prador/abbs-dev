@@ -6,7 +6,8 @@ import { AppProps } from "next/app";
 import "../assets/styles/global.css";
 import '../assets/styles/homepage.css'
 import '../assets/styles/search.module.css'
-
+import '../assets/styles/webflow.css'
+import '../assets/styles/abbs.css'
 
 export default function App({ Component, pageProps }) {
   return <Component {...pageProps} />;

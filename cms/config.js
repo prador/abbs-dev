@@ -22,7 +22,7 @@ module.exports = {
         label: "Pages",
         create: true,
         format:"frontmatter",
-        folder: "content/",
+        folder: "content/pages/",
         slug: "{{slug}}",
         fields: [
           {
@@ -49,92 +49,6 @@ module.exports = {
             required: true
           }
         ]
-        // files: [
-        //   {
-        //     label: "Home",
-        //     name: "home",
-        //     slug: "{{slug}}",
-        //     file: "content/home.md",
-        //     fields: [
-        //       {
-        //         label: "Title",
-        //         name: "title",
-        //         widget: "string"
-        //       },
-        //       {
-        //         label: "Slug",
-        //         name: "slug",
-        //         widget: "string"
-        //       },
-        //       {
-        //         label: "Publish Date",
-        //         name: "date",
-        //         widget: "datetime"
-        //       },
-        //       {
-        //         label: "Body",
-        //         name: "body",
-        //         widget: "markdown"
-        //       }
-        //     ]
-        //   },
-        //   {
-        //     label: "Blog",
-        //     name: "blog",
-        //     slug: "{{slug}}",
-        //     file: "content/blog.md",
-        //     fields: [
-        //       {
-        //         label: "Title",
-        //         name: "title",
-        //         widget: "string"
-        //       },
-        //       {
-        //         label: "Slug",
-        //         name: "slug",
-        //         widget: "string"
-        //       },
-        //       {
-        //         label: "Publish Date",
-        //         name: "date",
-        //         widget: "datetime"
-        //       },
-        //       {
-        //         label: "Body",
-        //         name: "body",
-        //         widget: "markdown"
-        //       }
-        //     ]
-        //   },
-        //   {
-        //     label: "About",
-        //     name: "about",
-        //     slug: "{{slug}}",
-        //     file: "content/about.md",
-        //     fields: [
-        //       {
-        //         label: "Title",
-        //         name: "title",
-        //         widget: "string"
-        //       },
-        //       {
-        //         label: "Slug",
-        //         name: "slug",
-        //         widget: "string"
-        //       },
-        //       {
-        //         label: "Publish Date",
-        //         name: "date",
-        //         widget: "datetime"
-        //       },
-        //       {
-        //         label: "Body",
-        //         name: "body",
-        //         widget: "markdown"
-        //       }
-        //     ]
-        //   }
-        // ]
       },
       {
         label: "Blog",
@@ -529,6 +443,68 @@ module.exports = {
             name: "body",
             widget: "markdown",
             required: true
+          }
+        ]
+      },
+      {
+        name: "Navigation",
+        label: "Navigation",
+        files: [
+          {
+            label: "Sidenav",
+            name: "sidenav",
+            slug: "{{slug}}",
+            file: "content/navigation/sidenav.md",
+            fields: [
+              {
+                label: "Title",
+                name: "title",
+                widget: "string"
+              },
+              {
+                label: "Slug",
+                name: "slug",
+                widget: "string"
+              },
+              {
+                label: "Publish Date",
+                name: "date",
+                widget: "datetime"
+              },
+              {
+                label: "Body",
+                name: "body",
+                widget: "markdown"
+              }
+            ]
+          },
+          {
+            label: "Footer",
+            name: "footer",
+            slug: "{{slug}}",
+            file: "content/navigation/footer.md",
+            fields: [
+              {
+                label: "Title",
+                name: "title",
+                widget: "string"
+              },
+              {
+                label: "Slug",
+                name: "slug",
+                widget: "string"
+              },
+              {
+                label: "Publish Date",
+                name: "date",
+                widget: "datetime"
+              },
+              {
+                label: "Body",
+                name: "body",
+                widget: "markdown"
+              }
+            ]
           }
         ]
       }

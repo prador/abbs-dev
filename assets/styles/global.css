@@ -20,7 +20,9 @@ a:active,
 a:hover {
   color: #000;
 }
-
+#__next {
+  display: flex;
+}
 .youtube-container {
   position: relative;
   width: 100%;

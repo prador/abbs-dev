@@ -1,5 +1,5 @@
 import Layout from '../components/layout'
-import { attributes, html } from '../content/about.md'
+import { attributes, html } from '../content/pages/about.md'
 
 const About = () => (
   <Layout>
