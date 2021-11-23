@@ -36,8 +36,9 @@ function DropdownMenu() {
     function DropdownItem(props) {
 			
 			const style = {
-				marginRight: 10,
-				color: router.asPath === props.url ? 'red' : 'gray',
+				// marginRight: 10,
+				color: router.asPath === props.url ? 'black' : 'white',
+        backgroundColor: router.asPath === props.url ? '#DBDBDB' : 'transparent',
 			}
 			const handleClick = (e) => {
 				e.preventDefault()
@@ -66,17 +67,45 @@ function DropdownMenu() {
           unmountOnExit
           onEnter={calcHeight}>
           <div className="menu">
-            <DropdownItem url="/">My Profile</DropdownItem>
-            <DropdownItem url="/nog"
+            <DropdownItem url="/profile" goToMenu="profile">Profile</DropdownItem>
+            {/* <DropdownItem url="/nog"
               goToMenu="nog">
               Nog
+            </DropdownItem> */}
+            <DropdownItem url="/abbs-edge"
+              goToMenu="abbs-edge">
+              ABBS Edge
             </DropdownItem>
-            <DropdownItem url="/blog"
-              goToMenu="blog">
-              Blog
+            <DropdownItem url="/programs"
+              goToMenu="programs">
+              Programs
             </DropdownItem>
-            <DropdownItem url="/about">
-              about
+            <DropdownItem url="/faculty"
+              goToMenu="faculty">
+              Faculty
+            </DropdownItem>
+            <DropdownItem url="/research"
+              goToMenu="research">
+              Research
+            </DropdownItem>
+            <DropdownItem url="/corporate"
+              goToMenu="corporate">
+              Corporate
+            </DropdownItem>
+            <DropdownItem url="/campus-life"
+              goToMenu="campus-life">
+              Campus Life
+            </DropdownItem>
+            <DropdownItem url="/admissions"
+              goToMenu="admissions">
+              Admissions
+            </DropdownItem>
+            <DropdownItem url="/news-events"
+              goToMenu="news-events">
+              News & Events
+            </DropdownItem>
+            <DropdownItem url="/blog" goToMenu="blog">
+              Login
             </DropdownItem>
   
           </div>
@@ -97,6 +126,7 @@ function DropdownMenu() {
             <DropdownItem url="/programs" goToMenu="programs">JavaScript</DropdownItem>
           </div>
         </CSSTransition>
+
         <CSSTransition
           in={activeMenu === 'programs'}
           timeout={500}
@@ -114,6 +144,135 @@ function DropdownMenu() {
         </CSSTransition>
   
         <CSSTransition
+          in={activeMenu === 'profile'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+
+        <CSSTransition
+          in={activeMenu === 'abbs-edge'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'faculty'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'research'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'corporate'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'campus-life'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'admissions'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'news-events'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="main">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
+            <DropdownItem goToMenu="blog">Frog</DropdownItem>
+            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
+            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
           in={activeMenu === 'blog'}
           timeout={500}
           classNames="menu-secondary"
@@ -129,6 +288,7 @@ function DropdownMenu() {
             <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
           </div>
         </CSSTransition>
+
       </div>
     );
   }

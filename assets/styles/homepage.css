@@ -113,4 +113,23 @@
     padding-top: 80px;
     margin-left: 85px;
   }
-  
+
+@media (max-width:600px) {
+  .accordion {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    min-width: auto;
+    height:100%;
+    overflow:auto;
+    width:90%;
+    /* font-size:100%; */
+  }
+  .tabs .paragraph {
+    width: 100%;
+  }
+  .tabs:hover {
+    width:100%;
+  }
+}
