@@ -6,11 +6,9 @@ import { attributes, html } from '../content/pages/home.md'
 
 const Home = () => (
   <Layout>
-    <h1>{attributes.title}</h1>
-    <div dangerouslySetInnerHTML={{ __html: html }} />
     {/* <ProgramAccoridan/> */}
-    <PageBanner/>
-    <RichContent/>
+    <PageBanner att={attributes}/>
+    <RichContent att={attributes} html={html}/>
     <style jsx>{`
       h1,
       div {

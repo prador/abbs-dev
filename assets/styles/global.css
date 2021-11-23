@@ -1,9 +1,105 @@
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+@font-face {
+  font-family: 'Butler';
+  src: url('/fonts//fonts/Butler-UltraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler';
+  src: url('/fonts/Butler-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler';
+  src: url('/fonts/Butler-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler';
+  src: url('/fonts/Butler-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler';
+  src: url('/fonts/Butler-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler';
+  src: url('/fonts/Butler-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Butler';
+  src: url('/fonts/Butler.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HKGrotesk';
+  src: url('/fonts/HKGrotesk-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
 
 html,
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "HKGrotesk", sans-serif;
   background-color: #fff;
   color: #222;
   font-weight: 200;
@@ -23,20 +119,141 @@ a:hover {
 #__next {
   display: flex;
 }
-.youtube-container {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
-  overflow: hidden;
-  margin-bottom: 50px;
+
+h1 {
+  font-family: 'Butler', serif;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  font-size: 35px;
+  line-height: 40px;
+  font-weight: 600;
 }
 
-.youtube-container iframe {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
+h2 {
+  font-family: 'Butler', serif;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 27px;
+  line-height: 135%;
+  font-weight: 600;
 }
-.black-txt {color:#000; margin-left: 30%;}
+
+h3 {
+  font-family: 'Butler', serif;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 21px;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+h4 {
+  font-family: 'Butler', serif;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 600;
+}
+
+h5 {
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+h6 {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  line-height: 160%;
+  font-weight: 300;
+}
+
+a {
+  color: #24a7ff;
+  text-decoration: underline;
+}
+
+ul {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  padding-left: 40px;
+}
+
+ol {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-left: 40px;
+  font-family: Lato, sans-serif;
+}
+
+li {
+  font-weight: 300;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+blockquote {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  border-left: 5px solid #e2e2e2;
+  font-family: Domine;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+}
+
+figure {
+  margin-bottom: 20px;
+}
+
+figcaption {
+  margin-top: 8px;
+  color: #aaa;
+  font-size: 14px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 11px 20px;
+  border-radius: 3px;
+  background-color: #fff;
+  box-shadow: 0 0 0 1px #ddd;
+  -webkit-transition: box-shadow 200ms ease;
+  transition: box-shadow 200ms ease;
+  color: #333;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+@media (max-width:600px) {
+  #__next {
+    flex-direction:column;
+  }
+}

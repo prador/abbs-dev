@@ -1,18 +1,19 @@
-import BellIcon from '../assets/icons/bell.svg';
-import MessengerIcon from '../assets/icons/messenger.svg';
-import CaretIcon from '../assets/icons/caret.svg';
-import PlusIcon from '../assets/icons/plus.svg';
-import CogIcon from '../assets/icons/cog.svg';
-import ChevronIcon from '../assets/icons/chevron.svg';
-import ArrowIcon from '../assets/icons/arrow.svg';
-import BoltIcon from '../assets/icons/bolt.svg';
-import Search from './Search'
+import BellIcon from '../../assets/icons/bell.svg';
+import MessengerIcon from '../../assets/icons/messenger.svg';
+import CaretIcon from '../../assets/icons/caret.svg';
+import PlusIcon from '../../assets/icons/plus.svg';
+import CogIcon from '../../assets/icons/cog.svg';
+import ChevronIcon from '../../assets/icons/chevron.svg';
+import ArrowIcon from '../../assets/icons/arrow.svg';
+import BoltIcon from '../../assets/icons/bolt.svg';
+import Search from '../Search'
 
 import Link from "next/link";
 import {useRouter} from "next/router"
 
 import React, { useState, useEffect, useRef } from 'react';
 import  {CSSTransition}  from 'react-transition-group';
+import { attribute } from 'dom-helpers';
 
 function DropdownMenu() {
 		const router = useRouter();
@@ -56,6 +57,7 @@ function DropdownMenu() {
   
     return (
       <div className="dropdown" ref={dropdownRef}>
+        
         <Search/>
         <CSSTransition
           in={activeMenu === 'main'}

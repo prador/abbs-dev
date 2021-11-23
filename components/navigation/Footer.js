@@ -1,6 +1,5 @@
 import Link from 'next/link'
-import Image from 'next/image'
-import Logo from '/assets/img/00-abbs-logo-black.svg'
+import { attributes, html } from '../../content/navigation/footer.md'
 
 const Footer = () => (
   <>
@@ -63,7 +62,7 @@ const Footer = () => (
           <a href="#" className="footer-col-link">Mandatory Disclosures</a>
         </div>
         <div id="w-node-aa5f47a9-f77e-2ab4-c93e-cef8997f2a91-fe48c5ce" className="address-block">
-            <Image src={Logo} layout="responsive" loading="lazy" width="100" alt="" className="image-10"/>
+            <img src={attributes.logo} layout="responsive" loading="lazy" width="120" alt="" className="image-10"/>
           <p className="paragraph-2">Acharya Bangalore B-School<br/>Andrahalli Main Road, Off Magadi Road,<br/>Bengaluru – 560 091, Karnataka, India</p>
           <div className="address-contact-links">
             <h4 className="footer-address-heading">Ph no :</h4>

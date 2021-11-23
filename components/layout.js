@@ -2,8 +2,8 @@ import React, { useEffect } from "react";
 import Link from 'next/link'
 import Head from 'next/head'
 import Script from 'next/script'
-import Footer from './Footer'
-import SideBar from './SideBar'
+import Footer from './navigation/Footer'
+import SideBar from './navigation/SideBar'
 
 const Layout = ({ children }) => {
   return (
@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
           <link href="assets/img/webclip.png" rel="apple-touch-icon"/>
       </Head>
       <SideBar/>
-      <div id="w-node-_213e7ee2-f0cb-cbea-eb62-6f01783e8cfa-fe48c5ce" className="div-block"></div>
+      <div id="w-node-_213e7ee2-f0cb-cbea-eb62-6f01783e8cfa-fe48c5ce" className="layout-spacer"></div>
       <main>{children}
       <Footer/>
       </main>

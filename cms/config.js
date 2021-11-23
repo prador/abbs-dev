@@ -457,24 +457,9 @@ module.exports = {
             file: "content/navigation/sidenav.md",
             fields: [
               {
-                label: "Title",
-                name: "title",
-                widget: "string"
-              },
-              {
-                label: "Slug",
-                name: "slug",
-                widget: "string"
-              },
-              {
-                label: "Publish Date",
-                name: "date",
-                widget: "datetime"
-              },
-              {
-                label: "Body",
-                name: "body",
-                widget: "markdown"
+                label: "Logo",
+                name: "logo",
+                widget: "image"
               }
             ]
           },
@@ -485,24 +470,9 @@ module.exports = {
             file: "content/navigation/footer.md",
             fields: [
               {
-                label: "Title",
-                name: "title",
-                widget: "string"
-              },
-              {
-                label: "Slug",
-                name: "slug",
-                widget: "string"
-              },
-              {
-                label: "Publish Date",
-                name: "date",
-                widget: "datetime"
-              },
-              {
-                label: "Body",
-                name: "body",
-                widget: "markdown"
+                label: "Logo",
+                name: "logo",
+                widget: "image"
               }
             ]
           }
