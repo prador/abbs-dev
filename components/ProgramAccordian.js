@@ -1,7 +1,9 @@
 import React from "react";
-export default function ProgramAccoridan() {
+export default function ProgramAccoridian() {
   return (
-    <div>
+    <>
+      <div className="content">
+      <div className="w-layout-grid contain-block">
       <div className="container">
       <ul className="accordion">
       <li className="tabs">
@@ -52,5 +54,7 @@ export default function ProgramAccoridan() {
     </ul>
       </div>
     </div>
+    </div>
+    </>
   );
 }

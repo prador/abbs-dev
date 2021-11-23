@@ -1,6 +1,9 @@
 ---
 title: Home
 slug: /
+seo_title: Home | ABBS
+seo_description: This is the homepage of ABBS
+seo_keywords: test, business school, management
 date: 2019-03-17T19:31:20.591Z
 thumbnail: static/img/puppy-and-adult-dog.jpg
 ---

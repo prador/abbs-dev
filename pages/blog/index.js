@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Layout from '../../components/layout'
+import PageHeader from '../../components/PageHeader'
 import { attributes, html } from '../../content/pages/blog.md'
 
 const importBlogPosts = async () => {
@@ -19,6 +20,7 @@ const importBlogPosts = async () => {
 
 const Blog = ({ postsList }) => (
   <Layout>
+    <PageHeader attributes={attributes} />
     <h1 className="black-txt">{attributes.title}</h1>
     <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
     {postsList.map((post) => (

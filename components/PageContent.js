@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-const RichContent = ({att,html}) => (
+const PageContent = ({att,html}) => (
   <>
     <div className="content">
       <div className="w-layout-grid contain-block">
@@ -20,4 +20,4 @@ const RichContent = ({att,html}) => (
   </>
 )
 
-export default RichContent
+export default PageContent

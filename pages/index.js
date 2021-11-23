@@ -1,14 +1,18 @@
 import Layout from '../components/layout'
+import Head from 'next/head'
+
 import PageBanner from '../components/PageBanner'
-import ProgramAccoridan from '../components/ProgramAccordian'
-import RichContent from '../components/RichContent'
+import ProgramAccoridian from '../components/ProgramAccordian'
+import PageHeader from '../components/PageHeader'
+import PageContent from '../components/PageContent'
 import { attributes, html } from '../content/pages/home.md'
 
 const Home = () => (
   <Layout>
-    {/* <ProgramAccoridan/> */}
+    <PageHeader attributes={attributes} />
     <PageBanner att={attributes}/>
-    <RichContent att={attributes} html={html}/>
+    <ProgramAccoridian/>
+    <PageContent att={attributes} html={html}/>
     <style jsx>{`
       h1,
       div {

@@ -32,6 +32,23 @@ module.exports = {
             required: true
           },
           {
+            label: "SEO Title",
+            name: "seo_title",
+            widget: "string",
+            // required: true
+          },
+          {
+            label: "SEO Description",
+            name: "seo_description",
+            widget: "string",
+            // required: true
+          },
+          {
+            label: "SEO Keywords",
+            name: "seo_keywords",
+            widget: "string"
+          },
+          {
             label: "Publish Date",
             name: "date",
             widget: "datetime",
