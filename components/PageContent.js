@@ -10,10 +10,11 @@ const PageContent = ({att,html}) => (
           </div>
         </div>
         <div id="w-node-_11c4dfdb-bd44-ec72-b56b-456417809616-fe48c5ce" data-w-id="11c4dfdb-bd44-ec72-b56b-456417809616" className="in-page-links">
-          <a href="#">Text Link</a>
-          <a href="#">Text Link</a>
-          <a href="#">Text Link</a>
-          <a href="#">Text Link</a>
+          <a href="#">Management - </a>
+          <a href="#">Life Sciences - </a>
+          <a href="#">Commerce - </a>
+          <a href="#">Liberal Arts - </a>
+          <a href="#">Information Technology - </a>
         </div>
       </div>
     </div>

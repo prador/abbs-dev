@@ -11,8 +11,29 @@ const Home = () => (
   <Layout>
     <PageHeader attributes={attributes} />
     <PageBanner att={attributes}/>
+    <div className="content">
+      <div className="w-layout-grid contain-block">
+      <section><h2>Our Programs</h2></section>
+        </div>
+      </div>
     <ProgramAccoridian/>
     <PageContent att={attributes} html={html}/>
+    <div className="content">
+      <div className="w-layout-grid contain-block">
+      <section><h2>Latest News</h2></section>
+        </div>
+      </div>
+    <div className="content">
+      <div className="w-layout-grid contain-block">
+    <section><h2>Recognition / Accreditions</h2></section>
+        </div>
+      </div>
+    <div className="content">
+      <div className="w-layout-grid contain-block">
+    <section><h2>FAQs</h2></section>
+        </div>
+      </div>
+    
     <style jsx>{`
       h1,
       div {

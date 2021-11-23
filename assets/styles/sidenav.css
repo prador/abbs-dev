@@ -100,15 +100,15 @@ ul {
     align-items: center;
     border-radius: var(--border-radius);
     transition: background var(--speed);
-    padding: 1rem 1.5rem;
+    padding: 1rem;
     margin:0.25rem 0;
     background-image:url(../icons/close-white.svg);
     background-repeat: no-repeat;
-    background-size: 15px;
+    background-size: 12px;
     background-position: 90% center;
     text-decoration: none;
     color: white;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     text-transform: capitalize;
   }
   
@@ -173,7 +173,7 @@ ul {
     position: fixed;
     display: flex;
     flex-direction: column;
-    max-width: 300px;
+    max-width: 200px;
     z-index: 999;
   }
   

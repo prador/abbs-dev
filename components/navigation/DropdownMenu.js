@@ -134,12 +134,15 @@ function DropdownMenu() {
           unmountOnExit
           onEnter={calcHeight}>
           <div className="menu">
-            <DropdownItem goToMenu="nog">
+            <DropdownItem goToMenu="main">
               <h5>Back</h5>
             </DropdownItem>
-            <DropdownItem url="/programs" >next </DropdownItem>
-            <DropdownItem url="/nog/post/why_did_the_chicken_cross_the_road" goToMenu="nog">netlify</DropdownItem>
-            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">something else</DropdownItem>
+            <DropdownItem url="/programs" >All Programs </DropdownItem>
+            <DropdownItem url="/nog/post/why_did_the_chicken_cross_the_road" goToMenu="nog">Management</DropdownItem>
+            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Life Sciences</DropdownItem>
+            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Commerce</DropdownItem>
+            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Liberal Arts</DropdownItem>
+            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Information Technology</DropdownItem>
           </div>
         </CSSTransition>
   

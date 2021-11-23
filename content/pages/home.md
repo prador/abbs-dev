@@ -5,7 +5,7 @@ seo_title: Home | ABBS
 seo_description: This is the homepage of ABBS
 seo_keywords: test, business school, management
 date: 2019-03-17T19:31:20.591Z
-thumbnail: static/img/puppy-and-adult-dog.jpg
+thumbnail: static/img/00-01-01-hero-desktop.jpg
 ---
 <h2>What’s a Rich Text element?</h2>
             <p>The rich text element allows you to create and format headings, paragraphs, blockquotes, images, and video all in one place instead of having to add and format them individually. Just double-click and easily create content.</p>
