@@ -138,11 +138,27 @@ function DropdownMenu() {
               <h5>Back</h5>
             </DropdownItem>
             <DropdownItem url="/programs" >All Programs </DropdownItem>
-            <DropdownItem url="/nog/post/why_did_the_chicken_cross_the_road" goToMenu="nog">Management</DropdownItem>
+            <DropdownItem url="/programs/management" goToMenu="management">Management</DropdownItem>
             <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Life Sciences</DropdownItem>
             <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Commerce</DropdownItem>
             <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Liberal Arts</DropdownItem>
             <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Information Technology</DropdownItem>
+          </div>
+        </CSSTransition>
+        <CSSTransition
+          in={activeMenu === 'management'}
+          timeout={500}
+          classNames="menu-secondary"
+          unmountOnExit
+          onEnter={calcHeight}>
+          <div className="menu">
+            <DropdownItem goToMenu="programs">
+              <h5>Back</h5>
+            </DropdownItem>
+            <DropdownItem url="/programs/management" >Management Programs </DropdownItem>
+            <DropdownItem url="/programs/management/mba" >MBA </DropdownItem>
+            <DropdownItem url="/programs/management/bba" >BBA </DropdownItem>
+            <DropdownItem url="/programs/management/bba-aviation" >BBA Aviation Management </DropdownItem>
           </div>
         </CSSTransition>
   

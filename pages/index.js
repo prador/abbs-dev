@@ -1,8 +1,8 @@
 import Layout from '../components/layout'
 import Head from 'next/head'
 
-import PageBanner from '../components/PageBanner'
-import ProgramAccoridian from '../components/ProgramAccordian'
+import HomeSlideshow from '../components/home/HomeSlideshow'
+import ProgramAccoridian from '../components/home/ProgramAccordian'
 import PageHeader from '../components/PageHeader'
 import PageContent from '../components/PageContent'
 import { attributes, html } from '../content/pages/home.md'
@@ -10,13 +10,13 @@ import { attributes, html } from '../content/pages/home.md'
 const Home = () => (
   <Layout>
     <PageHeader attributes={attributes} />
-    <PageBanner att={attributes}/>
-    <div className="content">
+    <HomeSlideshow att={attributes}/>
+    {/* <div className="content">
       <div className="w-layout-grid contain-block">
       <section><h2>Our Programs</h2></section>
         </div>
-      </div>
-    <ProgramAccoridian/>
+      </div> */}
+    {/* <ProgramAccoridian/> */}
     <PageContent att={attributes} html={html}/>
     <div className="content">
       <div className="w-layout-grid contain-block">

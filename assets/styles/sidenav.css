@@ -275,7 +275,8 @@ ul {
       width: 100%;
     }
     .nav > #nav-check:not(:checked) ~ .nav-links {
-      height: 0px;
+      height: calc(100vh - 50px);
+      transform: translateX(-100vw);
     }
     .nav > #nav-check:checked ~ .nav-links {
       height: calc(100vh - 50px);
