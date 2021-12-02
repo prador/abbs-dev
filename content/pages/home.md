@@ -1,6 +1,10 @@
 ---
-title: Home
 slug: /
+title: Home
+header_scripts: |-
+  <script>whatever i type here will be added to the header scripts</script>
+
+  <script>whatever i type here will be added to the header scripts</script>
 seo_title: Home | ABBS
 seo_description: This is the homepage of ABBS
 seo_keywords: test, business school, management

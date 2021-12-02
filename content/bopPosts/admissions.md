@@ -1,0 +1,6 @@
+---
+title: "Admissions"
+date: "2018-12-23"
+---
+
+\[\["Programs","Affiliation/Approved by","Mode of Study","Year","Duration","Application"\],\["MBA","Bangalore University,\\nAICTE Approved","On campus, full time","2021","2 Years","[Apply Now](\"http://application.abbs.edu.in/\")"\],\["M.Com","Bangalore University,","On campus, full time","2021","2 Years","#rowspan#"\],\["BBA","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["BBA in Aviation Management","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["B.Com","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["B.Com Supply Chain & Logistics","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["BSc Biotechnology/Genetics","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["BA Journalism/Tourism/History","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["BA Psychology/Sociology/ Political Science","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["BA Economics/ Statistics/ Marketing\\n","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\],\["BCA","Bangalore University,","On campus, full time","2021","3 Years","#rowspan#"\]\]

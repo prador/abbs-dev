@@ -6,13 +6,13 @@ import { attributes, html } from '../../content/pages/programs.md'
 const importPrograms = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
   const markdownFiles = require
-    .context('../../content/blogPosts', false, /\.md$/)
+    .context('../../content/faculty', false, /\.md$/)
     .keys()
     .map((relativePath) => relativePath.substring(2))
 
   return Promise.all(
     markdownFiles.map(async (path) => {
-      const markdown = await import(`../../content/blogPosts/${path}`)
+      const markdown = await import(`../../content/faculty/${path}`)
       return { ...markdown, slug: path.substring(0, path.length - 3) }
     })
   )
@@ -25,7 +25,7 @@ const Programs = ({ programList }) => (
     <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
     {programList.map((post) => (
       <div key={post.slug} className="post">
-        <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
+        <Link href="/faculty/post/[slug]" as={`/faculty/post/${post.slug}`}>
           <a>
             <img src={post.attributes.thumbnail} />
             <h2>{post.attributes.title}</h2>

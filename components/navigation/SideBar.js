@@ -25,7 +25,7 @@ function Navbar(props) {
       <input type="checkbox" id="nav-check" />
       <div className="nav-header">
         <div className="nav-title">
-          <a href="/"><img src={attributes.logo} width="auto" height="40px" alt="Abbs Logo" /></a>
+          <a href="/"><img src={"../../"+attributes.logo} width="auto" height="40px" alt="Abbs Logo" /></a>
         </div>
       </div>
       <button className="nav-btn"><Image src={searchIcon} width="30px" className="nav-search"/></button>

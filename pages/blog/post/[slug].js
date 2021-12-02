@@ -11,7 +11,7 @@ const Post = ({ blogpost }) => {
     <Layout>
       <article>
         <h1>{attributes.title}</h1>
-        <img src={attributes.thumbnail} />
+        <img src={"../../"+attributes.thumbnail} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </article>
       <style jsx>{`
