@@ -66,23 +66,7 @@
   line-height: 144%;
 }
 
-.post-info {
-  display: inline-block;
-  margin-right: 8px;
-  color: #969696;
-  font-size: 12px;
-  line-height: 125%;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
 
-.post-info.when-link {
-  text-decoration: none;
-}
-
-.post-info.when-link:hover {
-  color: #333;
-}
 
 .blog-title-link {
   display: block;
@@ -207,11 +191,7 @@
   color: #333;
 }
 
-.post-info-wrapper {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 10px;
-}
+
 
 .content {
   padding: 50px;
@@ -977,7 +957,7 @@
     line-height: 150%;
   }
 
-  .post-info-wrapper {
+  .breadcrumb-wrapper {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;

@@ -1,0 +1,27 @@
+.breadcrumb-wrapper {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 10px;
+  }
+  .breadcrumb-label {
+    display: inline-block;
+    color: var(--color-grey);
+    font-size: 0.7rem;
+    line-height: 125%;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+  }
+  
+  .breadcrumb-label.when-link {
+    text-decoration: none;
+  }
+  
+  .breadcrumb-label.when-link:hover {
+    color: var(--color-black);
+  }
+
+  .delim {
+      margin: 0 5px 0 2px;
+      font-size: 0.8rem;
+      color: var(--color-grey);
+  }

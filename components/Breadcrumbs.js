@@ -1,0 +1,55 @@
+import { useRouter } from "next/router";
+
+const Breadcrumbs = ({att}) => {
+    const router = useRouter();
+    let routes= router.route.split('/');
+    let str='';
+    let hlinks=[];
+    let isHome= false;
+    routes.forEach((i,index,arr)=>{
+        if(i.charAt(0)=='[')
+        {
+            i=i.slice(1);
+            i=i.slice(0, i.length - 1);
+            console.log(i)
+            arr[index]=router.query[i];
+        }
+        str=str+arr[index]+'/';
+        hlinks.push(str);
+    });
+    var output = hlinks.map(function(obj,index){
+      var myobj = {};
+      
+      if (index == 0) {myobj.loc = 'Home';} else {
+        myobj.loc = routes[index];
+      }
+      console.log(hlinks.length)
+      if (index+1 == hlinks.length) {myobj.loc = att.title;} else {
+        myobj.path = obj;
+      }
+      return myobj;
+    });
+    if( output[0].loc == output[1].loc) {isHome = true;}
+    console.log(output); 
+    console.log(isHome); 
+    return (
+        <>
+        {isHome ? "" : 
+            <div className="breadcrumb-wrapper">
+                {output.map((bread,i)=>(
+                <>
+                {i+1 == hlinks.length 
+                ? 
+                <span className="breadcrumb-label">{bread.loc}</span> 
+                : 
+                <><a href={bread.path} className="breadcrumb-label when-link">{bread.loc}</a> <span className="delim">/</span></>
+                }
+                </>
+                ))}
+            </div>
+        }
+        </>
+    )
+} 
+
+export default Breadcrumbs
