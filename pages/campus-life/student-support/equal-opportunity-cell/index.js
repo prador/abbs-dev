@@ -3,9 +3,9 @@ import Layout from '../../../../components/layout'
 import PageHeader from '../../../../components/PageHeader'
 import PageBanner from '../../../../components/PageBanner'
 import PageContent from '../../../../components/PageContent'
-import { attributes, html } from '../../../../content/pages/programs/arts-humanities/ba-journalism/index.md'
+import { attributes, html } from '../../../../content/pages/campus-life/student-support/equal-opportunity-cell/index.md'
 
-const BAJournalism = () => (
+const EqualOpportunityCell = () => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
@@ -13,4 +13,4 @@ const BAJournalism = () => (
 </Layout>
 )
 
-export default BAJournalism
+export default EqualOpportunityCell

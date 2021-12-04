@@ -521,7 +521,8 @@
 .in-page-links {
   position: -webkit-sticky;
   position: sticky;
-  top: 100px;
+  opacity: 0;
+  top: 200px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -533,6 +534,10 @@
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+  transition: all 0.5s ease-in-out;
+}
+.in-page-links.active {
+  opacity:1;
 }
 .in-page-links a{
   color: #7E7E7E;

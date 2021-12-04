@@ -18,7 +18,7 @@ const importPrograms = async () => {
   )
 }
 
-const Programs = ({ programList }) => (
+const Faculty = ({ programList }) => (
   <Layout>
     <PageHeader attributes={attributes} />
     <h1 className="black-txt">{attributes.title}</h1>
@@ -55,4 +55,4 @@ export async function getStaticProps() {
   }
 }
 
-export default Programs
+export default Faculty

@@ -1,7 +1,9 @@
 import Link from 'next/link'
 import Layout from '../../components/layout'
 import PageHeader from '../../components/PageHeader'
-import { attributes, html } from '../../content/pages/programs.md'
+import PageBanner from '../../components/PageBanner'
+import PageContent from '../../components/PageContent'
+import { attributes, html } from '../../content/pages/admissions/index.md'
 
 const importPrograms = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -18,7 +20,7 @@ const importPrograms = async () => {
   )
 }
 
-const Programs = ({ programList }) => (
+const Admissions = ({ programList }) => (
   <Layout>
     <PageHeader attributes={attributes} />
     <h1 className="black-txt">{attributes.title}</h1>
@@ -55,4 +57,4 @@ export async function getStaticProps() {
   }
 }
 
-export default Programs
+export default Admissions

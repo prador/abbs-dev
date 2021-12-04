@@ -4,7 +4,8 @@ import PageHeader from '../../components/PageHeader'
 import PageBanner from '../../components/PageBanner'
 import PageContent from '../../components/PageContent'
 import TextSection from '../../components/TextSection'
-import { attributes, html } from '../../content/pages/programs.md'
+import AnchorLinks from '../../components/AnchorLinks'
+import { attributes, html } from '../../content/pages/programs/index.md'
 
 const importPrograms = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -26,7 +27,13 @@ const Programs = ({ programList }) => (
     <PageHeader attributes={attributes} />
     <PageBanner att={attributes}/>
     <PageContent att={attributes} html={html}/>
-    {/* <TextSection att={att.text_section}/> */}
+    {/* <div className="content animate__animated animate__fadeInUp">
+  
+        <div className="w-layout-grid contain-block"> */}
+          
+    {/* {attributes.links ? <AnchorLinks att={attributes} /> : ""} */}
+    {/* <TextSection att={attributes.text_section}/> */}
+    
     {programList.map((post) => (
       <div key={post.slug} className="post">
 
@@ -38,6 +45,10 @@ const Programs = ({ programList }) => (
         </Link>
       </div>
     ))}
+
+    {/* </div>
+    </div> */}
+    
     <style jsx>{`
       .post {
         text-align: center;

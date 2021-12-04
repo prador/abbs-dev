@@ -1,11 +1,11 @@
 import Link from 'next/link'
-import Layout from '../../components/layout'
-import PageHeader from '../../components/PageHeader'
-import PageBanner from '../../components/PageBanner'
-import PageContent from '../../components/PageContent'
-import { attributes, html } from '../../content/pages/abbs-edge/recognition-accreditations/index.md'
+import Layout from '../../../../components/layout'
+import PageHeader from '../../../../components/PageHeader'
+import PageBanner from '../../../../components/PageBanner'
+import PageContent from '../../../../components/PageContent'
+import { attributes, html } from '../../../../content/pages/programs/management/bba/index.md'
 
-const Programs = () => (
+const BBA = () => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
@@ -13,4 +13,4 @@ const Programs = () => (
 </Layout>
 )
 
-export default Programs
+export default BBA

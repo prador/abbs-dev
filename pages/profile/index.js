@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Layout from '../../components/layout'
 import PageHeader from '../../components/PageHeader'
-import { attributes, html } from '../../content/pages/programs.md'
+import { attributes, html } from '../../content/pages/profile/index.md'
 
 const importPrograms = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
