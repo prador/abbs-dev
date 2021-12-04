@@ -72,7 +72,7 @@ module.exports = {
             name: "slide_image_mobile",
             widget: "image",
             required: false
-          },{
+          }, {
             label: "Slide Title",
             name: "slide_title",
             required: false,
@@ -86,7 +86,7 @@ module.exports = {
             widget: "text",
             hint: "",
             default: ""
-          },{
+          }, {
             label: "Slide Button Label",
             name: "slide_button_label",
             required: false,
@@ -118,6 +118,10 @@ module.exports = {
       format: "frontmatter",
       folder: "content/pages/",
       slug: "{{slug}}",
+      nested: {
+        depth: 10
+      },
+      meta: { path: { widget: "string", label: 'Path', index_file: "index" } },
       fields: [{
           label: "Title",
           name: "title",
@@ -128,18 +132,19 @@ module.exports = {
           label: "SEO Title",
           name: "seo_title",
           widget: "string",
-          // required: true
+          required: false
         },
         {
           label: "SEO Description",
           name: "seo_description",
           widget: "string",
-          // required: true
+          required: false
         },
         {
           label: "SEO Keywords",
           name: "seo_keywords",
-          widget: "string"
+          widget: "string",
+          required: false
         },
         {
           label: "Publish Date",
@@ -154,14 +159,93 @@ module.exports = {
           required: false
         },
         {
+          label: 'Text Section',
+          name: 'text_section',
+          required: false,
+          widget: "list",
+          hint: "",
+          allow_add: true,
+          fields: [{
+              label: "Section ID",
+              name: "section_id",
+              required: false,
+              widget: "string",
+              hint: "this id should match the navigation anchor link on the side",
+              default: ""
+            }, {
+              label: "Section Image",
+              name: "section_image",
+              widget: "image",
+              required: false
+            }, {
+              label: "Section Title",
+              name: "section_title",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }, {
+              label: "Section Text",
+              name: "section_text",
+              required: false,
+              widget: "markdown",
+              hint: "",
+              default: ""
+            }, {
+              label: "Section Button Label",
+              name: "section_button_label",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }, {
+              label: "Section Button Link",
+              name: "section_button_link",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }
+          ]
+        },
+        {
+          label: 'Logo Section',
+          name: 'logo_section',
+          required: false,
+          widget: "list",
+          hint: "",
+          allow_add: true,
+          fields: [{
+              label: "Logo Image",
+              name: "logo_image",
+              widget: "image",
+              required: false
+            }, {
+              label: "Logo Title",
+              name: "logo_title",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }, {
+              label: "Logo Link",
+              name: "logo_link",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }
+          ]
+        },
+        {
           label: "Body",
           name: "body",
           widget: "markdown",
-          required: true
+          required: false
         }, {
           label: "Anchor Links",
           name: "links",
-          required: true,
+          required: false,
           widget: "list",
           hint: "",
           default: "#",
@@ -169,7 +253,7 @@ module.exports = {
           fields: [{
             label: "Anchor Title",
             name: "anchor_title",
-            required: true,
+            required: false,
             widget: "string",
             hint: "",
             default: ""

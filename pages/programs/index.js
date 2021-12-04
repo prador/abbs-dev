@@ -3,6 +3,7 @@ import Layout from '../../components/layout'
 import PageHeader from '../../components/PageHeader'
 import PageBanner from '../../components/PageBanner'
 import PageContent from '../../components/PageContent'
+import TextSection from '../../components/TextSection'
 import { attributes, html } from '../../content/pages/programs.md'
 
 const importPrograms = async () => {
@@ -25,6 +26,7 @@ const Programs = ({ programList }) => (
     <PageHeader attributes={attributes} />
     <PageBanner att={attributes}/>
     <PageContent att={attributes} html={html}/>
+    {/* <TextSection att={att.text_section}/> */}
     {programList.map((post) => (
       <div key={post.slug} className="post">
 

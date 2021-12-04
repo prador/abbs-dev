@@ -133,7 +133,10 @@
 --line-spacing-42: 42px;
 }
 
-html{font-size: 14px;}
+html{
+  font-size: 14px;
+  scroll-behavior: smooth;
+}
 body {
   font-family: var(--font-family-secondary), sans-serif;
   background-color: #fff;
@@ -291,7 +294,9 @@ figcaption {
   text-align: center;
 }
 
-
+.blue {
+  color: var(--color-blue);
+}
 .btn {
   min-width:160px;
   font-size: 0.8rem;

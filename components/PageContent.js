@@ -1,14 +1,20 @@
 import Link from 'next/link'
 import Accordion from './Accordion'
 import AnchorLinks from './AnchorLinks'
+import TextSection from '../components/TextSection'
 
 const PageContent = ({att,html}) => (
   <>
     <div className="content animate__animated animate__fadeInUp">
+
       <div className="w-layout-grid contain-block">
         <div id="w-node-_7c863792-a099-bc43-0c0c-0a99699836d9-fe48c5ce">
           <div className="body-copy w-richtext">
-          <Accordion title="Click Me!" content="this is content 1" />
+          <TextSection att={att.text_section}/>
+
+          {att.accordion ? 
+          <>{att.accordion.map((acc)=>(<Accordion title={acc.anchor_title} content={acc.anchor_id} />))}</>
+          : "" }
             <div dangerouslySetInnerHTML={{ __html: html }} />
           </div>
         </div>

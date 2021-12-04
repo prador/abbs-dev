@@ -13,7 +13,8 @@ export default function Accordion(props) {
         width: "100%",
         marginBottom: "15px",
         lineHeight: "15px",
-        border: "1px solid rgba(209, 213, 219, 0.5)"
+        border: "1px solid rgba(209, 213, 219, 0.5)",
+        transition: "all 300ms cubic-bezier(0.075, 0.82, 0.165, 1)"
       }}
     >
       <button
