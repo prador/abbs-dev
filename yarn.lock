@@ -736,6 +736,11 @@ ajv@8.1.0:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
+animate.css@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/animate.css/-/animate.css-4.1.1.tgz#614ec5a81131d7e4dc362a58143f7406abd68075"
+  integrity sha512-+mRmCTv6SbCmtYJCN4faJMNFVNN5EuCTTprDTAo7YzIGji2KADmakjVA3+8mVDkZ2Bf09vayB35lSQIex2+QaQ==
+
 anser@1.4.9:
   version "1.4.9"
   resolved "https://registry.yarnpkg.com/anser/-/anser-1.4.9.tgz#1f85423a5dcf8da4631a341665ff675b96845760"
@@ -2595,6 +2600,11 @@ jwt-decode@^3.0.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/jwt-decode/-/jwt-decode-3.1.2.tgz#3fb319f3675a2df0c2895c8f5e9fa4b67b04ed59"
   integrity sha512-UfpWE/VZn0iP50d8cz9NrZLM9lSWhcJ+0Gt/nm4by88UL+J1SiKN8/5dkjMmbEzwL2CAe+67GsegCbIKtbp75A==
+
+keen-slider@^6.2.3:
+  version "6.2.3"
+  resolved "https://registry.yarnpkg.com/keen-slider/-/keen-slider-6.2.3.tgz#954d53b482518ee8dd10d693a5ee2770c9bd4747"
+  integrity sha512-6HnN1heDKONqavh73l5qZizg2M1QZR5xYHeNJxKsNhwQifzOz9Thbp2abgYUzzHDXaiBqK7q5YoyB3ZVCEG/0A==
 
 kind-of@^6.0.0, kind-of@^6.0.2:
   version "6.0.3"

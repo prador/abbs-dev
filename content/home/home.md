@@ -1,15 +1,30 @@
 ---
 slug: /
+thumbnail: static/img/00-01-01-hero-desktop.jpg
 title: Home
-header_scripts: |-
-  <script>whatever i type here will be added to the header scripts</script>
-
-  <script>whatever i type here will be added to the header scripts</script>
 seo_title: Home | ABBS
 seo_description: This is the homepage of ABBS
 seo_keywords: test, business school, management
 date: 2019-03-17T19:31:20.591Z
-thumbnail: static/img/00-01-01-hero-desktop.jpg
+header_scripts: |-
+  <script>whatever i type here will be added to the header scripts</script>
+
+  <script>whatever i type here will be added to the header scripts</script>
+slider_images:
+  - slide_title: Welcome Note
+    slide_text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+      diam voluptua. At vero
+    slide_button_label: View More
+    slide_button_link: "#view"
+    slide_image: static/img/00-01-01-hero-desktop.jpg
+    slide_image_mobile: static/img/00-01-01-hero-mobile.jpg
+  - slide_title: ""
+    slide_text: ""
+    slide_button_label: ""
+    slide_button_link: ""
+    slide_image: static/img/00-01-02-hero-desktop.jpg
+    slide_image_mobile: static/img/00-01-02-hero-mobile.jpg
 ---
 <h2>What’s a Rich Text element?</h2>
             <p>The rich text element allows you to create and format headings, paragraphs, blockquotes, images, and video all in one place instead of having to add and format them individually. Just double-click and easily create content.</p>

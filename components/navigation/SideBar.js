@@ -14,7 +14,7 @@ function SideBar() {
 
 function Navbar(props) {
   return (
-    <nav className="navbar nav">
+    <nav className="navbar nav animate__animated animate__fadeIn">
       <button className="nav-btn">
         <label htmlFor="nav-check">
           <span></span>

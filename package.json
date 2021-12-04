@@ -8,7 +8,9 @@
     "cache-posts": "node scripts/cache.js"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "gray-matter": "^4.0.3",
+    "keen-slider": "^6.2.3",
     "netlify-cms": "2.10.17",
     "netlify-cms-app": "^2.15.59",
     "next": "latest",
@@ -23,10 +25,5 @@
   "devDependencies": {
     "frontmatter-markdown-loader": "^2.0.0",
     "husky": "^4.2.5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn cache-posts && git add cache/data.js"
-    }
   }
 }
