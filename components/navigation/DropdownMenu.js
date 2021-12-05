@@ -13,15 +13,21 @@ import {useRouter} from "next/router"
 
 import React, { useState, useEffect, useRef } from 'react';
 import  {CSSTransition}  from 'react-transition-group';
-import { attribute } from 'dom-helpers';
+import { attributes } from '../../content/navigation/sidenav.md'
 
-function DropdownMenu() {
+const DropdownMenu = () => {
 		const router = useRouter();
 		const [pathName, setPathName] = useState(router.pathname);
     const [activeMenu, setActiveMenu] = useState('main');
     const [menuHeight, setMenuHeight] = useState(null);
     const dropdownRef = useRef(null);
-  
+
+    let top_menu = attributes.top_menu;
+    console.log(top_menu)
+    let nav_menu = Object.values(top_menu)
+    console.log(nav_menu)
+    
+
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
 			const menu = pathName.split('/')[1]
@@ -58,256 +64,27 @@ function DropdownMenu() {
   
     return (
       <div className="dropdown" ref={dropdownRef}>
-        
         <Search/>
-        <CSSTransition
-          in={activeMenu === 'main'}
-          timeout={500}
-          classNames="menu-primary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem url="/profile" goToMenu="profile">Profile</DropdownItem>
-            {/* <DropdownItem url="/nog"
-              goToMenu="nog">
-              Nog
-            </DropdownItem> */}
-            <DropdownItem url="/abbs-edge"
-              goToMenu="abbs-edge">
-              ABBS Edge
-            </DropdownItem>
-            <DropdownItem url="/programs"
-              goToMenu="programs">
-              Programs
-            </DropdownItem>
-            <DropdownItem url="/faculty"
-              goToMenu="faculty">
-              Faculty
-            </DropdownItem>
-            <DropdownItem url="/research"
-              goToMenu="research">
-              Research
-            </DropdownItem>
-            <DropdownItem url="/corporate"
-              goToMenu="corporate">
-              Corporate
-            </DropdownItem>
-            <DropdownItem url="/campus-life"
-              goToMenu="campus-life">
-              Campus Life
-            </DropdownItem>
-            <DropdownItem url="/admissions"
-              goToMenu="admissions">
-              Admissions
-            </DropdownItem>
-            <DropdownItem url="/news-events"
-              goToMenu="news-events">
-              News & Events
-            </DropdownItem>
-            <DropdownItem url="/blog" goToMenu="blog">
-              Login
-            </DropdownItem>
-  
-          </div>
-        </CSSTransition>
-  
-        <CSSTransition
-          in={activeMenu === 'nog'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem url="/nog/post/its_not_the_problem_you_want_to_solve_boiiiiii" goToMenu="nog">HTML</DropdownItem>
-            <DropdownItem url="/nog/post/why_did_the_chicken_cross_the_road" goToMenu="nog">CSS</DropdownItem>
-            <DropdownItem url="/programs" goToMenu="programs">JavaScript</DropdownItem>
-          </div>
-        </CSSTransition>
 
-        <CSSTransition
-          in={activeMenu === 'programs'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem url="/programs" >All Programs </DropdownItem>
-            <DropdownItem url="/programs/management" goToMenu="management">Management</DropdownItem>
-            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Life Sciences</DropdownItem>
-            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Commerce</DropdownItem>
-            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Liberal Arts</DropdownItem>
-            <DropdownItem url="/nog/post/sarwrwerwe" goToMenu="nog">Information Technology</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'management'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="programs">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem url="/programs/management" >Management Programs </DropdownItem>
-            <DropdownItem url="/programs/management/mba" >MBA </DropdownItem>
-            <DropdownItem url="/programs/management/bba" >BBA </DropdownItem>
-            <DropdownItem url="/programs/management/bba-aviation" >BBA Aviation Management </DropdownItem>
-          </div>
-        </CSSTransition>
-  
-        <CSSTransition
-          in={activeMenu === 'profile'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-
-        <CSSTransition
-          in={activeMenu === 'abbs-edge'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'faculty'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'research'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'corporate'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'campus-life'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'admissions'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'news-events'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-        <CSSTransition
-          in={activeMenu === 'blog'}
-          timeout={500}
-          classNames="menu-secondary"
-          unmountOnExit
-          onEnter={calcHeight}>
-          <div className="menu">
-            <DropdownItem goToMenu="main">
-              <h5>Back</h5>
-            </DropdownItem>
-            <DropdownItem goToMenu="blog">Kangaroo</DropdownItem>
-            <DropdownItem goToMenu="blog">Frog</DropdownItem>
-            <DropdownItem goToMenu="blog">Horse?</DropdownItem>
-            <DropdownItem goToMenu="blog">Hedgehog</DropdownItem>
-          </div>
-        </CSSTransition>
-
+            {attributes.top_menu.map((top,index)=> (
+              <CSSTransition
+              in={activeMenu === top.menu_id}
+              timeout={500}
+              classNames="menu-secondary"
+              unmountOnExit
+              onEnter={calcHeight}>
+              <div className="menu">
+              {top.parent_menu_id === "-" ? ""
+                : <DropdownItem goToMenu={top.parent_menu_id ? top.parent_menu_id : "main"}>
+                  <h5>Back</h5>
+                </DropdownItem> }
+                
+                {top.menu_nav_list.map((nav => 
+                  <><DropdownItem url={nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem></>
+                ))}
+              </div>
+            </CSSTransition>
+            ))}
       </div>
     );
   }

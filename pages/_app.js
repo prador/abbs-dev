@@ -8,7 +8,7 @@ import { AppProps } from "next/app";
 import "../assets/styles/global.css";
 import '../assets/styles/homepage.css'
 import '../assets/styles/search.module.css'
-import '../assets/styles/sidebar.css'
+import '../assets/styles/sidenav.css'
 import '../assets/styles/slider.css'
 import '../assets/styles/breadcrumbs.css'
 // import '../assets/styles/webflow.css'

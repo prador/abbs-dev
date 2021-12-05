@@ -18,20 +18,16 @@ const Breadcrumbs = ({att}) => {
         hlinks.push(str);
     });
     var output = hlinks.map(function(obj,index){
-      var myobj = {};
-      
+      let myobj = {};
       if (index == 0) {myobj.loc = 'Home';} else {
         myobj.loc = routes[index];
       }
-      console.log(hlinks.length)
       if (index+1 == hlinks.length) {myobj.loc = att.title;} else {
         myobj.path = obj;
       }
       return myobj;
     });
     if( output[0].loc == output[1].loc) {isHome = true;}
-    console.log(output); 
-    console.log(isHome); 
     return (
         <>
         {isHome ? "" : 

@@ -688,6 +688,13 @@ module.exports = {
               hint: "Id for the menu. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
               default: ""
             }, {
+              label: "Parent Menu ID",
+              name: "parent_menu_id",
+              required: false,
+              widget: "string",
+              hint: "Id for the parent menu. Leave blank for root menu. add menu_id for level 1 and level 2 menus. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
+              default: ""
+            },{
               label: "Menu Links List",
               name: "menu_nav_list",
               required: false,

@@ -2,9 +2,10 @@ import React, { useState, useEffect, useRef } from 'react';
 import Image from 'next/image'
 import DropdownMenu from './DropdownMenu';
 import searchIcon from '../../assets/icons/search.svg'
-import { attributes, html } from '../../content/navigation/sidenav.md'
+import { attributes } from '../../content/navigation/sidenav.md'
 
-function SideBar() {
+function SideNav() {
+  console.log(attributes)
   return (
     <Navbar>
       <DropdownMenu/>
@@ -48,4 +49,4 @@ function NavItem(props) {
   );
 };
 
-export default SideBar;
+export default SideNav;

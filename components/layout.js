@@ -2,7 +2,7 @@ import React, { useEffect,useState } from "react";
 import Link from 'next/link'
 import Script from 'next/script'
 import Footer from './navigation/Footer'
-import SideBar from './navigation/SideBar'
+import SideNav from './navigation/SideNav'
 
 const Layout = ({ children }) => {
   const [scrolling, setScrolling] = useState(false);
@@ -19,7 +19,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <SideBar/>
+      <SideNav/>
       <div id="w-node-_213e7ee2-f0cb-cbea-eb62-6f01783e8cfa-fe48c5ce" className="layout-spacer"></div>
       <main id="main">{children}
       <Footer/>
