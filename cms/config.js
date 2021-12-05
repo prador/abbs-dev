@@ -664,7 +664,60 @@ module.exports = {
             label: "Logo",
             name: "logo",
             widget: "image"
+          },{
+            label: "Top Level Menu",
+            name: "top_menu",
+            required: true,
+            widget: "list",
+            hint: "",
+            default: "#",
+            allow_add: true,
+            fields: [{
+              label: "Menu Title",
+              name: "menu_title",
+              required: true,
+              widget: "string",
+              hint: "Name of the menu level",
+              default: ""
+            }, 
+            {
+              label: "Menu ID",
+              name: "menu_id",
+              required: false,
+              widget: "string",
+              hint: "Id for the menu. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
+              default: ""
+            }, {
+              label: "Menu Links List",
+              name: "menu_nav_list",
+              required: false,
+              widget: "list",
+              hint: "List of links to be added to the menu",
+              allow_add: true,
+              fields: [{
+              label: "Menu Nav Label",
+              name: "menu_nav_label",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }, {
+              label: "Menu Nav Link",
+              name: "menu_nav_link",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            },{
+              label: "SubMenu Link",
+              name: "submenu_link",
+              required: false,
+              widget: "string",
+              hint: "If the link navigated to a submenu, add the id of the submenu. If not, leave blank",
+              default: ""
+            }],
           }]
+        }]
         },
         {
           label: "Footer",
