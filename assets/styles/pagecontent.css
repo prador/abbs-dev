@@ -1,0 +1,16 @@
+.text-section-title {
+    color: var(--color-blue);
+    position: relative;
+}
+.text-section-title .header-hyphen {
+    height: 2px;
+    background: var(--color-blue);
+    width: 30px;
+    display: flex;
+    position: absolute;
+    top: 20px;
+    left: -35px;
+}
+.text-section-block {
+    margin-top:4rem;
+}

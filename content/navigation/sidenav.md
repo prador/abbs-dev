@@ -7,7 +7,7 @@ top_menu:
     menu_id: main
     menu_nav_list:
       - menu_nav_label: Profile
-        menu_nav_link: /profile
+        menu_nav_link: /profile/history-overview
         submenu_link: profile
       - menu_nav_label: ABBS Edge
         menu_nav_link: /abbs-edge

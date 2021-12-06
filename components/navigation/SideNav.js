@@ -5,7 +5,6 @@ import searchIcon from '../../assets/icons/search.svg'
 import { attributes } from '../../content/navigation/sidenav.md'
 
 function SideNav() {
-  console.log(attributes)
   return (
     <Navbar>
       <DropdownMenu/>

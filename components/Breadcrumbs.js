@@ -36,9 +36,9 @@ const Breadcrumbs = ({att}) => {
                 <>
                 {i+1 == hlinks.length 
                 ? 
-                <span className="breadcrumb-label">{bread.loc}</span> 
+                <span  key={bread.id} className="breadcrumb-label">{bread.loc}</span> 
                 : 
-                <><a href={bread.path} className="breadcrumb-label when-link">{bread.loc}</a> <span className="delim">/</span></>
+                <><a  key={bread.id} href={bread.path} className="breadcrumb-label when-link">{bread.loc}</a> <span className="delim">/</span></>
                 }
                 </>
                 ))}

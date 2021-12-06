@@ -8,7 +8,14 @@ const PageHeader = ({attributes}) => (
           <meta content={attributes.seo_title} key="title" property="og:title" />
           <meta content={attributes.seo_title} property="twitter:title" />
           <meta content={attributes.seo_title} property="og:title" />
-          </> : ""}
+          </> : 
+          <>
+          <title>{attributes.title} | ABBS </title>
+          <meta content={attributes.title + "| ABBS"} key="title" property="og:title" />
+          <meta content={attributes.title} property="twitter:title" />
+          <meta content={attributes.title} property="og:title" />
+          </>
+          }
       {attributes.seo_description ? <> 
           <meta content={attributes.seo_description}  name="description" />
           <meta content={attributes.seo_description}  property="og:description" />

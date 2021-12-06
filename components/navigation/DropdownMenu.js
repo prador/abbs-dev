@@ -21,12 +21,8 @@ const DropdownMenu = () => {
     const [activeMenu, setActiveMenu] = useState('main');
     const [menuHeight, setMenuHeight] = useState(null);
     const dropdownRef = useRef(null);
-
     let top_menu = attributes.top_menu;
-    console.log(top_menu)
-    let nav_menu = Object.values(top_menu)
-    console.log(nav_menu)
-    
+    let nav_menu = Object.values(top_menu)    
 
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
@@ -39,7 +35,7 @@ const DropdownMenu = () => {
       setMenuHeight(height);
     }
 		
-    function DropdownItem(props) {
+    function DropdownItem(props,key) {
 			
 			const style = {
 				// marginRight: 10,
@@ -52,7 +48,7 @@ const DropdownMenu = () => {
 				setActiveMenu(props.goToMenu)
 			}
       return (
-        <Link href={props.url ? props.url : "#"} >
+        <Link key={key}href={props.url ? props.url : "#"} >
         <a className={"menu-item"} href={props.url} onClick={handleClick} style={style}>
           {/* <span className={"icon-button"}>{props.leftIcon}</span> */}
           {props.children}
@@ -66,8 +62,9 @@ const DropdownMenu = () => {
       <div className="dropdown" ref={dropdownRef}>
         <Search/>
 
-            {attributes.top_menu.map((top,index)=> (
+            {attributes.top_menu.map((top,id,index)=> (
               <CSSTransition
+              key={id}
               in={activeMenu === top.menu_id}
               timeout={500}
               classNames="menu-secondary"
@@ -79,8 +76,8 @@ const DropdownMenu = () => {
                   <h5>Back</h5>
                 </DropdownItem> }
                 
-                {top.menu_nav_list.map((nav => 
-                  <><DropdownItem url={nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem></>
+                {top.menu_nav_list.map(((nav,id) => 
+                  <><DropdownItem key={nav.id} url={nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem></>
                 ))}
               </div>
             </CSSTransition>
