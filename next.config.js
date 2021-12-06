@@ -1,4 +1,5 @@
 module.exports = {
+  distDir: 'dist',
   webpack: (configuration) => {
     configuration.module.rules.push({
       test: /\.md$/,
