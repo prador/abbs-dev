@@ -1,53 +1,12 @@
 import React from "react";
 import fs from "fs";
 import path from "path";
+import ReadManifestFile from "./sitemap/readPathFromManifest";
+import GetPathsFromBuildFolder from "./sitemap/getPathFromFolder";
+import GetPathsFromManifest from "./sitemap/getPathManifest";
+
 const Sitemap = () => {};
 
-const ReadManifestFile = (basePath) => {
-  const routes_manifest_path = path.join(basePath + '/out/server/pages-manifest.json');
-
-  // Read from the file
-  if (fs.existsSync(routes_manifest_path)) {
-    const raw_json = fs.readFileSync(routes_manifest_path);
-    return JSON.parse(raw_json.toString());
-  } else return null;
-};
-
-const GetPathsFromManifest = (manifest, basePath, host) => {
-  let routes= [];
-
-  for (let [route, file] of Object.entries(manifest)) {
-    if (!isNextInternalUrl(route)) {
-      // Add static paths
-      routes = routes.concat(route);
-    } 
-  }
-
-  let sitemapUrls = [];
-  routes.forEach((route) => {
-    sitemapUrls.push({ host: host, route: route });
-  });
-
-  return sitemapUrls;
-};
-const GetPathsFromBuildFolder = (dir, urlList, host, basePath) => {
-  const files = fs.readdirSync(dir);
-  urlList = urlList || [];
-
-  files.forEach((file) => {
-    if (fs.statSync(dir + file).isDirectory()) {
-      urlList = GetPathsFromBuildFolder(dir + file + '/', urlList, host, basePath);
-    } else {
-      if (path.extname(file) == '.json') {
-        let route = path.join(dir + file.substring(0, file.length - 5));
-        route = route.replace(basePath, '/');
-        urlList.push({ host: host, route: route });
-      }
-    }
-  });
-
-  return urlList;
-};
 export const getServerSideProps = ({ res }) => {
   const baseUrl = {
     development: "http://localhost:3000",
@@ -61,10 +20,9 @@ export const getServerSideProps = ({ res }) => {
           "_error.js",
           "editor.js",
           "api",
-          "sitemap.xml.js",
         ];
   let routes = GetPathsFromManifest(routes_manifest, host);
-  const pagesPath = path.join(basePath + '/out/server/pages/');
+  const pagesPath = path.join(basePath + '/.next/serverless/pages/');
   routes = routes.concat(GetPathsFromBuildFolder(pagesPath, [], host, pagesPath));
 
   routes = routes.filter((el) => !excludedRoutes.includes(el.route));
