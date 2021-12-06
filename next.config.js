@@ -1,5 +1,6 @@
 module.exports = {
-  distDir: 'out',
+  distDir: '.next',
+  target: "serverless",
   webpack: (configuration) => {
     configuration.module.rules.push({
       test: /\.md$/,
