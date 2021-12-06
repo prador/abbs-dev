@@ -26,5 +26,10 @@
   "devDependencies": {
     "frontmatter-markdown-loader": "^2.0.0",
     "husky": "^4.2.5"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
   }
 }

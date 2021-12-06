@@ -77,7 +77,7 @@ const DropdownMenu = () => {
                 </DropdownItem> }
                 
                 {top.menu_nav_list.map(((nav,id) => 
-                  <><DropdownItem key={nav.id} url={nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem></>
+                  <><DropdownItem key={nav.id} url={top.parent_menu_id === "-" ? "" : nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem></>
                 ))}
               </div>
             </CSSTransition>
