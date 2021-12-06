@@ -4,7 +4,7 @@ import path from "path";
 const Sitemap = () => {};
 
 const ReadManifestFile = (basePath) => {
-  const routes_manifest_path = path.join(basePath + '/dist/server/pages-manifest.json');
+  const routes_manifest_path = path.join(basePath + '/out/server/pages-manifest.json');
 
   // Read from the file
   if (fs.existsSync(routes_manifest_path)) {
@@ -64,7 +64,7 @@ export const getServerSideProps = ({ res }) => {
           "sitemap.xml.js",
         ];
   let routes = GetPathsFromManifest(routes_manifest, host);
-  const pagesPath = path.join(basePath + '/dist/server/pages/');
+  const pagesPath = path.join(basePath + '/out/server/pages/');
   routes = routes.concat(GetPathsFromBuildFolder(pagesPath, [], host, pagesPath));
 
   routes = routes.filter((el) => !excludedRoutes.includes(el.route));
