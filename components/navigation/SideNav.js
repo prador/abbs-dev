@@ -28,7 +28,7 @@ function Navbar(props) {
           <a href="/"><img src={"../../"+attributes.logo} width="auto" height="40px" alt="Abbs Logo" /></a>
         </div>
       </div>
-      <button className="nav-btn"><Image src={searchIcon} width="30px" className="nav-search"/></button>
+      <button className="nav-btn search-btn"><Image src={searchIcon} width="30px" className="nav-search"/></button>
       <ul className="navbar-nav nav-links">{props.children}</ul>
     </nav>
   );

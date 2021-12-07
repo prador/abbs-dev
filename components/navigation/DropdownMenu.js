@@ -19,10 +19,8 @@ const DropdownMenu = () => {
 		const router = useRouter();
 		const [pathName, setPathName] = useState(router.pathname);
     const [activeMenu, setActiveMenu] = useState('main');
-    const [menuHeight, setMenuHeight] = useState(null);
+    const [menuHeight, setMenuHeight] = useState(500);
     const dropdownRef = useRef(null);
-    let top_menu = attributes.top_menu;
-    let nav_menu = Object.values(top_menu)    
 
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
@@ -48,11 +46,9 @@ const DropdownMenu = () => {
 				setActiveMenu(props.goToMenu)
 			}
       return (
-        <Link key={key}href={props.url ? props.url : "#"} >
-        <a className={"menu-item"} href={props.url} onClick={handleClick} style={style}>
-          {/* <span className={"icon-button"}>{props.leftIcon}</span> */}
+        <Link key={key} href={props.url ? props.url : "#"} >
+        <a className={props.btn == "back" ? "menu-back" : `menu-item${props.goToMenu ? " menu-top" : " menu-last"}`} href={props.url} onClick={props.goToMenu != null ? handleClick : ""} style={style}>
           {props.children}
-          {/* <span className={"icon-right"}>{props.rightIcon}</span> */}
         </a>
       </Link>
       );
@@ -72,12 +68,12 @@ const DropdownMenu = () => {
               onEnter={calcHeight}>
               <div className="menu">
               {top.parent_menu_id === "-" ? ""
-                : <DropdownItem goToMenu={top.parent_menu_id ? top.parent_menu_id : "main"}>
-                  <h5>Back</h5>
+                : <DropdownItem goToMenu={top.parent_menu_id ? top.parent_menu_id : "main"} btn={"back"}>
+                  <span>Back</span>
                 </DropdownItem> }
                 
                 {top.menu_nav_list.map(((nav,id) => 
-                  <><DropdownItem key={nav.id} url={top.parent_menu_id === "-" ? "" : nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem></>
+                  <><DropdownItem btn={"menu"} className="something" key={nav.id} url={top.parent_menu_id === "-" ? "" : nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem></>
                 ))}
               </div>
             </CSSTransition>

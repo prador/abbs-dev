@@ -14,3 +14,9 @@
 .text-section-block {
     margin-top:4rem;
 }
+
+@media (max-width:600px) {
+    .text-section-title .header-hyphen {
+        display: none;
+    }
+}

@@ -8,12 +8,14 @@ import GetPathsFromManifest from "./sitemap/getPathManifest";
 const Sitemap = () => {};
 
 export const getServerSideProps = ({ res }) => {
-  const baseUrl = {
-    development: "http://localhost:3000",
-    // production: "https://abbs.edu.in",
-  }[process.env.NODE_ENV];
+  // const baseUrl = {
+  //   development: "http://localhost:3000",
+  //   // production: "https://abbs.edu.in",
+  // }[process.env.NODE_ENV];
+
+  const baseUrl = process.cwd();
   const routes_manifest = ReadManifestFile(baseUrl);
-  const host = "https://example.com"
+  const host = "http://localhost:3000"
   const excludedRoutes= [
           "_app.js",
           "_document.js",
@@ -22,7 +24,7 @@ export const getServerSideProps = ({ res }) => {
           "api",
         ];
   let routes = GetPathsFromManifest(routes_manifest, host);
-  const pagesPath = path.join(basePath + '/.next/serverless/pages/');
+  const pagesPath = path.join(baseUrl + '/.next/serverless/pages/');
   routes = routes.concat(GetPathsFromBuildFolder(pagesPath, [], host, pagesPath));
 
   routes = routes.filter((el) => !excludedRoutes.includes(el.route));

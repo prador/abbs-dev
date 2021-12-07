@@ -99,6 +99,7 @@
 
 :root {
   /* Colors: */
+--speed: 0.2s;
 --color-grey: #7E7E7E;
 --color-white: #FFFFFF;
 --color-offwhite: #DBDBDB;
@@ -196,6 +197,7 @@ a:hover {
 }
 #__next {
   display: flex;
+  /* overflow-x: hidden; */
 }
 
 h1 {
@@ -401,5 +403,17 @@ figcaption {
 @media (max-width:600px) {
   #__next {
     flex-direction:column;
+  }
+  .content {
+    padding: 0 30px;
+  }
+  #scroll-top-anchor {
+    position: fixed;
+    width:40px;
+    height:40px;
+    border-radius:5px;
+    bottom: 80px;
+    right: 30px;
+    transition: all 0.5s ease-in-out;
   }
 }

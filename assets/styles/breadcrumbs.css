@@ -6,7 +6,7 @@
   .breadcrumb-label {
     display: inline-block;
     color: var(--color-grey);
-    font-size: 0.7rem;
+    font-size: 0.75rem;
     line-height: 125%;
     letter-spacing: 1px;
     text-transform: capitalize;
@@ -25,3 +25,17 @@
       font-size: 0.8rem;
       color: var(--color-grey);
   }
+  @media screen and (max-width: 479px) {
+  .breadcrumb-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex: 0 auto;
+  }
+  .breadcrumb-label {
+    font-size: 1.1rem;
+    line-height: 150%;
+  }
+  .delim {
+    margin: 0 5px;
+  }
+}
