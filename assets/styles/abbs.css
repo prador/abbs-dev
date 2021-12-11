@@ -80,23 +80,23 @@
   opacity: 0.61;
 }
 
-.body-copy img {
+.page-body img {
   border-radius: 3px;
 }
 
-.body-copy a {
+.page-body a {
   text-decoration: none;
 }
 
-.body-copy a:hover {
+.page-body a:hover {
   text-decoration: underline;
 }
 
-.body-copy li {
+.page-body li {
   margin-bottom: 3px;
 }
 
-.body-copy blockquote {
+.page-body blockquote {
   margin-left: -23px;
   padding-left: 18px;
   border-left-width: 4px;
@@ -105,11 +105,11 @@
   font-style: italic;
 }
 
-.body-copy figure {
+.page-body figure {
   margin-bottom: 20px;
 }
 
-.body-copy h2 {
+.page-body h2 {
   margin-top: 0px;
 }
 
@@ -846,7 +846,7 @@
     padding-bottom: 20px;
   }
 
-  .body-copy blockquote {
+  .page-body blockquote {
     margin-left: 0px;
   }
 
@@ -931,7 +931,7 @@
     margin-bottom: 4px;
   }
 
-  .body-copy {
+  .page-body {
     width: 90%;
   }
 

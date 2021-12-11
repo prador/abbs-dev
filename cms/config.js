@@ -121,7 +121,13 @@ module.exports = {
       nested: {
         depth: 10
       },
-      meta: { path: { widget: "string", label: 'Path', index_file: "index" } },
+      meta: {
+        path: {
+          widget: "string",
+          label: 'Path',
+          index_file: "index"
+        }
+      },
       fields: [{
           label: "Title",
           name: "title",
@@ -159,112 +165,139 @@ module.exports = {
           required: false
         },
         {
-          label: 'Text Section',
-          name: 'text_section',
-          required: false,
-          widget: "list",
-          hint: "",
-          allow_add: true,
-          fields: [{
-              label: "Section ID",
-              name: "section_id",
-              required: false,
-              widget: "string",
-              hint: "this id should match the navigation anchor link on the side",
-              default: ""
-            }, {
-              label: "Section Image",
-              name: "section_image",
-              widget: "image",
-              required: false
-            }, {
-              label: "Section Title",
-              name: "section_title",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }, {
-              label: "Section Text",
-              name: "section_text",
-              required: false,
-              widget: "markdown",
-              hint: "",
-              default: ""
-            }, {
-              label: "Section Button Label",
-              name: "section_button_label",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }, {
-              label: "Section Button Link",
-              name: "section_button_link",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }
-          ]
-        },
-        {
-          label: 'Logo Section',
-          name: 'logo_section',
-          required: false,
-          widget: "list",
-          hint: "",
-          allow_add: true,
-          fields: [{
-              label: "Logo Image",
-              name: "logo_image",
-              widget: "image",
-              required: false
-            }, {
-              label: "Logo Title",
-              name: "logo_title",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }, {
-              label: "Logo Link",
-              name: "logo_link",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }
-          ]
-        },
-        {
           label: "Body",
           name: "body",
           widget: "markdown",
           required: false
-        }, {
-          label: "Anchor Links",
-          name: "links",
+        },
+        {
+          label: 'Extra Sections',
+          name: 'sections',
           required: false,
           widget: "list",
-          hint: "",
-          default: "#",
-          allow_add: true,
-          fields: [{
-            label: "Anchor Title",
-            name: "anchor_title",
-            required: false,
-            widget: "string",
-            hint: "",
-            default: ""
-          }, {
-            label: "Anchor id",
-            name: "anchor_id",
-            required: false,
-            widget: "string",
-            hint: "",
-            default: ""
-          }],
+          hint: "Adding one of multiple extra fields for the page, based on the need",
+          types: [{
+              label: 'Text Section',
+              name: 'text_section',
+              required: false,
+              fields: [
+                {
+                  label: 'Text Section',
+                  name: 'text_section',
+                  required: false,
+                  widget: "list",
+                  hint: "",
+                  summary: "{{section_title}}",
+                  allow_add: true,
+                  fields: [
+                    {
+                      label: "Section ID",
+                      name: "section_id",
+                      required: false,
+                      widget: "string",
+                      hint: "this id should match the navigation anchor link on the side",
+                      default: ""
+                    }, {
+                      label: "Section Image",
+                      name: "section_image",
+                      widget: "image",
+                      required: false
+                    }, {
+                      label: "Section Title",
+                      name: "section_title",
+                      required: false,
+                      widget: "string",
+                      hint: "",
+                      default: ""
+                    }, {
+                      label: "Section Text",
+                      name: "section_text",
+                      required: false,
+                      widget: "markdown",
+                      hint: "",
+                      default: ""
+                    }, {
+                      label: "Section Button Label",
+                      name: "section_button_label",
+                      required: false,
+                      widget: "string",
+                      hint: "",
+                      default: ""
+                    }, {
+                      label: "Section Button Link",
+                      name: "section_button_link",
+                      required: false,
+                      widget: "string",
+                      hint: "",
+                      default: ""
+                    }]
+                },
+                ]
+            },
+            {
+              label: 'Logo Section',
+              name: 'logo_section',
+              required: false,
+              fields: [{
+                label: 'Logos',
+                name: 'logos',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{logo_title}}",
+                fields: [{
+                  label: "Logo Image",
+                  name: "logo_image",
+                  widget: "image",
+                  required: false
+                }, {
+                  label: "Logo Title",
+                  name: "logo_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Logo Link",
+                  name: "logo_link",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Anchor Section',
+              name: 'anchor_section',
+              required: false,
+              fields: [{
+                label: 'Links',
+                name: 'links',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{anchor_label}}",
+                fields: [ {
+                  label: "Anchor Label",
+                  name: "anchor_label",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Anchor Location",
+                  name: "anchor_loc",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            }            
+          ]
         }
       ]
     },
@@ -696,7 +729,7 @@ module.exports = {
             label: "Logo",
             name: "logo",
             widget: "image"
-          },{
+          }, {
             label: "Top Level Menu",
             name: "top_menu",
             required: true,
@@ -705,58 +738,59 @@ module.exports = {
             default: "#",
             allow_add: true,
             fields: [{
-              label: "Menu Title",
-              name: "menu_title",
-              required: true,
-              widget: "string",
-              hint: "Name of the menu level",
-              default: ""
-            }, 
-            {
-              label: "Menu ID",
-              name: "menu_id",
-              required: false,
-              widget: "string",
-              hint: "Id for the menu. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
-              default: ""
-            }, {
-              label: "Parent Menu ID",
-              name: "parent_menu_id",
-              required: false,
-              widget: "string",
-              hint: "Id for the parent menu. Leave blank for root menu. add menu_id for level 1 and level 2 menus. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
-              default: ""
-            },{
-              label: "Menu Links List",
-              name: "menu_nav_list",
-              required: false,
-              widget: "list",
-              hint: "List of links to be added to the menu",
-              allow_add: true,
-              fields: [{
-              label: "Menu Nav Label",
-              name: "menu_nav_label",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }, {
-              label: "Menu Nav Link",
-              name: "menu_nav_link",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            },{
-              label: "SubMenu Link",
-              name: "submenu_link",
-              required: false,
-              widget: "string",
-              hint: "If the link navigated to a submenu, add the id of the submenu. If not, leave blank",
-              default: ""
-            }],
+                label: "Menu Title",
+                name: "menu_title",
+                required: true,
+                widget: "string",
+                hint: "Name of the menu level",
+                default: ""
+              },
+              {
+                label: "Menu ID",
+                name: "menu_id",
+                required: false,
+                widget: "string",
+                hint: "Id for the menu. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
+                default: ""
+              }, {
+                label: "Parent Menu ID",
+                name: "parent_menu_id",
+                required: false,
+                widget: "string",
+                hint: "Id for the parent menu. Leave blank for root menu. add menu_id for level 1 and level 2 menus. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
+                default: ""
+              }, {
+                label: "Menu Links List",
+                name: "menu_nav_list",
+                required: false,
+                widget: "list",
+                hint: "List of links to be added to the menu",
+                allow_add: true,
+                fields: [{
+                  label: "Menu Nav Label",
+                  name: "menu_nav_label",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Menu Nav Link",
+                  name: "menu_nav_link",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "SubMenu Link",
+                  name: "submenu_link",
+                  required: false,
+                  widget: "string",
+                  hint: "If the link navigated to a submenu, add the id of the submenu. If not, leave blank",
+                  default: ""
+                }],
+              }
+            ]
           }]
-        }]
         },
         {
           label: "Footer",

@@ -4,13 +4,16 @@ import Head from "next/head";
 import config from "../cms/config";
 import ImgCaption from "../components/cms/ImgCaption";
 import TextSection from "../components/cms/TextSection";
+import {RegisterFile } from '../components/cms/RegisterFile';
+
 const CMS = dynamic(
   () =>
     import("netlify-cms-app").then((cms) => {
       cms.init({ config });
-      cms.registerEditorComponent(ImgCaption);
+      // cms.registerEditorComponent(ImgCaption);
       // cms.registerWidget('parent', parentWidget.control, parentWidget.preview);
-      // cms.registerEditorComponent(TextSection);
+      cms.registerEditorComponent(TextSection);
+      cms.registerEditorComponent(RegisterFile);
     }),
   {
     ssr: false,
