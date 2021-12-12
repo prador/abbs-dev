@@ -35,14 +35,14 @@ const TextSection = {
       default: ""
     },{
       label: "Section Button Label",
-      name: "section_button_label",
+      name: "button_label",
       required: false,
       widget: "string",
       hint: "",
       default: ""
     },{
       label: "Section Button Link",
-      name: "section_button_link",
+      name: "button_link",
       required: false,
       widget: "string",
       hint: "",
@@ -58,8 +58,8 @@ const TextSection = {
       section_image: match[2],
       section_title: match[3],
       section_text: match[4],
-      section_button_label: match[5],
-      section_button_link: match[6],
+      button_label: match[5],
+      button_link: match[6],
     }
   },
   // Function to create a text block from an instance of this component
@@ -76,8 +76,8 @@ const TextSection = {
               }
             })()}
             <div> ${obj.section_text}</div></div><div>${(() => {
-            if (obj.section_button_link ) {
-              return `<a class="btn btn-black" target="_blank" href="${obj.section_button_link ? obj.section_button_link : "#"}">${obj.section_button_label}</a>`
+            if (obj.button_link ) {
+              return `<a class="btn btn-black" target="_blank" href="${obj.button_link ? obj.button_link : "#"}">${obj.button_label}</a>`
             } else {
               return ``
             }
@@ -97,8 +97,8 @@ const TextSection = {
         }
       })()}
       <div> ${obj.section_text}</div></div><div>${(() => {
-      if (obj.section_button_link ) {
-        return `<a class="btn btn-black" target="_blank" href="${obj.section_button_link ? obj.section_button_link : "#"}">${obj.section_button_label}</a>`
+      if (obj.button_link ) {
+        return `<a class="btn btn-black" target="_blank" href="${obj.button_link ? obj.button_link : "#"}">${obj.button_label}</a>`
       } else {
         return ``
       }

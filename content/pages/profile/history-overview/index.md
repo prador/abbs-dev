@@ -14,7 +14,7 @@ sections:
     text_section:
       - section_id: sss-trust
         section_title: Samagra Sikshana Samithi Trust
-        section_text: >-
+        section_text: |-
           The Samagra Sikshana Samithi Trust (SSST) was founded in 1996. Led by
           the
 
@@ -48,11 +48,11 @@ sections:
           * ABBS School of Law
 
           * ABBS Pre-University College
-        section_button_label: ""
-        section_button_link: ""
+        button_label: ""
+        button_link: ""
       - section_id: board-trustees
         section_title: Board of Trustees
-        section_text: >-
+        section_text: |-
           Chairperson:    Dr B Vijaypal Reddy
 
 
@@ -75,8 +75,8 @@ sections:
 
 
           Along with governmental initiatives, a strong commitment in the private sector is needed to build a proper base for intellectual growth through the establishment of centres of excellence in advanced education.
-        section_button_label: ""
-        section_button_link: ""
+        button_label: ""
+        button_link: ""
 ---
 Acharya Bangalore Business School (ABBS) was founded in 2008 as a management institute under the umbrella of Samagra Sikshana Samithi Trust. ABBS is recognized as the 6th best B-school in Karnataka in 2021. 
 

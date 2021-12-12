@@ -6,8 +6,8 @@ text_section:
   - section_id: ""
     section_title: ""
     section_text: ""
-    section_button_label: ""
-    section_button_link: ""
+    button_label: ""
+    button_link: ""
 logo_section:
   - logo_title: ""
     logo_link: ""

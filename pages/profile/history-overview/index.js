@@ -3,7 +3,6 @@ import Layout from '../../../components/layout'
 import PageHeader from '../../../components/PageHeader'
 import PageBanner from '../../../components/PageBanner'
 import PageContent from '../../../components/PageContent'
-import AnchorLinks from '../../../components/AnchorLinks'
 import { attributes, html } from '../../../content/pages/profile/history-overview/index.md'
 
 const HistoryOverview = () => (
@@ -19,7 +18,7 @@ const HistoryOverview = () => (
                       <div key={section.id} className="text-section-block">
                         {section.section_title ? <h2 className="text-section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
                         {section.section_text ? <div dangerouslySetInnerHTML={{ __html: section.section_text }} /> :"" }
-                        {section.section_button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={section.section_button_link ? section.section_button_link : "#"}>{section.section_button_label}</a> :"" }
+                        {section.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={section.button_link ? section.button_link : "#"}>{section.button_label}</a> :"" }
                       </div>
                 ))}
                   </> : "" }

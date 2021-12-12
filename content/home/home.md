@@ -6,6 +6,62 @@ seo_title: Home | ABBS
 seo_description: This is the homepage of ABBS
 seo_keywords: test, business school, management
 date: 2019-03-17T19:31:20.591Z
+program_accordion:
+  - icon: static/img/00-02-01-programs-management-solid.svg
+    bg_image: static/img/00-02-01-programs-management.jpg
+    bg_color: "#efe3fd"
+    program: Management
+    links:
+      - name: MBA
+        loc: /programs/management/mba
+      - name: BBA
+        loc: /programs/management/bba
+      - name: BBA Aviation Management
+        loc: /programs/management/bba-aviation-management
+  - icon: static/img/00-02-01-programs-management-solid.svg
+    bg_image: static/img/00-02-01-programs-management.jpg
+    bg_color: "#efe3fd"
+    program: Management
+    links:
+      - name: MBA
+        loc: /programs/management/mba
+      - name: BBA
+        loc: /programs/management/bba
+      - name: BBA Aviation Management
+        loc: /programs/management/bba-aviation-management
+  - icon: static/img/00-02-01-programs-management-solid.svg
+    bg_image: static/img/00-02-01-programs-management.jpg
+    bg_color: "#efe3fd"
+    program: Management
+    links:
+      - name: MBA
+        loc: /programs/management/mba
+      - name: BBA
+        loc: /programs/management/bba
+      - name: BBA Aviation Management
+        loc: /programs/management/bba-aviation-management
+  - icon: static/img/00-02-01-programs-management-solid.svg
+    bg_image: static/img/00-02-01-programs-management.jpg
+    bg_color: "#efe3fd"
+    program: Management
+    links:
+      - name: MBA
+        loc: /programs/management/mba
+      - name: BBA
+        loc: /programs/management/bba
+      - name: BBA Aviation Management
+        loc: /programs/management/bba-aviation-management
+  - icon: static/img/00-02-01-programs-management-solid.svg
+    bg_image: static/img/00-02-01-programs-management.jpg
+    bg_color: "#efe3fd"
+    program: Management
+    links:
+      - name: MBA
+        loc: /programs/management/mba
+      - name: BBA
+        loc: /programs/management/bba
+      - name: BBA Aviation Management
+        loc: /programs/management/bba-aviation-management
 header_scripts: |-
   <script>whatever i type here will be added to the header scripts</script>
 

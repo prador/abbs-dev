@@ -15,8 +15,56 @@ h2.text-section-title {
     margin-top:4rem;
 }
 
+.heading {
+    font-size: 23px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+  }
+  
+  .accordion {
+    list-style: none;
+  }
+  .accordion-list {
+      list-style: none;
+      padding: 0;
+  }
+  .accordion-item {
+    border-bottom: 1px solid var(--color-black);
+  }
+  
+  .control {
+    font-size: 20px;
+  }
+  
+  .answer {
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  
+  /* activate toggle */
+  .accordion-title {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .accordion-title h6 {
+    margin-bottom: 0;
+    padding: 10px 0;
+  }
+  .accordion-item.active .accordion-title {
+  }
+  .accordion-content {
+    position: relative;
+    overflow: hidden;
+    transition: height ease 0.2s;
+  }
+  .accordion-item.active .accordion-content {
+    display: block;
+    height: 100%;
+  }
 @media (max-width:600px) {
     .text-section-title .header-hyphen {
         display: none;
     }
 }
+

@@ -102,6 +102,58 @@ module.exports = {
             default: ""
           }],
         },
+        { 
+          label: "Program Accordion",
+          name: "program_accordion",
+          required: true,
+          widget: "list",
+          hint: "",
+          default: "#",
+          allow_add: true,
+          fields: [{ 
+            label:"Icon",
+            name:"icon",
+            widget: "image",
+            required: false
+          }, { 
+            label:"Background Image",
+            name:"bg_image",
+            widget: "image",
+            required: false
+          }, {
+            label:"Background Color",
+            name:"bg_color",
+            widget: "color",
+            required: false
+          }, {
+            label:"Program",
+            name:"program",
+            widget: "string",
+            required: false
+          },{
+            label: 'Links',
+            name: 'links',
+            required: false,
+            widget: "list",
+            hint: "",
+            allow_add: true,
+            fields: [ {
+              label: "Program Name",
+              name: "name",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }, {
+              label: "Program Location",
+              name: "loc",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            }]
+          }]
+        },
         {
           label: "Body",
           name: "body",
@@ -171,68 +223,76 @@ module.exports = {
           required: false
         },
         {
-          label: 'Extra Sections',
+          label: 'Content Sections',
+          hint: "Adding one of multiple extra fields for the page, based on the need",
           name: 'sections',
           required: false,
           widget: "list",
-          hint: "Adding one of multiple extra fields for the page, based on the need",
           types: [{
               label: 'Text Section',
               name: 'text_section',
               required: false,
+              widget: "list",
+              hint: "",
+              summary: "{{section_title}}",
+              allow_add: true,
               fields: [
                 {
-                  label: 'Text Section',
-                  name: 'text_section',
+                  label: "Section ID",
+                  name: "section_id",
                   required: false,
-                  widget: "list",
+                  widget: "string",
+                  hint: "this id should match the navigation anchor link on the side",
+                  default: ""
+                }, {
+                  label: "Section Title",
+                  name: "section_title",
+                  required: false,
+                  widget: "string",
                   hint: "",
-                  summary: "{{section_title}}",
-                  allow_add: true,
-                  fields: [
-                    {
-                      label: "Section ID",
-                      name: "section_id",
-                      required: false,
-                      widget: "string",
-                      hint: "this id should match the navigation anchor link on the side",
-                      default: ""
-                    }, {
-                      label: "Section Image",
-                      name: "section_image",
-                      widget: "image",
-                      required: false
-                    }, {
-                      label: "Section Title",
-                      name: "section_title",
+                  default: ""
+                },{
+                  label: "Section Image",
+                  name: "section_image",
+                  widget: "image",
+                  required: false
+                },{
+                  label: "Image Position",
+                  name:"image_position",
+                  width:"select",
+                  options: ["Above Title","Next to Content","After Content"],
+                  required: false
+                },{
+                  label: "Section Text",
+                  name: "section_text",
+                  required: false,
+                  widget: "markdown",
+                  hint: "",
+                  default: ""
+                }, {
+                    label: 'Buttons',
+                    name: 'buttons',
+                    required: false,
+                    widget: "list",
+                    hint: "",
+                    allow_add: true,
+                    summary: "{{button_label}}",
+                    fields: [ {
+                      label: "Button Label",
+                      name: "button_label",
                       required: false,
                       widget: "string",
                       hint: "",
                       default: ""
                     }, {
-                      label: "Section Text",
-                      name: "section_text",
-                      required: false,
-                      widget: "markdown",
-                      hint: "",
-                      default: ""
-                    }, {
-                      label: "Section Button Label",
-                      name: "section_button_label",
-                      required: false,
-                      widget: "string",
-                      hint: "",
-                      default: ""
-                    }, {
-                      label: "Section Button Link",
-                      name: "section_button_link",
+                      label: "Button Link",
+                      name: "button_link",
                       required: false,
                       widget: "string",
                       hint: "",
                       default: ""
                     }]
-                },
-                ]
+                }]
             },
             {
               label: 'Logo Section',
@@ -247,6 +307,25 @@ module.exports = {
                 allow_add: true,
                 summary: "{{logo_title}}",
                 fields: [{
+                  label: "Section ID",
+                  name: "section_id",
+                  required: false,
+                  widget: "string",
+                  hint: "this id should match the navigation anchor link on the side",
+                  default: ""
+                }, {
+                  label: "Section Image",
+                  name: "section_image",
+                  widget: "image",
+                  required: false
+                }, {
+                  label: "Section Title",
+                  name: "section_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                },{
                   label: "Logo Image",
                   name: "logo_image",
                   widget: "image",
@@ -296,7 +375,273 @@ module.exports = {
                   default: ""
                 }]
               }]
-            }            
+            },           
+            {
+              label: 'Accordion Section',
+              name: 'accordion_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              },{
+                label: 'Accordions',
+                name: 'accordions',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{accordion_title}}",
+                fields: [ {
+                  label: "Accordion Title",
+                  name: "accordion_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Accordion Content",
+                  name: "accordion_content",
+                  required: false,
+                  widget: "markdown",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Gallery Section',
+              name: 'gallery_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              },{
+                label: 'Galleries',
+                name: 'galleries',
+                required: false,
+                hint: "",
+              }]
+            }, 
+            {
+              label: 'Image Section',
+              name: 'image_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              },{
+                label: 'Galleries',
+                name: 'galleries',
+                required: false,
+                hint: "",
+              }]
+            },          
+            {
+              label: 'Embed Section',
+              name: 'embed_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              },{
+                label: "Embed Source",
+                name: "embed_source",
+                required: false,
+                widget: "text",
+                hint: "",
+                default: ""
+              },
+              {
+                label: "Embed Size",
+                name: "embed_size",
+                required: false,
+                widget: "select",
+                options: ["full", "half", "auto"],
+                hint: "",
+                default: ""
+              }]
+            },           
+            {
+              label: 'Table Section',
+              name: 'table_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              },{
+                label: "Table Content",
+                name: "table_content",
+                required: false,
+                widget: "markdown",
+                hint: "",
+                default: ""
+              }]
+            },           
+            {
+              label: 'Collection Section',
+              name: 'collection_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              },{
+                label: "Collection Content",
+                name: "collection_content",
+                required: false,
+                widget: "relation",
+                hint: "",
+                default: "",
+                collection: "team",
+                multiple: true,
+                search_fields: ["name", "title"],
+                display_fields: ["name", "title"],
+                value_field: "title"
+              }]
+            },           
+            {
+              label: 'Text Image Section',
+              name: 'text_image_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              },{
+                label: 'Galleries',
+                name: 'galleries',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{accordion_title}}",
+                fields: [ {
+                  label: "Accordion Title",
+                  name: "accordion_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Accordion Content",
+                  name: "accordion_content",
+                  required: false,
+                  widget: "markdown",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            }          
           ]
         }
       ]
@@ -686,23 +1031,44 @@ module.exports = {
       ]
     },
     {
-      name: "Team",
+      name: "team",
       label: "Team",
       create: true,
       format: "frontmatter",
       folder: "content/team/",
       slug: "{{slug}}",
+      sortable_fields: ['order','title','name'],
       fields: [{
+          label: "Name",
+          name: "name",
+          widget: "string",
+          required: true
+        },
+        {
+          label: "Qualifications",
+          name: "qualifications",
+          widget: "string",
+          required: true
+        },
+        {
           label: "Title",
           name: "title",
           widget: "string",
           required: true
         },
-        {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          required: true
+        { 
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: true,
+          options: ["Leadership Team", "Advisory Council", "Faculty"]
+        },
+        { 
+          label: "Order",
+          name: "order",
+          widget: "number",
+          required: false
         },
         {
           label: "Featured Image",

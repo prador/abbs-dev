@@ -3,8 +3,6 @@ import Layout from '../../components/layout'
 import PageHeader from '../../components/PageHeader'
 import PageBanner from '../../components/PageBanner'
 import PageContent from '../../components/PageContent'
-import TextSection from '../../components/TextSection'
-import AnchorLinks from '../../components/AnchorLinks'
 import { attributes, html } from '../../content/pages/programs/index.md'
 
 const importPrograms = async () => {
