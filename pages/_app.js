@@ -12,6 +12,7 @@ import '../assets/styles/sidenav.css'
 import '../assets/styles/slider.css'
 import '../assets/styles/breadcrumbs.css'
 import '../assets/styles/pagecontent.css'
+import '../assets/styles/footer.css'
 // import '../assets/styles/webflow.css'
 import '../assets/styles/abbs.css'
 

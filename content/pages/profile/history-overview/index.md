@@ -11,72 +11,72 @@ sections:
       - anchor_label: Board of Trustees
         anchor_loc: board-trustees
   - type: text_section
-    text_section:
-      - section_id: sss-trust
-        section_title: Samagra Sikshana Samithi Trust
-        section_text: |-
-          The Samagra Sikshana Samithi Trust (SSST) was founded in 1996. Led by
-          the
+    section_id: sss-trust
+    section_title: Samagra Sikshana Samithi Trust
+    section_text: |-
+      The Samagra Sikshana Samithi Trust (SSST) was founded in 1996. Led by
+      the
 
-          commitment of the Trustees, SSST has accomplished appreciable growth since
+      commitment of the Trustees, SSST has accomplished appreciable growth since
 
-          its establishment. SSST has achieved this by building role-model
+      its establishment. SSST has achieved this by building role-model
 
-          institutions for health sciences, basic sciences, management, law,
+      institutions for health sciences, basic sciences, management, law,
 
-          humanities, commerce, IT and paramedical streams. SSSTs success relies on
+      humanities, commerce, IT and paramedical streams. SSSTs success relies on
 
-          the seamless amalgamation of learning and living. 
-
-
-          Governed by eminent scientists and academics, the Board of SSST institutions is led by Dr B. Vijaypal Reddy, an accomplished medical professional.
+      the seamless amalgamation of learning and living. 
 
 
-          **The institutes comprise:**
+      Governed by eminent scientists and academics, the Board of SSST institutions is led by Dr B. Vijaypal Reddy, an accomplished medical professional.
 
 
-          * Acharya Bangalore B-School 
-
-          * ABBS School of Management
-
-          * Acharya Institute of Health Sciences
-
-          * Acharya College of Nursing
-
-          * Acharya Institute of Paramedical Sciences
-
-          * ABBS School of Law
-
-          * ABBS Pre-University College
-        button_label: ""
-        button_link: ""
-      - section_id: board-trustees
-        section_title: Board of Trustees
-        section_text: |-
-          Chairperson:    Dr B Vijaypal Reddy
+      **The institutes comprise:**
 
 
-          Secretary:        Sri. Venkat Ajitesh R Basani
+      * Acharya Bangalore B-School 
+
+      * ABBS School of Management
+
+      * Acharya Institute of Health Sciences
+
+      * Acharya College of Nursing
+
+      * Acharya Institute of Paramedical Sciences
+
+      * ABBS School of Law
+
+      * ABBS Pre-University College
+    button_label: ""
+    button_link: ""
+  - type: text_section
+    section_id: board-trustees
+    section_title: Board of Trustees
+    section_text: |-
+      Chairperson:    Dr B Vijaypal Reddy
 
 
-          Treasurer:        Smt. B. Poornima Reddy
+      Secretary:        Sri. Venkat Ajitesh R Basani
 
 
-          Trustees:          Dr. B. S. Basavaraj
-                                Sri. M Subba Reddy
-
-          **Taking India Forward**
+      Treasurer:        Smt. B. Poornima Reddy
 
 
-          Business education and life sciences are two science and technology fields that require tremendous intellectual inputs. The infrastructure for development is currently on the rise in India. 
+      Trustees:          Dr. B. S. Basavaraj
+                            Sri. M Subba Reddy
+
+      **Taking India Forward**
 
 
-          We believe that India will emerge to lead the world economy if we choose to continue the path of providing quality education. 
+      Business education and life sciences are two science and technology fields that require tremendous intellectual inputs. The infrastructure for development is currently on the rise in India. 
 
 
-          Along with governmental initiatives, a strong commitment in the private sector is needed to build a proper base for intellectual growth through the establishment of centres of excellence in advanced education.
-        button_label: ""
-        button_link: ""
+      We believe that India will emerge to lead the world economy if we choose to continue the path of providing quality education. 
+
+
+      Along with governmental initiatives, a strong commitment in the private sector is needed to build a proper base for intellectual growth through the establishment of centres of excellence in advanced education.
+    button_label: ""
+    button_link: ""
 ---
 Acharya Bangalore Business School (ABBS) was founded in 2008 as a management institute under the umbrella of Samagra Sikshana Samithi Trust. ABBS is recognized as the 6th best B-school in Karnataka in 2021. 
 

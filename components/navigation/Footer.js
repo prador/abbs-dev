@@ -5,7 +5,7 @@ const Footer = () => (
   <>
     <div className="footer">
       <div className="footer_row1">
-        <div id="w-node-_560a7102-ab79-a40b-a8d7-fbe3be7a1035-fe48c5ce" className="social-links">
+        <div className="social-links">
           <h4 className="footer-heading">Follow ABBS:</h4>
           <a href="#" className="footer-link">Twitter</a>
           <div className="delim">|</div>
@@ -17,11 +17,11 @@ const Footer = () => (
           <div className="delim">|</div>
           <a href="#" className="footer-link">Linkedin</a>
         </div>
-        <div id="w-node-d786f979-6350-7f58-705d-28ad5c27c90c-fe48c5ce" className="whatsapp">
+        <div className="whatsapp">
           <h4 className="footer-heading">WhatsApp us now:</h4>
           <a href="#" className="footer-link">+91 9141707070</a>
         </div>
-        <div id="w-node-b911bf0e-0cc4-540d-7d52-12efe5f13390-fe48c5ce" className="email">
+        <div className="email">
           <h4 className="footer-heading">Send us a message</h4>
           <a href="#" className="footer-link">contact@abbs.edu.in</a>
         </div>

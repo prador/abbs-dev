@@ -1,25 +1,31 @@
-import Link from 'next/link';
-import react from 'react';
-import remark from 'remark';
-import html from 'remark-html';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
 
 const TextSection = ({att}) => {
+  let imgPos;
+
+  const getPos = () => {
+    if(att.image_position) {
+      imgPos = att.image_position.replace(/\s/g , "-").toLowerCase();
+    }
+    return imgPos
+  }
   return (
   <>
     <section className="text-section-wrapper">
-     {att.text_section ?  <>
-     { att.text_section.map((section,index) => (
-          <div key={section.id} className="text-section-block">
-            {section.section_title ? <h2 className="text-section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
-            {/* {section.section_text ? <div dangerouslySetInnerHTML={{ __html: section.section_text }} /> :"" } */}
-
-            <div><ReactMarkdown children={section.section_text} remarkPlugins={[remarkGfm]} /></div>
-            {section.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={section.button_link ? section.button_link : "#"}>{section.button_label}</a> :"" }
+     <>
+     <div key={att.id} className="text-section-block">
+        {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
+        <div className={"section-content "+`${getPos()}`}>
+          {att.section_image ? 
+            <div className="section-image">
+              <img src={"../"+att.section_image} alt={att.section_title}/>
+            </div> : "" }
+        <div className="section-richtext"><ReactMarkdown children={att.section_text} remarkPlugins={[remarkGfm]} /></div>
           </div>
-    ))}
-      </> : "" }
+        {att.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={att.button_link ? att.button_link : "#"}>{att.button_label}</a> :"" }
+      </div>
+      </>
     </section>
   </>
 )}

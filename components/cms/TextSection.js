@@ -66,7 +66,7 @@ const TextSection = {
 
   toBlock: function(obj) {
     return `<section class="text-section-wrapper"><div class="text-section-block">
-          <h2 class="text-section-title" id="${obj.section_id}"><span class="header-hyphen"></span> ${obj.section_title}</h2>
+          <h2 class="section-title" id="${obj.section_id}"><span class="header-hyphen"></span> ${obj.section_title}</h2>
           <div>
             ${(() => {
               if (obj.section_image ) {
@@ -87,7 +87,7 @@ const TextSection = {
   // (component gives better render performance)
   toPreview: function(obj) {
     return `<section class="text-section-wrapper"><div class="text-section-block">
-    <h2 class="text-section-title" id="${obj.section_id}"><span class="header-hyphen"></span> ${obj.section_title}</h2>
+    <h2 class="section-title" id="${obj.section_id}"><span class="header-hyphen"></span> ${obj.section_title}</h2>
     <div>
       ${(() => {
         if (obj.section_image ) {

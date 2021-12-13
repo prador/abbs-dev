@@ -145,7 +145,13 @@ body {
   font-weight: 200;
   height: 100%;
 }
-#main {position: relative;}
+#main {
+  position: relative;
+  width:100%;
+}
+section {
+  margin-bottom: 2rem;
+}
 #scroll-top-anchor {
   position: fixed;
   width:30px;
@@ -278,6 +284,8 @@ ol {
 
 li {
   font-weight: 300;
+  margin-bottom: 5px;
+  line-height: 160%;
 }
 
 img {
@@ -315,7 +323,9 @@ figcaption {
   font-weight: 300;
   text-align: center;
 }
-
+b, strong {
+  font-weight: 700;
+}
 .blue {
   color: var(--color-blue);
 }

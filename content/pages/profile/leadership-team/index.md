@@ -16,13 +16,7 @@ links:
     anchor_id: ""
 sections:
   - type: collection_section
-    section_id: ""
+    section_id: leadership-team
     section_title: ""
-    collection_content:
-      - Chairman
-      - Managing Director
-      - Executive Director
-      - Principal
-      - Director, MBA
-      - Professor & Academic Coordinator- Undergraduate Studies
+    collection_content: Leadership Team
 ---

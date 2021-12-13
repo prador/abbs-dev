@@ -8,6 +8,7 @@
     "cache-posts": "node scripts/cache.js"
   },
   "dependencies": {
+    "@swc/core": "^1.2.119",
     "animate.css": "^4.1.1",
     "glob": "^7.2.0",
     "gray-matter": "^4.0.3",
@@ -22,7 +23,8 @@
     "react-transition-group": "4.3.0",
     "remark": "^13.0.0",
     "remark-gfm": "^3.0.1",
-    "remark-html": "^13.0.1"
+    "remark-html": "^13.0.1",
+    "swc-loader": "^0.1.15"
   },
   "devDependencies": {
     "frontmatter-markdown-loader": "^2.0.0",

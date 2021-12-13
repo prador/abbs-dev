@@ -4,7 +4,6 @@ import PageHeader from '../../../components/PageHeader'
 import PageBanner from '../../../components/PageBanner'
 import PageContent from '../../../components/PageContent'
 import { attributes, html } from '../../../content/pages/profile/leadership-team/index.md'
-import TeamList from '../../../components/content/TeamList'
 
 const importTeam = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -25,8 +24,7 @@ const LeadershipTeam = ({ teamList }) => (
   <Layout>
       <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
-  <PageContent att={attributes} html={html}/>
-  <TeamList att={teamList.sort((a,b)=>(a.attributes.order>b.attributes.order ? 1 : -1))} tag="Leadership Team"/>
+  <PageContent att={attributes} html={html} list={teamList.sort((a,b)=>(a.attributes.order>b.attributes.order ? 1 : -1))}/>
     <style jsx>{`
       .post {
         text-align: center;

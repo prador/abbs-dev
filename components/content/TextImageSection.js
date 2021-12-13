@@ -12,7 +12,7 @@ const TextImageSection = ({att}) => {
      {att.text_section ?  <>
      { att.text_section.map((section,index) => (
           <div key={section.id} className="text-section-block">
-            {section.section_title ? <h2 className="text-section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
+            {section.section_title ? <h2 className="section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
             {/* {section.section_text ? <div dangerouslySetInnerHTML={{ __html: section.section_text }} /> :"" } */}
 
             <div><ReactMarkdown children={section.section_text} remarkPlugins={[remarkGfm]} /></div>

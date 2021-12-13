@@ -12,14 +12,13 @@ import Breadcrumbs from "./navigation/Breadcrumbs";
 import CollectionSection from "./content/CollectionSection"
 // import '../assets/styles/pagecontent.module.css'
 
-const PageContent = ({att,html}) => {
+const PageContent = ({att,html,list}) => {
   const sectionSwitch = (section) => {
+    console.log(section)
     switch (section.type) {
       case "text_section":
         return <TextSection att={section}/>
-      case "text_image_section":
-        return <TextImageSection att={section}/>
-      case "logos_section":
+      case "logo_section":
         return <LogoSection att={section} /> 
       case "gallery_section":
         return <GallerySection att={section} />
@@ -32,21 +31,28 @@ const PageContent = ({att,html}) => {
       case "embed_section":
         return <EmbedSection att={section} />
       case "collection_section":
-        return <CollectionSection att={section} />
+        return <CollectionSection att={section} list={list} />
       default:
         return null
     }
   }
+  let fullContainer = false;
+
+  const getContainer = () => {
+    if(att.sections) {
+      fullContainer = att.sections.some(section=> section.type == "anchor_section") || att.sections.some(section=> section.type == "logo_section")
+    }
+    return fullContainer;
+  }
+  
   return (
     <>
       <div className="content animate__animated animate__fadeInUp">
   
         <div className="w-layout-grid contain-block">
-          
-          <div id="w-node-_7c863792-a099-bc43-0c0c-0a99699836d9-fe48c5ce">
-          <Breadcrumbs att={att}/>
-            <div className="page-body w-richtext">
-
+        <Breadcrumbs att={att}/>
+          {/* <div id="content-wrapper" className={getContainer()}> */}
+          <div id="content-wrapper" className={att.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
               {html ? <div dangerouslySetInnerHTML={{ __html: html }} /> : "" }
               {att.sections ? <>
                 {att.sections.map((section)=> (
@@ -55,7 +61,6 @@ const PageContent = ({att,html}) => {
                   </>
                 ))}
               </> : "" }
-            </div>
           </div>
           {att.sections ? <>
             {att.sections.map((section)=> (

@@ -11,29 +11,29 @@ sections:
       - anchor_label: Mission
         anchor_loc: mission
   - type: text_section
-    text_section:
-      - section_id: vision
-        section_title: Vision
-        section_text: We believe that education, for all, has to be relevant, enriching
-          and exhilarating. Our vision for ABBS is to provide valuable education to
-          our students by integrating the best faculties and infrastructure for a
-          promising future.
-        button_label: ""
-        button_link: ""
-      - section_id: mission
-        section_title: Mission
-        section_text: |-
-          • To create an interface with industry and academia.
+    section_id: vision
+    section_title: Vision
+    section_text: We believe that education, for all, has to be relevant, enriching
+      and exhilarating. Our vision for ABBS is to provide valuable education to
+      our students by integrating the best faculties and infrastructure for a
+      promising future.
+    button_label: ""
+    button_link: ""
+  - type: text_section
+    section_id: mission
+    section_title: Mission
+    section_text: |-
+      • To create an interface with industry and academia.
 
-          • To offer essential training programs in addition to the prescribed syllabus.
+      • To offer essential training programs in addition to the prescribed syllabus.
 
-          • To encourage active faculty-student interaction.
+      • To encourage active faculty-student interaction.
 
-          • To enhance faculty knowledge base through regular training and seminar participation.
+      • To enhance faculty knowledge base through regular training and seminar participation.
 
-          • To provide extensive learning sessions, enabling students to compete on a global level.
+      • To provide extensive learning sessions, enabling students to compete on a global level.
 
-          • To impart professional ethics and social responsibilities.
-        button_label: ""
-        button_link: ""
+      • To impart professional ethics and social responsibilities.
+    button_label: ""
+    button_link: ""
 ---

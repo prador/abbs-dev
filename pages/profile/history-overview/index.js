@@ -16,7 +16,7 @@ const HistoryOverview = () => (
                 {section.text_section ?  <>
                 { section.text_section.map((section,index) => (
                       <div key={section.id} className="text-section-block">
-                        {section.section_title ? <h2 className="text-section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
+                        {section.section_title ? <h2 className="section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
                         {section.section_text ? <div dangerouslySetInnerHTML={{ __html: section.section_text }} /> :"" }
                         {section.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={section.button_link ? section.button_link : "#"}>{section.button_label}</a> :"" }
                       </div>

@@ -16,7 +16,7 @@ const AnchorLinks = ({att}) => {
   return (
     <>
     {att.links ?
-      <div id="w-node-_11c4dfdb-bd44-ec72-b56b-456417809616-fe48c5ce" data-w-id="11c4dfdb-bd44-ec72-b56b-456417809616" className={scrolling? 'in-page-links active' : 'in-page-links'}>
+      <div className={scrolling? 'in-page-links active' : 'in-page-links'}>
         {att.links.map((link) => (
           <a key={link.id} href={"#"+`${link.anchor_loc ? link.anchor_loc : ""}`}>{link.anchor_label} -</a>
         ))}
