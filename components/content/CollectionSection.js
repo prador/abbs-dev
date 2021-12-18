@@ -6,7 +6,7 @@ const CollectionSection = ({att,list}) => {
   <>
     <section className="collection-section-wrapper">
       {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
-      <TeamList list={list} tag={att.collection_content}/>
+      {list ? <TeamList list={list} tag={att.collection_content}/> : "" }
     </section>
   </>
 )}

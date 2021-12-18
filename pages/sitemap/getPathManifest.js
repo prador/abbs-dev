@@ -1,19 +1,19 @@
-const GetPathsFromManifest = (manifest, basePath, host) => {
-    let routes= [];
+// const GetPathsFromManifest = (manifest, basePath, host) => {
+//     let routes= [];
   
-    for (let [route, file] of Object.entries(manifest)) {
-      if (!isNextInternalUrl(route)) {
-        // Add static paths
-        routes = routes.concat(route);
-      } 
-    }
+//     for (let [route, file] of Object.entries(manifest)) {
+//       if (!isNextInternalUrl(route)) {
+//         // Add static paths
+//         routes = routes.concat(route);
+//       } 
+//     }
   
-    let sitemapUrls = [];
-    routes.forEach((route) => {
-      sitemapUrls.push({ host: host, route: route });
-    });
+//     let sitemapUrls = [];
+//     routes.forEach((route) => {
+//       sitemapUrls.push({ host: host, route: route });
+//     });
   
-    return sitemapUrls;
-  };
+//     return sitemapUrls;
+//   };
 
-  export default GetPathsFromManifest
+//   export default GetPathsFromManifest

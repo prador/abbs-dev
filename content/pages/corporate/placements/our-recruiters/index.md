@@ -13,4 +13,5 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+thumbnail: static/img/06-04-03-our-recruiters-01-banner.jpg
 ---

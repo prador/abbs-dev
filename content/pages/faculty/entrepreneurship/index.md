@@ -13,6 +13,7 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+thumbnail: static/img/04-04-entrepreneurship-01-banner.jpg
 sections:
   - type: text_section
     section_id: startup-centre
@@ -99,8 +100,10 @@ sections:
 
       Officials of Government of India and Government of Karnataka. \
 
-      Facilities to Incubatees. \
 
+      ###### Facilities to Incubatees.
+
+      
       Seed Funding: Startup fund and Government seed support. \
 
       Networking: With professional experts, consultants and advisors of incubated companies. \
