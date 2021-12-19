@@ -1,5 +1,5 @@
 module.exports = {
-  distDir: '.next',
+  distDir: 'out',
   webpack: (configuration) => {
     configuration.module.rules.push({
       test: /\.md$/,
