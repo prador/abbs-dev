@@ -13,4 +13,5 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+thumbnail: static/img/09-01-news-01-banner.jpg
 ---

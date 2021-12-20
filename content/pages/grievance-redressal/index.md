@@ -13,4 +13,10 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+sections:
+  - type: embed_section
+    section_id: "grievances-redressal "
+    section_title: Grievances Redressal
+    embed_source: ""
+    embed_size: ""
 ---

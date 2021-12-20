@@ -102,7 +102,7 @@ module.exports = {
             default: ""
           }],
         },
-        { 
+        {
           label: "Program Accordion",
           name: "program_accordion",
           required: true,
@@ -110,34 +110,34 @@ module.exports = {
           hint: "",
           default: "#",
           allow_add: true,
-          fields: [{ 
-            label:"Icon",
-            name:"icon",
-            widget: "image",
-            required: false
-          }, { 
-            label:"Background Image",
-            name:"bg_image",
+          fields: [{
+            label: "Icon",
+            name: "icon",
             widget: "image",
             required: false
           }, {
-            label:"Background Color",
-            name:"bg_color",
+            label: "Background Image",
+            name: "bg_image",
+            widget: "image",
+            required: false
+          }, {
+            label: "Background Color",
+            name: "bg_color",
             widget: "color",
             required: false
           }, {
-            label:"Program",
-            name:"program",
+            label: "Program",
+            name: "program",
             widget: "string",
             required: false
-          },{
+          }, {
             label: 'Links',
             name: 'links',
             required: false,
             widget: "list",
             hint: "",
             allow_add: true,
-            fields: [ {
+            fields: [{
               label: "Program Name",
               name: "name",
               required: false,
@@ -228,8 +228,7 @@ module.exports = {
           name: 'sections',
           required: false,
           widget: "list",
-          types: [
-            {
+          types: [{
               label: 'Text Section',
               name: 'text_section',
               required: false,
@@ -237,63 +236,62 @@ module.exports = {
               hint: "",
               summary: "{{section_title}}",
               allow_add: true,
-              fields: [
-                {
-                  label: "Section ID",
-                  name: "section_id",
-                  required: false,
-                  widget: "string",
-                  hint: "this id should match the navigation anchor link on the side",
-                  default: ""
-                }, {
-                  label: "Section Title",
-                  name: "section_title",
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Image Position",
+                name: "image_position",
+                widget: "select",
+                options: ["Above Content", "Content Left", "Content Right", "Below Content"],
+                required: false
+              }, {
+                label: "Section Text",
+                name: "section_text",
+                required: false,
+                widget: "markdown",
+                hint: "",
+                default: ""
+              }, {
+                label: 'Buttons',
+                name: 'buttons',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{button_label}}",
+                fields: [{
+                  label: "Button Label",
+                  name: "button_label",
                   required: false,
                   widget: "string",
                   hint: "",
                   default: ""
-                },{
-                  label: "Section Image",
-                  name: "section_image",
-                  widget: "image",
-                  required: false
-                },{
-                  label: "Image Position",
-                  name:"image_position",
-                  widget:"select",
-                  options: ["Above Content","Content Left","Content Right","Below Content"],
-                  required: false
-                },{
-                  label: "Section Text",
-                  name: "section_text",
+                }, {
+                  label: "Button Link",
+                  name: "button_link",
                   required: false,
-                  widget: "markdown",
+                  widget: "string",
                   hint: "",
                   default: ""
-                }, {
-                    label: 'Buttons',
-                    name: 'buttons',
-                    required: false,
-                    widget: "list",
-                    hint: "",
-                    allow_add: true,
-                    summary: "{{button_label}}",
-                    fields: [ {
-                      label: "Button Label",
-                      name: "button_label",
-                      required: false,
-                      widget: "string",
-                      hint: "",
-                      default: ""
-                    }, {
-                      label: "Button Link",
-                      name: "button_link",
-                      required: false,
-                      widget: "string",
-                      hint: "",
-                      default: ""
-                    }]
                 }]
+              }]
             },
             {
               label: 'Logo Section',
@@ -318,13 +316,13 @@ module.exports = {
                 widget: "string",
                 hint: "",
                 default: ""
-              },{
+              }, {
                 label: "Section Grid Size",
                 name: "section_grid_size",
                 widget: "select",
-                options: ["grid-2","grid-3","grid-4"],
+                options: ["grid-2", "grid-3", "grid-4"],
                 required: false
-              },{
+              }, {
                 label: 'Logos',
                 name: 'logos',
                 required: false,
@@ -341,9 +339,9 @@ module.exports = {
                   label: "Logo Size",
                   name: "logo_size",
                   widget: "select",
-                  options: ["small","medium","large"],
+                  options: ["small", "medium", "large"],
                   required: false
-                },{
+                }, {
                   label: "Logo Title",
                   name: "logo_title",
                   required: false,
@@ -357,7 +355,7 @@ module.exports = {
                   widget: "string",
                   hint: "",
                   default: ""
-                },{
+                }, {
                   label: "Logo Link",
                   name: "logo_link",
                   required: false,
@@ -379,7 +377,7 @@ module.exports = {
                 hint: "",
                 allow_add: true,
                 summary: "{{anchor_label}}",
-                fields: [ {
+                fields: [{
                   label: "Anchor Label",
                   name: "anchor_label",
                   required: false,
@@ -395,7 +393,7 @@ module.exports = {
                   default: ""
                 }]
               }]
-            },           
+            },
             {
               label: 'Accordion Section',
               name: 'accordion_section',
@@ -419,7 +417,7 @@ module.exports = {
                 widget: "string",
                 hint: "",
                 default: ""
-              },{
+              }, {
                 label: 'Accordions',
                 name: 'accordions',
                 required: false,
@@ -427,7 +425,7 @@ module.exports = {
                 hint: "",
                 allow_add: true,
                 summary: "{{accordion_title}}",
-                fields: [ {
+                fields: [{
                   label: "Accordion Title",
                   name: "accordion_title",
                   required: false,
@@ -467,13 +465,40 @@ module.exports = {
                 widget: "string",
                 hint: "",
                 default: ""
-              },{
-                label: 'Galleries',
-                name: 'galleries',
+              }, {
+                label: "Section Grid Size",
+                name: "section_grid_size",
+                widget: "select",
+                options: ["grid-2", "grid-3", "grid-4"],
+                required: false
+              }, {
+                label: 'Images',
+                name: 'images',
                 required: false,
+                widget: "list",
                 hint: "",
+                allow_add: true,
+                fields: [{
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                  required: false
+                }, {
+                  label: "Image Size",
+                  name: "image_size",
+                  widget: "select",
+                  options: ["small", "medium", "large"],
+                  required: false
+                }, {
+                  label: "Image Title",
+                  name: "image_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
               }]
-            }, 
+            },
             {
               label: 'Image Section',
               name: 'image_section',
@@ -497,54 +522,55 @@ module.exports = {
                 widget: "string",
                 hint: "",
                 default: ""
-              },{
+              }, {
                 label: 'Galleries',
                 name: 'galleries',
                 required: false,
                 hint: "",
               }]
-            },          
+            },
             {
               label: 'Embed Section',
               name: 'embed_section',
               required: false,
               fields: [{
-                label: "Section ID",
-                name: "section_id",
-                required: false,
-                widget: "string",
-                hint: "this id should match the navigation anchor link on the side",
-                default: ""
-              }, {
-                label: "Section Image",
-                name: "section_image",
-                widget: "image",
-                required: false
-              }, {
-                label: "Section Title",
-                name: "section_title",
-                required: false,
-                widget: "string",
-                hint: "",
-                default: ""
-              },{
-                label: "Embed Source",
-                name: "embed_source",
-                required: false,
-                widget: "text",
-                hint: "",
-                default: ""
-              },
-              {
-                label: "Embed Size",
-                name: "embed_size",
-                required: false,
-                widget: "select",
-                options: ["full", "half", "auto"],
-                hint: "",
-                default: ""
-              }]
-            },           
+                  label: "Section ID",
+                  name: "section_id",
+                  required: false,
+                  widget: "string",
+                  hint: "this id should match the navigation anchor link on the side",
+                  default: ""
+                }, {
+                  label: "Section Image",
+                  name: "section_image",
+                  widget: "image",
+                  required: false
+                }, {
+                  label: "Section Title",
+                  name: "section_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Embed Source",
+                  name: "embed_source",
+                  required: false,
+                  widget: "text",
+                  hint: "",
+                  default: ""
+                },
+                {
+                  label: "Embed Size",
+                  name: "embed_size",
+                  required: false,
+                  widget: "select",
+                  options: ["large", "half", "auto"],
+                  hint: "",
+                  default: ""
+                }
+              ]
+            },
             {
               label: 'Table Section',
               name: 'table_section',
@@ -568,7 +594,7 @@ module.exports = {
                 widget: "string",
                 hint: "",
                 default: ""
-              },{
+              }, {
                 label: "Table Content",
                 name: "table_content",
                 required: false,
@@ -576,7 +602,7 @@ module.exports = {
                 hint: "",
                 default: ""
               }]
-            },           
+            },
             {
               label: 'Collection Section',
               name: 'collection_section',
@@ -600,15 +626,15 @@ module.exports = {
                 widget: "string",
                 hint: "",
                 default: ""
-              },{
+              }, {
                 label: "Collection Content",
                 name: "collection_content",
                 required: false,
                 widget: "select",
-                options: ["Leadership Team","Advisory Council","Faculty Directory"],
+                options: ["Leadership Team", "Advisory Council", "Faculty Directory"],
                 hint: "",
               }]
-            }    
+            }
           ]
         }
       ]
@@ -1004,7 +1030,7 @@ module.exports = {
       format: "frontmatter",
       folder: "content/team/",
       slug: "{{slug}}",
-      sortable_fields: ['order','title','name'],
+      sortable_fields: ['order', 'title', 'name'],
       fields: [{
           label: "Name",
           name: "name",
@@ -1023,7 +1049,7 @@ module.exports = {
           widget: "string",
           required: true
         },
-        { 
+        {
           label: "Tags",
           name: "tags",
           widget: "select",
@@ -1031,7 +1057,7 @@ module.exports = {
           required: true,
           options: ["Leadership Team", "Advisory Council", "Faculty"]
         },
-        { 
+        {
           label: "Order",
           name: "order",
           widget: "number",
@@ -1059,77 +1085,79 @@ module.exports = {
           slug: "{{slug}}",
           file: "content/navigation/sidenav.md",
           fields: [{
-            label: "Logo",
-            name: "logo",
-            widget: "image"
-          }, {
-            label: "Top Level Menu",
-            name: "top_menu",
-            required: true,
-            widget: "list",
-            hint: "",
-            default: "#",
-            allow_add: true,
-            fields: [{
-                label: "Menu Title",
-                name: "menu_title",
-                required: true,
-                widget: "string",
-                hint: "Name of the menu level",
-                default: ""
-              },
-              {
-                label: "Menu ID",
-                name: "menu_id",
-                required: false,
-                widget: "string",
-                hint: "Id for the menu. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
-                default: ""
-              }, {
-                label: "Parent Menu ID",
-                name: "parent_menu_id",
-                required: false,
-                widget: "string",
-                hint: "Id for the parent menu. Leave blank for root menu. add menu_id for level 1 and level 2 menus. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
-                default: ""
-              }, {
-                label: "Menu Links List",
-                name: "menu_nav_list",
-                required: false,
-                widget: "list",
-                hint: "List of links to be added to the menu",
-                allow_add: true,
-                fields: [{
-                  label: "Menu Nav Label",
-                  name: "menu_nav_label",
+              label: "Logo",
+              name: "logo",
+              widget: "image"
+            },
+            {
+              label: "Top Level Menu",
+              name: "top_menu",
+              required: true,
+              widget: "list",
+              hint: "",
+              default: "#",
+              allow_add: true,
+              fields: [{
+                  label: "Menu Title",
+                  name: "menu_title",
+                  required: true,
+                  widget: "string",
+                  hint: "Name of the menu level",
+                  default: ""
+                },
+                {
+                  label: "Menu ID",
+                  name: "menu_id",
                   required: false,
                   widget: "string",
-                  hint: "",
+                  hint: "Id for the menu. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
                   default: ""
                 }, {
-                  label: "Menu Nav Link",
-                  name: "menu_nav_link",
+                  label: "Parent Menu ID",
+                  name: "parent_menu_id",
                   required: false,
                   widget: "string",
-                  hint: "",
+                  hint: "Id for the parent menu. Leave blank for root menu. add menu_id for level 1 and level 2 menus. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
                   default: ""
                 }, {
-                  label: "SubMenu Link",
-                  name: "submenu_link",
+                  label: "Menu Links List",
+                  name: "menu_nav_list",
                   required: false,
-                  widget: "string",
-                  hint: "If the link navigated to a submenu, add the id of the submenu. If not, leave blank",
-                  default: ""
-                },{
-                  label: "Show in menu",
-                  name:"show",
-                  required:false,
-                  widget:"boolean",
-                  default: true
-                }],
-              }
-            ]
-          }]
+                  widget: "list",
+                  hint: "List of links to be added to the menu",
+                  allow_add: true,
+                  fields: [{
+                    label: "Menu Nav Label",
+                    name: "menu_nav_label",
+                    required: false,
+                    widget: "string",
+                    hint: "",
+                    default: ""
+                  }, {
+                    label: "Menu Nav Link",
+                    name: "menu_nav_link",
+                    required: false,
+                    widget: "string",
+                    hint: "",
+                    default: ""
+                  }, {
+                    label: "SubMenu Link",
+                    name: "submenu_link",
+                    required: false,
+                    widget: "string",
+                    hint: "If the link navigated to a submenu, add the id of the submenu. If not, leave blank",
+                    default: ""
+                  }, {
+                    label: "Show in menu",
+                    name: "show",
+                    required: false,
+                    widget: "boolean",
+                    default: true
+                  }],
+                }
+              ]
+            }
+          ]
         },
         {
           label: "Footer",
@@ -1137,10 +1165,186 @@ module.exports = {
           slug: "{{slug}}",
           file: "content/navigation/footer.md",
           fields: [{
-            label: "Logo",
-            name: "logo",
-            widget: "image"
-          }]
+              label: "Logo",
+              name: "logo",
+              widget: "image"
+            },
+            {
+              label: "Social Links",
+              name: "social_links",
+              required: true,
+              widget: "list",
+              hint: "",
+              default: "#",
+              allow_add: true,
+              fields: [{
+                label: "Column Link Label",
+                name: "links_label",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Column Link Location",
+                name: "links_loc",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Show in menu",
+                name: "show",
+                required: false,
+                widget: "boolean",
+                default: true
+              }]
+            },
+            {
+              label: "Footer copyright",
+              name: "footer_copyright",
+              required: false,
+              widget: "string",
+              hint: "",
+              default: ""
+            },
+            {
+              label: "Footer Links",
+              name: "footer_links",
+              required: true,
+              widget: "list",
+              hint: "",
+              default: "#",
+              allow_add: true,
+              fields: [{
+                label: "Link Label",
+                name: "links_label",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Link Location",
+                name: "links_loc",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Show in menu",
+                name: "show",
+                required: false,
+                widget: "boolean",
+                default: true
+              }]
+            },
+            {
+              label: "Contact Info",
+              name: "contact_info",
+              required: true,
+              widget: "object",
+              hint: "",
+              default: "#",
+              allow_add: true,
+              fields: [{
+                label: "Address",
+                name: "address",
+                required: false,
+                widget: "text",
+                hint: "",
+                default: ""
+              }, {
+                label: "Contact number",
+                name: "contact_number",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Whatsapp number",
+                name: "whatsapp_number",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Admissions number",
+                name: "admissions_number",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Contact email",
+                name: "contact_email",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Admissions email",
+                name: "admissions_email",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }
+            ]
+            },
+            {
+              label: "Columns",
+              name: "columns",
+              required: true,
+              widget: "list",
+              hint: "",
+              default: "#",
+              allow_add: true,
+              fields: [{
+                  label: "Column Title",
+                  name: "col_title",
+                  required: true,
+                  widget: "string",
+                  hint: "Name of the menu level",
+                  default: ""
+                },
+                {
+                  label: "Column ID",
+                  name: "col_id",
+                  required: false,
+                  widget: "string",
+                  hint: "Id for the menu. It should be lowercase, separated by hypens. Like 'abbs-edge' ",
+                  default: ""
+                }, {
+                  label: "Columns Links List",
+                  name: "links_list",
+                  required: false,
+                  widget: "list",
+                  hint: "List of links to be added to the menu",
+                  allow_add: true,
+                  fields: [{
+                    label: "Column Link Label",
+                    name: "links_label",
+                    required: false,
+                    widget: "string",
+                    hint: "",
+                    default: ""
+                  }, {
+                    label: "Column Link Location",
+                    name: "links_loc",
+                    required: false,
+                    widget: "string",
+                    hint: "",
+                    default: ""
+                  }, {
+                    label: "Show in menu",
+                    name: "show",
+                    required: false,
+                    widget: "boolean",
+                    default: true
+                  }],
+                }
+              ]
+            }
+          ]
         }
       ]
     }

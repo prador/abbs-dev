@@ -13,4 +13,5 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+thumbnail: static/img/08-01-apply-now-01-banner.jpg
 ---

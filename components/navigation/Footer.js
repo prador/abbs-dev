@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import { attributes, html } from '../../content/navigation/footer.md'
 
 const Footer = () => (
@@ -7,84 +6,53 @@ const Footer = () => (
       <div className="footer_row1">
         <div className="social-links">
           <h4 className="footer-heading">Follow ABBS:</h4>
-          <a href="#" className="footer-link">Twitter</a>
-          <div className="delim">|</div>
-          <a href="#" className="footer-link">Instagram</a>
-          <div className="delim">|</div>
-          <a href="#" className="footer-link">Facebook</a>
-          <div className="delim">|</div>
-          <a href="#" className="footer-link">Youtube</a>
-          <div className="delim">|</div>
-          <a href="#" className="footer-link">Linkedin</a>
+          {attributes.social_links.map(((link,id) => 
+            <>{link.show !== false ? <a key={link.id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" } <div className="delim">|</div></>
+          ))}
         </div>
         <div className="whatsapp">
           <h4 className="footer-heading">WhatsApp us now:</h4>
-          <a href="#" className="footer-link">+91 9141707070</a>
+          <a target="_blank" href={"https://wa.me/"+attributes.contact_info.whatsapp_number.replace("+","").replace(" ","")} className="footer-link">{attributes.contact_info.whatsapp_number}</a>
         </div>
         <div className="email">
           <h4 className="footer-heading">Send us a message</h4>
-          <a href="#" className="footer-link">contact@abbs.edu.in</a>
+          <a href={"mailto:"+attributes.contact_info.contact_email} className="footer-link">{attributes.contact_info.contact_email}</a>
         </div>
       </div>
       <div className="footer_row2">
-        <div id="w-node-_92c65d76-5590-d926-26ab-c5b0f05cec42-fe48c5ce" className="footer-links-col">
-          <a href="#" className="footer-links-heading w-inline-block">
-            <h4 className="footer-heading">Programs</h4>
-          </a>
-          <a href="#" className="footer-col-link">Management</a>
-          <a href="#" className="footer-col-link">Life Sciences</a>
-          <a href="#" className="footer-col-link">Commerce</a>
-          <a href="#" className="footer-col-link">Liberal Arts</a>
-          <a href="#" className="footer-col-link">Information Technology</a>
-        </div>
-        <div id="w-node-_5af67542-01e4-6793-4c96-c029399483cf-fe48c5ce" className="footer-links-col">
-          <a href="#" className="footer-links-heading w-inline-block">
-            <h4 className="footer-heading">Quick Links</h4>
-          </a>
-          <a href="#" className="footer-col-link">Faculty</a>
-          <a href="#" className="footer-col-link">Research</a>
-          <a href="#" className="footer-col-link">Corporate</a>
-          <a href="#" className="footer-col-link">Campus Life</a>
-          <a href="#" className="footer-col-link">Admissions</a>
-        </div>
-        <div id="w-node-_5d3661d3-f311-edc5-b3f8-a9f1ff2d72c2-fe48c5ce" className="footer-links-col double">
-          <a href="#" className="footer-links-heading w-inline-block">
-            <h4 className="footer-heading">Useful Links</h4>
-          </a>
-          <a href="#" className="footer-col-link">Employee Login</a>
-          <a href="#" className="footer-col-link">Career @ ABBS</a>
-          <a href="#" className="footer-col-link">News</a>
-          <a href="#" className="footer-col-link">Events</a>
-          <a href="#" className="footer-col-link">FAQs</a>
-          <div className="div-block-6"></div>
-          <a href="#" className="footer-col-link">Code of Conduct</a>
-          <a href="#" className="footer-col-link">Grievance Redressal</a>
-          <a href="#" className="footer-col-link">Mandatory Disclosures</a>
-        </div>
-        <div id="w-node-aa5f47a9-f77e-2ab4-c93e-cef8997f2a91-fe48c5ce" className="address-block">
-            <img src={attributes.logo} layout="responsive" loading="lazy" width="120" alt="" className="image-10"/>
-          <p className="paragraph-2">Acharya Bangalore B-School<br/>Andrahalli Main Road, Off Magadi Road,<br/>Bengaluru – 560 091, Karnataka, India</p>
+        {attributes.columns.map((col,id)=> (
+          <div key={id} className="footer-links-col" id={col.col_id}>
+              <h4 className="footer-heading footer-links-heading w-inline-block">{col.col_title}</h4>
+              <div class="column-links">
+                {col.links_list.map(((link) => 
+            <>{link.show !== false ? <a key={link.id} className="footer-col-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
+              ))}
+              </div>
+          </div>
+        ))}
+        <div className="address-block">
+            <img src={attributes.logo} layout="responsive" loading="lazy" width="120" alt="" className="footer-logo"/>
+          <p className="paragraph-2">{attributes.contact_info.address}</p>
           <div className="address-contact-links">
             <h4 className="footer-address-heading">Ph no :</h4>
-            <a href="#" className="footer-link">+91 80 23245515</a>
+            <a href={"tel:"+attributes.contact_info.contact_number} className="footer-link">{attributes.contact_info.contact_number}</a>
           </div>
           <div className="address-contact-links">
             <h4 className="footer-address-heading">Admissions</h4>
-            <a href="#" className="footer-link">+91 9141707070</a>
+            <a href={"tel:"+attributes.contact_info.admissions_number} className="footer-link">{attributes.contact_info.admissions_number}</a>
           </div>
           <div className="address-contact-links">
             <h4 className="footer-address-heading">Email:</h4>
-            <a href="#" className="footer-link">admissions@abbs.edu.in</a>
+            <a href={"mailto:"+attributes.contact_info.admissions_email} className="footer-link">{attributes.contact_info.admissions_email}</a>
           </div>
         </div>
       </div>
       <div className="footer_row3">
         <div className="social-links">
-          <div className="copyright">© Acharya Bangalore B-School. All rights reserved.</div>
-          <div className="delim">|</div>
-          <a href="#" className="footer-link">Terms and Conditions</a>
-          <div className="delim">|</div>
-          <a href="#" className="footer-link">Privacy Policy</a>
+          <div className="copyright">{attributes.footer_copyright}</div>
+          {attributes.footer_links.map(((link,id) => 
+            <><div className="delim">|</div>{link.show !== false ? <a key={link.id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
+          ))}
         </div>
       </div>
     </div>

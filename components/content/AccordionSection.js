@@ -32,11 +32,11 @@ const AccordionSection = ({att}) => {
                  className="accordion-content"
                  style={
                      clicked === index
-                     ? { height: contentEl.current.scrollHeight }
-                     : { height: "0px" }
+                     ? { maxHeight: contentEl.current.scrollHeight }
+                     : { maxHeight: "0px" }
                  }
              >
-                 <div><ReactMarkdown children={acc.accordion_content} remarkPlugins={[remarkGfm]} /></div>
+                 <ReactMarkdown children={acc.accordion_content} remarkPlugins={[remarkGfm]} />
              </div>
          </li>
     ))}

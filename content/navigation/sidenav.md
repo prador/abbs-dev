@@ -182,7 +182,7 @@ top_menu:
         menu_nav_link: /corporate/guest-lectures
         submenu_link: null
         show: true
-      - menu_nav_label: Faculty
+      - menu_nav_label: Placements
         menu_nav_link: /corporate/placements
         submenu_link: placements
         show: true
@@ -226,20 +226,16 @@ top_menu:
         menu_nav_link: /admissions/chat-with-students
         submenu_link: null
         show: true
-      - menu_nav_label: Postgraduate Programs
-        menu_nav_link: /admissions/postgraduate-programs
-        submenu_link: null
-        show: true
-      - menu_nav_label: Undergraduate Programs
-        menu_nav_link: /admissions/undergraduate-programs
+      - menu_nav_label: Program requirements
+        menu_nav_link: /admissions/program-requirements
         submenu_link: null
         show: true
       - menu_nav_label: International Students
         menu_nav_link: /admissions/international-students
         submenu_link: null
         show: true
-      - menu_nav_label: Scholarship
-        menu_nav_link: /admissions/scholarship
+      - menu_nav_label: Fees and Scholarship
+        menu_nav_link: /admissions/fees-scholarships
         submenu_link: null
         show: true
       - menu_nav_label: Financial Aid
@@ -355,15 +351,15 @@ top_menu:
     menu_id: placements
     menu_nav_list:
       - menu_nav_label: Placement Statistics
-        menu_nav_link: /corporate/placement/placement-statistics
+        menu_nav_link: /corporate/placements/placement-statistics
         submenu_link: null
         show: true
       - menu_nav_label: Placement Policy
-        menu_nav_link: /corporate/placement/placement-policy
+        menu_nav_link: /corporate/placements/placement-policy
         submenu_link: null
         show: true
       - menu_nav_label: Our Recruiters
-        menu_nav_link: /corporate/placement/our-recruiters
+        menu_nav_link: /corporate/placements/our-recruiters
         submenu_link: null
         show: true
     parent_menu_id: corporate

@@ -3,6 +3,7 @@ import { useRouter } from "next/router";
 const Breadcrumbs = ({att}) => {
     const router = useRouter();
     let routes= router.route.split('/');
+    console.log(routes.length - 1)
     let str='';
     let hlinks=[];
     let isHome= false;

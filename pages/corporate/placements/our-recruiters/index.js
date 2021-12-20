@@ -9,7 +9,7 @@ const OurRecruiters = () => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
-  <PageContent att={attributes} html={html}/>
+  <PageContent att={attributes} html={html} />
 </Layout>
 )
 

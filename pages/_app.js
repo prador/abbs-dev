@@ -15,6 +15,7 @@ import '../assets/styles/pagecontent.css'
 import '../assets/styles/footer.css'
 // import '../assets/styles/webflow.css'
 import '../assets/styles/abbs.css'
+import SimpleReactLightbox from 'simple-react-lightbox'
 
 export default function App({ Component, pageProps }) {
   return (
@@ -26,7 +27,9 @@ export default function App({ Component, pageProps }) {
       <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png"/>
       <link rel="mask-icon" href="/static/img/safari-pinned-tab.svg" color="#5bbad5"/>
   </Head>
-  <Component {...pageProps} />
+  <SimpleReactLightbox>
+    <Component {...pageProps} />
+  </SimpleReactLightbox>
   </>
   );
 }

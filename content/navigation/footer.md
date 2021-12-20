@@ -1,7 +1,87 @@
 ---
-title: Footer
-date: 2019-03-17T19:31:20.591Z
 logo: static/img/00-abbs-logo-black.svg
+social_links:
+  - links_label: Twitter
+    links_loc: ""
+    show: true
+  - links_label: Instagram
+    links_loc: ""
+    show: true
+  - links_label: Facebook
+    links_loc: ""
+    show: true
+  - links_label: Youtube
+    links_loc: ""
+    show: true
+  - links_label: Linkedin
+    links_loc: ""
+    show: true
+footer_copyright: © Acharya Bangalore B-School. All rights reserved.
+contact_info:
+  address: |-
+    Acharya Bangalore B-School
+    Andrahalli Main Road, Off Magadi Road,
+    Bengaluru – 560 091, Karnataka, India 
+  contact_number: +91 80 23245515
+  whatsapp_number: +91 9141707070
+  admissions_number: +91 9141707070
+  admissions_email: admissions@abbs.edu.in
+  contact_email: contact@abbs.edu.in
+date: 2019-03-17T19:31:20.591Z
+footer_links:
+  - links_label: Terms and Conditions
+    links_loc: terms-and-conditions
+    show: true
+  - links_label: Privacy Policy
+    links_loc: privacy-policy
+    show: true
+title: Footer
+columns:
+  - col_title: Programs
+    col_id: footer_programs
+    links_list:
+      - links_label: Management
+        links_loc: /program/management/
+      - links_label: Life Sciences
+        links_loc: ""
+      - links_label: Commerce
+        links_loc: ""
+      - links_label: Liberal Arts
+        links_loc: ""
+      - links_label: Information Technology
+        links_loc: ""
+  - col_title: Quick Links
+    col_id: quick-links
+    links_list:
+      - links_label: Faculty
+        links_loc: ""
+      - links_label: Research
+        links_loc: ""
+      - links_label: Corporate
+        links_loc: ""
+      - links_label: Campus Life
+        links_loc: ""
+      - links_label: Admissions
+        links_loc: ""
+  - col_title: Useful Links
+    col_id: useful-links
+    links_list:
+      - links_label: Employee Login
+        links_loc: ""
+      - links_label: Career @ ABBS
+        links_loc: ""
+      - links_label: News
+        links_loc: ""
+      - links_label: Events
+        links_loc: ""
+      - links_label: FAQs
+        links_loc: ""
+      - links_label: Code of Conduct
+        links_loc: ""
+      - links_label: Grievance Redressal
+        links_loc: ""
+      - links_label: Mandatory Disclosures
+        links_loc: ""
 ---
 
 ## Welcome to the About page
