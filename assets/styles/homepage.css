@@ -87,6 +87,14 @@
     display:flex;
     flex-direction: column;
   }
+
+  .news-post {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .news-post img {
+    max-width:200px;
+  }
 @media (max-width:600px) {
   .program-accordion {
     list-style-type: none;
