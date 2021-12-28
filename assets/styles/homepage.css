@@ -1,19 +1,17 @@
   .program-accordion {
-    background: #5ab2ca;
     width: 100%;
     display: flex;
     list-style-type: none;
     overflow: hidden;
-    height: 200px;
+    height: 20rem;
+    padding-left: 0;
     font-size: 0;
   }
   
   .program-tabs {
     display: flex;
-    background-color: #6dc5dd;
-    border-right: #5ab2ca 1px solid;
     width: 20%;
-    height: 200px;
+    height: 20rem;
     overflow: hidden;
     position: relative;
     margin: 0;
@@ -23,9 +21,12 @@
     -webkit-transition: all 0.4s ease-in-out;
     -webkit-transition-delay: 0.1s;
     transition: all 0.4s ease-in-out 0.1s;
+    background-position: right;
+background-repeat: no-repeat;
+background-size: contain;
   }
   .program-tabs.active {
-    width: 70%;
+    width: 50%;
   }
   .program-tabs.active .social-links a:before {
     margin-left: -100px;
@@ -59,23 +60,51 @@
     padding-right: 30px;
   }
   .program-content {
-    font-size: 16px;
-    background-color: #008593;
-    color: #fff;
+    font-size: 1rem;
+    color: var(--color-black);
     text-align: left;
     font-weight: 700;
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    width: 85%;
     justify-content: space-between;
-    align-items: center;
-    padding: 18px 8px;
+    align-items: flex-start;
+    padding: 18px 20px;
     cursor: pointer;
     border: none;
+    flex-direction: column;
+    position: relative;
+    filter: brightness(1.1) saturate(0.7);
+  }
+  .prog-bg-logo-wrapper {
+    display: flex;
+    position: absolute;
+width: 100%;
+height: 100%;
+  }
+  .prog-bg-logo {
+    position: absolute;
+opacity: 30%;
+min-width: 100px;
+min-height: 100px;
+  }
+  .prog-bg-logo.bg-logo-1 {
+    left: -5%;
+    bottom: -10%;
+  }
+  .prog-bg-logo.bg-logo-2 {
+    left: 60%;
+    bottom: 40%;
+  }
+  .program-tabs.active .prog-bg-logo-wrapper {
+    display: none;
+  }
+  .program-tabs.active .program-content{
+    filter: brightness(1) saturate(1);
   }
   .program-tabs .program-content img {
-    width:50px;
-    height:50px;
+    width:40px;
+    height:40px;
   }
   .program-tabs .program-content h5 {
     display:block;
@@ -86,15 +115,93 @@
   .program-tabs.active .program-content ul {
     display:flex;
     flex-direction: column;
+    list-style-type: none;
+    padding-left:0;
+    width:100%;
+  }
+  .program-tabs.active .prog-link{
+    display: flex;
+    width: 100%;
+    color: var(--color-black);
+background: var(--color-ghost);
+background-image: url(/_next/static/media/arrow-right-grey.1da39582.svg);
+background-repeat: no-repeat;
+background-size: 0.8rem;
+background-position: 95% center;
+-webkit-transition: all 300ms cubic-bezier(0.075, 0.82, 0.165, 1);
+-moz-transition: all 300ms cubic-bezier(0.075, 0.82, 0.165, 1);
+transition: all 300ms cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+  .program-tabs.active .prog-link:hover  {
+    color: var(--color-black);
+    background:var(--color-ghost);
+    background-image: url(../icons/arrow-right-black.svg);
+    background-repeat: no-repeat;
+    background-size: 0.8rem;
+    background-position: 100% center;
   }
 
-  .news-post {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  }
-  .news-post img {
-    max-width:200px;
-  }
+  .home-section-title {
+    position: relative;
+    text-align: left;
+}
+  .home-section-title .header-hyphen {
+    height: 2px;
+    background: var(--color-black);
+    width: 30px;
+    display: flex;
+    position: absolute;
+    top: 20px;
+    left: -35px;
+}
+.news-events-wrapper {
+  background-color: #f2f2f2;
+}
+.news-events-section {
+  display: grid;
+width: 100%;
+grid-column-start: 1;
+grid-column-end: 13;
+grid-template-columns: 2fr 1fr;
+gap:2rem;
+}
+.news-block {
+
+}
+.events-block {
+
+}
+.news-post {
+background-color: var(--color-white);
+margin-bottom: 10px;
+  display: grid;
+  grid-template-columns: 1fr 0.5fr;
+}
+.news-post img {
+  max-width:200px;
+}
+.events-post {
+  display: grid;
+  grid-template-columns: 0.25fr 1fr;
+  border-bottom: 2px solid var(--color-black);
+  padding: 10px 0 20px;
+}
+.events-post img {
+  max-width:100px;
+}
+.news-post-content,.events-post-content {
+padding: 20px;
+text-align: left !important;
+}
+.news-post-content h5,.events-post-content h5{
+margin-top: 0;
+}
+.news-post-content {
+
+}
+.news-post-image {
+
+}
 @media (max-width:600px) {
   .program-accordion {
     list-style-type: none;

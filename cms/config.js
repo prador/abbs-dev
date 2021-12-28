@@ -120,12 +120,14 @@ module.exports = {
             name: "bg_image",
             widget: "image",
             required: false
-          }, {
+          }, 
+          {
             label: "Background Color",
             name: "bg_color",
             widget: "color",
             required: false
-          }, {
+          },
+           {
             label: "Program",
             name: "program",
             widget: "string",
@@ -884,7 +886,7 @@ module.exports = {
         {
           label: "Tags",
           name: "tags",
-          multiple:"true",
+          multiple: false,
           widget: "select",
           options: ["Education","Student Council","Festivals"],
           required: true
@@ -919,6 +921,7 @@ module.exports = {
           label: "Program",
           name: "program",
           widget: "select",
+          multiple: false,
           options: ["BBA","MBA"],
           required: true
         },
@@ -926,6 +929,7 @@ module.exports = {
           label: "Batch",
           name: "batch",
           widget: "select",
+          multiple: false,
           options: ["2017-2018","2018-2019"],
           required: true
         },
@@ -980,6 +984,7 @@ module.exports = {
           name: "embed_size",
           required: false,
           widget: "select",
+          multiple: false,
           options: ["large", "half", "auto"],
           hint: "",
           default: ""

@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Link from 'next/Link'
 import HomeSlideshow from '../components/home/HomeSlideshow'
 import ProgramAccordion from '../components/home/ProgramAccordion'
+import ProgramSelect from '../components/home/ProgramSelect'
 import PageHeader from '../components/PageHeader'
 import PageContent from '../components/PageContent'
 import { attributes, html } from '../content/home/home.md'
@@ -38,43 +39,45 @@ const importEvents = async () => {
 const Home = ({newsList,eventsList}) => (
   <Layout>
     <PageHeader attributes={attributes} />
-    <HomeSlideshow att={attributes.slider_images} className="animate__animated animate__fadeInUp"/>
-    <ProgramAccordion programs={attributes}/>          
+    <HomeSlideshow att={attributes.slider_images} className="animate__animated animate__fadeInUp"/>  
+    <ProgramSelect />
+    <ProgramAccordion programs={attributes}/> 
     <PageContent att={attributes} html={html}/>
-    <div className="content">
+    <div className="content news-events-wrapper">
       <div className="w-layout-grid contain-block">
-      <section>
-        <div>
-        <h2>Latest News</h2>
+      <section className='news-events-section'>
+        <div className='news-block'>
+        <h2 className='home-section-title'><span className="header-hyphen"></span>Latest News</h2>
         <div>
         {newsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).slice(0, 3).map((post) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="news-post">
-            <div>
-            <h2>{post.attributes.title}</h2>
-            <span>{post.attributes.date}</span>
-            <p dangerouslySetInnerHTML={{__html: post.html}}></p>
-            </div>
-            <img src={post.attributes.thumbnail}></img>
+              <div className="news-post-content">
+                <h5>{post.attributes.title}</h5>
+                <p dangerouslySetInnerHTML={{__html: post.html}}></p>
+                <span>{post.attributes.date}</span>
               </div>
+              <img className="news-post-image" src={post.attributes.thumbnail}></img>
+            </div>
         </Link>
     ))}
         </div>
         </div>
-        <div>
-        <h2>Events</h2>
+        <div  className='events-block'>
+        <h2 className='home-section-title'><span className="header-hyphen"></span>Events</h2>
         <div>
         {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).slice(0, 3).map((post) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
-            <div className="news-post">
-            <div>
-            <h2>{post.attributes.title}</h2>
-            <span>{post.attributes.date}</span>
+            <div className="events-post">
+
+            <img className="events-post-image" src={post.attributes.thumbnail}></img>
+            <div className="events-post-content">
+            <h5>{post.attributes.title}</h5>
             <p dangerouslySetInnerHTML={{__html: post.html}}></p>
+            <span>{post.attributes.date}</span>
             </div>
-            <img src={post.attributes.thumbnail}></img>
               </div>
         </Link>
     ))}
