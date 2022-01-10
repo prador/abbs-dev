@@ -56,20 +56,24 @@ return (
 		* This method will trigger every time different
 		* option is selected.
 		*/}
-		<select onChange={changeSelectOptionHandler}>
-			<option>Choose...</option>
-			<option>Algorithm</option>
-			<option>Language</option>
-			<option>Data Structure</option>
-		</select>
-		</div>
+		<h2>Start your journey to a new career</h2>
 		<div>
-		<select>
-			{
-			/** This is where we have used our options variable */
-			options
-			}
-		</select>
+			<p>I am </p>
+			<select onChange={changeSelectOptionHandler}>
+				<option>Choose...</option>
+				<option>Algorithm</option>
+				<option>Language</option>
+				<option>Data Structure</option>
+			</select>
+			<p>interested in</p>
+			<select>
+				{
+				/** This is where we have used our options variable */
+				options
+				}
+			</select>
+			<button>Search</button>
+		</div>
 		</div>
 	</form>
 	</div>

@@ -13,8 +13,8 @@ module.exports = {
 
   // Where to store the images
   media_folder: "public/static/img/",
-  display_url: "https://your-site.com",
-  logo_url: "../public/static/img/00-abbs-logo-black.svg",
+  display_url: "abbs.edu.in",
+  logo_url: "../00-abbs-logo-black.svg",
   // Where to link the images
   public_folder: "static/img/",
   collections: [{
