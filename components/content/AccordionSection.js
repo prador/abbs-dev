@@ -10,6 +10,7 @@ const AccordionSection = ({att}) => {
 
   const contentEl = useRef();
   const handleToggle = (index) => {
+    console.log(contentEl)
     if (clicked === index) {
       return setClicked("0");
     }
@@ -29,12 +30,8 @@ const AccordionSection = ({att}) => {
              </div>
              <div
                  ref={contentEl}
-                 className="accordion-content"
-                 style={
-                     clicked === index
-                     ? { maxHeight: contentEl.current.scrollHeight }
-                     : { maxHeight: "0px" }
-                 }
+                 className={`accordion-content ${clicked === index ? "active" : ""}`}
+                 id={index}
              >
                  <ReactMarkdown children={acc.accordion_content} remarkPlugins={[remarkGfm]} />
              </div>

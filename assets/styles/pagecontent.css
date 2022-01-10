@@ -55,7 +55,60 @@ h2.section-title {
 .section-title{
     margin-top:0rem;
 }
+.program-logo {
+  width:100%;
+  max-width: 3rem;
+}
+.program-section-title {
+margin-top: 0.5rem;
+}
+.program-title {
+  padding:1rem 2rem 0;
+  margin-bottom: 0;
+  position: relative;
+}
+.program-title .header-hyphen {
+  height: 2px;
+  width: 25px;
+  display: flex;
+  position: absolute;
+  top: 35px;
+  left: 0px;
+}
+#management .program-section-title,#management .program-title {
+  color:var(--color-management)
+}
+#life-sciences .program-section-title,#life-sciences .program-title {
+  color:var(--color-life-sciences)
+}
+#commerce .program-section-title,#commerce .program-title {
+  color:var(--color-commerce)
+}
+#liberal-arts .program-section-title,#liberal-arts .program-title {
+  color:var(--color-liberal-arts)
+}
+#information-technology .program-section-title,#information-technology .program-title {
+  color:var(--color-information-technology)
+}
+#management .program-title .header-hyphen  {
+  background:var(--color-management)
+}
+#life-sciences .program-title .header-hyphen  {
+  background:var(--color-life-sciences)
+}
+#commerce .program-title .header-hyphen {
+  background:var(--color-commerce)
+}
+#liberal-arts .program-title .header-hyphen  {
+  background:var(--color-liberal-arts)
+}
+#information-technology .program-title .header-hyphen  {
+  background:var(--color-information-technology)
+}
 
+.program-overview-content {
+  padding: 1rem 2rem 2rem;
+}
 .heading {
     font-size: 23px;
     margin-bottom: 20px;
@@ -94,10 +147,12 @@ h2.section-title {
   .accordion-content {
     position: relative;
     overflow: hidden;
-    transition: all ease 0.2s;
+    max-height: 0;
+    transition: all ease 0s;
   }
   .accordion-item.active .accordion-content {
     display: block;
+    max-height: 100%;
     height: 100%;
   }
 

@@ -25,27 +25,7 @@ const Programs = ({ programList }) => (
     <PageHeader attributes={attributes} />
     <PageBanner att={attributes}/>
     <PageContent att={attributes} html={html}/>
-    {/* <div className="content animate__animated animate__fadeInUp">
-  
-        <div className="w-layout-grid contain-block"> */}
-          
-    {/* {attributes.links ? <AnchorLinks att={attributes} /> : ""} */}
-    {/* <TextSection att={attributes.text_section}/> */}
-    
-    {programList.map((post) => (
-      <div key={post.slug} className="post">
 
-            <img src={post.attributes.thumbnail} />
-            <h2>{post.attributes.title}</h2>
-            <Link href="/programs/post/[slug]" as={`/programs/post/${post.slug}`}>
-          <a>
-          </a>
-        </Link>
-      </div>
-    ))}
-
-    {/* </div>
-    </div> */}
     
     <style jsx>{`
       .post {

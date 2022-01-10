@@ -9,12 +9,15 @@ import GallerySection from './content/GallerySection'
 import AccordionSection from "./content/AccordionSection";
 import EmbedSection from "./content/EmbedSection"
 import Breadcrumbs from "./navigation/Breadcrumbs";
+import ProgramSection from "./content/ProgramSection"
+import TestimonialsSection from "./content/TestimonialsSection"
+import RelatedPostsSection from "./content/RelatedPostsSection"
 import CollectionSection from "./content/CollectionSection"
 // import '../assets/styles/pagecontent.module.css'
 
-const PageContent = ({att,html,list}) => {
+const PageContent = ({att,html,list,testimonialsList}) => {
   const sectionSwitch = (section) => {
-    console.log(section)
+    // console.log(section)
     switch (section.type) {
       case "text_section":
         return <TextSection att={section}/>
@@ -30,6 +33,12 @@ const PageContent = ({att,html,list}) => {
         return <AccordionSection att={section} />
       case "embed_section":
         return <EmbedSection att={section} />
+      case "program_section":
+        return <ProgramSection att={section} />
+      case "testimonials_section":
+        return <TestimonialsSection att={section} testimonialsList={testimonialsList}/>
+      case "related_posts_section":
+        return <RelatedPostsSection att={section} />
       case "collection_section":
         return <CollectionSection att={section} list={list} />
       default:

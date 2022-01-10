@@ -471,6 +471,7 @@ module.exports = {
             {
               label: 'Accordion Section',
               name: 'accordion_section',
+              summary: "{{section_title}}",
               required: false,
               fields: [{
                 label: "Section ID",
@@ -646,6 +647,112 @@ module.exports = {
               ]
             },
             {
+              label: 'Program Section',
+              name: 'program_section',
+              summary: "{{section_title}} Programs ",
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Logo",
+                name: "section_logo",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: 'Programs',
+                name: 'programs',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{program_title}}",
+                fields: [{
+                  label: "Program Title",
+                  name: "program_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Program Content",
+                  name: "program_content",
+                  required: false,
+                  widget: "markdown",
+                  hint: "",
+                  default: ""
+                },{
+                  label: "Program Link Label",
+                  name: "program_link_label",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Program Link Location",
+                  name: "program_link_loc",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Testimonials Section',
+              name: 'testimonials_section',
+              required: false,
+              fields: [{
+                  label: "Section ID",
+                  name: "section_id",
+                  required: false,
+                  widget: "string",
+                  hint: "this id should match the navigation anchor link on the side",
+                  default: ""
+                },{
+                  label: "Section Title",
+                  name: "section_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                },
+                {
+                  label: "Show / Hide",
+                  name: "show_toggle",
+                  widget: "boolean",
+                  default: true
+                },{
+                  label: "Program",
+                  name: "program",
+                  widget: "select",
+                  multiple: false,
+                  options: ["MBA","BBA","BBA Aviation Management","B. Sc. Biotechnology","M. Com.","B. Com.","B. Com Supply Chain & Logistics","BA Psychology","BA Journalism","BA Economics","BCA"],
+                  required: true
+                },{
+                  label: "Testimonial Limit",
+                  name: "limit",
+                  widget: "number",
+                  default: 2,
+                  value_type: "int",
+                  min: 1,
+                  max: 5,
+                  step: 1
+                }
+              ]
+            },
+            {
               label: 'Table Section',
               name: 'table_section',
               required: false,
@@ -751,38 +858,6 @@ module.exports = {
       format: "frontmatter",
       folder: "content/bopPosts",
       create: true,
-      slug: "{{slug}}",
-      fields: [{
-          label: "Title",
-          name: "title",
-          widget: "string",
-          required: true
-        },
-        {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          required: true
-        },
-        {
-          label: "Featured Image",
-          name: "thumbnail",
-          widget: "image"
-        },
-        {
-          label: "Body",
-          name: "body",
-          widget: "markdown",
-          required: true
-        }
-      ]
-    },
-    {
-      name: "FAQs",
-      label: "FAQs",
-      create: true,
-      format: "frontmatter",
-      folder: "content/faqs/",
       slug: "{{slug}}",
       fields: [{
           label: "Title",
@@ -922,7 +997,7 @@ module.exports = {
           name: "program",
           widget: "select",
           multiple: false,
-          options: ["BBA","MBA"],
+          options: ["MBA","BBA","BBA Aviation Management","B. Sc. Biotechnology","M. Com.","B. Com.","B. Com Supply Chain & Logistics","BA Psychology","BA Journalism","BA Economics","BCA"],
           required: true
         },
         {
@@ -930,7 +1005,7 @@ module.exports = {
           name: "batch",
           widget: "select",
           multiple: false,
-          options: ["2017-2018","2018-2019"],
+          options: ["2017-2018","2018-2019","2019-2020","2020-2021"],
           required: true
         },
         {
@@ -988,263 +1063,6 @@ module.exports = {
           options: ["large", "half", "auto"],
           hint: "",
           default: ""
-        }
-      ]
-    },
-    {
-      name: "Programs",
-      label: "Programs",
-      create: true,
-      format: "frontmatter",
-      folder: "content/programs/",
-      slug: "{{slug}}",
-      fields: [{
-          label: "Title",
-          name: "title",
-          widget: "string",
-          required: true
-        },
-        {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          required: true
-        },
-        {
-          label: "Featured Image",
-          name: "thumbnail",
-          widget: "image"
-        },
-        {
-          label: "Body",
-          name: "body",
-          widget: "markdown",
-          required: true
-        },
-        {
-          label: 'Content Sections',
-          hint: "Adding one of multiple extra fields for the page, based on the need",
-          name: 'sections',
-          required: false,
-          widget: "list",
-          types: [
-            {
-              label: 'Text Section',
-              name: 'text_section',
-              required: false,
-              widget: "list",
-              hint: "",
-              summary: "{{section_title}}",
-              allow_add: true,
-              fields: [{
-                label: "Section ID",
-                name: "section_id",
-                required: false,
-                widget: "string",
-                hint: "this id should match the navigation anchor link on the side",
-                default: ""
-              }, {
-                label: "Section Title",
-                name: "section_title",
-                required: false,
-                widget: "string",
-                hint: "",
-                default: ""
-              }, {
-                label: "Section Image",
-                name: "section_image",
-                widget: "image",
-                required: false
-              }, {
-                label: "Image Position",
-                name: "image_position",
-                widget: "select",
-                options: ["Above Content", "Content Left", "Content Right", "Below Content"],
-                required: false
-              }, {
-                label: "Section Text",
-                name: "section_text",
-                required: false,
-                widget: "markdown",
-                hint: "",
-                default: ""
-              }, {
-                label: 'Buttons',
-                name: 'buttons',
-                required: false,
-                widget: "list",
-                hint: "",
-                allow_add: true,
-                summary: "{{button_label}}",
-                fields: [{
-                  label: "Button Label",
-                  name: "button_label",
-                  required: false,
-                  widget: "string",
-                  hint: "",
-                  default: ""
-                }, {
-                  label: "Button Link",
-                  name: "button_link",
-                  required: false,
-                  widget: "string",
-                  hint: "",
-                  default: ""
-                }]
-              }]
-            },
-            {
-              label: 'Anchor Section',
-              name: 'anchor_section',
-              required: false,
-              fields: [{
-                label: 'Links',
-                name: 'links',
-                required: false,
-                widget: "list",
-                hint: "",
-                allow_add: true,
-                summary: "{{anchor_label}}",
-                fields: [{
-                  label: "Anchor Label",
-                  name: "anchor_label",
-                  required: false,
-                  widget: "string",
-                  hint: "",
-                  default: ""
-                }, {
-                  label: "Anchor Location",
-                  name: "anchor_loc",
-                  required: false,
-                  widget: "string",
-                  hint: "",
-                  default: ""
-                }]
-              }]
-            },
-            {
-              label: 'Accordion Section',
-              name: 'accordion_section',
-              required: false,
-              fields: [{
-                label: "Section ID",
-                name: "section_id",
-                required: false,
-                widget: "string",
-                hint: "this id should match the navigation anchor link on the side",
-                default: ""
-              }, {
-                label: "Section Image",
-                name: "section_image",
-                widget: "image",
-                required: false
-              }, {
-                label: "Section Title",
-                name: "section_title",
-                required: false,
-                widget: "string",
-                hint: "",
-                default: ""
-              }, {
-                label: 'Accordions',
-                name: 'accordions',
-                required: false,
-                widget: "list",
-                hint: "",
-                allow_add: true,
-                summary: "{{accordion_title}}",
-                fields: [{
-                  label: "Accordion Title",
-                  name: "accordion_title",
-                  required: false,
-                  widget: "string",
-                  hint: "",
-                  default: ""
-                }, {
-                  label: "Accordion Content",
-                  name: "accordion_content",
-                  required: false,
-                  widget: "markdown",
-                  hint: "",
-                  default: ""
-                }]
-              }]
-            },
-            {
-              label: 'Embed Section',
-              name: 'embed_section',
-              required: false,
-              fields: [{
-                  label: "Section ID",
-                  name: "section_id",
-                  required: false,
-                  widget: "string",
-                  hint: "this id should match the navigation anchor link on the side",
-                  default: ""
-                }, {
-                  label: "Section Image",
-                  name: "section_image",
-                  widget: "image",
-                  required: false
-                }, {
-                  label: "Section Title",
-                  name: "section_title",
-                  required: false,
-                  widget: "string",
-                  hint: "",
-                  default: ""
-                }, {
-                  label: "Embed Source",
-                  name: "embed_source",
-                  required: false,
-                  widget: "text",
-                  hint: "",
-                  default: ""
-                },
-                {
-                  label: "Embed Size",
-                  name: "embed_size",
-                  required: false,
-                  widget: "select",
-                  options: ["large", "half", "auto"],
-                  hint: "",
-                  default: ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      name: "Gallery",
-      label: "Gallery",
-      create: true,
-      format: "frontmatter",
-      folder: "content/gallery/",
-      slug: "{{slug}}",
-      fields: [{
-          label: "Title",
-          name: "title",
-          widget: "string",
-          required: true
-        },
-        {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          required: true
-        },
-        {
-          label: "Featured Image",
-          name: "thumbnail",
-          widget: "image"
-        },
-        {
-          label: "Body",
-          name: "body",
-          widget: "markdown",
-          required: true
         }
       ]
     },
