@@ -96,7 +96,7 @@ const Home = ({newsList,eventsList}) => (
       </section>
         </div>
       </div>
-    <div className="content">
+    {/* <div className="content">
       <div className="w-layout-grid contain-block">
     <section><h2>Recognition / Accreditions</h2></section>
         </div>
@@ -105,7 +105,7 @@ const Home = ({newsList,eventsList}) => (
       <div className="w-layout-grid contain-block">
     <section><h2>FAQs</h2></section>
         </div>
-      </div>
+      </div> */}
 
     <style jsx>{`
       h1,

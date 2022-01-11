@@ -113,7 +113,7 @@
     background-image:url(../icons/chevron-left-white.svg);
     background-repeat: no-repeat;
     background-size: 0.45rem;
-    background-position: 68% center;
+    background-position: 65% center;
     transition: all var(--speed) ease-in-out;
   }
   .menu-back:hover {
