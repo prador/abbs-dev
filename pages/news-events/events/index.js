@@ -1,54 +1,59 @@
-// import Link from 'next/link'
+import Link from 'next/link'
 import Layout from '../../../components/layout'
-// import PageHeader from '../../../components/PageHeader'
-// import PageBanner from '../../../components/PageBanner'
-// import PageContent from '../../../components/PageContent'
-// import { attributes, html } from '../../../content/pages/news-events/events/index.md'
+import PageHeader from '../../../components/PageHeader'
+import PageBanner from '../../../components/PageBanner'
+import PageContent from '../../../components/PageContent'
+import { attributes, html } from '../../../content/pages/news-events/events/index.md'
 
-// const Events = () => (
-//   <Layout>
-//   <PageHeader attributes={attributes} />
-//   <PageBanner att={attributes}/>
-//   <PageContent att={attributes} html={html}/>
-// </Layout>
-// )
+const importEvents = async () => {
+  // https://webpack.js.org/guides/dependency-management/#requirecontext
+  const markdownFiles = require
+    .context('../../../content/events', false, /\.md$/)
+    .keys()
+    .map((relativePath) => relativePath.substring(2))
 
-// export default Events
-const Research = ({ programList }) => (
+  return Promise.all(
+    markdownFiles.map(async (path) => {
+      const markdown = await import(`../../../content/events/${path}`)
+      return { ...markdown, slug: path.substring(0, path.length - 3) }
+    })
+  )
+}
+const Events = ({eventsList}) => (
   <Layout>
-    {/* <PageHeader attributes={attributes} />
-    <h1 className="black-txt">{attributes.title}</h1>
-    <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
-    {programList.map((post) => (
-      <div key={post.slug} className="post">
-        <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
-          <a>
-            <img src={post.attributes.thumbnail} />
-            <h2>{post.attributes.title}</h2>
-          </a>
+  <PageHeader attributes={attributes} />
+  <PageBanner att={attributes}/>
+  <PageContent att={attributes} html={html}/>
+  <div className="content news-events-wrapper">
+      <div className="w-layout-grid contain-block">
+      <section className='news-events-section'>
+  {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
+      }).slice(0, 4).map((post) => (
+<Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
+            <div className="events-post">
+
+            <img className="events-post-image" src={"../"+post.attributes.thumbnail}></img>
+            <div className="events-post-content">
+            <h5>{post.attributes.title}</h5>
+            {/* <p dangerouslySetInnerHTML={{__html: post.html}}></p> */}
+            <span>{post.attributes.date}</span>
+            </div>
+              </div>
         </Link>
-      </div>
-    ))} */}
-    <style jsx>{`
-      .post {
-        text-align: center;
-      }
-      img {
-        max-width: 100%;
-        max-height: 300px;
-      }
-    `}</style>
-  </Layout>
+    ))}
+    </section>
+    </div>
+    </div>
+</Layout>
 )
+export async function getStaticProps() {
+  const eventsList = await importEvents()
 
-// export async function getStaticProps() {
-//   const programList = await importPrograms()
+  return {
+    props: {
+      eventsList,
+    }, // will be passed to the page component as props
+  }
+}
 
-//   return {
-//     props: {
-//       programList,
-//     }, // will be passed to the page component as props
-//   }
-// }
-
-export default Research
+export default Events

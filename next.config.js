@@ -1,4 +1,4 @@
-import redirectURLs from "./redirects"
+// import redirectURLs from "./redirects"
 
 module.exports = {
   distDir: 'out',

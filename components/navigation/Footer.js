@@ -23,7 +23,7 @@ const Footer = () => (
         {attributes.columns.map((col,id)=> (
           <div key={id} className="footer-links-col" id={col.col_id}>
               <h4 className="footer-heading footer-links-heading w-inline-block">{col.col_title}</h4>
-              <div class="column-links">
+              <div className="column-links">
                 {col.links_list.map(((link) => 
             <>{link.show !== false ? <a key={link.id} className="footer-col-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
               ))}

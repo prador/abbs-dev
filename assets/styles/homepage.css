@@ -8,6 +8,26 @@
     font-size: 0;
   }
   
+.prog-select-row {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.prog-select-row p{
+  margin-bottom: 0;
+}
+.prog-select-row select{
+  margin: 0 1rem;
+  border: none;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+  border-bottom: 1px solid var(--color-black);
+  background: none;
+  min-width: 7rem;
+}
+
+
   .program-tabs {
     display: flex;
     width: 20%;

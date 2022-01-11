@@ -42,14 +42,14 @@ const Home = ({newsList,eventsList}) => (
     <HomeSlideshow att={attributes.slider_images} className="animate__animated animate__fadeInUp"/>  
 
     <div className="content news-events-wrapper">
-      <div className="w-layout-grid contain-block">
-      <section className='news-events-section'>
+      {/* <div className="w-layout-grid contain-block"> */}
+      <section className='program-select-section'>
       <ProgramSelect />
       </section>
-      </div>
+      {/* </div> */}
       </div>
     <ProgramAccordion programs={attributes}/> 
-    <PageContent att={attributes} html={html}/>
+    {/* <PageContent att={attributes} html={html}/> */}
     <div className="content news-events-wrapper">
       <div className="w-layout-grid contain-block">
       <section className='news-events-section'>
