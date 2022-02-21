@@ -38,7 +38,7 @@ sections:
     section_id: course-details
     section_title: Course Details
     accordions:
-      - accordion_title: Curriculum
+      - accordion_title: Course Outline
         accordion_content: ""
       - accordion_title: HOD's Message
         accordion_content: ""

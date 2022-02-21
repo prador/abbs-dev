@@ -1,6 +1,7 @@
 ---
 title: All Programs
 seo_title: Programs | ABBS
+seo_description: Programs page description
 seo_keywords: Programs, business
 date: 2021-11-19T22:38:59.974Z
 thumbnail: static/img/14.jpg
@@ -58,7 +59,7 @@ sections:
     section_id: life-sciences
     section_title: Life Sciences
     programs:
-      - program_title: B.Sc. Biotechnology
+      - program_title: B.Sc. Biotechnology / Genetics / Microbiology
         program_content: Biotechnology may be a fast-developing sector. Advancements are
           being created at workable pace in this sector. Enormous companies are
           running in fortunes into it and new business opportunities are
@@ -151,5 +152,4 @@ sections:
         anchor_loc: liberal-arts
       - anchor_label: Information Technology
         anchor_loc: information-technology
-seo_description: Programs page description
 ---
