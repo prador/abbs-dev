@@ -32,7 +32,7 @@ function Navbar(props) {
       <ul className="navbar-nav nav-links">{props.children}</ul>
       <div className="nav-footer">
         <a target="_blank" href="tel:+919141707070" className="nav-contact menu-item menu-last">Contact us: +91 9141707070</a>
-        <a href="https://application.abbs.edu.in/" className="nav-apply btn btn-white">Apply Now</a>
+        <a href="https://application.abbs.edu.in/" className="nav-apply btn btn-blue">Apply Now</a>
       </div>
     </nav>
   );

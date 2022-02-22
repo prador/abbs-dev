@@ -1,6 +1,7 @@
 ---
 title: MBA
 date: 2021-12-04T06:07:30.634Z
+thumbnail: static/img/03-02-02-mba-banner.jpg
 sections:
   - type: text_section
     section_id: overview

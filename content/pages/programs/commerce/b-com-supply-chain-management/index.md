@@ -1,6 +1,7 @@
 ---
 title: B. Com Supply chain Management
 date: 2021-12-04T06:09:29.346Z
+thumbnail: static/img/03-04-04-bcom-supply-chain-and-logistics-01-banner.jpg
 sections:
   - type: text_section
     section_id: overview

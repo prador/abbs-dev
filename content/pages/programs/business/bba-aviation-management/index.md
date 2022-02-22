@@ -1,6 +1,7 @@
 ---
 title: BBA Aviation Management
 date: 2021-12-04T06:08:56.905Z
+thumbnail: static/img/03-02-05-bba-aviation-management-01-banner.jpg
 sections:
   - type: text_section
     section_id: overview

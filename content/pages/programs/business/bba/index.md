@@ -1,6 +1,7 @@
 ---
 title: BBA
 date: 2021-12-04T06:09:06.039Z
+thumbnail: static/img/03-02-04-bba-01-banner.jpg
 sections:
   - type: text_section
     section_id: overview

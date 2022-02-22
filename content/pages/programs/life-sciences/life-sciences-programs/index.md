@@ -18,15 +18,5 @@ sections:
         program_link_loc: /programs/life-sciences/b-sc
     section_logo: static/img/00-02-02-programs-lide-sciences-solid.svg
   - type: anchor_section
-    links:
-      - anchor_label: Management
-        anchor_loc: management
-      - anchor_label: Life Sciences
-        anchor_loc: life-sciences
-      - anchor_label: Commerce
-        anchor_loc: commerce
-      - anchor_label: Liberal Arts
-        anchor_loc: liberal-arts
-      - anchor_label: Information Technology
-        anchor_loc: information-technology
+    links: []
 ---

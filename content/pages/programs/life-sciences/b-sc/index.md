@@ -4,7 +4,7 @@ seo_title: Programs | ABBS
 seo_description: Programs page description
 seo_keywords: Programs, business
 date: 2021-11-19T22:38:59.974Z
-thumbnail: static/img/14.jpg
+thumbnail: static/img/03-03-01-life-sciences-program-banner.jpg
 links:
   - anchor_title: here
     anchor_id: here

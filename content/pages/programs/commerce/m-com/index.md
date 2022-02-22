@@ -1,6 +1,7 @@
 ---
 title: M. Com
 date: 2021-12-04T05:59:02.718Z
+thumbnail: static/img/03-04-02-mcom-banner.jpg
 sections:
   - type: text_section
     section_id: overview

@@ -1,6 +1,7 @@
 ---
 title: Commerce Programs
 date: 2021-12-04T06:09:39.292Z
+thumbnail: static/img/03-04-commerce-banner.jpg
 sections:
   - type: program_section
     section_id: commerce
@@ -40,11 +41,5 @@ sections:
         program_link_loc: ""
     section_logo: static/img/00-02-03-programs-commerce-solid.svg
   - type: anchor_section
-    links:
-      - anchor_label: Management
-        anchor_loc: management
-      - anchor_label: Life Sciences
-        anchor_loc: life-sciences
-      - anchor_label: Commerce
-        anchor_loc: commerce
+    links: []
 ---

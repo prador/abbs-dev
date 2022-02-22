@@ -1,6 +1,7 @@
 ---
 title: BA Journalism
 date: 2021-12-04T06:11:45.069Z
+thumbnail: static/img/03-05-03-ba-journalism-banner.jpg
 sections:
   - type: text_section
     section_id: overview

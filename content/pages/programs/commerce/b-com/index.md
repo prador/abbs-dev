@@ -1,6 +1,7 @@
 ---
 title: B. Com
 date: 2021-12-04T06:00:23.196Z
+thumbnail: static/img/03-04-03-bcom-banner.jpg
 sections:
   - type: text_section
     section_id: overview
