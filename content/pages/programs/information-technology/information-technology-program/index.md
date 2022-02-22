@@ -1,6 +1,7 @@
 ---
 title: Information Technology Program
 date: 2021-12-04T06:12:18.392Z
+thumbnail: static/img/03-06-inforamtion-technology-banner.jpg
 sections:
   - type: program_section
     section_id: information-technology

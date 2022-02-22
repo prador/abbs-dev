@@ -20,45 +20,37 @@ program_accordion:
     bg_color: "#cbe9e6"
     program: Life Sciences
     links:
-      - name: MBA
-        loc: /programs/management/mba
-      - name: BBA
-        loc: /programs/management/bba
-      - name: BBA Aviation Management
-        loc: /programs/management/bba-aviation-management
+      - name: B. Sc. Biotechnology
+        loc: /programs/life-sciences/b-sc
   - icon: static/img/00-02-03-programs-commerce-solid.svg
     bg_image: static/img/00-02-03-programs-commerce.jpg
     bg_color: "#fbedd3"
     program: Commerce
     links:
-      - name: MBA
-        loc: /programs/management/mba
-      - name: BBA
-        loc: /programs/management/bba
-      - name: BBA Aviation Management
-        loc: /programs/management/bba-aviation-management
+      - name: M. Com
+        loc: /programs/commerce/m-com
+      - name: B. Com
+        loc: /programs/commerce/b-com
+      - name: B. Com Supply Chain & Logistics
+        loc: /programs/commerce/b-com-supply-chain-management
   - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
     bg_image: static/img/00-02-04-programs-liberal-arts.jpg
     bg_color: "#ece0d4"
     program: Arts & Humanities
     links:
-      - name: MBA
-        loc: /programs/management/mba
-      - name: BBA
-        loc: /programs/management/bba
-      - name: BBA Aviation Management
-        loc: /programs/management/bba-aviation-management
+      - name: BA Psychology
+        loc: /programs/arts-humanities/ba-psychology
+      - name: BA Journalism
+        loc: /programs/arts-humanities/ba-journalism
+      - name: BA Economics
+        loc: /programs/arts-humanities/ba-economics
   - icon: static/img/00-02-05-programs-information-technology-solid.svg
     bg_image: static/img/00-02-05-programs-information-technology.jpg
     bg_color: "#fbcbc2"
     program: Information Technology
     links:
-      - name: MBA
-        loc: /programs/management/mba
-      - name: BBA
-        loc: /programs/management/bba
-      - name: BBA Aviation Management
-        loc: /programs/management/bba-aviation-management
+      - name: BCA
+        loc: /programs/information-technology/bca
 header_scripts: |-
   <script>whatever i type here will be added to the header scripts</script>
 

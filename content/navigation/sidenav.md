@@ -270,10 +270,6 @@ top_menu:
         menu_nav_link: /programs/management/mba
         submenu_link: null
         show: true
-      - menu_nav_label: MBA Business Analytics
-        menu_nav_link: /programs/management/mba-business-analytics
-        submenu_link: null
-        show: true
       - menu_nav_label: BBA
         menu_nav_link: /programs/management/bba
         submenu_link: null

@@ -10,7 +10,6 @@ const AccordionSection = ({att}) => {
 
   const contentEl = useRef();
   const handleToggle = (index) => {
-    console.log(contentEl)
     if (clicked === index) {
       return setClicked("0");
     }
