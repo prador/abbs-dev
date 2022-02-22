@@ -227,7 +227,7 @@ margin-bottom: 10px;
   max-width:100px;
 }
 .news-post-content {
-padding: 20px;
+padding: 1rem;
 text-align: left !important;
 }
 .events-post-content {
@@ -256,6 +256,7 @@ margin-top: 0;
 }
 .rec-acred-content {
   text-align: left !important;
+  padding-bottom: 1rem;
 }
 .home-faq-section {
   display: grid;
@@ -269,6 +270,19 @@ gap:2rem;
 margin-top: 5rem;
 }
 @media (max-width:600px) {
+  .home-faq-section,.rec-acred-wrapper {
+    grid-template-columns: 1fr;
+  }
+  .news-block-wrapper {
+    grid-template-columns: 1fr;
+    max-width: 90vw;
+  }
+  .news-post:nth-of-type(1) {
+    grid-column-start: span 1;
+  }
+  .news-post img {
+    max-width: 150px;
+  }
   .prog-select-row {
     display: flex;
     flex-direction:column;

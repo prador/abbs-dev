@@ -281,6 +281,9 @@ flex-direction: column-reverse;
     .logo-image {
       width: 100%;
     }
+    .logo-image.small {
+      max-width: 50%;
+    }
     .in-page-links {
       display: none;
     }
@@ -291,7 +294,7 @@ flex-direction: column-reverse;
       grid-template-columns: 1fr 1fr;
     }
     .grid-3 {
-      grid-template-columns: 1fr;
+      grid-template-columns: 1fr 1fr;
       gap: 2rem;
     }
     .grid-4 {

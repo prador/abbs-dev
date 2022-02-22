@@ -13,6 +13,7 @@ export default ({att}) => {
   const [sliderRef, instanceRef] = useKeenSlider({
     initial: 0,
     loop:true,
+    slides: { perView: "auto" },
     slideChanged(slider) {
       setCurrentSlide(slider.track.details.rel)
     },

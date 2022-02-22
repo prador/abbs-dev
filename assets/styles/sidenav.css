@@ -251,6 +251,9 @@
     justify-content: space-between;
     height:60px;
     }
+    .nav-apply,.nav-footer {
+      display: none;
+    }
     .nav-title {
       margin-top:0;
     }
