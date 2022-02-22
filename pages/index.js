@@ -5,7 +5,7 @@ import HomeSlideshow from '../components/home/HomeSlideshow'
 import ProgramAccordion from '../components/home/ProgramAccordion'
 import ProgramSelect from '../components/home/ProgramSelect'
 import PageHeader from '../components/PageHeader'
-import PageContent from '../components/PageContent'
+import AccordionSection from '../components/content/AccordionSection'
 import { attributes, html } from '../content/home/home.md'
 
 const importNews = async () => {
@@ -36,6 +36,7 @@ const importEvents = async () => {
     })
   )
 }
+console.log(attributes)
 const Home = ({newsList,eventsList}) => (
   <Layout>
     <PageHeader attributes={attributes} />
@@ -97,22 +98,20 @@ const Home = ({newsList,eventsList}) => (
         </div>
       </div>
 
-    <div className="content news-events-wrapper">
+    <div className="content">
       <div className="w-layout-grid contain-block">
-      <section className='news-events-section'>
-        <div className='news-block'>
+      <section className='rec-acred-section'>
+        <div className='rec-acred-block'>
       <h2 className='home-section-title'><span className="header-hyphen"></span>Recognition / Accreditions</h2>
       
-      <div>
-        <div>
+      <div className='rec-acred-wrapper'>
+        <div className="rec-acred-content">
           <p>Established in 2008, Acharya Bangalore B School (ABBS)  has completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles of NBA accreditation (MBA department) and is internationally accredited by IACBE. ABBS represents the top 1% of institutes in India with its accreditations and rankings.</p>
           <a href="#" className="btn btn-outline">View More</a>
         </div>
-        <div>
-          <img className="events-post-image" src="static/img/00-03-01-accreditions.jpg"></img>
-          <img className="events-post-image" src="static/img/00-03-02-accreditions.jpg"></img>
-          <img className="events-post-image" src="static/img/00-03-03-accreditions.jpg"></img>
-        </div>
+        <img className="rec-acred-image" src="static/img/00-03-01-accreditions.jpg"></img>
+          <img className="rec-acred-image" src="static/img/00-03-02-accreditions.jpg"></img>
+          <img className="rec-acred-image" src="static/img/00-03-03-accreditions.jpg"></img>
       </div>
         
     </div>
@@ -120,12 +119,17 @@ const Home = ({newsList,eventsList}) => (
         </div>
       </div>
       
-      <div className="content news-events-wrapper">
+      <div className="content home-faq-wrapper">
       <div className="w-layout-grid contain-block">
-      <section className='news-events-section'>
-        <div className='news-block'>
-      <h2 className='home-section-title'><span className="header-hyphen"></span>FAQs</h2> 
+      <section className='home-faq-section'>
+        <div className='home-faq-block'>
+        <h2 className='home-section-title'><span className="header-hyphen"></span>FAQs</h2> 
+      <AccordionSection att={attributes.faq_section} />
       </div>
+      {attributes.faq_section.section_image ? 
+            <div className="home-faq-image">
+              <img src={"../"+attributes.faq_section.section_image} alt={attributes.faq_section.section_title}/>
+            </div> : "" }
       </section>
         </div>
       </div>

@@ -12,8 +12,9 @@ const TestimonialsSection = ({att,testimonialsList}) => {
   }
   return (
   <>
+    {testimonialsList ? 
     <section className="text-section-wrapper">
-     <>
+    <>
      <div key={att.id} className="text-section-block">
         {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
         {testimonialsList.testimonialsList.map((post) => (
@@ -25,10 +26,11 @@ const TestimonialsSection = ({att,testimonialsList}) => {
                 <span>{post.attributes.date}</span>
               </div>
             </div>
-    ))}
+            ))}
       </div>
       </>
     </section>
+    : "" }
   </>
 )}
 

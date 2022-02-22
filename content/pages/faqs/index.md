@@ -1,18 +1,7 @@
 ---
 title: FAQs
 date: 2021-12-04T06:27:39.231Z
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+thumbnail: static/img/faq-banner.jpg
 sections:
   - type: accordion_section
     section_id: faqs
@@ -74,7 +63,4 @@ sections:
           girls, which is of single, 2 sharing, 3 sharing and 4 sharing
           according to the request of the students with good facilities along
           with 24 hours Wi-Fi.
-  - type: accordion_section
-    section_id: ""
-    section_title: ""
 ---

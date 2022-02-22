@@ -97,7 +97,7 @@ sections:
     section_id: testimonials
     section_title: Testimonials
     show_toggle: true
-    program: BCA
+    program: MBA
     limit: 2
   - type: anchor_section
     links:

@@ -17,8 +17,8 @@ sections:
 
       On this page you’ll find essential information about each department and the courses they offer, to help you to narrow your focus to a particular course.
   - type: program_section
-    section_id: management
-    section_title: Management
+    section_id: business
+    section_title: Business
     section_logo: static/img/00-02-01-programs-management-solid.svg
     programs:
       - program_title: MBA
@@ -142,8 +142,8 @@ sections:
         program_link_loc: /programs/information-technology/bca
   - type: anchor_section
     links:
-      - anchor_label: Management
-        anchor_loc: management
+      - anchor_label: Business
+        anchor_loc: business
       - anchor_label: Life Sciences
         anchor_loc: life-sciences
       - anchor_label: Commerce

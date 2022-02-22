@@ -158,7 +158,10 @@ margin-top: 0.5rem;
     max-height: 100%;
     height: 100%;
   }
-
+.section-richtext a {
+  text-decoration: underline;
+font-weight: 500;
+}
   /* logo section */
   .logo-section-block {
     display: grid;

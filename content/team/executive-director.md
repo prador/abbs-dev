@@ -5,7 +5,7 @@ title: Executive Director
 tags:
   - Leadership Team
 order: 3
-thumbnail: static/img/00-01-02-hero-mobile.jpg
+thumbnail: static/img/01-05-03-ajitesh-basani.jpg
 ---
 Ajitesh Basani drives the digital engine of ABBS, spearheading initiatives across platforms.  
 

@@ -40,48 +40,48 @@ columns:
   - col_title: Programs
     col_id: footer_programs
     links_list:
-      - links_label: Management
-        links_loc: /program/business/
+      - links_label: Business
+        links_loc: /programs/business/business-programs
       - links_label: Life Sciences
-        links_loc: ""
+        links_loc: /programs/life-sciences/life-sciences-programs
       - links_label: Commerce
-        links_loc: ""
+        links_loc: /programs/commerce/commerce-programs
       - links_label: Liberal Arts
-        links_loc: ""
+        links_loc: /programs/liberal-arts/liberal-arts-programs
       - links_label: Information Technology
-        links_loc: ""
+        links_loc: /programs/information-technology/information-technology-programs
   - col_title: Quick Links
     col_id: quick-links
     links_list:
       - links_label: Faculty
-        links_loc: ""
+        links_loc: /faculty/profiles
       - links_label: Research
-        links_loc: ""
+        links_loc: /research/research-centre
       - links_label: Corporate
-        links_loc: ""
+        links_loc: /corporate/recruit-students
       - links_label: Campus Life
-        links_loc: ""
+        links_loc: /campus-life/health-wellness
       - links_label: Admissions
-        links_loc: ""
+        links_loc: /admissions/admission-faqs
   - col_title: Useful Links
     col_id: useful-links
     links_list:
       - links_label: Employee Login
-        links_loc: ""
+        links_loc: https://www.tcsion.com/SelfServices/
       - links_label: Career @ ABBS
-        links_loc: ""
+        links_loc: /careers-at-abbs
       - links_label: News
-        links_loc: ""
+        links_loc: /news-events/news
       - links_label: Events
-        links_loc: ""
+        links_loc: /news-events/events
       - links_label: FAQs
-        links_loc: ""
+        links_loc: /faqs
       - links_label: Code of Conduct
-        links_loc: ""
+        links_loc: /code-of-contact
       - links_label: Grievance Redressal
-        links_loc: ""
+        links_loc: /grievance-redressal
       - links_label: Mandatory Disclosures
-        links_loc: ""
+        links_loc: /mandatory-disclosures
 ---
 
 ## Welcome to the About page

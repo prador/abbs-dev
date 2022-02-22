@@ -13,6 +13,7 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+thumbnail: static/img/careers-at-abbs-banner.jpg
 sections:
   - type: embed_section
     section_id: form

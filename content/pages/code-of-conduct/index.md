@@ -13,6 +13,7 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+thumbnail: static/img/code-of-conduct-banner.jpg
 sections:
   - type: text_section
     section_id: code-of-conduct

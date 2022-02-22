@@ -35,7 +35,7 @@ top_menu:
         submenu_link: campus-life
         show: true
       - menu_nav_label: Admissions
-        menu_nav_link: /admissions/apply-now
+        menu_nav_link: /admissions/admission-faqs
         submenu_link: admissions
         show: true
       - menu_nav_label: News & Events
@@ -203,23 +203,23 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: Clubs and Associations
-        menu_nav_link: /campus-life/clubs-associations
+        menu_nav_link: /campus-life/clubs-associations/toastmaster
         submenu_link: clubs-associations
         show: true
       - menu_nav_label: Student Support
-        menu_nav_link: /campus-life/student-support
+        menu_nav_link: /campus-life/student-support/anti-sexual-harassment-cell
         submenu_link: student-support
         show: true
       - menu_nav_label: Hostels
-        menu_nav_link: /campus-life/
+        menu_nav_link: /campus-life/hostels
         submenu_link: null
         show: true
     parent_menu_id: main
   - menu_title: Admissions
     menu_id: admissions
     menu_nav_list:
-      - menu_nav_label: Apply Now
-        menu_nav_link: /admissions/apply-now
+      - menu_nav_label: Admission - FAQs
+        menu_nav_link: /admissions/admission-faqs
         submenu_link: null
         show: true
       - menu_nav_label: Chat with Students
@@ -242,8 +242,8 @@ top_menu:
         menu_nav_link: /admissions/financial-aid
         submenu_link: null
         show: true
-      - menu_nav_label: Admission - FAQs
-        menu_nav_link: /admissions/admission-faqs
+      - menu_nav_label: Apply Now
+        menu_nav_link: https://application.abbs.edu.in/
         submenu_link: null
         show: true
     parent_menu_id: main
@@ -362,18 +362,6 @@ top_menu:
   - menu_title: Clubs and Associations
     menu_id: clubs-associations
     menu_nav_list:
-      - menu_nav_label: NSS
-        menu_nav_link: /campus-life/clubs-associations/nss
-        submenu_link: null
-        show: true
-      - menu_nav_label: Rotaract Club
-        menu_nav_link: /campus-life/clubs-associations/rotaract-club
-        submenu_link: null
-        show: true
-      - menu_nav_label: Red Cross
-        menu_nav_link: /campus-life/clubs-associations/red-cross
-        submenu_link: null
-        show: true
       - menu_nav_label: Toastmasters
         menu_nav_link: /campus-life/clubs-associations/toastmaster
         submenu_link: null
@@ -382,6 +370,18 @@ top_menu:
         menu_nav_link: /campus-life/clubs-associations/tedxabbs
         submenu_link: null
         show: true
+      - menu_nav_label: NSS
+        menu_nav_link: /campus-life/clubs-associations/nss
+        submenu_link: null
+        show: false
+      - menu_nav_label: Rotaract Club
+        menu_nav_link: /campus-life/clubs-associations/rotaract-club
+        submenu_link: null
+        show: false
+      - menu_nav_label: Red Cross
+        menu_nav_link: /campus-life/clubs-associations/red-cross
+        submenu_link: null
+        show: false
     parent_menu_id: campus-life
   - menu_title: Student Support
     menu_id: student-support

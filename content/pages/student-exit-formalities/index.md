@@ -13,4 +13,5 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+thumbnail: static/img/student-exit-formalities-banner.jpg
 ---

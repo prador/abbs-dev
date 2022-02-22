@@ -1,0 +1,23 @@
+.table .row,.table .table_body_row {
+    display: grid;
+    grid-template-columns: 50px repeat(3,1fr);
+}
+.table .row.table_head{
+    padding: 15px;
+text-shadow: 0 1px 0 #000;
+text-align: center;
+background: #313032;
+color:#fff;
+}
+.table .table_body_row {
+    padding: 15px;
+}
+.table_cell {
+    padding: 5px 10px;
+}
+.table .table_body_row.odd {
+    background-color: #ffffff;
+}
+.table .table_body_row.even {
+    background-color: #dfdfdf;
+}
