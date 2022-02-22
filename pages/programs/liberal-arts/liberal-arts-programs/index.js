@@ -3,9 +3,9 @@ import Layout from '../../../../components/layout'
 import PageHeader from '../../../../components/PageHeader'
 import PageBanner from '../../../../components/PageBanner'
 import PageContent from '../../../../components/PageContent'
-import { attributes, html } from '../../../../content/pages/programs/management/management-programs/index.md'
+import { attributes, html } from '../../../../content/pages/programs/liberal-arts/liberal-arts-programs/index.md'
 
-const ManagementPrograms = () => (
+const LiberalArts = () => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
@@ -13,4 +13,4 @@ const ManagementPrograms = () => (
 </Layout>
 )
 
-export default ManagementPrograms
+export default LiberalArts

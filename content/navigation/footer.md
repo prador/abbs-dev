@@ -41,7 +41,7 @@ columns:
     col_id: footer_programs
     links_list:
       - links_label: Management
-        links_loc: /program/management/
+        links_loc: /program/business/
       - links_label: Life Sciences
         links_loc: ""
       - links_label: Commerce

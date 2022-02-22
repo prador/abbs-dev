@@ -78,6 +78,9 @@ margin-top: 0.5rem;
 #management .program-section-title,#management .program-title {
   color:var(--color-management)
 }
+#business .program-section-title,#business .program-title {
+  color:var(--color-business)
+}
 #life-sciences .program-section-title,#life-sciences .program-title {
   color:var(--color-life-sciences)
 }

@@ -5,7 +5,7 @@ date: "2017-10-10"
 
 \[et\_pb\_section fb\_built="1" disabled\_on="on|on|on" \_builder\_version="3.22" disabled="on" collapsed="on" global\_colors\_info="{}"\]\[et\_pb\_row \_builder\_version="3.25" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" global\_colors\_info="{}"\]\[et\_pb\_column type="4\_4" \_builder\_version="3.25" custom\_padding="|||" global\_colors\_info="{}" custom\_padding\_\_hover="|||"\]\[et\_pb\_text admin\_label="Title" \_builder\_version="4.3.2" global\_colors\_info="{}"\]
 
-## Leadership/Management Team
+## Leadership/business Team
 
 \[/et\_pb\_text\]\[et\_pb\_image src="https://abbs.edu.in/wp-content/uploads/2019/07/Leadership\_Team.jpg" align\_tablet="center" align\_phone="" align\_last\_edited="on|desktop" admin\_label="Banner Image" \_builder\_version="3.24.1" z\_index\_tablet="500" box\_shadow\_horizontal\_tablet="0px" box\_shadow\_vertical\_tablet="0px" box\_shadow\_blur\_tablet="40px" box\_shadow\_spread\_tablet="0px" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[/et\_pb\_column\]\[/et\_pb\_row\]\[et\_pb\_row column\_structure="1\_4,1\_4,1\_4,1\_4" \_builder\_version="3.25" background\_size="initial" background\_position="top\_left" background\_repeat="repeat" global\_colors\_info="{}"\]\[et\_pb\_column type="1\_4" \_builder\_version="3.25" custom\_padding="|||" global\_colors\_info="{}" custom\_padding\_\_hover="|||"\]\[et\_pb\_image src="https://abbs.edu.in/wp-content/uploads/2018/04/DrBVijaypalreddy-Final.jpg" admin\_label="Dr B. Vijaypal Reddy Image" \_builder\_version="3.23" always\_center\_on\_mobile="off" global\_colors\_info="{}"\]\[/et\_pb\_image\]\[et\_pb\_text \_builder\_version="3.27.4" border\_style="solid" global\_colors\_info="{}"\]
 

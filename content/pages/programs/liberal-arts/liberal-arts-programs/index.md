@@ -10,15 +10,15 @@ sections:
       - program_title: BA Psychology
         program_content: ""
         program_link_label: Find Out More
-        program_link_loc: /programs/arts-humanities/ba-psychology
+        program_link_loc: /programs/liberal-arts/ba-psychology
       - program_title: BA Journalism
         program_content: ""
         program_link_label: Find Out More
-        program_link_loc: /programs/arts-humanities/ba-journalism
+        program_link_loc: /programs/liberal-arts/ba-journalism
       - program_title: BA Economics
         program_content: ""
         program_link_label: Find Out More
-        program_link_loc: /programs/arts-humanities/ba-economics
+        program_link_loc: /programs/liberal-arts/ba-economics
   - type: anchor_section
     links:
       - anchor_label: Management

@@ -38,13 +38,13 @@ sections:
 
           **PEO5**: To impart professional ethics and commitment to social responsibilities enabling them to become global corporate citizens.
         program_link_label: Find Out More
-        program_link_loc: /programs/management/mba
+        program_link_loc: /programs/business/mba
       - program_title: BBA
         program_content: Pass in two year PUC of Karnataka state (or) 10+2 or Higher
           Secondary equivalent examination of any recognized Board or Council in
           any discipline
         program_link_label: Find Out More
-        program_link_loc: /programs/management/bba
+        program_link_loc: /programs/business/bba
       - program_title: BBA Aviation Management
         program_content: >-
           ABBS has four academic divisions, made up of individual departments,
@@ -54,7 +54,7 @@ sections:
 
           On this page you’ll find essential information about each department and the courses they offer, to help you to narrow your focus to a particular course.
         program_link_label: Find Out More
-        program_link_loc: /programs/management/bba-aviation-management
+        program_link_loc: /programs/business/bba-aviation-management
   - type: program_section
     section_id: life-sciences
     section_title: Life Sciences
@@ -115,15 +115,15 @@ sections:
       - program_title: BA Psychology
         program_content: ""
         program_link_label: Find Out More
-        program_link_loc: /programs/arts-humanities/ba-psychology
+        program_link_loc: /programs/liberal-arts/ba-psychology
       - program_title: BA Journalism
         program_content: ""
         program_link_label: Find Out More
-        program_link_loc: /programs/arts-humanities/ba-journalism
+        program_link_loc: /programs/liberal-arts/ba-journalism
       - program_title: BA Economics
         program_content: ""
         program_link_label: Find Out More
-        program_link_loc: /programs/arts-humanities/ba-economics
+        program_link_loc: /programs/liberal-arts/ba-economics
   - type: program_section
     section_id: information-technology
     section_title: Information Technology

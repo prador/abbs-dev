@@ -13,20 +13,20 @@ const [selectedProg, setSelectedProg] = React.useState("");
 
 /** Different arrays for different dropdowns */
 const group1 = [
-	{"course":"BBA","link":"/programs/management/bba"},
-	{"course":"BBA Aviation Management","link":"/programs/management/bba-aviation-management"},
+	{"course":"BBA","link":"/programs/business/bba"},
+	{"course":"BBA Aviation Management","link":"/programs/business/bba-aviation-management"},
 	{"course":"B.Com","link":"/programs/commerce/b-com"},
 	{"course":"B.Com Logistics & Supply Chain","link":"/programs/commerce/b-com-supply-chain-management"},
 	{"course":"BCA","link":"/programs/information-technology/bca"},
 	{"course":"B.Sc Biotechnology","link":"/programs/life-sciences/b-sc"},
-	{"course":"Liberal Arts","link":"/programs/arts-humanities/liberal-arts-programs"},
+	{"course":"Liberal Arts","link":"/programs/liberal-arts/liberal-arts-programs"},
 ];
 
 const group2 = [
-	{"course":"MBA","link":"/programs/management/mba"},
+	{"course":"MBA","link":"/programs/business/mba"},
 ];
 const group3 = [
-	{"course":"MBA","link":"/programs/management/mba"},
+	{"course":"MBA","link":"/programs/business/mba"},
 	{"course":"M.Com","link":"/programs/commerce/m-com"}
 ];
 
@@ -58,9 +58,9 @@ const changeSelectProgramHandler = (event) => {
 }
 React.useEffect(() => {
     if (type == group1) {
-		setSelectedProg("/programs/management/bba");
+		setSelectedProg("/programs/business/bba");
 	} else if (type == group2 || type == group3) {
-		setSelectedProg("/programs/management/mba");
+		setSelectedProg("/programs/business/mba");
 	} else {
 		setSelectedProg("#");
 	}

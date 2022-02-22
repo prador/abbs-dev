@@ -10,7 +10,7 @@ const PageHeader = ({attributes}) => (
           <meta content={attributes.seo_title} property="og:title" />
           </> : 
           <>
-          <title>{attributes.title} | ABBS </title>
+          <title>{attributes.title} | Acharya Bangalore B-School - The top B school in Bangalore</title>
           <meta content={attributes.title + "| ABBS"} key="title" property="og:title" />
           <meta content={attributes.title} property="twitter:title" />
           <meta content={attributes.title} property="og:title" />

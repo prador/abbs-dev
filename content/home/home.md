@@ -1,20 +1,23 @@
 ---
 slug: /
 thumbnail: static/img/00-01-01-hero-desktop.jpg
+title: Home
+seo_title: Home | ABBS
+seo_description: This is the homepage of ABBS
 seo_keywords: test, business school, management
 date: 2019-03-17T19:31:20.591Z
 program_accordion:
   - icon: static/img/00-02-01-programs-management-solid.svg
     bg_image: static/img/00-02-01-programs-management.jpg
-    bg_color: "#efe3fd"
-    program: Management
+    bg_color: "#cfd1e8"
+    program: Business
     links:
       - name: MBA
-        loc: /programs/management/mba
+        loc: /programs/business/mba
       - name: BBA
-        loc: /programs/management/bba
+        loc: /programs/business/bba
       - name: BBA Aviation Management
-        loc: /programs/management/bba-aviation-management
+        loc: /programs/business/bba-aviation-management
   - icon: static/img/00-02-02-programs-lide-sciences-solid.svg
     bg_image: static/img/00-02-02-programs-lide-sciences.jpg
     bg_color: "#cbe9e6"
@@ -36,14 +39,14 @@ program_accordion:
   - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
     bg_image: static/img/00-02-04-programs-liberal-arts.jpg
     bg_color: "#ece0d4"
-    program: Arts & Humanities
+    program: Liberal Arts
     links:
       - name: BA Psychology
-        loc: /programs/arts-humanities/ba-psychology
+        loc: /programs/liberal-arts/ba-psychology
       - name: BA Journalism
-        loc: /programs/arts-humanities/ba-journalism
+        loc: /programs/liberal-arts/ba-journalism
       - name: BA Economics
-        loc: /programs/arts-humanities/ba-economics
+        loc: /programs/liberal-arts/ba-economics
   - icon: static/img/00-02-05-programs-information-technology-solid.svg
     bg_image: static/img/00-02-05-programs-information-technology.jpg
     bg_color: "#fbcbc2"
@@ -55,9 +58,6 @@ header_scripts: |-
   <script>whatever i type here will be added to the header scripts</script>
 
   <script>whatever i type here will be added to the header scripts</script>
-title: Home
-seo_title: Home | ABBS
-seo_description: This is the homepage of ABBS
 slider_images:
   - slide_title: Welcome Note
     slide_text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

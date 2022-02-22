@@ -3,9 +3,9 @@ import Layout from '../../../../components/layout'
 import PageHeader from '../../../../components/PageHeader'
 import PageBanner from '../../../../components/PageBanner'
 import PageContent from '../../../../components/PageContent'
-import { attributes, html } from '../../../../content/pages/programs/management/bba/index.md'
+import { attributes, html } from '../../../../content/pages/programs/business/mba/index.md'
 
-const BBA = () => (
+const MBA = () => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
@@ -13,4 +13,4 @@ const BBA = () => (
 </Layout>
 )
 
-export default BBA
+export default MBA

@@ -114,9 +114,9 @@ top_menu:
         menu_nav_link: /programs
         submenu_link: null
         show: true
-      - menu_nav_label: Management
-        menu_nav_link: /programs/management/management-programs
-        submenu_link: management
+      - menu_nav_label: Business
+        menu_nav_link: /programs/business/business-programs
+        submenu_link: business
         show: true
       - menu_nav_label: Life Sciences
         menu_nav_link: /programs/life-sciences/life-sciences-programs
@@ -126,9 +126,9 @@ top_menu:
         menu_nav_link: /programs/commerce/commerce-programs
         submenu_link: commerce
         show: true
-      - menu_nav_label: Arts & Humanities
-        menu_nav_link: /programs/arts-humanities/liberal-arts-programs
-        submenu_link: arts-humanities
+      - menu_nav_label: Liberal Arts
+        menu_nav_link: /programs/liberal-arts/liberal-arts-programs
+        submenu_link: liberal-arts
         show: true
       - menu_nav_label: Information Technology
         menu_nav_link: /programs/information-technology/information-technology-programs
@@ -259,23 +259,23 @@ top_menu:
         submenu_link: null
         show: true
     parent_menu_id: main
-  - menu_title: Management
-    menu_id: management
+  - menu_title: Business
+    menu_id: business
     menu_nav_list:
-      - menu_nav_label: Management Programs
-        menu_nav_link: /programs/management/management-programs
+      - menu_nav_label: Business Programs
+        menu_nav_link: /programs/business/business-programs
         submenu_link: null
         show: true
       - menu_nav_label: MBA
-        menu_nav_link: /programs/management/mba
+        menu_nav_link: /programs/business/mba
         submenu_link: null
         show: true
       - menu_nav_label: BBA
-        menu_nav_link: /programs/management/bba
+        menu_nav_link: /programs/business/bba
         submenu_link: null
         show: true
       - menu_nav_label: BBA Aviation Management
-        menu_nav_link: /programs/management/bba-aviation-management
+        menu_nav_link: /programs/business/bba-aviation-management
         submenu_link: null
         show: true
     parent_menu_id: programs
@@ -311,23 +311,23 @@ top_menu:
         submenu_link: null
         show: true
     parent_menu_id: programs
-  - menu_title: Arts & Humanities
-    menu_id: arts-humanities
+  - menu_title: Liberal Arts
+    menu_id: liberal-arts
     menu_nav_list:
       - menu_nav_label: Liberal Arts Programs
-        menu_nav_link: /programs/arts-humanities/liberal-arts-programs
+        menu_nav_link: /programs/liberal-arts/liberal-arts-programs
         submenu_link: null
         show: true
       - menu_nav_label: BA Psychology
-        menu_nav_link: /programs/arts-humanities/ba-psychology
+        menu_nav_link: /programs/liberal-arts/ba-psychology
         submenu_link: null
         show: true
       - menu_nav_label: BA Journalism
-        menu_nav_link: /programs/arts-humanities/ba-journalism
+        menu_nav_link: /programs/liberal-arts/ba-journalism
         submenu_link: null
         show: true
       - menu_nav_label: BA Economics
-        menu_nav_link: /programs/arts-humanities/ba-economics
+        menu_nav_link: /programs/liberal-arts/ba-economics
         submenu_link: null
         show: true
     parent_menu_id: programs

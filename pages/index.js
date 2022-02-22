@@ -96,16 +96,39 @@ const Home = ({newsList,eventsList}) => (
       </section>
         </div>
       </div>
-    {/* <div className="content">
+
+    <div className="content news-events-wrapper">
       <div className="w-layout-grid contain-block">
-    <section><h2>Recognition / Accreditions</h2></section>
+      <section className='news-events-section'>
+        <div className='news-block'>
+      <h2 className='home-section-title'><span className="header-hyphen"></span>Recognition / Accreditions</h2>
+      
+      <div>
+        <div>
+          <p>Established in 2008, Acharya Bangalore B School (ABBS)  has completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles of NBA accreditation (MBA department) and is internationally accredited by IACBE. ABBS represents the top 1% of institutes in India with its accreditations and rankings.</p>
+          <a href="#" className="btn btn-outline">View More</a>
+        </div>
+        <div>
+          <img className="events-post-image" src="static/img/00-03-01-accreditions.jpg"></img>
+          <img className="events-post-image" src="static/img/00-03-02-accreditions.jpg"></img>
+          <img className="events-post-image" src="static/img/00-03-03-accreditions.jpg"></img>
         </div>
       </div>
-    <div className="content">
-      <div className="w-layout-grid contain-block">
-    <section><h2>FAQs</h2></section>
+        
+    </div>
+    </section>
         </div>
-      </div> */}
+      </div>
+      
+      <div className="content news-events-wrapper">
+      <div className="w-layout-grid contain-block">
+      <section className='news-events-section'>
+        <div className='news-block'>
+      <h2 className='home-section-title'><span className="header-hyphen"></span>FAQs</h2> 
+      </div>
+      </section>
+        </div>
+      </div>
 
     <style jsx>{`
       h1,
