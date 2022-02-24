@@ -114,5 +114,5 @@ sections:
     apply_form: ""
     contact_form: ""
     request_brochure_link: ""
-    brochure: ""
+    brochure: static/img/ba-psychology.pdf
 ---
