@@ -7,7 +7,7 @@ const Footer = () => (
         <div className="social-links">
           <h4 className="footer-heading">Follow ABBS:</h4>
           {attributes.social_links.map(((link,id) => 
-            <>{link.show !== false ? <a key={link.id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" } <div className="delim">|</div></>
+            <>{link.show !== false ? <a key={id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" } <div className="delim">|</div></>
           ))}
         </div>
         <div className="whatsapp">
@@ -25,7 +25,7 @@ const Footer = () => (
               <h4 className="footer-heading footer-links-heading w-inline-block">{col.col_title}</h4>
               <div className="column-links">
                 {col.links_list.map(((link) => 
-            <>{link.show !== false ? <a key={link.id} className="footer-col-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
+            <>{link.show !== false ? <a key={id} className="footer-col-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
               ))}
               </div>
           </div>
@@ -51,7 +51,7 @@ const Footer = () => (
         <div className="social-links">
           <div className="copyright">{attributes.footer_copyright}</div>
           {attributes.footer_links.map(((link,id) => 
-            <><div className="delim">|</div>{link.show !== false ? <a key={link.id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
+            <><div className="delim">|</div>{link.show !== false ? <a key={id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
           ))}
         </div>
       </div>

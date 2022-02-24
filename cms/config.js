@@ -1236,16 +1236,26 @@ module.exports = {
           required: true
         },
         {
-          label: "Featured Image",
-          name: "thumbnail",
-          widget: "image"
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false
         },
         {
-          label: "Body",
-          name: "body",
-          widget: "markdown",
+          label: "Certification",
+          name: "certification",
+          required: true,
+          widget: "select",
+          multiple: false,
+          options: ["UGC", "NBA", "NAAC","IQAC","IACBE","AQAR","AISHE","AICTE","Student Hand Book"],
+          hint: "",
+          default: ""
+        },{
+          label: "File",
+          name: "file",
+          widget: "file",
           required: true
-        }
+        },
       ]
     },
     {

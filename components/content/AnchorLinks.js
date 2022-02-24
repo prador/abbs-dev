@@ -17,8 +17,8 @@ const AnchorLinks = ({att}) => {
     <>
     {att.links ?
       <div className={scrolling? 'in-page-links active' : 'in-page-links'}>
-        {att.links.map((link) => (
-          <a key={link.id} href={"#"+`${link.anchor_loc ? link.anchor_loc : ""}`}>{link.anchor_label} -</a>
+        {att.links.map((link,id) => (
+          <a key={id} href={"#"+`${link.anchor_loc ? link.anchor_loc : ""}`}>{link.anchor_label} -</a>
         ))}
       </div>
       : "" }

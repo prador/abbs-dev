@@ -22,11 +22,11 @@ const ProgramDetailsSection = ({att}) => {
         {att.duration ? <p><strong>Duration: </strong>{att.duration}</p> : ""}
         {att.credentials ? <p><strong>Credentials: </strong>{att.credentials}</p> : ""}
         {att.deadlines ? <p><strong>Deadlines: </strong>{att.deadlines}</p> : ""}
-        {att.apply_form ? <a class="btn btn-black" href={att.apply_form}>Apply Now</a> : ""}
-        {att.request_brochure_link ? <a class="btn btn-outline" href={att.request_brochure_link}>Request Brochure</a> : 
-        <>{att.brochure ? <a target="_blank" class="btn btn-outline" href={"/"+att.brochure}>Request Brochure</a> : ""}</>}
+        {att.apply_form ? <a className="btn btn-black" href={att.apply_form}>Apply Now</a> : ""}
+        {att.request_brochure_link ? <a className="btn btn-outline" href={att.request_brochure_link}>Request Brochure</a> : 
+        <>{att.brochure ? <a target="_blank" className="btn btn-outline" href={"/"+att.brochure}>Request Brochure</a> : ""}</>}
         
-        {att.contact_form ? <a class="btn btn-outline" href={att.contact_form}>Contact Us</a> : ""}
+        {att.contact_form ? <a className="btn btn-outline" href={att.contact_form}>Contact Us</a> : ""}
       </div>
       : "" }
     </>

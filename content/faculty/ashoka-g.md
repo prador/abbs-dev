@@ -1,7 +1,7 @@
 ---
 title: "Ashoka G"
 date: "2020-03-13"
-thumbnail: "static/img/static/img/Ashoka-G.jpg"
+thumbnail: "static/img/Ashoka-G.jpg"
 ---
 
 Qualification: Ashoka GM.Com, BBM  

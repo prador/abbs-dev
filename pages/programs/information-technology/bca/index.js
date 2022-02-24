@@ -14,26 +14,30 @@ const importTestimonials = async () => {
 
   return Promise.all(
     markdownFiles.map(async (path) => {
-      const markdown = await import(`../../../../content/testimonials/${path}`)
+      const markdown = await import(`../../../../content/testimonials/${path}`);
       return { ...markdown, slug: path.substring(0, path.length - 3) }
     })
   )
 }
 
-const BCA = (testimonialsList) => (
+const BCA = (testimonials) => {
+  let programType = attributes.sections.find( ({ type }) => type === 'testimonials_section');
+  let filterTestimonials = testimonials.testimonials.filter((obj) => obj.attributes.program === programType.program).splice(0, programType.limit);
+console.log("testes",filterTestimonials)
+  return (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
-  <PageContent att={attributes} html={html} testimonialsList={testimonialsList}/>
+  <PageContent att={attributes} html={html} testimonials={filterTestimonials}/>
 </Layout>
-)
+)}
 
 export async function getStaticProps() {
-  const testimonialsList = await importTestimonials()
+  const testimonials = await importTestimonials()
 
   return {
     props: {
-      testimonialsList,
+      testimonials,
     }, // will be passed to the page component as props
   }
 }
