@@ -113,6 +113,7 @@
 --color-purple: #8467AA;
 --color-black: #242425;
 --color-blue: #1B4698;
+--color-brightblue: #0c38ef;
 --color-ghost: transparent;
 --color-management : #8467AA;
 --color-business : #4059a9;
@@ -339,6 +340,7 @@ b, strong {
   font-size: 0.8rem;
   font-family: "HKGrotesk", sans-serif;
   padding: 0.5rem 3rem 0.5rem 1rem;  
+  cursor: pointer;
 }
 .btn-ghost {
   color: var(--color-grey);
@@ -415,9 +417,9 @@ b, strong {
   background-position: 90% center;
 }
 .btn-blue {
-  border: 1px solid var(--color-blue);
+  border: 1px solid var(--color-brightblue);
   color: var(--color-white);
-  background:var(--color-blue);
+  background:var(--color-brightblue);
   background-image: url(../icons/arrow-right-white.svg);
   background-repeat: no-repeat;
   background-size: 0.8rem;

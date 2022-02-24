@@ -13,6 +13,7 @@ import ProgramSection from "./content/ProgramSection"
 import TestimonialsSection from "./content/TestimonialsSection"
 import RelatedPostsSection from "./content/RelatedPostsSection"
 import CollectionSection from "./content/CollectionSection"
+import ProgramDetailsSection from "./content/ProgramDetailsSection"
 // import '../assets/styles/pagecontent.module.css'
 
 const PageContent = ({att,html,list,testimonialsList}) => {
@@ -71,13 +72,14 @@ const PageContent = ({att,html,list,testimonialsList}) => {
                 ))}
               </> : "" }
           </div>
-          {att.sections ? <>
+          {att.sections ? <div class="side-float">
             {att.sections.map((section)=> (
               <>
               {section.links ? <AnchorLinks att={section} /> : ""}
+              {section.type == "program_details" ? <ProgramDetailsSection att={section} /> : ""}
               </>
             ))}
-          </> : "" }
+          </div> : "" }
         </div>
       </div>
     </>

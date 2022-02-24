@@ -7,22 +7,16 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      ABBS’ BCA program provides an opportunity for aspirants who are heading
-      towards a career in the Information and Technology field. The course
-      enables students to identify and sharpen their IT skills and cater to the
-      needs of the IT industry. 
+      Aviation is by far, one of the fastest-growing industries in India and
+      across the world. BBA Aviation specifically teaches students the art of
+      managing this particular industry. ABBS is ranked as one of the best
+      B-schools in Bangalore. 
 
 
-      Our BCA programme strikes a balance between theoretical skill instruction and intricate, hands-on system design. The programme encompasses a broad range of topics including object-oriented programming, software engineering, computer architecture, data structures and database management. 
+      BBA in Aviation is an undergraduate program that specifically focuses on the basics of business communication, operations, logistics, economics, and security, especially in the aviation area. The course deals with the study of airports, flight businesses, airline management, and other aspects of aviation management. Aviation Management is a multi-disciplinary course involving management, air travel, airport management, safety, logistics and retail areas. 
 
 
-      Our highly qualified faculty members, eminent guest lecturers, professors, and successful entrepreneurs are well-versed in the field of Computer Applications.  
-
-
-      The BCA course imparts learning and skills about various computer applications and issues that arise with it. The BCA course includes subjects like core programming languages, data structure, and hardware networking. 
-
-
-      Career Prospects after BCA Course In Bangalore
+      BBA-Aviation Management Course offered by our institution is under the purview of Bangalore University. Our highly qualified faculty members, eminent guest lecturers, professors, successful entrepreneurs are well-versed in Business Administration and Aviation Management. The institution has a full-fledged placement support system, and we arrange for campus selection by reputed companies.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -30,75 +24,98 @@ sections:
       - accordion_title: Course Outline
         accordion_content: ""
       - accordion_title: HOD's Message
-        accordion_content: ""
+        accordion_content: >-
+          ###### Mr Joswa Stalin S
+
+
+          **MBA, PGDHRM, B. Ed**
+
+
+          Welcome to the department of Aviation Management at Acharya Bangalore B-School, Bengaluru. Aviation management is the ability to manage the workflow related to the airline, airport or aviation industry. We at ABBS aims to train competent personnel to oversee the quality, control and safety of all necessary operations-based activities, especially marketing, finance and accounting in the aviation sector, such as airline, airport, ground handling, shipment management.Apart from Academics students are given opportunities to explore the industry through Industrial visits to various Airports, Student Presentation on Aviation Topics, Case Study Analysis & so on.  I wish your years at ABBS to be very fruitful for you.
       - accordion_title: Career Prospect
         accordion_content: >-
-          * Jobs in government and private sectors.  
+          * Aviation Managers 
 
-          * Job opportunities from leading IT giants such as Infosys, Wipro, Oracle, etc. 
+          * Resource Managers
 
-          * Software engineer 
+          * Fleet Managers
 
-          * Software associate 
+          * Financial Accounting
 
-          * Junior developer 
+          * Airport Operations 
 
-          * System admin 
+          * Passenger Forecasting
 
-          * Associate programmer
+          * Travel & Tourism
+
+          * Airport Infrastructure Support Systems Management
+
+          * Flight Operations
+
+          * Airport Allied Services
+
+          * Cargo / Freight Movement
+
+          * Academics / Teaching Assignments
+
+          * Airport Planning 
+
+          * Communication 
+
+          * Marketing
+
+          * Administrative knowledge in Sales & Advertising Companies or Educational Institutes
       - accordion_title: Program Dates
-        accordion_content: |-
-          1st semester: July 2022 
-
-          2nd Semester: November 2022 
-
-          3rd Semester: April 2022
+        accordion_content: ""
   - type: accordion_section
     section_id: admission-tuition
     section_title: Admission and Tuition
     accordions:
       - accordion_title: Eligibility
-        accordion_content: >-
-          * 10+2 or PUC equivalent degree from a recognized education board and
-          a minimum aggregate of 40% in 10th and 12th. 
-
-          * Students can be from any discipline such as Science, Commerce, or Arts in their 12th or PUC. Knowledge on programming languages could be an added advantage. 
-
-          * A keen interest in software programming, development, and testing. 
-
-          * Leadership skills and problem analyzing & solving ability.
+        accordion_content: "* 10+2 or PUC equivalent degree from a recognized education
+          board and a minimum aggregate of 40% in 10th and 12th."
       - accordion_title: Application Timeline
         accordion_content: >-
-          The admission process for various programmes commences during January
-          of every year and extends till the last date of admission as per the
-          university regulations or availability of seats, whichever is
-          earlier. 
+          The Admission selection process for undergraduate programs commences
+          during January of every year and extends till the last date of
+          admission as per the university regulations or availability of seats,
+          whichever is earlier.
 
 
           *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
       - accordion_title: "Tuition fees and Scholarships: "
-        accordion_content: ""
+        accordion_content: "[Please read the details here](/admissions/fees-scholarships)"
   - type: accordion_section
     section_id: more-information
     section_title: More Information
     accordions:
       - accordion_title: Objectives of the Program
         accordion_content: >-
-          * To enable students to be familiar with Software development,
-          conducting tests, and evaluate software circuits 
+          * To develop ethical managers with inter-disciplinary knowledge.
 
-          * To ease the use of programming languages in students and help them write code for software.  
+          * To develop entrepreneurs in Civil Aviation related organizations.
 
-          * Students are introduced to computer languages including C, C++, C#, Java, Python, etc. 
+          * To prepare students to take the responsibility for the financial, marketing and human resource functioning’s of a company.
 
-          * To develop websites one needs to have exposure to HTML/XHTML, CSS, PHP, JavaScript.
+          * To develop aviation global leaders.
+
+          * To develop business analysts for companies, capital markets and commodity markets.
+
+          * To prepare students to take up higher education to become business scientists, researchers, consultants and teachers, with core competencies.
+
+          * To develop the students for competitive examinations of UPSC, KPSC, BSRB, Airline Selection, etc.
       - accordion_title: Bring Your Own Device
-        accordion_content: ""
+        accordion_content: As part of ABBS commitment to innovative learning strategies,
+          the Bring Your Own Device (BYOD) initiative is designed to enhance
+          your learning experience. Through the use of online and mobile
+          technologies in and out of the classroom, you will be able to access
+          course materials, participate in collaborative learning environments
+          and build the technological skills needed in today's workforce.
   - type: testimonials_section
     section_id: testimonials
     section_title: Testimonials
     show_toggle: true
-    program: BCA
+    program: BBA Aviation Management
     limit: 2
   - type: anchor_section
     links:
@@ -114,4 +131,12 @@ sections:
         anchor_loc: Testimonials
       - anchor_label: Related News
         anchor_loc: related-news
+  - type: program_details
+    next_intake: January 2023
+    duration: 3 to 4 Years (6 to 8 semesters)
+    credentials: Bachelors in Aviation Management
+    apply_form: ""
+    contact_form: ""
+    request_brochure_link: ""
+    brochure: static/img/03-02-05-bba-aviation-management.pdf
 ---

@@ -27,14 +27,14 @@ sections:
 
 
       Many members of our faculty are part of ongoing research projects, and many have earned international awards and felicitations for their exemplary contributions in the realm of research.
+  - type: collection_section
+    section_id: faculty-directory
+    section_title: Faculty Directory
+    collection_content: Faculty Directory
   - type: anchor_section
     links:
       - anchor_label: Our Experienced Faculties
         anchor_loc: our-faculties
       - anchor_label: Faculty Directory
         anchor_loc: faculty-directory
-  - type: collection_section
-    section_id: faculty-directory
-    section_title: Faculty Directory
-    collection_content: Faculty Directory
 ---

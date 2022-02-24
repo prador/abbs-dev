@@ -704,7 +704,67 @@ module.exports = {
               ]
             },
             {
-              label: 'Program Section',
+              label: "Program Details",
+              name: "program_details",
+              required: true,
+              widget: "object",
+              hint: "",
+              default: "#",
+              allow_add: true,
+              fields: [{
+                label: "Next Intake",
+                name: "next_intake",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Duration",
+                name: "duration",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Credentials",
+                name: "credentials",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Apply Form",
+                name: "apply_form",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Contact Form",
+                name: "contact_form",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Request Brochure Link",
+                name: "request_brochure_link",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Brochure",
+                name: "brochure",
+                required: false,
+                widget: "file",
+                hint: "",
+                default: ""
+              }
+            ]
+            },
+            {
+              label: 'Program Brief Section',
               name: 'program_section',
               summary: "{{section_title}} Programs ",
               required: false,
@@ -1047,7 +1107,8 @@ module.exports = {
         {
           label: "Featured Image",
           name: "thumbnail",
-          widget: "image"
+          widget: "image",
+          required: false
         },
         {
           label: "Program",
@@ -1062,7 +1123,7 @@ module.exports = {
           name: "batch",
           widget: "select",
           multiple: false,
-          options: ["2017-2018","2018-2019","2019-2020","2020-2021"],
+          options: ["2017-2018","2018-2019","2019-2020","2020-2021","2018-2021","2020","2021","2022","2023","2024"],
           required: true
         },
         {

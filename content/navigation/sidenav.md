@@ -185,7 +185,7 @@ top_menu:
       - menu_nav_label: Placements
         menu_nav_link: /corporate/placements
         submenu_link: placements
-        show: true
+        show: false
     parent_menu_id: main
   - menu_title: Campus Life
     menu_id: campus-life

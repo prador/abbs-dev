@@ -4,6 +4,7 @@ qualifications: MD, MBBS, DCH
 title: Chairman
 tags:
   - Leadership Team
+  - Faculty
 order: 1
 thumbnail: static/img/01-05-01-dr-b-vijaypal.jpg
 date: 2021-11-19T23:12:51.571Z

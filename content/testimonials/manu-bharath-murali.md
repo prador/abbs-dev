@@ -1,0 +1,8 @@
+---
+title: Manu Bharath Murali
+date: 2022-02-24T01:22:03.164Z
+thumbnail: static/img/03-06-02-bca-testimonial-01-manu-bharath.jpg
+program: BCA
+batch: "2023"
+---
+Acharya has always felt like home. It feels so because it possesses all the qualities of an ideal college in all possible right ways. Just like in-home, we are free to do anything we want the same way here we are allowed to choose our field of interests which will suit us the best. The courses and curriculum are up to the mark, unlike others. All our professors are very knowledgeable and hold a respectable place in society which helps the students in both personal and intellectual growth. In this era of education is all that is important, Acharya puts them aside and makes sure to give equal importance to other co-curricular activities along with studies. Acharya helps in cutting down the misconception that education is all about making money in the future. Maybe it is so but along with that, there are a lot of other criteria’s that come into consideration like socializing, etc in which Acharya along with its faculty puts at most effort to bring out the best in every student. Encouraging the special talent in the student is something special about this college. Not everywhere you go you’ll be given opportunities to showcase your talent and if you have one then you looking to get into the right place. Be it dance or sports or whatever you are good at, you’ll be given the best possible opportunity to showcase what you have.

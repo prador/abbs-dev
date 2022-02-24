@@ -23,7 +23,6 @@ const TestimonialsSection = ({att,testimonialsList}) => {
               <div className="news-post-content">
                 <h5>{post.attributes.title}</h5>
                 <p dangerouslySetInnerHTML={{__html: post.html}}></p>
-                <span>{post.attributes.date}</span>
               </div>
             </div>
             ))}

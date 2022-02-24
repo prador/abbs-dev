@@ -4,6 +4,7 @@ qualifications: PhD, MBA, M.Com, B.Com
 title: Director, MBA
 tags:
   - Leadership Team
+  - Faculty
 order: 5
 thumbnail: static/img/01-05-05-dr-hr-venkatesha.jpg
 ---

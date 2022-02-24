@@ -1,0 +1,9 @@
+---
+title: Likitha
+date: 2022-02-24T01:24:04.400Z
+thumbnail: static/img/03-06-02-bca-testimonial-02-likitha.jpg
+program: BCA
+batch: "2022"
+---
+Since day 1 my journey in abbs has been wonderful and full of exploration. Not just within but all around me. The first and foremost thing I was drawn towards to this college was the unique architecture and eco-friendly environment giving a soothing atmosphere. Big library which contains all syllabus or course books, journals, science research papers and novels. Classrooms have projectors and smart classes in every classroom and lab. Wifi available and all infrastructure is well maintained. And also the canteen and places are hygienic. The faculties and the coordinators have been great support givers in our overall development.  From our
+academics to the co-curricular activities they have always been supportive. Teaching methodology is very good. Teachers are very helpful and cooperative. They are understanding and qualified. They teach us with the latest skills and practically developed equipment. Coming to all the non academic activities there are a lot of active clubs and events giving us all the unique development space that we need. The best feature of my college campus is big classes, big and airy classrooms, libraries and clean and hygienic canteen. There are lots of extra curricular activities, Sessions and events on interesting topics like entrepreneurship, innovation, workshops of digital designing, Content writing, etc. Helds in our college every week about placement we have a placement cell and coordinators that are grooming us into the better individual as per the corporate standards and helping and teaching us all with the best possible experience.
