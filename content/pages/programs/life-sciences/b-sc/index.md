@@ -98,6 +98,7 @@ sections:
           *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
       - accordion_title: "Tuition fees and Scholarships: "
         accordion_content: "[Please read the details here](/admissions/fees-scholarships)"
+  - type: accordion_section
     section_id: more-information
     section_title: More Information
     accordions:
