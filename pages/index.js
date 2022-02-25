@@ -61,7 +61,7 @@ const Home = ({newsList,eventsList}) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="news-post">
               <div className="news-post-content">
-                <h5>{post.attributes.title}</h5>
+                <h6>{post.attributes.title}</h6>
                 <p dangerouslySetInnerHTML={{__html: post.html}}></p>
                 <span>{post.attributes.date}</span>
               </div>
@@ -69,7 +69,8 @@ const Home = ({newsList,eventsList}) => (
             </div>
         </Link>
     ))}
-    <a href="/news-events/news" className='btn btn-ghost'>More from ABBS News</a>
+    <span></span>
+    <a href="/news-events/news" className='btn btn-ghost news-block-link'>More from ABBS News</a>
         </div>
         </div>
         <div  className='events-block'>
@@ -82,14 +83,15 @@ const Home = ({newsList,eventsList}) => (
 
             <img className="events-post-image" src={post.attributes.thumbnail}></img>
             <div className="events-post-content">
-            <h5>{post.attributes.title}</h5>
+            <h6>{post.attributes.title}</h6>
             {/* <p dangerouslySetInnerHTML={{__html: post.html}}></p> */}
             <span>{post.attributes.date}</span>
             </div>
               </div>
         </Link>
     ))}
-        <a href="/news-events/events" className='btn btn-ghost'>More from ABBS Events</a>
+    <span></span>
+        <a href="/news-events/events" className='btn btn-ghost events-block-link'>More from ABBS Events</a>
         </div>
         </div>
 

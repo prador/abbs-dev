@@ -73,7 +73,7 @@ const PageContent = ({att,html,list,testimonials,docs}) => {
               </> : "" }
               {docs? <DocumentsSection docs={docs}/> : ""}
           </div>
-          {att.sections.links ? <div className="side-float">
+          {att.sections ? <div className="side-float">
             {att.sections.map((section)=> (
               <>
               {section.links ? <AnchorLinks att={section} /> : ""}

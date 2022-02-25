@@ -205,6 +205,11 @@ max-width: 100%;
 .news-block {
 
 }
+.news-block-link,.events-block-link {
+  display: inline-flex;
+justify-self: end;
+width: fit-content;
+}
 .events-block {
 
 }

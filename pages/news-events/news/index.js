@@ -3,6 +3,8 @@ import Layout from '../../../components/layout'
 import PageHeader from '../../../components/PageHeader'
 import PageBanner from '../../../components/PageBanner'
 import PageContent from '../../../components/PageContent'
+import Breadcrumbs from '../../../components/navigation/Breadcrumbs'
+
 import { attributes, html } from '../../../content/pages/news-events/news/index.md'
 const importNews = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -22,10 +24,10 @@ const News = ({newsList}) => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
-  <PageContent att={attributes} html={html}/>
-  <div className="content news-events-wrapper">
+  <div className="content news-events-page-wrapper">
+  <Breadcrumbs att={attributes}/>
       <div className="w-layout-grid contain-block">
-      <section className='news-events-section'>
+      <section className='news-events-page-section'>
   {newsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
