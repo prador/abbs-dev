@@ -36,7 +36,9 @@ const importEvents = async () => {
     })
   )
 }
-const Home = ({newsList,eventsList}) => (
+const Home = ({newsList,eventsList}) => {
+  console.log(attributes)
+  return (
   <Layout>
     <PageHeader attributes={attributes} />
     <HomeSlideshow att={attributes.slider_images} className="animate__animated animate__fadeInUp"/>  
@@ -103,16 +105,18 @@ const Home = ({newsList,eventsList}) => (
       <div className="w-layout-grid contain-block">
       <section className='rec-acred-section'>
         <div className='rec-acred-block'>
-      <h2 className='home-section-title'><span className="header-hyphen"></span>Recognition / Accreditions</h2>
+      <h2 className='home-section-title'><span className="header-hyphen"></span>{attributes.rec_acc_section.section_title}</h2>
       
       <div className='rec-acred-wrapper'>
         <div className="rec-acred-content">
-          <p>Established in 2008, Acharya Bangalore B School (ABBS)  has completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles of NBA accreditation (MBA department) and is internationally accredited by IACBE. ABBS represents the top 1% of institutes in India with its accreditations and rankings.</p>
-          <a href="#" className="btn btn-outline">View More</a>
+          <p>{attributes.rec_acc_section.section_text}</p>
+          <a href="/abbs-edge/recognition-accreditations" className="btn btn-outline">View More</a>
         </div>
-        <img className="rec-acred-image" src="static/img/00-03-01-accreditions.jpg"></img>
-          <img className="rec-acred-image" src="static/img/00-03-02-accreditions.jpg"></img>
-          <img className="rec-acred-image" src="static/img/00-03-03-accreditions.jpg"></img>
+        {attributes.rec_acc_section.logos.map((post) => 
+          <>
+          <img className="rec-acred-image" src={post.logo_image}/>
+          </>
+        )}
       </div>
         
     </div>
@@ -142,7 +146,7 @@ const Home = ({newsList,eventsList}) => (
       }
     `}</style>
   </Layout>
-)
+)}
 
 export async function getStaticProps() {
   const newsList = await importNews()

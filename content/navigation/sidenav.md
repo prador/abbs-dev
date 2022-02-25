@@ -335,7 +335,7 @@ top_menu:
     menu_id: information-technology
     menu_nav_list:
       - menu_nav_label: Information Technology Program
-        menu_nav_link: /programs/information-technology/information-technology-program
+        menu_nav_link: /programs/information-technology/information-technology-programs
         submenu_link: null
         show: true
       - menu_nav_label: BCA

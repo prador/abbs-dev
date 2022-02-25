@@ -20,7 +20,5 @@ sections:
         program_link_label: Find Out More
         program_link_loc: /programs/information-technology/bca
   - type: anchor_section
-    links:
-      - anchor_label: Information Technology
-        anchor_loc: information-technology
+    links: []
 ---

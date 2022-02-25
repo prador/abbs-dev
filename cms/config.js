@@ -159,7 +159,7 @@ module.exports = {
         },
         {
           label: 'Recognition and Accreditation Section',
-          name: 'logo_section',
+          name: 'rec_acc_section',
           required: false,
           widget: "object",
           fields: [{
@@ -188,6 +188,11 @@ module.exports = {
             options: ["grid-2", "grid-3", "grid-4"],
             required: false
           }, {
+            label: "Section Text",
+            name: "section_text",
+            widget: "text",
+            required: false
+          },{
             label: 'Logos',
             name: 'logos',
             required: false,

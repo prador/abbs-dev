@@ -36,7 +36,7 @@ const ProgramAccordion = ({programs}) => {
                   <span className="prog-bg-logo-wrapper "><img className="prog-bg-logo bg-logo-1" src={prog.icon} alt={prog.program}/><img className="prog-bg-logo bg-logo-2" src={prog.icon} alt={prog.program}/></span>
                   <div>
                     <img src={prog.icon} alt={prog.program}/>
-                    <h5>{prog.program}</h5>
+                    <h4 className="program-accordion-title">{prog.program}</h4>
                   </div>
                   <ul>
                   {prog.links.map((link) => (

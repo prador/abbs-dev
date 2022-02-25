@@ -71,6 +71,27 @@ program_accordion:
     links:
       - name: BCA
         loc: /programs/information-technology/bca
+rec_acc_section:
+  section_id: rec-acc-section
+  section_title: Recognition / Accreditions
+  section_text: Established in 2008, Acharya Bangalore B School (ABBS) has
+    completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles of
+    NBA accreditation (MBA department) and is internationally accredited by
+    IACBE. ABBS represents the top 1% of institutes in India with its
+    accreditations and rankings.
+  logos:
+    - logo_title: ""
+      logo_subtitle: ""
+      logo_link: ""
+      logo_image: static/img/00-03-01-accreditions.jpg
+    - logo_title: ""
+      logo_subtitle: ""
+      logo_link: ""
+      logo_image: static/img/00-03-02-accreditions.jpg
+    - logo_title: ""
+      logo_subtitle: ""
+      logo_link: ""
+      logo_image: static/img/00-03-03-accreditions.jpg
 faq_section:
   accordions:
     - accordion_title: "What B-school means? "
