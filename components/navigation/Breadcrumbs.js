@@ -19,7 +19,7 @@ const Breadcrumbs = ({att}) => {
     var output = hlinks.map(function(obj,index){
       let myobj = {};
       if (index == 0) {myobj.loc = 'Home';} else {
-        myobj.loc = routes[index];
+        myobj.loc = routes[index].replace(/-/g, ' ');
       }
       if (index+1 == hlinks.length) {myobj.loc = att.title;} else {
         myobj.path = obj;

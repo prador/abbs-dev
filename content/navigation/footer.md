@@ -3,18 +3,18 @@ logo: static/img/00-abbs-logo-black.svg
 social_links:
   - links_label: Twitter
     links_loc: ""
-    show: true
+    show: false
   - links_label: Instagram
-    links_loc: ""
+    links_loc: https://www.instagram.com/acharyabbs/
     show: true
   - links_label: Facebook
-    links_loc: ""
+    links_loc: https://www.facebook.com/AcharyaBBS
     show: true
   - links_label: Youtube
-    links_loc: ""
+    links_loc: https://www.youtube.com/c/AcharyabbsAcInABBS
     show: true
   - links_label: Linkedin
-    links_loc: ""
+    links_loc: https://www.linkedin.com/school/acharya-bangalore-business-school/
     show: true
 footer_copyright: © Acharya Bangalore B-School. All rights reserved.
 contact_info:
@@ -77,7 +77,7 @@ columns:
       - links_label: FAQs
         links_loc: /faqs
       - links_label: Code of Conduct
-        links_loc: /code-of-contact
+        links_loc: /code-of-conduct
       - links_label: Grievance Redressal
         links_loc: /grievance-redressal
       - links_label: Mandatory Disclosures

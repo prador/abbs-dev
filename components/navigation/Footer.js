@@ -7,7 +7,7 @@ const Footer = () => (
         <div className="social-links">
           <h4 className="footer-heading">Follow ABBS:</h4>
           {attributes.social_links.map(((link,id) => 
-            <>{link.show !== false ? <a key={id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" } <div className="delim">|</div></>
+            <>{link.show !== false ? <a key={id} target="_blank" className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" } <div className="delim">|</div></>
           ))}
         </div>
         <div className="whatsapp">
@@ -16,7 +16,7 @@ const Footer = () => (
         </div>
         <div className="email">
           <h4 className="footer-heading">Send us a message</h4>
-          <a href={"mailto:"+attributes.contact_info.contact_email} className="footer-link">{attributes.contact_info.contact_email}</a>
+          <a target="_blank" href={"mailto:"+attributes.contact_info.contact_email} className="footer-link">{attributes.contact_info.contact_email}</a>
         </div>
       </div>
       <div className="footer_row2">
