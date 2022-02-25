@@ -27,7 +27,16 @@ const DropdownMenu = () => {
       const routesArray= pathName.split('/');
       const menu = routesArray[1]
       let pageLevel = routesArray.length -1;
-			{pageLevel === 1 ? setActiveMenu('main') : setActiveMenu(menu) }
+      console.log(menu)
+      console.log(pageLevel)
+      if(pageLevel === 1 || pageLevel === 2){
+        setActiveMenu(routesArray[1])
+      } else if(pageLevel === 3){
+        setActiveMenu(routesArray[2])
+      } else {
+        setActiveMenu('main')
+      }
+			// {pageLevel === 1 ? setActiveMenu('main') : setActiveMenu(menu) }
     }, [])
   
     function calcHeight(el) {
@@ -43,12 +52,18 @@ const DropdownMenu = () => {
 			}
 			const handleClick = (e) => {
 				e.preventDefault()
-				router.push(props.url ? props.url : router.asPath)
-				setActiveMenu(props.goToMenu)
+        // alert(props.url+" - "+props.goToMenu)
+        if(props.goToMenu){
+          setActiveMenu(props.goToMenu)
+        } else {
+          router.push(props.url ? props.url : router.asPath)
+        }
+				
 			}
       return (
         <Link key={key} href={props.url ? props.url : "#"} >
-          <a className={props.btn == "back" ? "menu-back" : `menu-item${props.goToMenu ? " menu-top" : " menu-last"}`} href={props.url} onClick={props.goToMenu != null ? handleClick : ""} style={style}>
+          {/* onClick={props.goToMenu != null ? handleClick : ""} */}
+          <a className={props.btn == "back" ? "menu-back" : `menu-item${props.goToMenu ? " menu-top" : " menu-last"}`} href={props.goToMenu != null ? "" : props.url } onClick={props.goToMenu != null ? handleClick : ""} style={style}>
             {props.children}
           </a>
       </Link>
