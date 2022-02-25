@@ -14,12 +14,11 @@ import TestimonialsSection from "./content/TestimonialsSection"
 import RelatedPostsSection from "./content/RelatedPostsSection"
 import CollectionSection from "./content/CollectionSection"
 import ProgramDetailsSection from "./content/ProgramDetailsSection"
+import DocumentsSection from "./content/DocumentsSection";
 // import '../assets/styles/pagecontent.module.css'
 
-const PageContent = ({att,html,list,testimonials}) => {
+const PageContent = ({att,html,list,testimonials,docs}) => {
   const sectionSwitch = (section) => {
-    console.log(section)
-    console.log(list)
     switch (section.type) {
       case "text_section":
         return <TextSection att={section}/>
@@ -72,8 +71,9 @@ const PageContent = ({att,html,list,testimonials}) => {
                   </>
                 ))}
               </> : "" }
+              {docs? <DocumentsSection docs={docs}/> : ""}
           </div>
-          {att.sections ? <div className="side-float">
+          {att.sections.links ? <div className="side-float">
             {att.sections.map((section)=> (
               <>
               {section.links ? <AnchorLinks att={section} /> : ""}

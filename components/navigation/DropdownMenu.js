@@ -24,8 +24,10 @@ const DropdownMenu = () => {
 
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
-			const menu = pathName.split('/')[1]
-			{menu === "" || menu === "about" || menu === "blog" || menu === "nog" ? setActiveMenu('main') : setActiveMenu(menu)}
+      const routesArray= pathName.split('/');
+      const menu = routesArray[1]
+      let pageLevel = routesArray.length -1;
+			{pageLevel === 1 ? setActiveMenu('main') : setActiveMenu(menu) }
     }, [])
   
     function calcHeight(el) {
@@ -36,7 +38,6 @@ const DropdownMenu = () => {
     function DropdownItem(props,key) {
 			
 			const style = {
-				// marginRight: 10,
 				color: router.asPath === props.url ? 'black' : 'white',
         backgroundColor: router.asPath === props.url ? '#DBDBDB' : 'transparent',
 			}
@@ -47,9 +48,9 @@ const DropdownMenu = () => {
 			}
       return (
         <Link key={key} href={props.url ? props.url : "#"} >
-        <a className={props.btn == "back" ? "menu-back" : `menu-item${props.goToMenu ? " menu-top" : " menu-last"}`} href={props.url} onClick={props.goToMenu != null ? handleClick : ""} style={style}>
-          {props.children}
-        </a>
+          <a className={props.btn == "back" ? "menu-back" : `menu-item${props.goToMenu ? " menu-top" : " menu-last"}`} href={props.url} onClick={props.goToMenu != null ? handleClick : ""} style={style}>
+            {props.children}
+          </a>
       </Link>
       );
     }

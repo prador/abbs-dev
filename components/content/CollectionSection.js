@@ -1,7 +1,6 @@
 import TeamList from './TeamList'
 
 const CollectionSection = ({att,list}) => {
-  // console.log(att)
   return (
   <>
     <section className="collection-section-wrapper">

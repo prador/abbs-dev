@@ -14,10 +14,5 @@ links:
   - anchor_title: ""
     anchor_id: ""
 thumbnail: static/img/mandatory-disclosures-banner.jpg
-sections:
-  - type: embed_section
-    section_id: ""
-    section_title: ""
-    embed_source: <iframe src="https://abbs-docs.netlify.app/" ></iframe>
-    embed_size: large
+sections: []
 ---

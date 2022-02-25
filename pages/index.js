@@ -36,7 +36,6 @@ const importEvents = async () => {
     })
   )
 }
-console.log(attributes)
 const Home = ({newsList,eventsList}) => (
   <Layout>
     <PageHeader attributes={attributes} />

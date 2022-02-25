@@ -23,7 +23,6 @@ const importTestimonials = async () => {
 const BBAAviation = (testimonials) => {
   let programType = attributes.sections.find( ({ type }) => type === 'testimonials_section');
   let filterTestimonials = testimonials.testimonials.filter((obj) => obj.attributes.program === programType.program).splice(0, programType.limit);
-console.log("testes",filterTestimonials)
   return (
   <Layout>
   <PageHeader attributes={attributes} />

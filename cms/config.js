@@ -1236,6 +1236,12 @@ module.exports = {
           required: true
         },
         {
+          label: "Order",
+          name: "order",
+          widget: "string",
+          required: true
+        },
+        {
           label: "Description",
           name: "description",
           widget: "string",
@@ -1247,14 +1253,15 @@ module.exports = {
           required: true,
           widget: "select",
           multiple: false,
-          options: ["UGC", "NBA", "NAAC","IQAC","IACBE","AQAR","AISHE","AICTE","Student Hand Book"],
+          options: ["Form 10B","UGC", "NBA", "NAAC","IQAC","IACBE","AQAR","AISHE","AICTE","Student Hand Book"],
           hint: "",
           default: ""
         },{
-          label: "File",
-          name: "file",
+          label: "Asset",
+          name: "asset",
           widget: "file",
-          required: true
+          required: true,
+          allow_multiple: true
         },
       ]
     },

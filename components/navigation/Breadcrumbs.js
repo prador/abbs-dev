@@ -11,7 +11,6 @@ const Breadcrumbs = ({att}) => {
         {
             i=i.slice(1);
             i=i.slice(0, i.length - 1);
-            console.log(i)
             arr[index]=router.query[i];
         }
         str=str+arr[index]+'/';

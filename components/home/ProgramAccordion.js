@@ -2,7 +2,6 @@ import { useState,useRef } from "react";
 
 const ProgramAccordion = ({programs}) => {
   const [clicked, setClicked] = useState("0");
-console.log(programs);
   const contentEl = useRef();
   const handleToggle = (index) => {
     if (clicked === index) {
