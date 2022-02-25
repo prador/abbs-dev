@@ -25,18 +25,22 @@ const DropdownMenu = () => {
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
       const routesArray= pathName.split('/');
-      const menu = routesArray[1]
       let pageLevel = routesArray.length -1;
-      console.log(menu)
+      console.log(routesArray)
       console.log(pageLevel)
-      if(pageLevel === 1 || pageLevel === 2){
+      if(pageLevel === 1){
+        if (routesArray[1] == "programs") {
+          setActiveMenu(routesArray[1])
+        } else {
+          setActiveMenu('main')
+        }
+      } else if(pageLevel === 2){
         setActiveMenu(routesArray[1])
       } else if(pageLevel === 3){
         setActiveMenu(routesArray[2])
       } else {
         setActiveMenu('main')
       }
-			// {pageLevel === 1 ? setActiveMenu('main') : setActiveMenu(menu) }
     }, [])
   
     function calcHeight(el) {
