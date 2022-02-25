@@ -61,6 +61,7 @@ module.exports = {
           widget: "list",
           hint: "",
           default: "#",
+          summary: "{{slide_title}}",
           allow_add: true,
           fields: [{
             label: "Slide Image",

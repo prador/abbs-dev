@@ -2,7 +2,7 @@
 slug: /
 thumbnail: static/img/00-01-01-hero-desktop.jpg
 title: Home
-seo_title: Best Business School in Bangalore|Acharya Bangalore Business School
+seo_title: Best Business School in Bangalore | Acharya Bangalore Business School
 seo_description: ABBS is a new breed of business school. Our MBA and PGDM
   programs provide a holistic, experiential, and efficient way of learning. We
   leverage the power of technology to help you achieve your goals with a
@@ -10,10 +10,9 @@ seo_description: ABBS is a new breed of business school. Our MBA and PGDM
 seo_keywords: Best Business School, MBA, PGDM
 date: 2019-03-17T19:31:20.591Z
 slider_images:
-  - slide_title: Welcome Note
-    slide_text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-      diam voluptua. At vero
+  - slide_title: A new breed of business school
+    slide_text: " We leverage the power of technology to help you achieve your goals
+      with a personalized experience."
     slide_button_label: View More
     slide_button_link: "#view"
     slide_image: static/img/00-01-01-hero-desktop.jpg
