@@ -146,7 +146,7 @@ sections:
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelor’s of Science in Biotechnology, Biochemistry, Microbiology
       and Genetics
-    apply_form: ""
+    apply_form: "https://application.abbs.edu.in/"
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-03-01-life-sciences-program.pdf

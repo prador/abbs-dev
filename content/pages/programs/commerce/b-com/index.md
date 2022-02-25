@@ -118,7 +118,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelor of Commerce
-    apply_form: ""
+    apply_form: "https://application.abbs.edu.in/"
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf

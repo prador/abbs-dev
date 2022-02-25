@@ -147,7 +147,7 @@ sections:
     next_intake: January 2023
     duration: 2 Years (4 semesters)
     credentials: Masters of Commerce
-    apply_form: ""
+    apply_form: "https://application.abbs.edu.in/"
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-02-mcom.pdf

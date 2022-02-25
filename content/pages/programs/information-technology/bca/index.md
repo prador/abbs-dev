@@ -122,7 +122,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelors in Computer Applications
-    apply_form: ""
+    apply_form: "https://application.abbs.edu.in/"
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-06-02-bca.pdf
