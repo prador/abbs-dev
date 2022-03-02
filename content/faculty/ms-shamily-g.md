@@ -2,6 +2,8 @@
 title: "Ms. Shamily G"
 date: "2020-12-10"
 thumbnail: "static/img/Shamily-G-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Ms. Shamily G. has completed MA in Hindi from Bangalore University, B.ED. from DBPHS Lal Bahadur Shastri College of Education and completed Bachelor of Arts in St. Joseph’s Evening College.

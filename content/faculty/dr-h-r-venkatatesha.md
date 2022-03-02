@@ -2,6 +2,8 @@
 title: "Dr.H.R. Venkatatesha"
 date: "2020-12-14"
 thumbnail: "static/img/Venkatatesha.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : M.Com, MBA & Ph.D  

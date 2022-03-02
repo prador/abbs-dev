@@ -2,6 +2,8 @@
 title: "Dr.Vijaya Bhaskar K"
 date: "2020-12-14"
 thumbnail: "static/img/Dr.Vijaya-Bhaskar-K-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : Ph D in Management  

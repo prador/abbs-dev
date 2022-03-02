@@ -2,6 +2,8 @@
 title: "Mr. Joswa Stalin S"
 date: "2020-03-13"
 thumbnail: "static/img/Joswa-Stalin-S.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Joswa Stalin SMBA, PGDHR, B.Ed, BBM  

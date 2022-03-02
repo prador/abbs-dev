@@ -2,6 +2,8 @@
 title: "Dr. Arul Senthil"
 date: "2020-03-13"
 thumbnail: "static/img/Arul-Senthil.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification:  

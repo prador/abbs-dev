@@ -2,6 +2,8 @@
 title: "Dr. Shilpashree H P"
 date: "2020-03-13"
 thumbnail: "static/img/Shilpashree-H-P.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: PhD, Post Doctoral fellow from IISc, Bangalore  

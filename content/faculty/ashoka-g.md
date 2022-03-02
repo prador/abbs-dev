@@ -2,6 +2,8 @@
 title: "Ashoka G"
 date: "2020-03-13"
 thumbnail: "static/img/Ashoka-G.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: Ashoka GM.Com, BBM  

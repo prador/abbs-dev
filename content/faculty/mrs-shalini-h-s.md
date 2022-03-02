@@ -2,6 +2,8 @@
 title: "Dr. Shalini H.S"
 date: "2020-03-13"
 thumbnail: "static/img/Shalini-H-S.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: Ph.D  

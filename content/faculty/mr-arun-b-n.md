@@ -2,6 +2,8 @@
 title: "Mr. Arun B.N"
 date: "2020-03-13"
 thumbnail: "static/img/Arun_BN.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: M.Com  

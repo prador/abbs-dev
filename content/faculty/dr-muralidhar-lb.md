@@ -2,6 +2,8 @@
 title: "Dr. Muralidhar LB"
 date: "2020-12-13"
 thumbnail: "static/img/L-B-Muralidhar.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : Ph.D, MBA, NET, KSET  

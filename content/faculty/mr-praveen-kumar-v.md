@@ -2,6 +2,8 @@
 title: "Mr.Praveen Kumar V"
 date: "2020-03-13"
 thumbnail: "static/img/Praveen-Kumar-V.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : MCA ( Phd)  

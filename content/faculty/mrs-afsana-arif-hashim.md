@@ -2,6 +2,8 @@
 title: "Mrs. Afsana Arif Hashim"
 date: "2020-12-13"
 thumbnail: "static/img/Afsana-Arif-Hashim.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : MBA  

@@ -2,6 +2,8 @@
 title: "Mrs. Janaki Bai S"
 date: "2020-12-13"
 thumbnail: "static/img/Janaki-Bai.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : M.B.A , (HRM) B.com Designation : Assistant Professor

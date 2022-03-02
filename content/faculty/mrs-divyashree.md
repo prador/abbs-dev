@@ -2,6 +2,8 @@
 title: "Mrs. Divyashree"
 date: "2020-12-13"
 thumbnail: "static/img/Divyashree-J-scaled.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : MBA  

@@ -2,6 +2,8 @@
 title: "Dr R K PREMA"
 date: "2020-12-10"
 thumbnail: "static/img/Prema-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Dr R K PREMA  

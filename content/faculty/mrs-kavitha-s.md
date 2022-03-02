@@ -2,6 +2,8 @@
 title: "Mrs. Kavitha S"
 date: "2020-12-13"
 thumbnail: "static/img/Kavitha-S.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : M.Com, MBA, NET, M.Phil  

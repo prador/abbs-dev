@@ -2,6 +2,8 @@
 title: "Sushama S. Kattimani"
 date: "2020-03-13"
 thumbnail: "static/img/Sushama-S-Kattimani.jpg"
+tags:
+  - Faculty Directory
 ---
 
 MBA (HR), M.Phil, MA (English) ,BA,  

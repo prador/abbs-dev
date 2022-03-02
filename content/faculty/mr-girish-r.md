@@ -2,6 +2,8 @@
 title: "Mr.Girish R"
 date: "2020-03-13"
 thumbnail: "static/img/Girish.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: MBA  

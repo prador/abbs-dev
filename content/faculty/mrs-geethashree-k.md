@@ -2,6 +2,8 @@
 title: "Mrs. Geethashree K"
 date: "2020-12-13"
 thumbnail: "static/img/Geethashree-K-1-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : M.Com  

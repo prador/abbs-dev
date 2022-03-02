@@ -2,6 +2,8 @@
 title: "Mr.Krishna"
 date: "2020-03-13"
 thumbnail: "static/img/Krishna.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: M.Tech(PhD)  

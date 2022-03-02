@@ -2,6 +2,8 @@
 title: "Mr. Vinay Kumar"
 date: "2020-12-13"
 thumbnail: "static/img/Vinay-Kumar-D-V-scaled.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : MA  

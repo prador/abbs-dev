@@ -2,6 +2,8 @@
 title: "Mr.M .Viswanathan"
 date: "2020-03-13"
 thumbnail: "static/img/Vishwanathan.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: MBA  

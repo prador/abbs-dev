@@ -2,6 +2,8 @@
 title: "MS. DEEPA R"
 date: "2020-12-10"
 thumbnail: "static/img/Deepa-R-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 MS. DEEPA R  

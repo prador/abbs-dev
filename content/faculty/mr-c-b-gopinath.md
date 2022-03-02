@@ -2,6 +2,8 @@
 title: "Mr.C B Gopinath"
 date: "2020-03-13"
 thumbnail: "static/img/C-B-Gopinath.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Mr.C B GopinathMBA, M.Com, M.Phil, UGC-NET, KSET, B.ComProf. C.B.  

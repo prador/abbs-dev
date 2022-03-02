@@ -2,6 +2,8 @@
 title: "Mr.Ravi Aditya"
 date: "2020-03-13"
 thumbnail: "static/img/Ravi_Adithya.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: PGDM  

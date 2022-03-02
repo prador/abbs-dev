@@ -2,6 +2,8 @@
 title: "Mrs. Madhumathi P Kadkol"
 date: "2020-12-13"
 thumbnail: "static/img/Madhumathi-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : M.com  

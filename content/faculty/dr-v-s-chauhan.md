@@ -2,6 +2,8 @@
 title: "Dr. V. S. Chauhan"
 date: "2020-12-14"
 thumbnail: "static/img/Chauhan.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: MBA & Ph.D  

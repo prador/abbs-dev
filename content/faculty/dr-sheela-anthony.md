@@ -2,6 +2,8 @@
 title: "Dr. Sheela Anthony"
 date: "2020-12-13"
 thumbnail: "static/img/Sheela-Anthony-scaled.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : MA  

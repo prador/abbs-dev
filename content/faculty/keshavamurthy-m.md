@@ -2,6 +2,8 @@
 title: "Keshavamurthy M"
 date: "2020-12-10"
 thumbnail: "static/img/Keshavamurthy-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: M.Sc., NET., K-SET., (Ph.D.)  

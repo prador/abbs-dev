@@ -2,6 +2,8 @@
 title: "Dr.Syed Kazim"
 date: "2020-03-13"
 thumbnail: "static/img/Sayed.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: MBA & Ph.D  

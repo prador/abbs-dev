@@ -2,6 +2,8 @@
 title: "Mr. Krishna Reddy T"
 date: "2020-12-13"
 thumbnail: "static/img/Krishna-Reddy.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : MCA  

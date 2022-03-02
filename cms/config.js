@@ -1210,15 +1210,42 @@ module.exports = {
           required: true
         },
         {
+          label: "Qualifications",
+          name: "qualifications",
+          widget: "string",
+          required: false
+        },
+        {
+          label: "Position",
+          name: "position",
+          widget: "string",
+          required: false
+        },
+        {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: true,
+          options: ["Leadership Team", "Advisory Council", "Faculty Directory"],
+          default:"Faculty Directory"
+        },
+        {
           label: "Featured Image",
           name: "thumbnail",
           widget: "image"
         },
         {
-          label: "Body",
+          label: "Description",
           name: "body",
           widget: "markdown",
-          required: true
+          required: false
+        },
+        {
+          label: "Full Description",
+          name: "full_description",
+          widget: "markdown",
+          required: false
         }
       ]
     },
@@ -1330,12 +1357,18 @@ module.exports = {
           required: true
         },
         {
+          label: "Position",
+          name: "position",
+          widget: "string",
+          required: false
+        },
+        {
           label: "Tags",
           name: "tags",
           widget: "select",
           multiple: true,
           required: true,
-          options: ["Leadership Team", "Advisory Council", "Faculty"]
+          options: ["Leadership Team", "Advisory Council", "Faculty Directory"],
         },
         {
           label: "Order",
@@ -1346,13 +1379,14 @@ module.exports = {
         {
           label: "Featured Image",
           name: "thumbnail",
-          widget: "image"
+          widget: "image",
+          required: false
         },
         {
           label: "Body",
           name: "body",
           widget: "markdown",
-          required: true
+          required: false
         }
       ]
     },

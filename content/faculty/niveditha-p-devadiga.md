@@ -2,6 +2,8 @@
 title: "Niveditha P Devadiga"
 date: "2020-03-13"
 thumbnail: "static/img/Niveditha-P-Devadiga.jpg"
+tags:
+  - Faculty Directory
 ---
 
 M.Com, B.ComWith a MCom degree  

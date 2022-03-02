@@ -2,6 +2,8 @@
 title: "Dr. R. Jayanthi"
 date: "2020-12-14"
 thumbnail: "static/img/Jayanthi.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: MBA & Ph.D  

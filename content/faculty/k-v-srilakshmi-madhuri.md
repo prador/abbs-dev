@@ -2,6 +2,8 @@
 title: "K.V.SRILAKSHMI MADHURI"
 date: "2020-12-10"
 thumbnail: "static/img/SriLakshmi-Madhuri-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Designation : LECTURER  

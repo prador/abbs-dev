@@ -2,6 +2,8 @@
 title: "Mrs. Shwetha Acharya"
 date: "2020-12-13"
 thumbnail: "static/img/Shwetha-Acharya.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification : MBA  

@@ -2,6 +2,8 @@
 title: "Ms. Anisha Koshy"
 date: "2020-12-10"
 thumbnail: "static/img/Anisha-Koshy-1.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Designation : Assistant Professor  

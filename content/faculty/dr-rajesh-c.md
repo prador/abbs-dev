@@ -2,6 +2,8 @@
 title: "Dr. Rajesh. C"
 date: "2020-03-13"
 thumbnail: "static/img/Rajesh.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: MBA & Ph.D  

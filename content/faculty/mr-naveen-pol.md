@@ -2,6 +2,8 @@
 title: "Mr.Naveen Pol"
 date: "2020-03-13"
 thumbnail: "static/img/Naveen-Pol.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification: MBA & Ph.D  

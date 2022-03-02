@@ -2,6 +2,8 @@
 title: "Mr.Gopinath BS"
 date: "2020-03-13"
 thumbnail: "static/img/Gopinath-BS.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Gopinath BSM.Com, MBA, M.Phil, ICWA- Final, B.Com  

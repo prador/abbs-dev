@@ -2,6 +2,8 @@
 title: "Mr. Dattareya Ready"
 date: "2020-03-13"
 thumbnail: "static/img/Dattareya-Ready.jpg"
+tags:
+  - Faculty Directory
 ---
 
 Qualification:  
