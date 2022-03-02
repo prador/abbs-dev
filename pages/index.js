@@ -37,7 +37,18 @@ const importEvents = async () => {
   )
 }
 const Home = ({newsList,eventsList}) => {
-  console.log(attributes)
+  const setDate = (date) => {
+    let newDate = new Date(date)
+    return newDate.toLocaleDateString('en-US',{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
+  }
+  const setEventDate = (date) => {
+    let newDate = new Date(date)
+    let evDate = {
+      day: newDate.toLocaleDateString('en-US',{  day: 'numeric' }),
+      month: newDate.toLocaleDateString('en-US',{  month: 'short' })
+    }
+    return evDate
+  }
   return (
   <Layout>
     <PageHeader attributes={attributes} />
@@ -64,8 +75,8 @@ const Home = ({newsList,eventsList}) => {
             <div className="news-post">
               <div className="news-post-content">
                 <h6>{post.attributes.title}</h6>
-                <p dangerouslySetInnerHTML={{__html: post.html}}></p>
-                <span>{post.attributes.date}</span>
+                {post.brief_description ? <p>{post.brief_description}</p> : null }
+                <span className='news-post-date'>{setDate(post.attributes.date)}</span>
               </div>
               <img className="news-post-image" src={post.attributes.thumbnail}></img>
             </div>
@@ -82,18 +93,23 @@ const Home = ({newsList,eventsList}) => {
       }).slice(0, 4).map((post) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="events-post">
-
-            <img className="events-post-image" src={post.attributes.thumbnail}></img>
+            <div className='events-post-date-info'>
+            <h4 className='events-post-day'>{setEventDate(post.attributes.date).day}</h4>
+            <span className='events-post-month'>{setEventDate(post.attributes.date).month}</span>
+            </div>
+            
             <div className="events-post-content">
             <h6>{post.attributes.title}</h6>
-            {/* <p dangerouslySetInnerHTML={{__html: post.html}}></p> */}
-            <span>{post.attributes.date}</span>
+            <div className='event-post-info'>
+              <span className='event-tag'>{post.attributes.tags}</span>
+              {post.attributes? <a href={post.attributes.event_link} className='event-tag btn btn-ghost'>Register</a> : null }
+            </div>
             </div>
               </div>
         </Link>
     ))}
     <span></span>
-        <a href="/news-events/events" className='btn btn-ghost events-block-link'>More from ABBS Events</a>
+        <div className="all-events-link"><a href="/news-events/events" className='btn btn-ghost events-block-link'>More from ABBS Events</a></div>
         </div>
         </div>
 

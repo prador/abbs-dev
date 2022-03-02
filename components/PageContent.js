@@ -15,6 +15,7 @@ import RelatedPostsSection from "./content/RelatedPostsSection"
 import CollectionSection from "./content/CollectionSection"
 import ProgramDetailsSection from "./content/ProgramDetailsSection"
 import DocumentsSection from "./content/DocumentsSection";
+import PersonSection from "./content/PersonSection";
 // import '../assets/styles/pagecontent.module.css'
 
 const PageContent = ({att,html,list,testimonials,docs}) => {
@@ -42,6 +43,8 @@ const PageContent = ({att,html,list,testimonials,docs}) => {
         return <RelatedPostsSection att={section} />
       case "collection_section":
         return <CollectionSection att={section} list={list} />
+      case "person_section":
+        return <PersonSection att={section} />
       default:
         return null
     }

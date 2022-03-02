@@ -14,7 +14,7 @@ import '../assets/styles/breadcrumbs.css'
 import '../assets/styles/pagecontent.css'
 import '../assets/styles/table.css'
 import '../assets/styles/footer.css'
-// import '../assets/styles/webflow.css'
+import '../assets/styles/news-events.css'
 import '../assets/styles/abbs.css'
 import SimpleReactLightbox from 'simple-react-lightbox'
 

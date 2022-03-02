@@ -1,7 +1,9 @@
 ---
-title: "TEDCircles October 2020"
-date: "2020-10-09"
-thumbnail: "static/img/OcoberPoster.jpeg"
+title: TEDCircles October 2020
+date: 2020-10-09
+thumbnail: static/img/OcoberPoster.jpeg
+event_date: 2020-10-09
+tags: Education
 ---
 
 Our first outdoor event aligning TED Conference on Climate Change!

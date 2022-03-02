@@ -1,7 +1,9 @@
 ---
-title: "Webinar on Career opportunities in the post Covid era"
-date: "2020-11-20"
-thumbnail: "static/img/WEB-02.jpg"
+title: Webinar on Career opportunities in the post Covid era
+date: 2020-11-20
+thumbnail: static/img/WEB-02.jpg
+event_date: 2020-11-20
+tags: Education
 ---
 
 **Webinar on Career opportunities in the post covid era**

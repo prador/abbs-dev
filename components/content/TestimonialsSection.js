@@ -2,6 +2,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
 
 const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
+  console.log(testimonials >0)
   let imgPos;
 
   const getPos = () => {
@@ -12,10 +13,10 @@ const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
   }
   return (
   <>
-    {testimonials ? 
-    <section className="text-section-wrapper">
+    {testimonials>0 ? 
+    <section className="testimonial-section-wrapper">
     <>
-     <div key={att.id} className="text-section-block">
+     <div key={att.id} className="testimonial-section-block">
         {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
         {testimonials.map((post) => (
             <div className="testimonial-post">

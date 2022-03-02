@@ -20,7 +20,12 @@ const importNews = async () => {
     })
   )
 }
-const News = ({newsList}) => (
+const News = ({newsList}) => {
+  const setDate = (date) => {
+    let newDate = new Date(date)
+    return newDate.toLocaleDateString('en-US',{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
+  }
+  return(
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
@@ -31,13 +36,15 @@ const News = ({newsList}) => (
   {newsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
-            <div className="news-post">
+            <div className="news-page-post">
+            <img className="news-post-image" src={"../"+post.attributes.thumbnail}></img>
               <div className="news-post-content">
-                <h5>{post.attributes.title}</h5>
-                <p dangerouslySetInnerHTML={{__html: post.html}}></p>
-                <span>{post.attributes.date}</span>
+                <span className='post-date'>{setDate(post.attributes.date)}</span>
+                <h6>{post.attributes.title}</h6>
+                {/* <p dangerouslySetInnerHTML={{__html: post.html}}></p> */}
+                {post.brief_description ? <p>{post.brief_description}</p> : null }
+                
               </div>
-              <img className="news-post-image" src={"../"+post.attributes.thumbnail}></img>
             </div>
         </Link>
     ))}
@@ -45,7 +52,8 @@ const News = ({newsList}) => (
     </div>
     </div>
 </Layout>
-)
+)}
+
 export async function getStaticProps() {
   const newsList = await importNews()
 

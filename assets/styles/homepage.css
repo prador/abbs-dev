@@ -209,6 +209,8 @@ max-width: 100%;
   display: inline-flex;
 justify-self: end;
 width: fit-content;
+padding-right: 1rem;
+background-position: 90% center;
 }
 .news-post {
 background-color: var(--color-white);
@@ -231,19 +233,45 @@ margin-bottom: 10px;
 .news-post-content {
 padding: 1rem;
 text-align: left !important;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
 }
 .events-post-content {
 padding: 0 20px;
 text-align: left !important;
+
+}
+.events-post-date-info {
+  padding: 0.5rem 1rem;
+  background-color: var(--color-offwhite);
+  color: var(--color-grey);
+  text-align: center;
+height: fit-content;
+}
+.events-post-day {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+.events-post-month {
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+.event-post-info {
+  text-align: left !important;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.all-events-link {
+  text-align: right !important;
 }
 .news-post-content h5,.events-post-content h5{
 margin-top: 0;
 }
-.news-post-content {
-
-}
-.news-post-image {
-
+.news-post-date {
+  color: var(--color-grey);
+  font-size: 0.8rem;
 }
 .rec-acred-section {
   display: grid;

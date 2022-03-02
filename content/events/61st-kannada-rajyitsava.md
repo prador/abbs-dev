@@ -1,7 +1,9 @@
 ---
-title: "61st  KANNADA RAJYITSAVA"
-date: "2018-11-27"
-thumbnail: "static/img/Kannada-Rajyitsava1.jpg"
+title: 61st  KANNADA RAJYITSAVA
+date: 2018-11-27
+thumbnail: static/img/Kannada-Rajyitsava1.jpg
+event_date: 2018-11-27
+tags: Festivals
 ---
 
 \[et\_pb\_section fb\_built="1" \_builder\_version="3.22"\]\[et\_pb\_row \_builder\_version="3.25" background\_size="initial" background\_position="top\_left" background\_repeat="repeat"\]\[et\_pb\_column type="4\_4" \_builder\_version="3.25" custom\_padding="|||" custom\_padding\_\_hover="|||"\]\[et\_pb\_text \_builder\_version="4.3.2"\]

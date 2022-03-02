@@ -1,7 +1,9 @@
 ---
-title: "Webinar on Aviation Post Covid-19"
-date: "2020-09-11"
-thumbnail: "static/img/Free-Webinar-12-9-20.jpg"
+title: Webinar on Aviation Post Covid-19
+date: 2020-09-11
+thumbnail: static/img/Free-Webinar-12-9-20.jpg
+event_date: 2020-09-11
+tags: Education
 ---
 
 When: Sep 12, 2020 04:00 PM India

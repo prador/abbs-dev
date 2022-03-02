@@ -21,7 +21,33 @@ const importEvents = async () => {
     })
   )
 }
-const Events = ({eventsList}) => (
+
+const Events = ({eventsList}) => {
+  const setDate = (date) => {
+    let newDate = new Date(date)
+    return newDate.toLocaleDateString('en-US',{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
+  }
+  const setEventDate = (date) => {
+    let newDate = new Date(date)
+    let evDate = {
+      day: newDate.toLocaleDateString('en-US',{  day: 'numeric' }),
+      month: newDate.toLocaleDateString('en-US',{  month: 'short' })
+    }
+    return evDate
+  }
+  const isPast = (date) => {
+    let eventDate = new Date(date)
+    let today = new Date()
+    console.log(eventDate)
+    console.log(today)
+    console.log(eventDate.getTime())
+    console.log(today.getTime())
+    console.log(eventDate.getTime() < today.getTime())
+      if(eventDate.getTime() < today.getTime()){
+          return "past"
+      }
+  }
+  return(
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
@@ -29,25 +55,59 @@ const Events = ({eventsList}) => (
   <Breadcrumbs att={attributes}/>
       <div className="w-layout-grid contain-block">
       <section className='news-events-page-section'>
-  {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
-      }).slice(0, 4).map((post) => (
-<Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
+      <h2 className="section-title" id="upcoming_events"><span className="header-hyphen"></span>Upcoming Events</h2>
+      {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
+      }).map((post) => (
+        <>{!isPast(post.attributes.event_date) ?
+          <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="events-post">
-
-            <img className="events-post-image" src={"../"+post.attributes.thumbnail}></img>
-            <div className="events-post-content">
-            <h5>{post.attributes.title}</h5>
-            {/* <p dangerouslySetInnerHTML={{__html: post.html}}></p> */}
-            <span>{post.attributes.date}</span>
-            </div>
+              <div className='events-post-date-info'>
+                <h4 className='events-post-day'>{setEventDate(post.attributes.event_date).day}</h4>
+                <span className='events-post-month'>{setEventDate(post.attributes.event_date).month}</span>
               </div>
+              <div className="events-post-content">
+                <h6>{post.attributes.title}</h6>
+                <span>{setDate(post.attributes.event_date)}</span>
+              </div>
+          </div>
         </Link>
+        : null
+        // <p>No upcoming Events</p>
+      }</>
     ))}
     </section>
+      <section className='news-events-page-section'>
+      <h2 className="section-title" id="past_events"><span className="header-hyphen"></span>Past Events</h2>
+      {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
+      }).map((post) => (
+        <>{isPast(post.attributes.event_date) ?
+          <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
+            <div className="events-post">
+              <div className='events-post-date-info'>
+                <h4 className='events-post-day'>{setEventDate(post.attributes.event_date).day}</h4>
+                <span className='events-post-month'>{setEventDate(post.attributes.event_date).month}</span>
+              </div>
+              <div className="events-post-content">
+                <h6>{post.attributes.title}</h6>
+                <span>{setDate(post.attributes.event_date)}</span>
+              </div>
+          </div>
+        </Link>
+        : null
+      }</>
+    ))}
+    </section>
+    <div class="side-float">
+      <div class="in-page-links active">
+        <a href="#upcoming_events">Upcoming Events -</a>
+        <a href="#past_events">Past Events -</a>
+        </div>
+        </div>
     </div>
     </div>
 </Layout>
-)
+)}
+
 export async function getStaticProps() {
   const eventsList = await importEvents()
 
