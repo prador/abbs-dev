@@ -22,7 +22,9 @@ const AccordionSection = ({att}) => {
       {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
       <ul className="accordion-list">
       {att.accordions.map((acc,index) => (
-             <li className={`accordion-item ${clicked === index ? "active" : ""}`}>
+        <>
+        {acc.accordion_content ? 
+        <li className={`accordion-item ${clicked === index ? "active" : ""}`}>
              <div className="accordion-title" onClick={() => handleToggle(index)}>
                  <h6>{acc.accordion_title}</h6>
                  <span className="control">{clicked === index ? "—" : "+"} </span>
@@ -35,6 +37,9 @@ const AccordionSection = ({att}) => {
                  <ReactMarkdown children={acc.accordion_content} remarkPlugins={[remarkGfm]} />
              </div>
          </li>
+         : null}
+        </>
+             
     ))}
       </ul>
       </> : "" }
