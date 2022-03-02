@@ -181,7 +181,7 @@ top_menu:
       - menu_nav_label: Guest Lectures
         menu_nav_link: /corporate/guest-lectures
         submenu_link: null
-        show: true
+        show: false
       - menu_nav_label: Placements
         menu_nav_link: /corporate/placements
         submenu_link: placements
