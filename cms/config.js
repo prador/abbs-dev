@@ -1187,56 +1187,6 @@ module.exports = {
       ]
     },
     {
-      name: "Videos",
-      label: "Videos",
-      create: true,
-      format: "frontmatter",
-      folder: "content/videos/",
-      slug: "{{slug}}",
-      fields: [{
-          label: "Title",
-          name: "title",
-          widget: "string",
-          required: true
-        },
-        {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          required: true
-        },
-        {
-          label: "Featured Image",
-          name: "thumbnail",
-          widget: "image"
-        },
-        {
-          label: "Body",
-          name: "body",
-          widget: "markdown",
-          required: true
-        },
-        {
-          label: "Embed Source",
-          name: "embed_source",
-          required: false,
-          widget: "text",
-          hint: "",
-          default: ""
-        },
-        {
-          label: "Embed Size",
-          name: "embed_size",
-          required: false,
-          widget: "select",
-          multiple: false,
-          options: ["large", "half", "auto"],
-          hint: "",
-          default: ""
-        }
-      ]
-    },
-    {
       name: "Faculty",
       label: "Faculty",
       create: true,
@@ -1342,38 +1292,6 @@ module.exports = {
           required: true,
           allow_multiple: true
         },
-      ]
-    },
-    {
-      name: "Partners",
-      label: "Partners",
-      create: true,
-      format: "frontmatter",
-      folder: "content/partners/",
-      slug: "{{slug}}",
-      fields: [{
-          label: "Title",
-          name: "title",
-          widget: "string",
-          required: true
-        },
-        {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          required: true
-        },
-        {
-          label: "Featured Image",
-          name: "thumbnail",
-          widget: "image"
-        },
-        {
-          label: "Body",
-          name: "body",
-          widget: "markdown",
-          required: true
-        }
       ]
     },
     {
