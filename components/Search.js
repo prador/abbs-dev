@@ -51,7 +51,9 @@ export default function Search() {
         value={query}
       />
       { active && results.length > 0 && (
+        <>
         <ul className={styles.results}>
+          <li><h2>Search Results</h2></li>
           {results.map(({ type, id, title }) => (
             <li className={styles.result} key={id}>
               <Link href={`/${type}/post/[id]`} as={`/${type}/post/${id}`}>
@@ -60,6 +62,8 @@ export default function Search() {
             </li>
           ))}
         </ul>
+        </>
+        
       ) }
     </div>
   )

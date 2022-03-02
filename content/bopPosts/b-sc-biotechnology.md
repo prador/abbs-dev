@@ -1,6 +1,0 @@
----
-title: "B.Sc. Biotechnology"
-date: "2019-02-13"
----
-
-\[\["Title of the paper","Contract\\nHrs/Wk","Exam\\nHours","IA","Marks","Total\\nMarks","Credits"\],\["First Semester","","","","","",""\],\["Biochemistry I ","4","3","30","70","100","2"\],\["Biochemistry Practicals \\u2013 I","3","3","15","35","50","1"\],\["Second Semester","","","","","",""\],\["Biochemistry II","4","3","30","70","100","2"\],\["Biochemistry Practicals- II","3","3","15","35","50","1"\],\["Third Semester","","","","","",""\],\["Biochemistry III","4","3","30","70","100","2"\],\["Biochemistry Practicals- III","3","3","15","35","50","1"\],\["Fourth Semester","","","","","",""\],\["Biochemistry IV ","4","3","30","70","100","2"\],\["Biochemistry Practicals- IV","3","3","15","35","50","1"\],\["Fifth Semester","","","","","",""\],\["Biochemistry \\u2013 V","3","3","30","70","100","2"\],\["Biochemistry \\u2013 VI","3","3","30","70","100","2"\],\["Biochemistry Practical \\u2013 V","3","3","15","35","50","1"\],\["Biochemistry Practical \\u2013 VI","3","3","15","35","50","1"\],\["Sixth Semester","","","","","",""\],\["Biochemistry \\u2013 VII","3","3","30","70","100","2"\],\["Biochemistry \\u2013 VIII","3","3","30","70","100","2"\],\["Biochemistry Practical \\u2013 VII","3","3","15","35","50","1"\],\["Biochemistry Practical \\u2013 VIII","3","3","15","35","50","1"\]\]

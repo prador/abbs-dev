@@ -25,14 +25,18 @@
     overflow: hidden;
     margin: 9px 0 0;
     padding: 0;
-    position: absolute;
-    top: 100%;
+    position: fixed;
+    top: 15%;
     left: 0;
     right: 0;
+    width: auto;
+    z-index: 3;
+    height: 50vh;
+    background: #000000e0;
+    padding: 0 0% 5rem;
   }
   
   .result {
-    background: #0070f3;
     color: #eee;
     margin: 0 0 9px;
     padding: 18px;

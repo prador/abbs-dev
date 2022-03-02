@@ -3,7 +3,7 @@ const path = require('path')
 const matter = require('gray-matter')
 
 function postData() {
-    const content = [{contentType:'blog',loc:'content/blogPosts'},{contentType:'nog',loc:'content/bopPosts'}]
+    const content = [{contentType:'blog',loc:'content/blogPosts'}]
 
     // Object.entries(content).forEach(entry => {
     //     const [contentType, loc] = entry;
@@ -23,8 +23,7 @@ function postData() {
     //     })
     //   });
   const postsDirectory = path.join(process.cwd(), 'content/blogPosts')
-  const nogDirectory = path.join(process.cwd(), 'content/bopPosts')
-  const fileNames = [...fs.readdirSync(postsDirectory),...fs.readdirSync(nogDirectory)]
+  const fileNames = [...fs.readdirSync(postsDirectory)]
   const posts = fileNames.map(fileName => {
     const type = "blog"
     const id = fileName.replace(/\.md$/, '')
