@@ -70,18 +70,24 @@ columns:
         links_loc: https://www.tcsion.com/SelfServices/
       - links_label: Career @ ABBS
         links_loc: /careers-at-abbs
+      - links_label: Blog
+        links_loc: /blog
+        show: true
       - links_label: News
         links_loc: /news-events/news
       - links_label: Events
         links_loc: /news-events/events
+        show: false
       - links_label: FAQs
         links_loc: /faqs
       - links_label: Code of Conduct
         links_loc: /code-of-conduct
       - links_label: Grievance Redressal
         links_loc: /grievance-redressal
+        show: false
       - links_label: Mandatory Disclosures
         links_loc: /mandatory-disclosures
+        show: false
 ---
 
 ## Welcome to the About page

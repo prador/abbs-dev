@@ -12,7 +12,7 @@ const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
   }
   return (
   <>
-    {testimonials>0 ? 
+    {testimonials.length > 0 ? 
     <section className="testimonial-section-wrapper">
     <>
      <div key={att.id} className="testimonial-section-block">

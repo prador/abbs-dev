@@ -1,7 +1,9 @@
 import Link from 'next/link'
 import Layout from '../../components/layout'
+import PageBanner from '../../components/PageBanner'
 import PageHeader from '../../components/PageHeader'
 import { attributes, html } from '../../content/pages/blog.md'
+import Breadcrumbs from '../../components/navigation/Breadcrumbs'
 
 const importBlogPosts = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -18,32 +20,40 @@ const importBlogPosts = async () => {
   )
 }
 
-const Blog = ({ postsList }) => (
+const Blog = ({ postsList }) => {
+  const setDate = (date) => {
+    let newDate = new Date(date)
+    return newDate.toLocaleDateString('en-US',{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
+  }
+  return (
   <Layout>
     <PageHeader attributes={attributes} />
-    <h1 className="black-txt">{attributes.title}</h1>
-    <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
-    {postsList.map((post) => (
+  <PageBanner att={attributes}/>
+  <div className="content animate__animated animate__fadeInUp">
+      <Breadcrumbs att={attributes}/>
+      <div className="w-layout-grid contain-block">
+      <section className='news-events-page-section'>
+    {postsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
+      }).map((post) => (
       <div key={post.slug} className="post">
-        <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
-          <a>
-            <img src={post.attributes.thumbnail} />
-            <h2>{post.attributes.title}</h2>
-          </a>
+        <Link href="/blog/[slug]" as={`/blog/${post.slug}`}>
+        <div className="news-page-post">
+            <img className="news-post-image" src={"../"+post.attributes.thumbnail}></img>
+              <div className="news-post-content">
+                <span className='post-date'>{setDate(post.attributes.date)}</span>
+                <h6>{post.attributes.title}</h6>
+                {/* <p dangerouslySetInnerHTML={{__html: post.html}}></p> */}
+                {post.brief_description ? <p>{post.brief_description}</p> : null }
+              </div>
+            </div>
         </Link>
       </div>
     ))}
-    <style jsx>{`
-      .post {
-        text-align: center;
-      }
-      img {
-        max-width: 100%;
-        max-height: 300px;
-      }
-    `}</style>
+    </section>
+    </div>
+    </div>
   </Layout>
-)
+)}
 
 export async function getStaticProps() {
   const postsList = await importBlogPosts()
