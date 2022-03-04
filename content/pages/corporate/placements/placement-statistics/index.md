@@ -1,6 +1,9 @@
 ---
 title: Placement Statistics
 date: 2021-12-04T06:15:42.928Z
+seo_title: Best Business School in Bangalore | 100% Placement
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, 100% Placement
 text_section:
   - section_id: ""
     section_title: ""

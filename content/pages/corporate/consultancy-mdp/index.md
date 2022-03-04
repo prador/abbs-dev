@@ -1,6 +1,9 @@
 ---
 title: Consultancy & MDP
 date: 2021-12-04T06:17:22.566Z
+seo_title: Best Business School in Bangalore | Consultancy & MDP
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, Consultancy & MDP
 text_section:
   - section_id: ""
     section_title: ""

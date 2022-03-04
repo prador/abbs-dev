@@ -3,7 +3,7 @@ title: Rotaract Club
 date: 2021-12-04T06:24:22.445Z
 seo_title: Best Business School in Bangalore | ABBS | Clubs and Associations | Rotaract Club
 seo_description: 
-seo_keywords: Buisness School in Bangalore, ABBS, Rotaract Club
+seo_keywords: Business School in Bangalore, ABBS, Rotaract Club
 text_section:
   - section_id: ""
     section_title: ""

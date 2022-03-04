@@ -3,7 +3,7 @@ title: Equal Opportunity cell
 date: 2021-12-04T06:26:10.085Z
 seo_title: Best Business School in Bangalore | Student Support | Equal Opportunity cell
 seo_description: 
-seo_keywords: Buisness School in Bangalore, ABBS, Equal Opportunity cell
+seo_keywords: Business School in Bangalore, ABBS, Equal Opportunity cell
 text_section:
   - section_id: ""
     section_title: ""

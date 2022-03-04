@@ -1,6 +1,9 @@
 ---
 title: Entrepreneurship
 date: 2021-12-04T06:14:26.528Z
+seo_title: Best Business School in Bangalore | Entrepreneurship
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, Entrepreneurship
 text_section:
   - section_id: ""
     section_title: ""

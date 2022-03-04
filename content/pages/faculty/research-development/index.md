@@ -1,6 +1,9 @@
 ---
 title: Research & Development
 date: 2021-12-04T06:13:45.618Z
+seo_title: Best Business School in Bangalore | Research & Development
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, Research & Development
 text_section:
   - section_id: ""
     section_title: ""

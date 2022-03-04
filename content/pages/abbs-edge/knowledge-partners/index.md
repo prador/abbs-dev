@@ -1,6 +1,9 @@
 ---
 title: Knowledge Partners
 date: 2021-12-04T05:28:38.802Z
+seo_title: Business School | Knowledge Partners | Acharya Bangalore Business School
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, Knowledge Partners
 text_section:
   - section_id: ""
     section_title: ""

@@ -1,6 +1,9 @@
 ---
 title: International Associations
 date: 2021-12-04T05:42:17.013Z
+seo_title: Business School | International Associations | Acharya Bangalore Business School
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, International Associations
 text_section:
   - section_id: ""
     section_title: ""

@@ -1,6 +1,9 @@
 ---
-title: "Learning Excellence\t"
+title: Learning Excellence
 date: 2021-12-04T05:40:48.578Z
+seo_title: Business School | Learning Excellence | Acharya Bangalore Business School
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, Learning Excellence
 text_section:
   - section_id: ""
     section_title: ""

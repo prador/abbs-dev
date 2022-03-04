@@ -3,7 +3,7 @@ title: Counselling cell
 date: 2021-12-04T06:25:54.632Z
 seo_title: Best Business School in Bangalore | Student Support | Counselling cell
 seo_description: 
-seo_keywords: Buisness School in Bangalore, ABBS, Counselling cell
+seo_keywords: Business School in Bangalore, ABBS, Counselling cell
 text_section:
   - section_id: ""
     section_title: ""

@@ -1,6 +1,9 @@
 ---
-title: "Fact & Figures\t"
+title: Fact & Figures
 date: 2021-12-04T05:38:46.766Z
+seo_title: Business School | Fact & Figures | Acharya Bangalore Business School
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, Fact & Figures
 thumbnail: static/img/02-02-facts-and-figures-01-banner.jpg
 sections:
   - type: text_section

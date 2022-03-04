@@ -1,6 +1,9 @@
 ---
 title: Research Publications
 date: 2021-12-04T06:15:10.387Z
+seo_title: Best Business School in Bangalore | Publications
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, reasearch, publications
 thumbnail: static/img/05-02-research-publications-banner.jpg
 sections:
   - type: text_section

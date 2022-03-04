@@ -1,6 +1,9 @@
 ---
 title: Research Centre
 date: 2021-12-04T06:14:40.465Z
+seo_title: Best Business School in Bangalore | Research Centre
+seo_description: 
+seo_keywords: Business School in Bangalore, ABBS, Research
 thumbnail: static/img/05-01-research-centre-01-banner.jpg
 sections:
   - type: text_section
