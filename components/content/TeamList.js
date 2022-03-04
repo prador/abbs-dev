@@ -1,6 +1,4 @@
 const TeamList = ({list,tag}) => {
-  console.log(tag)
-  console.log(list)
 
   return (
   <>

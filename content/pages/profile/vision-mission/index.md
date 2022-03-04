@@ -2,7 +2,9 @@
 title: Vision & Mission
 date: 2021-12-04T06:04:08.960Z
 thumbnail: static/img/01-03-vision-and-mission-01-banner.jpg
-
+seo_title: Best Business School in Bangalore | Vision & Mission | ABBS
+seo_description: ABBS, a B-School in Bangalore, offers a plethora of courses in marketing and business for students looking to shape the future of the economy.
+seo_keywords: business School in Bangalore, Vision & Mission, ABBS
 sections:
   - type: anchor_section
     links:

@@ -1,6 +1,9 @@
 ---
 title: Events
 date: 2021-12-04T06:18:41.773Z
+seo_title: Best Business School in Bangalore | ABBS | Events
+seo_description: 
+seo_keywords: 
 text_section:
   - section_id: ""
     section_title: ""

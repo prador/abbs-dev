@@ -2,6 +2,9 @@
 title: Program Requirements
 date: 2021-12-04T06:20:09.001Z
 thumbnail: static/img/08-03-program-requirements-01-banner.jpg
+seo_title: Best Business School in Bangalore | ABBS | Admissions | Program Requirements
+seo_description: 
+seo_keywords: 
 sections:
   - type: text_section
     section_id: undergraduate-programmes

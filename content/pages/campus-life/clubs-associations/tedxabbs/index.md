@@ -1,6 +1,9 @@
 ---
 title: TEDxABBS
 date: 2021-12-04T06:25:09.211Z
+seo_title: Best Business School in Bangalore | ABBS | Clubs and Associations | TEDxAbbs
+seo_description: 
+seo_keywords: Buisness School in Bangalore, ABBS, Tedx
 text_section:
   - section_id: ""
     section_title: ""

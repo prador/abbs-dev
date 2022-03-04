@@ -2,7 +2,6 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
 
 const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
-  console.log(testimonials >0)
   let imgPos;
 
   const getPos = () => {

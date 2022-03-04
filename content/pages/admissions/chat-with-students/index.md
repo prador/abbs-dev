@@ -1,6 +1,9 @@
 ---
 title: Chat with students
 date: 2021-12-04T06:19:23.201Z
+seo_title: Best Business School in Bangalore | ABBS | Admissions | Chat with students
+seo_description: 
+seo_keywords: 
 text_section:
   - section_id: ""
     section_title: ""

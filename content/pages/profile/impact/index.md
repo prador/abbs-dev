@@ -2,6 +2,9 @@
 title: Impact
 date: 2021-12-04T06:04:39.003Z
 thumbnail: static/img/01-04-impact-01-banner.jpg
+seo_title: Best Business School in Bangalore | Impact | ABBS
+seo_description: ABBS, a premier business school in Bangalore, offers a wide range of academic courses including MBA, PGDM, BBA, Psychology, Economics and so much more.
+seo_keywords: business School in Bangalore, Impact, ABBS
 sections:
   - type: text_section
     section_id: sustainability

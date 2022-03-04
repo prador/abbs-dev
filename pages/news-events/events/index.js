@@ -38,11 +38,6 @@ const Events = ({eventsList}) => {
   const isPast = (date) => {
     let eventDate = new Date(date)
     let today = new Date()
-    console.log(eventDate)
-    console.log(today)
-    console.log(eventDate.getTime())
-    console.log(today.getTime())
-    console.log(eventDate.getTime() < today.getTime())
       if(eventDate.getTime() < today.getTime()){
           return "past"
       }

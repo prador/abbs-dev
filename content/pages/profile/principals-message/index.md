@@ -1,29 +1,17 @@
 ---
-title: Principal's message
+seo_keywords: business School in Bangalore, Principal's message, ABBS
 date: 2021-12-04T06:03:45.581Z
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
 thumbnail: static/img/01-02-principals-message-01-banner.jpg
 sections:
   - type: text_section
     section_id: principal-message
     section_title: Message from Principal’s Desk
     section_text: >-
-      The pursuit of (Jnan), Knowledge Wisdom (Praggyam) and Truth (Satya)
-      was always considered in Indian thought and philosophy as the highest
-      human goal. “Education should be directed to the full development of
-      the human personality and to the strengthening of respect for human
-      rights and fundamental freedoms.” 
+      The pursuit of (Jnan), Knowledge Wisdom (Praggyam) and Truth (Satya) was
+      always considered in Indian thought and philosophy as the highest human
+      goal. “Education should be directed to the full development of the human
+      personality and to the strengthening of respect for human rights and
+      fundamental freedoms.” 
 
 
       I have the privilege to welcome you all to this great temple of learning.  
@@ -71,4 +59,21 @@ sections:
     links:
       - anchor_label: Message from Principal's Desk
         anchor_loc: principal-message
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+title: Principal's message
+seo_title: Best Business School in Bangalore | Principal's Message | ABBS
+links:
+  - anchor_title: ""
+    anchor_id: ""
+seo_description: ABBS offers a wide range of business academic courses including
+  MBA, PGDM, BBA, Executive MBA etc. ABBS is a premier business school in
+  Bangalore.
 ---

@@ -1,6 +1,11 @@
 ---
 title: History and Overview
-seo_description: ""
+seo_title: Best Business School in Bangalore | Our Story | ABBS
+seo_description: The Acharya Bangalore Business School, a pioneer in education,
+  has been imparting quality education since 2008. The group is known for its
+  holistic approach to the development of students and ranks in the top 10
+  B-schools in the state.
+seo_keywords: business School in Bangalore, History and Overview, ABBS
 date: 2021-12-04T06:03:08.711Z
 thumbnail: static/img/01-01-history-and-overview-01-banner.jpg
 sections:
@@ -13,38 +18,53 @@ sections:
   - type: text_section
     section_id: sss-trust
     section_title: Samagra Sikshana Samithi Trust
-    section_text: |-
+    section_text: >-
       The Samagra Sikshana Samithi Trust (SSST) was founded in 1996. Led by
+
       the
+
 
       commitment of the Trustees, SSST has accomplished appreciable growth since
 
+
       its establishment. SSST has achieved this by building role-model
+
 
       institutions for health sciences, basic sciences, management, law,
 
+
       humanities, commerce, IT and paramedical streams. SSSTs success relies on
 
+
       the seamless amalgamation of learning and living. 
+
 
 
       Governed by eminent scientists and academics, the Board of SSST institutions is led by Dr B. Vijaypal Reddy, an accomplished medical professional.
 
 
+
       **The institutes comprise:**
+
 
 
       * Acharya Bangalore B-School 
 
+
       * ABBS School of Management
+
 
       * Acharya Institute of Health Sciences
 
+
       * Acharya College of Nursing
+
 
       * Acharya Institute of Paramedical Sciences
 
+
       * ABBS School of Law
+
 
       * ABBS Pre-University College
     button_label: ""
@@ -52,14 +72,17 @@ sections:
   - type: text_section
     section_id: board-trustees
     section_title: Board of Trustees
-    section_text: |-
+    section_text: >-
       Chairperson:    Dr B Vijaypal Reddy
+
 
 
       Secretary:        Sri. Venkat Ajitesh R Basani
 
 
+
       Treasurer:        Smt. B. Poornima Reddy
+
 
 
       Trustees:          Dr. B. S. Basavaraj
@@ -68,10 +91,13 @@ sections:
       **Taking India Forward**
 
 
+
       Business education and life sciences are two science and technology fields that require tremendous intellectual inputs. The infrastructure for development is currently on the rise in India. 
 
 
+
       We believe that India will emerge to lead the world economy if we choose to continue the path of providing quality education. 
+
 
 
       Along with governmental initiatives, a strong commitment in the private sector is needed to build a proper base for intellectual growth through the establishment of centres of excellence in advanced education.

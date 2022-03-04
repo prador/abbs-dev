@@ -1,6 +1,9 @@
 ---
 title: Hostels
 date: 2021-12-04T06:21:57.551Z
+seo_title: Best Business School in Bangalore | ABBS | Campus Life | Hostels
+seo_description: 
+seo_keywords: Buisness School in Bangalore, ABBS, Hostels
 text_section:
   - section_id: ""
     section_title: ""

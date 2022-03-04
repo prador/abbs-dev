@@ -1,6 +1,9 @@
 ---
 title: Recreational Sports
 date: 2021-12-04T06:22:37.914Z
+seo_title: Best Business School in Bangalore | Recreational Sports | Campus Life 
+seo_description: 
+seo_keywords: Buisness School in Bangalore, ABBS, Recreational Sports
 text_section:
   - section_id: ""
     section_title: ""

@@ -2,6 +2,9 @@
 title: Fees and Scholarships
 date: 2021-12-04T06:20:50.148Z
 thumbnail: static/img/08-05-fees-and-scholarships-01-banner.jpg
+seo_title: Best Business School in Bangalore | ABBS | Admissions | Fees and Scholarships
+seo_description: 
+seo_keywords: 
 sections:
   - type: text_section
     section_id: admission-policy
