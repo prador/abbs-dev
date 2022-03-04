@@ -209,7 +209,7 @@ max-width: 100%;
   display: inline-flex;
 justify-self: end;
 width: fit-content;
-padding-right: 1rem;
+padding-right: 2rem;
 background-position: 90% center;
 }
 .news-post {
