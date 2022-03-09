@@ -1,5 +1,3 @@
-// import redirectURLs from "./redirects"
-
 module.exports = {
   distDir: 'out',
   webpack: (configuration) => {
@@ -14,91 +12,91 @@ module.exports = {
     return 'my-build-id'
   },
   async redirects() {
-    return [    
-      {
-        source: '/abbs-edge', // automatically becomes /docs/with-basePath
-        destination: '/abbs-edge/recognition-accreditations', // automatically becomes /docs/another
+    return [{
+        source: '/abbs-edge', 
+        destination: '/abbs-edge/recognition-accreditations', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/profile/', // automatically becomes /docs/with-basePath
-        destination: '/profile/history-overview', // automatically becomes /docs/another
+        source: '/profile/', 
+        destination: '/profile/history-overview', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/faculty', // automatically becomes /docs/with-basePath
-        destination: '/faculty/profiles', // automatically becomes /docs/another
+        source: '/faculty', 
+        destination: '/faculty/profiles', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/research', // automatically becomes /docs/with-basePath
-        destination: '/research/research-centre', // automatically becomes /docs/another
+        source: '/research', 
+        destination: '/research/research-centre', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/corporate', // automatically becomes /docs/with-basePath
-        destination: '/corporate/recruit-students', // automatically becomes /docs/another
+        source: '/corporate', 
+        destination: '/corporate/recruit-students', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/campus-life', // automatically becomes /docs/with-basePath
-        destination: '/campus-life/health-wellness', // automatically becomes /docs/another
+        source: '/campus-life', 
+        destination: '/campus-life/health-wellness', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/news-events', // automatically becomes /docs/with-basePath
-        destination: '/news-events/news', // automatically becomes /docs/another
+        source: '/news-events', 
+        destination: '/news-events/news', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/campus-life/clubs-associations', // automatically becomes /docs/with-basePath
-        destination: '/campus-life/health-wellness', // automatically becomes /docs/another
+        source: '/campus-life/clubs-associations', 
+        destination: '/campus-life/health-wellness', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/campus-life/student-support', // automatically becomes /docs/with-basePath
-        destination: '/campus-life/health-wellness', // automatically becomes /docs/another
+        source: '/campus-life/student-support', 
+        destination: '/campus-life/health-wellness', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/programs/business', // automatically becomes /docs/with-basePath
-        destination: '/programs/business/business-programs', // automatically becomes /docs/another
+        source: '/programs/business', 
+        destination: '/programs/business/business-programs', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/programs/life-sciences', // automatically becomes /docs/with-basePath
-        destination: '/programs/life-sciences/life-sciences-programs', // automatically becomes /docs/another
+        source: '/programs/life-sciences', 
+        destination: '/programs/life-sciences/life-sciences-programs', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/programs/commerce', // automatically becomes /docs/with-basePath
-        destination: '/programs/commerce/commerce-programs', // automatically becomes /docs/another
+        source: '/programs/commerce', 
+        destination: '/programs/commerce/commerce-programs', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/programs/liberal-arts', // automatically becomes /docs/with-basePath
-        destination: '/programs/liberal-arts/liberal-arts-programs', // automatically becomes /docs/another
+        source: '/programs/liberal-arts', 
+        destination: '/programs/liberal-arts/liberal-arts-programs', 
         permanent: false,
         basePath: false,
       },
       {
-        source: '/programs/information-technology', // automatically becomes /docs/with-basePath
-        destination: '/programs/information-technology/information-technology-programs', // automatically becomes /docs/another
+        source: '/programs/information-technology', 
+        destination: '/programs/information-technology/information-technology-programs', 
         permanent: false,
         basePath: false,
-      }
+      },
+      
     ]
   }
 }
