@@ -29,13 +29,19 @@ const DropdownMenu = () => {
       if(pageLevel === 1){
         if (routesArray[1] == "programs") {
           setActiveMenu(routesArray[1])
-        } else {
+        } 
+        else {
           setActiveMenu('main')
         }
       } else if(pageLevel === 2){
         setActiveMenu(routesArray[1])
       } else if(pageLevel === 3){
-        setActiveMenu(routesArray[2])
+        if (routesArray[1] == "blog") {
+          setActiveMenu('main')
+        } 
+        else {
+          setActiveMenu(routesArray[2])
+        }
       } else {
         setActiveMenu('main')
       }

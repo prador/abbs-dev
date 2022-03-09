@@ -15,9 +15,10 @@
   }
   
   .breadcrumb-label.when-link {
-    text-decoration: underline;
     color: var(--color-black);
     opacity: 0.9;
+    border-bottom: 1px solid var(--color-grey);
+    padding-bottom: 1px;
   }
   
   .breadcrumb-label.when-link:hover {

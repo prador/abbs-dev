@@ -5,6 +5,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
+    "local": "npx netlify-cms-proxy-server",
     "cache-posts": "node scripts/cache.js"
   },
   "dependencies": {
