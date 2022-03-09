@@ -10,7 +10,7 @@ const PageBanner = ({att}) => {
   console.log(slug)
   const pageSub = () => {
     if (routes[2] == "category") {
-      return "/ "+slug.replace(/-/g, ' ').toUpperCase()
+      return "/ "+slug.replace(/-/g, ' ')
     }
   }
   return (

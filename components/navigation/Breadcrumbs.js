@@ -35,7 +35,7 @@ const Breadcrumbs = ({att}) => {
         }
       } 
       else if(routes[index] == 'category') {
-        myobj.loc = "category: "+slug.toUpperCase()
+        myobj.loc = slug
         
       } else {
         myobj.path = obj;
