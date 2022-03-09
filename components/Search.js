@@ -53,10 +53,10 @@ export default function Search() {
       { active && results.length > 0 && (
         <>
         <ul className={styles.results}>
-          <li><h2>Search Results</h2></li>
+          {/* <li><h2>Search Results</h2></li> */}
           {results.map(({ type, id, title }) => (
             <li className={styles.result} key={id}>
-              <Link href={`/${type}/post/[id]`} as={`/${type}/post/${id}`}>
+              <Link href={`/${type}/[id]`} as={`/${type}/${id}`}>
                 <a>{type} - {title}</a>
               </Link>
             </li>

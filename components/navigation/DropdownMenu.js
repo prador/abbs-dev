@@ -35,7 +35,11 @@ const DropdownMenu = () => {
           setActiveMenu('main')
         }
       } else if(pageLevel === 2){
-        setActiveMenu(routes[1])
+        if (routes[1] == "blog") {
+          setActiveMenu('main')
+        } else {
+          setActiveMenu(routes[1])
+        }
       } else if(pageLevel === 3){
         if (routes[1] == "blog") {
           setActiveMenu('main')
