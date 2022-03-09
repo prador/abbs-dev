@@ -7,7 +7,7 @@ const PageBanner = ({att}) => {
   const routes= router.route.split('/');
   let pageLevel = routes.length -1;
   const { slug } = router.query
-  
+  console.log(slug)
   const pageSub = () => {
     if (routes[2] == "category") {
       return "/ "+slug.replace(/-/g, ' ')
@@ -23,7 +23,7 @@ const PageBanner = ({att}) => {
         </div>
         <div className="div-block-7">
           <div id="w-node-_5eb63cd6-7a5a-d031-e524-17bf1b83033c-fe48c5ce" className="post-title-section">
-            <h1>{att.title} <span className='banner-subtitle'>{pageSub()}</span></h1>
+            <h1>{att.title} <span className='banner-subtitle'>{slug ? pageSub() : null}</span></h1>
           </div>
         </div>
       </div>

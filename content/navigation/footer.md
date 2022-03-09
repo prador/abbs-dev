@@ -87,7 +87,7 @@ columns:
         show: false
       - links_label: Mandatory Disclosures
         links_loc: /mandatory-disclosures
-        show: false
+        show: true
 ---
 
 ## Welcome to the About page

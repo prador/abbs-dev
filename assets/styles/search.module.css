@@ -12,7 +12,7 @@
     width: 90%;
     background:none;
     outline:none;
-    color:white;
+    color:var(--color-white);
     border-bottom: 1px solid #707070;
     background-image: url(../icons/search.svg);
     background-repeat: no-repeat;
@@ -28,20 +28,20 @@
     position: fixed;
     top: 15%;
     left: 0;
-    right: 0;
-    width: auto;
+    right: auto;
+    width: 50%;
     z-index: 3;
     height: 50vh;
-    background: #000000e0;
-    padding: 0 0% 5rem;
+    background: var(--color-black);
+    padding: 0;
   }
   
   .result {
-    color: #eee;
+    color: var(--color-white);
     margin: 0 0 9px;
     padding: 18px;
   }
   
   .result a {
-    color: #eee;
+    color: var(--color-white);
   }

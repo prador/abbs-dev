@@ -24,23 +24,29 @@ const DropdownMenu = () => {
 
     useEffect(() => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
-      const routesArray= pathName.split('/');
-      let pageLevel = routesArray.length -1;
+      const routes= pathName.split('/');
+      let pageLevel = routes.length -1;
+      console.log(routes, pageLevel)
       if(pageLevel === 1){
-        if (routesArray[1] == "programs") {
-          setActiveMenu(routesArray[1])
+        if (routes[1] == "programs") {
+          setActiveMenu(routes[1])
         } 
         else {
           setActiveMenu('main')
         }
       } else if(pageLevel === 2){
-        setActiveMenu(routesArray[1])
+        setActiveMenu(routes[1])
       } else if(pageLevel === 3){
-        if (routesArray[1] == "blog") {
+        if (routes[1] == "blog") {
           setActiveMenu('main')
-        } 
+        } else if (routes[1] == "mandatory-disclosures") {
+          setActiveMenu('main')
+        }
+        else if (routes[2] == "news") {
+          setActiveMenu(routes[1])
+        }
         else {
-          setActiveMenu(routesArray[2])
+          setActiveMenu(routes[2])
         }
       } else {
         setActiveMenu('main')

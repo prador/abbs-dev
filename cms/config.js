@@ -1282,7 +1282,7 @@ module.exports = {
           required: true,
           widget: "select",
           multiple: false,
-          options: ["Form 10B","UGC", "NBA", "NAAC","IQAC","IACBE","AQAR","AISHE","AICTE","Student Hand Book"],
+          options: ["Affiliation Copy","AISHE","AICTE","AQAR","Compliance with RTI","Form 10B","IACBE","IQAC","NAAC","NBA","Student Hand Book","UGC"],
           hint: "",
           default: ""
         },{

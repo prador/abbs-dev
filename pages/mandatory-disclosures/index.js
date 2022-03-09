@@ -4,6 +4,11 @@ import PageHeader from '../../components/PageHeader'
 import PageBanner from '../../components/PageBanner'
 import PageContent from '../../components/PageContent'
 import { attributes, html } from '../../content/pages/mandatory-disclosures/index.md'
+import TagLinks from '../../components/content/TagLinks'
+import React, { useState, useEffect } from "react";
+import Breadcrumbs from '../../components/navigation/Breadcrumbs'
+import DocumentsSection from '../../components/content/DocumentsSection'
+
 
 const importDocs = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -20,12 +25,29 @@ const importDocs = async () => {
   )
 }
 
-const MandatoryDisclosures = (docList) =>{
+const MandatoryDisclosures = (docList) => {
+  const [searchValue, setSearchValue] = useState("");
+  const handleChange = (event) => {
+    setSearchValue(event.target.value);
+  };
+  const filterDocs = () => {
+    return docList.docList.filter((obj) => obj.attributes.title.toLowerCase().indexOf(searchValue.toLowerCase()) !== -1);
+  };
   return (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
-  <PageContent att={attributes} html={html} docs={docList.docList}/>
+  <div className="content animate__animated animate__fadeInUp">
+      <div className="w-layout-grid contain-block">
+      <Breadcrumbs att={attributes}/>
+      <section id="content-wrapper" className='has-anchors'>
+      <input className="search-input" id="doc-search" placeholder="Search Docs" type="text" onChange={handleChange} value={searchValue}/>
+      {/* <PageContent att={attributes} html={html} docs={docList}/> */}
+      {docList? <DocumentsSection docs={filterDocs()} /> : ""}
+    
+    </section>
+    </div>
+    </div>
 </Layout>
 )}
 

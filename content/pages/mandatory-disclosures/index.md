@@ -14,5 +14,6 @@ links:
   - anchor_title: ""
     anchor_id: ""
 thumbnail: static/img/mandatory-disclosures-banner.jpg
-sections: []
+sections:
+  - type: anchor_section
 ---
