@@ -7,7 +7,6 @@ const PageBanner = ({att}) => {
   const routes= router.route.split('/');
   let pageLevel = routes.length -1;
   const { slug } = router.query
-  console.log(slug)
   const pageSub = () => {
     if (routes[2] == "category") {
       return "/ "+slug.replace(/-/g, ' ')

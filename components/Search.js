@@ -2,6 +2,26 @@ import { useCallback, useRef, useState } from 'react'
 import Link from 'next/link'
 import styles from '../assets/styles/search.module.css'
 
+const ResultBlock = ({ results,type }) => {
+  console.log(type)
+  console.log(results.filter((obj) => console.log(obj.type)))
+  return <>
+  {results.filter((obj) => obj.type === type).length ? <div className={styles.search_block}>
+       <h4 className={styles.search_block_title}>{type}</h4>
+       {results.map(({ type, id, title }) => (
+            <>
+            <li className={styles.result} key={id}>
+              <Link href={`/${type}/[id]`} as={`/${type}/${id}`}>
+                <a>{title}</a>
+              </Link>
+            </li>
+            </>
+            
+          ))}
+      </div> : null}
+    </>
+  }
+
 export default function Search() {
 
   const searchRef = useRef(null)
@@ -36,6 +56,7 @@ export default function Search() {
       window.removeEventListener('click', onClick)
     }
   }, [])
+  let resultTypes = ["blog","pages","documents","faculty","news","events"]
 
   return (
     <div
@@ -53,14 +74,7 @@ export default function Search() {
       { active && results.length > 0 && (
         <>
         <ul className={styles.results}>
-          {/* <li><h2>Search Results</h2></li> */}
-          {results.map(({ type, id, title }) => (
-            <li className={styles.result} key={id}>
-              <Link href={`/${type}/[id]`} as={`/${type}/${id}`}>
-                <a>{type} - {title}</a>
-              </Link>
-            </li>
-          ))}
+        {resultTypes.map((type) => <ResultBlock results={results} type={type}/> )}
         </ul>
         </>
         

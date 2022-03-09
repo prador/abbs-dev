@@ -14,7 +14,6 @@ return <>
 }
 const DocumentsSection = ({ docs }) => {
   let docTypes = ["Affiliation Copy","AISHE","AICTE","AQAR","Compliance with RTI","Form 10B","IACBE","IQAC","NAAC","NBA","Student Hand Book","UGC"]
-  console.log(docs)
   return (
   <>
     <section className="doc-wrapper">

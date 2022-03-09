@@ -26,7 +26,6 @@ const DropdownMenu = () => {
       setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
       const routes= pathName.split('/');
       let pageLevel = routes.length -1;
-      console.log(routes, pageLevel)
       if(pageLevel === 1){
         if (routes[1] == "programs") {
           setActiveMenu(routes[1])

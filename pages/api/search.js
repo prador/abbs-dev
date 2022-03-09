@@ -1,7 +1,8 @@
 import { getSortedPostsData } from '../../lib/posts'
-// import { getSortedNogsData } from '../../lib/nogs'
+// import { getSortedNogsData } from '../../lib/documents'
 
 const posts = process.env.NODE_ENV === 'production' ? require('../../cache/data').posts : getSortedPostsData()
+// const docs = process.env.NODE_ENV === 'production' ? require('../../cache/data').posts : getSortedDocsData()
 // const nogs = process.env.NODE_ENV === 'production' ? require('../../cache/data').posts : getSortedNogsData()
 // Array.prototype.push.apply(posts,nogs);
 
