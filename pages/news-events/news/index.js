@@ -60,7 +60,7 @@ const News = ({newsList}) => {
     </section>
     <div className='side-float'>
     <input className="search-input sticky" id="news-search" placeholder="Search news" type="text" onChange={handleChange} value={searchValue}/>
-    {attributes.sections[0].links ? <TagLinks att={attributes.sections[0]} search={true} title={"Categories"} /> : ""}
+    {/* {attributes.sections[0].links ? <TagLinks att={attributes.sections[0]} search={true} title={"Categories"} /> : ""} */}
     </div>
     </div>
     </div>
