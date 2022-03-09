@@ -28,6 +28,7 @@ const importDocs = async () => {
 const Docs = ({ docList }) => {
   const router = useRouter();
     let routes= router.route.split('/');
+    
   const { slug } = router.query
   const setDate = (date) => {
     let newDate = new Date(date)
@@ -42,7 +43,7 @@ const Docs = ({ docList }) => {
       <Breadcrumbs att={attributes}/>
       <section id="content-wrapper" className='has-anchors'>
       {/* <PageContent att={attributes} html={html} docs={docList}/> */}
-      {docList? <DocumentsSection docs={docList.filter((obj) => obj.attributes.certification === slug)} /> : ""}
+      {docList? <DocumentsSection docs={docList.filter((obj) => !obj.attributes.certification.localeCompare(slug, undefined, { sensitivity: 'accent' }))} /> : ""}
     
     </section>
     </div>

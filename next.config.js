@@ -98,7 +98,7 @@ module.exports = {
         destination: '/programs/information-technology/information-technology-programs', // automatically becomes /docs/another
         permanent: false,
         basePath: false,
-      },
+      }
     ]
   }
 }

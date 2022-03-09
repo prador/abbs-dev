@@ -35,7 +35,7 @@ const Breadcrumbs = ({att}) => {
         }
       } 
       else if(routes[index] == 'category') {
-        myobj.loc = "category: "+slug
+        myobj.loc = "category: "+slug.toUpperCase()
         
       } else {
         myobj.path = obj;
@@ -47,7 +47,6 @@ const Breadcrumbs = ({att}) => {
     if (routes[2] == 'category') {
       output.pop()
     }
-    // if( output[2].loc == output[1].loc) {isHome = true;}
     return (
         <>
         {isHome ? "" : 

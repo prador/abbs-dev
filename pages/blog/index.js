@@ -54,7 +54,7 @@ const Blog = ({ postsList }) => {
               <div className="news-post-content">
                 <span className='post-date'>{setDate(post.attributes.date)}</span>
                 <h6>{post.attributes.title}</h6>
-                <span>{post.attributes.categories}</span>
+                {/* <span>{post.attributes.categories}</span> */}
                 {/* <p dangerouslySetInnerHTML={{__html: post.html}}></p> */}
                 {post.brief_description ? <p>{post.brief_description}</p> : null }
               </div>
