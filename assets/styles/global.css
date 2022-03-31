@@ -71,28 +71,28 @@
 
 @font-face {
   font-family: 'HKGrotesk';
-  src: url('/fonts/HKGrotesk-Black.otf') format('opentype');
+  src: url('../fonts/HKGrotesk-Black.otf') format('opentype');
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'HKGrotesk';
-  src: url('/fonts/HKGrotesk-SemiBold.otf') format('opentype');
+  src: url('../fonts/HKGrotesk-SemiBold.otf') format('opentype');
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'HKGrotesk';
-  src: url('/fonts/HKGrotesk-Bold.otf') format('opentype');
+  src: url('../fonts/HKGrotesk-Bold.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'HKGrotesk';
-  src: url('/fonts/HKGrotesk-ExtraBold.otf') format('opentype');
+  src: url('../fonts/HKGrotesk-ExtraBold.otf') format('opentype');
   font-weight: 800;
   font-style: normal;
 }

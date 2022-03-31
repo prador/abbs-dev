@@ -51,7 +51,7 @@ const Footer = () => (
         <div className="social-links">
           <div className="copyright">{attributes.footer_copyright}</div>
           {attributes.footer_links.map(((link,id) => 
-            <><div className="delim">|</div>{link.show !== false ? <a key={id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : "" }</>
+            <><div className="delim">|</div>{link.show !== false ? <a key={id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : null}</>
           ))}
         </div>
       </div>

@@ -91,7 +91,7 @@ const Home = ({newsList,eventsList}) => {
         <h2 className='home-section-title'><span className="header-hyphen"></span>Events</h2>
         <div>
         {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
-      }).slice(0, 4).map((post) => (
+      }).slice(0, 4).map((post,index) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="events-post">
             <div className='events-post-date-info'>
@@ -129,9 +129,9 @@ const Home = ({newsList,eventsList}) => {
           <p>{attributes.rec_acc_section.section_text}</p>
           <a href="/abbs-edge/recognition-accreditations" className="btn btn-outline">View More</a>
         </div>
-        {attributes.rec_acc_section.logos.map((post) => 
+        {attributes.rec_acc_section.logos.map((post,index) => 
           <>
-          <img className="rec-acred-image" src={post.logo_image}/>
+          <img key={index} className="rec-acred-image" src={post.logo_image}/>
           </>
         )}
       </div>

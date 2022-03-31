@@ -27,7 +27,7 @@ const ProgramAccordion = ({programs}) => {
           <h2 className='home-section-title'><span className="header-hyphen"></span>Our Programs</h2>
         <ul className="program-accordion">
             {programs.program_accordion.map((prog, index) => (
-                <li className={`program-tabs ${clicked === index ? "active" : ""}`} 
+                <li key={index} className={`program-tabs ${clicked === index ? "active" : ""}`} 
                 onClick={() => handleToggle(index)} 
                 onMouseEnter={(e) => mouseEnter(index)} 
                 onMouseLeave={(e) => mouseLeave(index)}
@@ -39,8 +39,8 @@ const ProgramAccordion = ({programs}) => {
                     <h4 className="program-accordion-title">{prog.program}</h4>
                   </div>
                   <ul>
-                  {prog.links.map((link) => (
-                    <li><a className=" prog-link" href={link.loc}>{link.name}</a></li>
+                  {prog.links.map((link,index) => (
+                    <li key={index}><a className=" prog-link" href={link.loc}>{link.name}</a></li>
                   ))}
                   </ul>
                 </div>
