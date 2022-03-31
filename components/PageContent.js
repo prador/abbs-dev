@@ -18,7 +18,7 @@ import DocumentsSection from "./content/DocumentsSection";
 import PersonSection from "./content/PersonSection";
 // import '../assets/styles/pagecontent.module.css'
 
-const PageContent = ({att,html,list,testimonials,docs}) => {
+const PageContent = ({att,html,list,testimonials,docs,cls}) => {
   const sectionSwitch = (section) => {
     switch (section.type) {
       case "text_section":
@@ -60,7 +60,7 @@ const PageContent = ({att,html,list,testimonials,docs}) => {
   
   return (
     <>
-      <div className="content animate__animated animate__fadeInUp">
+      <div className={"content animate__animated animate__fadeInUp "+ `${cls? cls : null}`}>
   
         <div className="w-layout-grid contain-block">
         <Breadcrumbs att={att}/>

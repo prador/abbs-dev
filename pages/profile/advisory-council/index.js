@@ -24,7 +24,7 @@ const AdvisoryCouncil = ({ teamList }) => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
-  <PageContent att={attributes} html={html} list={teamList.sort((a,b)=>(a.attributes.order>b.attributes.order ? 1 : -1))}/>
+  <PageContent cls="profile-advisory" att={attributes} html={html} list={teamList.sort((a,b)=>(a.attributes.order>b.attributes.order ? 1 : -1))}/>
 </Layout>
 )
 
