@@ -1,8 +1,12 @@
 import Head from 'next/head'
+import React from 'react'
 
-const PageHeader = ({attributes}) => (
+const PageHeader = ({attributes,children}) => {
+
+  return (
   <>
     <Head>
+    {children}
       {attributes.seo_title ? <>
           <title>{attributes.seo_title}</title>
           <meta content={attributes.seo_title} key="title" property="og:title" />
@@ -28,13 +32,10 @@ const PageHeader = ({attributes}) => (
           <meta content="summary_large_image" name="twitter:card" />
           <meta property="og:type" content="website" />
           
-          <meta charSet="utf-8" />
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-          {/* {attributes.header_scripts ? <>
-            {attributes.header_scripts}
-          </> : "" } */}
+          {attributes.header_scripts ? <head dangerouslySetInnerHTML={{ __html: attributes.header_scripts }} /> : "" }
     </Head>
   </>
-)
+)}
 
 export default PageHeader

@@ -21,12 +21,14 @@ import SimpleReactLightbox from 'simple-react-lightbox'
 export default function App({ Component, pageProps }) {
   return (
   <>
-  <Head>
+    <Head>
       <link href="/static/img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
       <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png"/>
       <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png"/>
       <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png"/>
       <link rel="mask-icon" href="/static/img/safari-pinned-tab.svg" color="#5bbad5"/>
+      <meta name="robots" content="index, follow" />
+      <meta charSet="utf-8" />
   </Head>
   <SimpleReactLightbox>
     <Component {...pageProps} />

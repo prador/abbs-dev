@@ -68,19 +68,19 @@ const PageContent = ({att,html,list,testimonials,docs}) => {
           <div id="content-wrapper" className={att.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
               {html ? <div dangerouslySetInnerHTML={{ __html: html }} /> : "" }
               {att.sections ? <>
-                {att.sections.map((section)=> (
-                  <>
+                {att.sections.map((section,index)=> (
+                  <div key={index}>
                   {sectionSwitch(section)}
-                  </>
+                  </div>
                 ))}
               </> : "" }
               {docs? <DocumentsSection docs={docs}/> : ""}
           </div>
           {att.sections ? <div className="side-float">
-            {att.sections.map((section)=> (
+            {att.sections.map((section,index)=> (
               <>
-              {section.links ? <AnchorLinks att={section} /> : ""}
-              {section.type == "program_details" ? <ProgramDetailsSection att={section} /> : ""}
+              {section.links ? <AnchorLinks key={index} att={section} /> : ""}
+              {section.type == "program_details" ? <ProgramDetailsSection key={index} att={section} /> : ""}
               </>
             ))}
           </div> : "" }

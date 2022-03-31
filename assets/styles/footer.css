@@ -246,7 +246,7 @@
       }
   }
   
-@media (min-width: 768px) { 
+@media screen and (min-width: 768px) { 
   .footer-links-col:nth-last-child(2) .column-links {
     display: flex;
     flex-wrap: wrap;
@@ -260,7 +260,7 @@
     padding-right:3rem;
   }
 }
-@media (min-width: 1200px) { 
+@media screen and (min-width: 1200px) { 
   .address-block {
     max-width: 200px;
     padding-right:3rem;

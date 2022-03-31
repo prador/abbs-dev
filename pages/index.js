@@ -7,6 +7,7 @@ import ProgramSelect from '../components/home/ProgramSelect'
 import PageHeader from '../components/PageHeader'
 import AccordionSection from '../components/content/AccordionSection'
 import { attributes, html } from '../content/home/home.md'
+import HomeHeader from '../components/home/HomeHeader'
 
 const importNews = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -51,7 +52,7 @@ const Home = ({newsList,eventsList}) => {
   }
   return (
   <Layout>
-    <PageHeader attributes={attributes} />
+    <PageHeader attributes={attributes}><HomeHeader attributes={attributes}/></PageHeader>
     <HomeSlideshow att={attributes.slider_images} className="animate__animated animate__fadeInUp"/>  
 
     <div className="content news-events-wrapper">
@@ -102,7 +103,7 @@ const Home = ({newsList,eventsList}) => {
             <h6>{post.attributes.title}</h6>
             <div className='event-post-info'>
               <span className='event-tag'>{post.attributes.tags}</span>
-              {post.attributes? <a href={post.attributes.event_link} className='event-tag btn btn-ghost'>Register</a> : null }
+              {post.attributes? <a href={post.attributes.event_link ? post.attributes.event_link : "#"} className='event-tag btn btn-ghost'>Register</a> : null }
             </div>
             </div>
               </div>
@@ -161,6 +162,7 @@ const Home = ({newsList,eventsList}) => {
         text-align: center;
       }
     `}</style>
+     {attributes.body_scripts ? <div dangerouslySetInnerHTML={{ __html: attributes.body_scripts }} /> : null}
   </Layout>
 )}
 

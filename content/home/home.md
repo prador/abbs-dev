@@ -1,5 +1,6 @@
 ---
 slug: /
+body_scripts: ""
 thumbnail: static/img/00-01-01-hero-desktop.jpg
 title: Home
 seo_title: Best Business School in Bangalore | Acharya Bangalore Business School
@@ -153,4 +154,81 @@ faq_section:
   image_position: Content Right
   section_image: static/img/00-04-faqs.jpg
   section_id: faqs
+header_scripts: >-
+  <meta name="geo.region" content="IN-KA" />
+
+  <meta name="geo.placename" content="#3 lingadeeranahalli, off, Magadi Main Rd, Shushruti Nagar, D Group Employees Layout, Bengaluru, Karnataka 560091" />
+
+  <meta name="geo.position" content="13.003505, 77.484434" />
+
+  <meta name="ICBM" content="13.003505, 77.484434" />
+
+  <meta name="facebook-domain-verification" content="htimxyajz3p173zwfwymj1au47xy9d" />
+
+
+
+
+  <script type="application/ld+json">
+
+  {
+    "@context": "https://schema.org",
+    "@type": "Localbusiness",
+    "name": "ABBSLAW",
+    "image": "https://abbslaw.edu.in/wp-content/uploads/2018/11/Law-1.jpg",
+    "description":"ABBS School of Law is one of the top law colleges in bangalore ,Affiliated to Karnataka State Law University and Approved by Bar Council of India, New Delhi. ",
+    "url": "https://abbslaw.edu.in/",
+    "telephone": "+91 9141707070",
+    "priceRange": "Call US : +91 9141707070",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Andrahalli Main Road, Off Magadi Road",
+      "addressLocality": " Bengaluru",
+      "postalCode": "560091",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 13.003533, 
+      "longitude": 77.484411
+    },
+    "aggregateRating": {
+  		"@type": "AggregateRating",
+  		"ratingValue": "4.9",
+  		"bestRating": "5",
+  		"ratingCount": "5855"
+  		 },
+    "openingHoursSpecification": [{
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+        
+      ],
+      "opens": "10:00",
+      "closes": "07:00"
+    }],
+    "sameAs": "https://abbslaw.edu.in/"
+  }
+
+  </script>
+
+  <script type="application/ld+json">
+
+  {
+    "@context": "https://schema.org/",
+    "@type": "WebSite",
+    "name": "ABBSLAW",
+    "url": "https://abbslaw.edu.in",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://abbslaw.edu.in/{search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+
+  </script>
 ---

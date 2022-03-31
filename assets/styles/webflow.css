@@ -1419,7 +1419,7 @@ textarea.w-select {
 .w-lightbox-noscroll {
   overflow: hidden;
 }
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .w-lightbox-content {
     height: 96vh;
     margin-top: 2vh;

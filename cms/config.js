@@ -47,7 +47,8 @@ module.exports = {
           label: "SEO Keywords",
           name: "seo_keywords",
           widget: "string"
-        },
+        },        
+        
         {
           label: "Publish Date",
           name: "date",
@@ -296,6 +297,20 @@ module.exports = {
           name: "body",
           widget: "markdown",
           required: false
+        },
+        {
+          label: "Header Scripts",
+          name: "header_scripts",
+          widget: "text",
+          required: false,
+          hint: "Add content or scripts here to be added on all pages, in the header"
+        },
+        {
+          label: "Body Scripts",
+          name: "body_scripts",
+          widget: "text",
+          required: false,
+          hint: "Add content or scripts here to be added on all pages, in the body"
         }
       ]
     },
@@ -1623,6 +1638,32 @@ module.exports = {
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      name: "general",
+      label: "General",
+      create: false,
+      delete: false,
+      format: "frontmatter",
+      folder: "content/general/",
+      slug: "{{slug}}",
+      sortable_fields: ['order', 'title', 'name'],
+      fields: [
+        {
+          label: "Header Scripts",
+          name: "header_scripts",
+          widget: "markdown",
+          required: false,
+          hint: "Add content or scripts here to be added on all pages, in the header"
+        },
+        {
+          label: "Body Scripts",
+          name: "body_scripts",
+          widget: "markdown",
+          required: false,
+          hint: "Add content or scripts here to be added on all pages, in the body"
         }
       ]
     }

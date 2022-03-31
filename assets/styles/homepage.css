@@ -299,7 +299,7 @@ gap:2rem;
 .home-faq-image {
 margin-top: 5rem;
 }
-@media (max-width:600px) {
+@media screen and (max-width:600px) {
   .home-faq-section,.rec-acred-wrapper {
     grid-template-columns: 1fr;
   }
@@ -346,6 +346,8 @@ margin-top: 5rem;
   .program-tabs.active {
     width:100%;
   }
+}
+@media screen and (max-width:1160px) {
   .news-events-section {
     grid-template-columns: 1fr;
   }

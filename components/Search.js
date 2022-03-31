@@ -8,15 +8,12 @@ const ResultBlock = ({ results,type }) => {
   return <>
   {results.filter((obj) => obj.type === type).length ? <div className={styles.search_block}>
        <h4 className={styles.search_block_title}>{type}</h4>
-       {results.map(({ type, id, title }) => (
-            <>
-            <li className={styles.result} key={id}>
+       {results.map(({ type, id, title , index}) => (
+            <li key={index} className={styles.result} key={id}>
               <Link href={`/${type}/[id]`} as={`/${type}/${id}`}>
                 <a>{title}</a>
               </Link>
-            </li>
-            </>
-            
+            </li>            
           ))}
       </div> : null}
     </>
