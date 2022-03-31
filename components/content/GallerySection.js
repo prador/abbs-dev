@@ -5,6 +5,7 @@ import html from 'remark-html';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
 import { SRLWrapper } from "simple-react-lightbox";
+import Image from 'next/image'
 
 const options = {
   settings: {
@@ -47,7 +48,7 @@ const GallerySection = ({att}) => {
         <SRLWrapper options={options} >
           {att.images.map((image) => (
           <div key={image.id} className="gallery-image">
-            <img src={"../"+image.image} className={"image-image "+`${image.image_size ? image.image_size : ""}`} alt={image.image_title}/>
+            <Image layout="fill" src={"/../"+image.image} className={"image-image "+`${image.image_size ? image.image_size : ""}`} alt={image.image_title}/>
             {image.image_title ? <h6 className="image-title">{image.image_title}</h6> : ""}
           </div>
         ))}

@@ -1,5 +1,6 @@
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
+import Image from 'next/image'
 
 const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
   let imgPos;
@@ -19,7 +20,7 @@ const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
         {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
         {testimonials.map((post) => (
             <div className="testimonial-post">
-              <img className="testimonial-image" src={"../../"+post.attributes.thumbnail}></img>
+              <Image layout="fill" className="testimonial-image" src={"/../../"+post.attributes.thumbnail}/>
               <div className="testimonial-content">
                 <h6 className='testimonial-student'>{post.attributes.title}</h6>
                 <p className="testimonial-batch">{post.attributes.program} (Batch {post.attributes.batch})</p>

@@ -7,6 +7,7 @@ import Breadcrumbs from '../../../components/navigation/Breadcrumbs'
 import TagLinks from '../../../components/content/TagLinks'
 import React, { useState, useEffect } from "react";
 import { attributes, html } from '../../../content/pages/news-events/news/index.md'
+import Image from 'next/image'
 
 const importNews = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -46,7 +47,7 @@ const News = ({newsList}) => {
       }).map((post) => (
 <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="news-page-post">
-            <img className="news-post-image" src={"../"+post.attributes.thumbnail}></img>
+            <Image layout="fill" className="news-post-image" src={"/../"+post.attributes.thumbnail}/>
               <div className="news-post-content">
                 <span className='post-date'>{setDate(post.attributes.date)}</span>
                 <h6>{post.attributes.title}</h6>

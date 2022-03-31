@@ -17,6 +17,7 @@ import ProgramDetailsSection from "./content/ProgramDetailsSection"
 import DocumentsSection from "./content/DocumentsSection";
 import PersonSection from "./content/PersonSection";
 // import '../assets/styles/pagecontent.module.css'
+import Image from 'next/image'
 
 const PageContent = ({att,html,list,testimonials,docs}) => {
   const sectionSwitch = (section) => {

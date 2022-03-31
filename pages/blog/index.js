@@ -7,6 +7,7 @@ import Breadcrumbs from '../../components/navigation/Breadcrumbs'
 import AnchorLinks from '../../components/content/AnchorLinks'
 import TagLinks from '../../components/content/TagLinks'
 import React, { useState, useEffect } from "react";
+import Image from 'next/image'
 
 const importBlogPosts = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -50,7 +51,7 @@ const Blog = ({ postsList }) => {
       <div key={post.slug} className="post">
         <Link href="/blog/[slug]" as={`/blog/${post.slug}`}>
         <div className="news-page-post">
-            <img className="news-post-image" src={"../"+post.attributes.thumbnail}></img>
+            <Image layout="fill" className="news-post-image" src={"/../"+post.attributes.thumbnail}/>
               <div className="news-post-content">
                 <span className='post-date'>{setDate(post.attributes.date)}</span>
                 <h6>{post.attributes.title}</h6>

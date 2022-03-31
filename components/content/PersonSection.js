@@ -1,6 +1,7 @@
 import React from "react";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
+import Image from 'next/image'
 
 const PersonSection = ({att}) => {
   return (
@@ -11,7 +12,7 @@ const PersonSection = ({att}) => {
       <div className={"person-section-block"}>
         {att.people.map((person) => (
           <div key={person.slug} className={"bio-card person-card"}> 
-          <div className="bio-image">{person.thumbnail ? <img src={"../"+person.thumbnail} /> : null }</div>
+          <div className="bio-image">{person.thumbnail ? <Image layout="fill" src={"/../"+person.thumbnail} /> : null }</div>
           <div className="bio-content">
             <h4 className="bio-name">{person.name}</h4>
             <p className="bio-qualifications">{person.qualifications}</p>

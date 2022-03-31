@@ -1,5 +1,6 @@
 import Layout from '../components/layout'
 import Head from 'next/head'
+import Image from 'next/image'
 import Link from 'next/link'
 import HomeSlideshow from '../components/home/HomeSlideshow'
 import ProgramAccordion from '../components/home/ProgramAccordion'
@@ -79,7 +80,7 @@ const Home = ({newsList,eventsList}) => {
                 {post.brief_description ? <p>{post.brief_description}</p> : null }
                 <span className='news-post-date'>{setDate(post.attributes.date)}</span>
               </div>
-              <img className="news-post-image" src={post.attributes.thumbnail}></img>
+              <Image layout="fill" className="news-post-image" src={"/"+post.attributes.thumbnail}/>
             </div>
         </Link>
     ))}
@@ -131,7 +132,7 @@ const Home = ({newsList,eventsList}) => {
         </div>
         {attributes.rec_acc_section.logos.map((post,index) => 
           <>
-          <img key={index} className="rec-acred-image" src={post.logo_image}/>
+          <Image layout="fill" key={index} className="rec-acred-image" src={"/"+post.logo_image}/>
           </>
         )}
       </div>
@@ -150,7 +151,7 @@ const Home = ({newsList,eventsList}) => {
       </div>
       {attributes.faq_section.section_image ? 
             <div className="home-faq-image">
-              <img src={"../"+attributes.faq_section.section_image} alt={attributes.faq_section.section_title}/>
+              <Image layout="fill" src={"/../"+attributes.faq_section.section_image} alt={attributes.faq_section.section_title}/>
             </div> : "" }
       </section>
         </div>

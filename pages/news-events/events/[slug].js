@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import Layout from '../../../components/layout'
+import Image from 'next/image'
 
 import PageHeader from '../../../components/PageHeader'
 import PageBanner from '../../../components/PageBanner'
@@ -24,7 +25,7 @@ const Post = ({ blogpost }) => {
           <div id="content-wrapper" className={attributes.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
       <article>
         <h1>{attributes.title}</h1>
-        <img src={"../../"+attributes.thumbnail} />
+        <Image layout="fill" src={"/../../"+attributes.thumbnail} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </article>
       </div>

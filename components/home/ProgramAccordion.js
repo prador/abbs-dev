@@ -1,4 +1,5 @@
 import { useState,useRef } from "react";
+import Image from 'next/image'
 
 const ProgramAccordion = ({programs}) => {
   const [clicked, setClicked] = useState("0");
@@ -33,9 +34,9 @@ const ProgramAccordion = ({programs}) => {
                 onMouseLeave={(e) => mouseLeave(index)}
                 style={{backgroundImage: `url(../${prog.bg_image})`}}>
                 <div className="program-content" style={{background: prog.bg_color}}>
-                  <span className="prog-bg-logo-wrapper "><img className="prog-bg-logo bg-logo-1" src={prog.icon} alt={prog.program}/><img className="prog-bg-logo bg-logo-2" src={prog.icon} alt={prog.program}/></span>
+                  <span className="prog-bg-logo-wrapper "><Image layout="fill" className="prog-bg-logo bg-logo-1" src={"/"+prog.icon} alt={prog.program}/><Image layout="fill" className="prog-bg-logo bg-logo-2" src={"/"+prog.icon} alt={prog.program}/></span>
                   <div>
-                    <img src={prog.icon} alt={prog.program}/>
+                    <Image layout="fill" src={"/"+prog.icon} alt={prog.program}/>
                     <h4 className="program-accordion-title">{prog.program}</h4>
                   </div>
                   <ul>

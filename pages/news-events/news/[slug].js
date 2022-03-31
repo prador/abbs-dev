@@ -5,6 +5,7 @@ import PageHeader from '../../../components/PageHeader'
 import PageBanner from '../../../components/PageBanner'
 import PageContent from '../../../components/PageContent'
 import Breadcrumbs from '../../../components/navigation/Breadcrumbs'
+import Image from 'next/image'
 
 const Post = ({ blogpost }) => {
   if (!blogpost) return <div>not found</div>
@@ -23,7 +24,7 @@ const Post = ({ blogpost }) => {
           <div id="content-wrapper" className={attributes.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
       <article>
         <h1>{attributes.title}</h1>
-        <img src={"../../"+attributes.thumbnail} />
+        <Image layout="fill" src={"/../../"+attributes.thumbnail} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </article>
       </div>

@@ -1,4 +1,5 @@
 import { attributes, html } from '../../content/navigation/footer.md'
+import Image from 'next/image'
 
 const Footer = () => (
   <>
@@ -31,7 +32,7 @@ const Footer = () => (
           </div>
         ))}
         <div className="address-block">
-            <img src={"../"+attributes.logo} layout="responsive" loading="lazy" width="120" alt="" className="footer-logo"/>
+            <Image src={"/../"+attributes.logo} layout="fill" loading="lazy" width="120" alt="" className="footer-logo"/>
           <p className="paragraph-2">{attributes.contact_info.address}</p>
           <div className="address-contact-links">
             <h4 className="footer-address-heading">Ph no :</h4>

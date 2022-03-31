@@ -1,6 +1,7 @@
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
 import { useRouter } from "next/router";
+import Image from 'next/image'
 
 const ProgramSection = ({att}) => {
   const router = useRouter();
@@ -11,7 +12,7 @@ const ProgramSection = ({att}) => {
   <>
     <section className="program-section-wrapper" id={att.section_id}>
      {att.programs ?  <>
-      {att.section_logo ? <img className="program-logo" src={"../".repeat(pageLevel)+att.section_logo}alt={att.section_title} /> : "" }
+      {att.section_logo ? <Image layout="fill" className="program-logo" src={"/../".repeat(pageLevel)+att.section_logo}alt={att.section_title} /> : "" }
       {att.section_title ? <h2 className="program-section-title" ><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
       {att.programs.map((prog,index) => (
         <>

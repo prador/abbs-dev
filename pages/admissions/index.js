@@ -4,6 +4,7 @@ import PageHeader from '../../components/PageHeader'
 import PageBanner from '../../components/PageBanner'
 import PageContent from '../../components/PageContent'
 import { attributes, html } from '../../content/pages/admissions/index.md'
+import Image from 'next/image'
 
 const importPrograms = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -29,7 +30,7 @@ const Admissions = ({ programList }) => (
       <div key={post.slug} className="post">
         <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
           <a>
-            <img src={post.attributes.thumbnail} />
+            <Image layout="fill" src={post.attributes.thumbnail} />
             <h2>{post.attributes.title}</h2>
           </a>
         </Link>

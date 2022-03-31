@@ -1,5 +1,7 @@
 // import Link from 'next/link'
 import Layout from '../../../components/layout'
+import Image from 'next/image'
+
 // import PageHeader from '../../components/PageHeader'
 // import PageBanner from '../../components/PageBanner'
 // import PageContent from '../../components/PageContent'
@@ -23,7 +25,7 @@ const Research = ({ programList }) => (
       <div key={post.slug} className="post">
         <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
           <a>
-            <img src={post.attributes.thumbnail} />
+            <Image layout="fill" src={post.attributes.thumbnail} />
             <h2>{post.attributes.title}</h2>
           </a>
         </Link>

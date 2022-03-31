@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 const TextSection = {
   // Visible label
   label: 'Text Section',
@@ -70,7 +72,7 @@ const TextSection = {
           <div>
             ${(() => {
               if (obj.section_image ) {
-                return `<img src="../${obj.section_image}" class="image text-section-image"/>`
+                return `<Image layout="fill" src="/../${obj.section_image}" class="image text-section-image"/>`
               } else {
                 return ``
               }
@@ -91,7 +93,7 @@ const TextSection = {
     <div>
       ${(() => {
         if (obj.section_image ) {
-          return `<img src="../${obj.section_image}" class="image text-section-image"/>`
+          return `<Image layout="fill" src="/../${obj.section_image}" class="image text-section-image"/>`
         } else {
           return ``
         }

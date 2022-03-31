@@ -1,5 +1,6 @@
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
+import Image from 'next/image'
 
 const RelatedPostsSection = ({att}) => {
   let imgPos;
@@ -19,7 +20,7 @@ const RelatedPostsSection = ({att}) => {
         <div className={"section-content "+`${getPos()}`}>
           {att.section_image ? 
             <div className="section-image">
-              <img src={"../"+att.section_image} alt={att.section_title}/>
+              <Image layout="fill" src={"/../"+att.section_image} alt={att.section_title}/>
             </div> : "" }
         <div className="section-richtext"><ReactMarkdown children={att.section_text} remarkPlugins={[remarkGfm]} /></div>
           </div>

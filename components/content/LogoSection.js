@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import React from "react";
+import Image from 'next/image'
 
 const LogoSection = ({att}) => {
 
@@ -11,7 +12,7 @@ const LogoSection = ({att}) => {
       <div className={"logo-section-block "+`${att.section_grid_size ? att.section_grid_size : ""}`}>
         {att.logos.map((logo) => (
           <a key={logo.id} href={logo.logo_link ? logo.logo_link : ""} target="_blank" className="logo-link">
-            <img src={"../"+logo.logo_image} className={"logo-image "+`${logo.logo_size ? logo.logo_size : ""}`} alt={logo.logo_title}/>
+            <Image layout="fill" src={"/../"+logo.logo_image} className={"logo-image "+`${logo.logo_size ? logo.logo_size : ""}`} alt={logo.logo_title}/>
             {logo.logo_subtitle ? <h4 className="logo-subtitle">{logo.logo_subtitle}</h4> : "" }
             {logo.logo_title ? <h6 className="logo-title">{logo.logo_title}</h6> : ""}
           </a>
