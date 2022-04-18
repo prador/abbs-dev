@@ -54,18 +54,18 @@ sections:
           Work experience would be added value.
       - accordion_title: Application Process
         accordion_content: >-
-          Step 1: Complete the online application form:
+          * Step 1: Complete the online application form:
           [application.abbs.edu.in](http://application.abbs.edu.in)
 
-          Step 2: Candidate screening and eligibility scan.
+          * Step 2: Candidate screening and eligibility scan.
 
-          Step 3: Personal interview and group discussion.
+          * Step 3: Personal interview and group discussion.
 
-          Step 4: Results are announced based on score card.
+          * Step 4: Results are announced based on score card.
 
-          Step 5: Admission offer letters will be sent to shortlisted candidates.
+          * Step 5: Admission offer letters will be sent to shortlisted candidates.
 
-          Step 6: Candidate registration fee is paid directly to the institution after the confirmation of seat.
+          * Step 6: Candidate registration fee is paid directly to the institution after the confirmation of seat.
       - accordion_title: Application Timeline
         accordion_content: >-
           The admission process for various programmes commences during January
