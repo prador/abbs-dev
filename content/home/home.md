@@ -84,15 +84,15 @@ rec_acc_section:
     - logo_title: ""
       logo_subtitle: ""
       logo_link: ""
-      logo_image: static/img/00-03-01-accreditions.jpg
-    - logo_title: ""
-      logo_subtitle: ""
-      logo_link: ""
       logo_image: static/img/00-03-02-accreditions.jpg
     - logo_title: ""
       logo_subtitle: ""
       logo_link: ""
       logo_image: static/img/00-03-03-accreditions.jpg
+    - logo_title: ""
+      logo_subtitle: ""
+      logo_link: ""
+      logo_image: static/img/00-03-01-accreditions.jpg
 faq_section:
   accordions:
     - accordion_title: "What B-school means? "

@@ -54,7 +54,7 @@ const Events = ({eventsList}) => {
       {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
         <>{!isPast(post.attributes.event_date) ?
-          <Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
+          <Link href="/news-events/events/[slug]" as={`/news-events/events/${post.slug}`} key={post.slug}>
             <div className="events-post">
               <div className='events-post-date-info'>
                 <h4 className='events-post-day'>{setEventDate(post.attributes.event_date).day}</h4>

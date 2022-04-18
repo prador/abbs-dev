@@ -84,7 +84,7 @@ columns:
         links_loc: /code-of-conduct
       - links_label: Grievance Redressal
         links_loc: /grievance-redressal
-        show: false
+        show: true
       - links_label: Mandatory Disclosures
         links_loc: /mandatory-disclosures
         show: true

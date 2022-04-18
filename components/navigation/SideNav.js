@@ -30,6 +30,7 @@ function Navbar(props) {
       </div>
       <button className="nav-btn search-btn"><Image src={searchIcon} width="30px" className="nav-search"/></button>
       <ul className="navbar-nav nav-links">{props.children}</ul>
+      <button className="nav-apply btn btn-blue" type="button" class="npfWidgetButton npfWidget-91417a0f63179d933617d74133cf2030">Enquire Now</button>
       <div className="nav-footer">
         <a target="_blank" href="tel:+919141707070" className="nav-contact menu-item menu-last">Contact us: +91 9141707070</a>
         <a href="https://application.abbs.edu.in/" className="nav-apply btn btn-blue">Apply Now</a>

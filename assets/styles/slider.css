@@ -26,15 +26,23 @@
 }
 
 .slide-image {
-  position: relative;
+  position: absolute;
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
   object-fit: cover;
+  z-index: 1;
+}
+.slide-img-desktop {
+  display: flex;
+}
+.slide-img-mobile {
+display: none;
 }
 .slide-content {
 max-width: min(max(10rem, 20vw), 300px);;
 margin-right: 25%;
+z-index: 2;
 }
 
 .slide-controls {
@@ -86,4 +94,19 @@ margin-right: 25%;
 
 .dot.active {
   background: #000;
+}
+@media screen and (max-width:600px) {
+.slide-img-desktop {
+  display: none;
+}
+.slide-img-mobile {
+display: flex;
+}
+.slide-content {
+  max-width: min(max(25rem, 25vw), 300px);
+  margin-right: 10%;
+  z-index: 2;
+  bottom: 10px;
+  position: absolute;
+}
 }

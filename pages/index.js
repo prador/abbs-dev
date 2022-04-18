@@ -92,7 +92,7 @@ const Home = ({newsList,eventsList}) => {
         <div>
         {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).slice(0, 4).map((post,index) => (
-<Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
+<Link href="/news-events/events/[slug]" as={`/news-events/events/${post.slug}`} key={post.slug}>
             <div className="events-post">
             <div className='events-post-date-info'>
             <h4 className='events-post-day'>{setEventDate(post.attributes.date).day}</h4>
@@ -103,7 +103,7 @@ const Home = ({newsList,eventsList}) => {
             <h6>{post.attributes.title}</h6>
             <div className='event-post-info'>
               <span className='event-tag'>{post.attributes.tags}</span>
-              {post.attributes? <a href={post.attributes.event_link ? post.attributes.event_link : "#"} className='event-tag btn btn-ghost'>Register</a> : null }
+              {post.attributes? <a href={post.attributes.event_link ? post.attributes.event_link : `/news-events/events/${post.slug}`} className='event-tag btn btn-ghost'>Register</a> : null }
             </div>
             </div>
               </div>

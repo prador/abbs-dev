@@ -43,12 +43,14 @@ export default ({att}) => {
       <div className="navigation-wrapper">
         <div ref={sliderRef} className="keen-slider">
           {att.map((slide,id,index) =>(
-            <div key={id} className="keen-slider__slide" style={{backgroundImage: `url(${slide.slide_image})`}}>
+            <div key={id} className="keen-slider__slide">
               <div className="slide-content">
               {slide.slide_title ? <h2>{slide.slide_title} </h2> : "" }
               {slide.slide_text ? <p>{slide.slide_text}</p> :"" }
               {slide.slide_button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={slide.slide_button_link ? slide.slide_button_link : "#"}>{slide.slide_button_label}</a> :"" }
               </div>
+              <img className="slide-image slide-img-desktop" src={slide.slide_image} alt=""/>
+              <img className="slide-image slide-img-mobile" src={slide.slide_image_mobile} alt=""/>
             </div>
           ))}
         </div>

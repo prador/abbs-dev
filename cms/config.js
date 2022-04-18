@@ -1096,7 +1096,7 @@ module.exports = {
           multiple: false,
           widget: "select",
           options: ["Education","Student Council","Festivals"],
-          required: true
+          required: false
         }
       ]
     },
@@ -1122,12 +1122,13 @@ module.exports = {
         {
           label: "Featured Image",
           name: "thumbnail",
-          widget: "image"
+          widget: "image",
+          required: false
         },
         {
           label: "Event Date",
           name: "event_date",
-          widget: "datetime",
+          widget: "date",
           required: true
         },
         {

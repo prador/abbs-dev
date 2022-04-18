@@ -45,7 +45,7 @@ const DropdownMenu = () => {
         } else if (routes[1] == "mandatory-disclosures") {
           setActiveMenu('main')
         }
-        else if (routes[2] == "news") {
+        else if (routes[2] == "news" || routes[2] == "events") {
           setActiveMenu(routes[1])
         }
         else {
@@ -106,7 +106,7 @@ const DropdownMenu = () => {
                 </DropdownItem> }
                 
                 {top.menu_nav_list.map(((nav,id,index) => 
-                  <>{nav.show !== false ? <DropdownItem btn={"menu"} className="something" key={id} url={top.parent_menu_id === "-" ? "" : nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem> : "" }</>
+                  <>{nav.show !== false ? <DropdownItem btn={"menu"} className="something" key={id} url={top.parent_menu_id === "-" ? nav.menu_nav_link : nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem> : "" }</>
                 ))}
               </div>
             </CSSTransition>

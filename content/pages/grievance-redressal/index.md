@@ -18,6 +18,7 @@ sections:
   - type: embed_section
     section_id: "grievances-redressal "
     section_title: Grievances Redressal
-    embed_source: ""
+    embed_source: <div class="npf_wgts" data-height="400px"
+      data-w="91417a0f63179d933617d74133cf2030"></div>
     embed_size: ""
 ---

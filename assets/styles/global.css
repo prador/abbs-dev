@@ -154,6 +154,7 @@ body {
 #main {
   position: relative;
   width:100%;
+  width: calc(100vw - 215px);
 }
 section {
   margin-bottom: 2rem;
@@ -435,12 +436,22 @@ b, strong {
   background-size: 0.8rem;
   background-position: 90% center;
 }
+@media screen and (min-width:601px) and (max-width:960px) {
+.rec-acred-content {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 2;
+}
+}
 @media screen and (max-width:600px) {
   #__next {
     flex-direction:column;
   }
   .content {
     padding: 0 30px;
+  }
+  #main {
+    width: 100%;
   }
   #scroll-top-anchor {
     position: fixed;
