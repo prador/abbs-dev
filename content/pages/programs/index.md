@@ -10,9 +10,10 @@ sections:
     section_id: ""
     section_title: Our Programs are specially crafted keeping students in mind
     section_text: >-
-      ABBS has four academic divisions, made up of individual departments,
-      faculties or other centres, and a Department for Continuing Education,
-      which offers courses across a range of subject areas. 
+      ABBS has five academic divisions, made up of individual departments and
+      faculties , and a Department for Continuing Education, which offers
+      courses across a range of subject areas. 
+
 
 
       On this page you’ll find essential information about each department and the courses they offer, to help you to narrow your focus to a particular course.
@@ -40,9 +41,12 @@ sections:
         program_link_label: Find Out More
         program_link_loc: /programs/business/mba
       - program_title: BBA
-        program_content: Pass in two year PUC of Karnataka state (or) 10+2 or Higher
-          Secondary equivalent examination of any recognized Board or Council in
-          any discipline
+        program_content: The BBA program at ABBS is a sought-after program amongst the
+          likes of students across the country. The program, affiliated to
+          Bangalore University offers specializations in Finance, marketing and
+          Human Resources. The program has a strong emphasis on skill
+          development and experiential learning that is needed in the corporate
+          world.
         program_link_label: Find Out More
         program_link_loc: /programs/business/bba
       - program_title: BBA Aviation Management

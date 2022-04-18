@@ -1209,6 +1209,7 @@ module.exports = {
       format: "frontmatter",
       folder: "content/faculty/",
       slug: "{{slug}}",
+      sortable_fields: ['order', 'title', 'name'],
       fields: [{
           label: "Title",
           name: "title",
@@ -1219,6 +1220,12 @@ module.exports = {
           label: "Publish Date",
           name: "date",
           widget: "datetime",
+          required: true
+        },        
+        {
+          label: "Order",
+          name: "order",
+          widget: "string",
           required: true
         },
         {

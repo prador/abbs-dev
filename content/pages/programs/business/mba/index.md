@@ -23,13 +23,6 @@ sections:
           journey offering unparalleled opportunity along the way, with access
           to the best Global Management knowledge, corporate internships and
           placements from the finest companies in the market.
-      - accordion_title: Faculty
-        accordion_content: |-
-          * **Dr H R Venkatesha**, Director & Professor
-          * **Dr R Jayanthi**, Professor
-          * **Dr Sengottuvelu C,** Professor
-          * **Dr Rajesh C,** Associate Professor
-          * **Dr Sriram V P,** Associate Professor
       - accordion_title: Value Added Programs
         accordion_content: |-
           * Toastmasters International
@@ -81,7 +74,7 @@ sections:
 
 
           *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
-      - accordion_title: "Tuition fees and Scholarships: "
+      - accordion_title: "Scholarships: "
         accordion_content: "[Please read the details here](/admissions/fees-scholarships)"
   - type: accordion_section
     section_id: more-information
@@ -115,7 +108,7 @@ sections:
       - anchor_label: Related News
         anchor_loc: related-news
   - type: program_details
-    next_intake: January 2023
+    next_intake: August 2022
     duration: 24 months
     credentials: Masters in Business Administration
     contact_form: ""

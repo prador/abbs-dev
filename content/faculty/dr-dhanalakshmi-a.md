@@ -6,4 +6,4 @@ tags:
   - Faculty Directory
 ---
 
-Qualification : Designation : Date Of Joining : Nature Of Association : Regular
+Qualification : Designation : 

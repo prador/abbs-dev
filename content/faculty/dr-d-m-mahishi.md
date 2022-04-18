@@ -1,9 +1,10 @@
 ---
-title: "Dr.D.M Mahishi"
-date: "2020-12-14"
-thumbnail: "static/img/3.jpg"
+title: Dr.D.M Mahishi
+date: 2020-12-14
+order: "3"
 tags:
   - Faculty Directory
+thumbnail: static/img/3.jpg
 ---
 
-Qualification : Designation : Date Of Joining : Nature Of Association : Regular
+Qualification : Designation : 

@@ -8,5 +8,3 @@ tags:
 
 Qualification :  
 Designation : Assistant professor  
-Date Of Joining : 01-01-2015  
-Nature Of Association : Regular

@@ -1,22 +1,22 @@
 ---
-title: Fees and Scholarships
+title: Scholarships
+seo_title: Best Business School in Bangalore | ABBS | Admissions | Scholarships
+seo_description: null
+seo_keywords: null
 date: 2021-12-04T06:20:50.148Z
 thumbnail: static/img/08-05-fees-and-scholarships-01-banner.jpg
-seo_title: Best Business School in Bangalore | ABBS | Admissions | Fees and Scholarships
-seo_description: 
-seo_keywords: 
 sections:
   - type: text_section
     section_id: admission-policy
     section_title: Admission Policy
     section_text: >-
       **UG and MCom PROGRAMS**
-      
+
       Affiliated with Bangalore University
 
 
       **MBA PROGRAM**
-      
+
       AICTE Approved MBA, Affiliated with Bangalore University
 
 
@@ -106,63 +106,34 @@ sections:
 
 
       *Note: All scholarships are approved by the Executive Director before disbursement.*
-  - type: text_section
-    section_id: scholarship-2021-22
-    section_title: Scholarship Categories for 2021-22
-    section_text: >-
-      **The MBA Scholarship categories for the academic year 2021-22 are as
-      follows:**
+  - type: embed_section
+    section_id: scholarship-2022-23
+    section_title: Scholarships 2022
+    embed_source: >-
+      The MBA Scholarship categories for the academic year 2022-23 are as
+      follows:
+
+      <br/>
 
 
+      <table class="c23"><tbody><tr class="c9 table-head"><td class="c7 c25" colspan="1" rowspan="1"><p class="c4"><span class="c6">Categories</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c4" id="h.gjdgxs"><span class="c6">MBA Scholarship Amount (INR)</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c4"><span class="c6">Criteria</span></p></td><td class="c3 c25" colspan="1" rowspan="1"><p class="c4"><span class="c6">Numbers Allotted</span></p></td></tr><tr class="c9"><td class="c7" colspan="1" rowspan="1"><p class="c4"><span class="c2">President’s Scholarship</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span class="c2">50,000- 1,50,000</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c4"><span class="c2">Panel Interview with committee. Must show exceptional academic and co-curricular performances.</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">5</span></p></td></tr><tr class="c9"><td class="c7" colspan="1" rowspan="1"><p class="c4"><span class="c2">Merit</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span class="c2">25,000- 75,000</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c4"><span class="c2">75k- Above 80%, 50k- above 70%, 25k- above 60%</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">30</span></p></td></tr><tr class="c9"><td class="c7" colspan="1" rowspan="1"><p class="c4"><span class="c2">Defence Personnel</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 50,000</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c4"><span class="c2">Must produce valid document</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">10</span></p></td></tr><tr class="c19"><td class="c7" colspan="1" rowspan="1"><p class="c4"><span class="c2">Economically Backward</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 50,000</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c4"><span class="c22 c33">EBC </span><span class="c16">Document</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c18 c33">5</span></p></td></tr><tr class="c9"><td class="c7" colspan="1" rowspan="1"><p class="c4"><span class="c2">Sports Quota</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 50,000</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c4"><span class="c2">Must have represented in state/national level</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">10</span></p></td></tr><tr class="c9"><td class="c7" colspan="1" rowspan="1"><p class="c4"><span class="c2">Single Girl Child</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 50,000</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c4"><span class="c22">Original Affidavit duly attested by the First-Class Judicial Magistrate/ SDM/Executive Magistrate/Notary</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c18">30</span></p></td></tr><tr class="c9"><td class="c7" colspan="1" rowspan="1"><p class="c4"><span class="c2">SC/ST Category</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 50,000</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c4"><span class="c2">Certificate required</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">10</span></p></td></tr></tbody></table>
 
-      **MBA Scholarship Amount (INR)**
+      <br/>
 
+      <strong>Note:</strong> All scholarships are applicable ONLY for Direct Admissions.
 
-      President’s Scholarship - Up to 1,50,000
+      <br/><br/>
 
+      The UG Scholarship categories for the academic year 2022-23 are as follows:
 
-      Merit - Up to 75,000
+      <br/>
 
+      <table class="c23"><tbody><tr class="c9 table-head"><td class="c17 c25" colspan="1" rowspan="1"><p class="c4"><span class="c6">Categories</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c4"><span class="c6">UG Scholarship Amount (INR)</span></p></td><td class="c17 c25" colspan="1" rowspan="1"><p class="c4"><span class="c6">Criteria</span></p></td><td class="c3 c25" colspan="1" rowspan="1"><p class="c4"><span class="c6">Numbers Allotted</span></p></td></tr><tr class="c9"><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">President’s Scholarship</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 75,000</span></p></td><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">Panel Interview with committee. Must show exceptional academic and co-curricular performances.</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">15</span></p></td></tr><tr class="c9"><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">Merit</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c4"><span class="c2">20,000- 50,000</span></p></td><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c16">50k- Above 95%, 40k- above 90%, 30k-Above 80%, 20k- Above 70%</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">70</span></p></td></tr><tr class="c9"><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">Defence Personnel</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 25,000</span></p></td><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">Must produce valid document</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">15</span></p></td></tr><tr class="c19"><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">Economically Backward</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 25,000</span></p></td><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c22 c33 c35">EBC </span><span class="c16">Document</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c0">20</span></p></td></tr><tr class="c9"><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">Sports Quota</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 30,000</span></p></td><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c16">Must have represented in state/national level</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">30</span></p></td></tr><tr class="c9"><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">Single Girl Child</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 25,000</span></p></td><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c22">Original Affidavit duly attested by the First-Class Judicial Magistrate/ SDM/Executive Magistrate/Notary</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c18">30</span></p></td></tr><tr class="c9"><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c2">SC/ST Category</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c4"><span class="c2">Up to 25,000</span></p></td><td class="c17" colspan="1" rowspan="1"><p class="c4"><span class="c16">Certificate required</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span class="c2">20</span></p></td></tr></tbody></table>
 
-      Defence Personnel - Up to 50,000
+      <br/>
 
-
-      Economically Backward - Up to 50,000
-
-
-      Sports Quota - Up to 50,000
-
-
-      Single Girl Child - Up to 50,000
-
-
-      SC/ST Category - Up to 50,000
-
-
-
-
-      **UG Scholarship Amount (INR)**
-
-
-      President’s Scholarship - Up to 1,00,000
-
-
-      Merit - Up to 50,000
-
-
-      Defence Personnel - Up to 25,000
-
-
-      Economically Backward - Up to 25,000
-
-
-      Sports Quota - Up to 30,000
-
-
-      Single Girl Child - Up to 25,000
-
-
-      SC/ST Category - Up to 25,000
+      <strong>Note:</strong> All scholarships are applicable ONLY for Direct Admissions. 
+    embed_size: ""
   - type: anchor_section
     links:
       - anchor_label: Admission Policy
@@ -171,6 +142,6 @@ sections:
         anchor_loc: fees-regulations
       - anchor_label: Scholarships
         anchor_loc: scholarships
-      - anchor_label: Scholarship Categories for 2021-22
-        anchor_loc: scholarship-2021-22
+      - anchor_label: Scholarship Categories for 2022-23
+        anchor_loc: scholarship-2022-23
 ---

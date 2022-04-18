@@ -6,4 +6,5 @@ tags:
   - Faculty Directory
 ---
 
-Qualification : Library And Information Science Designation : Librarian Date Of Joining : 02-05-2019 Nature Of Association : Regular Over 15 years of experience in the field of Library and Information science, and industrial experience of 4 Years
+Qualification : Library And Information Science Designation : Librarian 
+Over 15 years of experience in the field of Library and Information science, and industrial experience of 4 Years

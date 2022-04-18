@@ -7,6 +7,4 @@ tags:
 ---
 
 Qualification : M.Sc., M.Phil., B.Ed.  
-Designation : Assistant professor  
-Date Of Joining : 11-01-2019  
-Nature Of Association : Regular
+Designation : Assistant professor

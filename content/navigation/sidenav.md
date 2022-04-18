@@ -234,7 +234,7 @@ top_menu:
         menu_nav_link: /admissions/international-students
         submenu_link: null
         show: true
-      - menu_nav_label: Fees and Scholarship
+      - menu_nav_label: Scholarship
         menu_nav_link: /admissions/fees-scholarships
         submenu_link: null
         show: true

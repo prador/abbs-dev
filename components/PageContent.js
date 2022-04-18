@@ -19,6 +19,7 @@ import PersonSection from "./content/PersonSection";
 // import '../assets/styles/pagecontent.module.css'
 
 const PageContent = ({att,html,list,testimonials,docs,cls}) => {
+  const [hasPrograms, setHasPrograms] = useState(false);
   const sectionSwitch = (section) => {
     switch (section.type) {
       case "text_section":
@@ -76,11 +77,11 @@ const PageContent = ({att,html,list,testimonials,docs,cls}) => {
               </> : "" }
               {docs? <DocumentsSection docs={docs}/> : ""}
           </div>
-          {att.sections ? <div className="side-float">
+          {att.sections ? <div className={`side-float ${hasPrograms ? "has-programs" : ""}`}>
             {att.sections.map((section,index)=> (
               <>
               {section.links ? <AnchorLinks key={index} att={section} /> : ""}
-              {section.type == "program_details" ? <ProgramDetailsSection key={index} att={section} /> : ""}
+              {section.type == "program_details" ? <><ProgramDetailsSection key={index} att={section} /></> : ""}
               </>
             ))}
           </div> : "" }

@@ -7,7 +7,5 @@ tags:
 ---
 
 Qualification : M.Com, MBA, NET, M.Phil  
-Designation : Assistant Professor  
-Date Of Joining : 07-01-2011  
-Nature Of Association : Regular  
+Designation : Assistant Professor
 HOD- Commerce ABBS Written books, Published papers in National and International journals.

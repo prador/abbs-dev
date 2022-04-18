@@ -8,5 +8,3 @@ tags:
 
 Qualification : M.Com, MBA  
 Designation :Assistant Professor  
-Date Of Joining : 07-01-2016  
-Nature Of Association : Regular
