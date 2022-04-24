@@ -1,10 +1,11 @@
 
 import Image from 'next/image'
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 import { useKeenSlider } from "keen-slider/react"
 import "keen-slider/keen-slider.min.css"
 import ArrowLeft from '../../assets/icons/arrow-left-white.svg'
 import ArrowRight from '../../assets/icons/arrow-right-white.svg'
+
 export default ({att}) => {
   const [pause, setPause] = React.useState(false)
   const timer = React.useRef()
@@ -13,6 +14,7 @@ export default ({att}) => {
   const [sliderRef, instanceRef] = useKeenSlider({
     initial: 0,
     loop:true,
+    autoAdjustSlidesPerView: true,
     slides: { perView: "auto" },
     slideChanged(slider) {
       setCurrentSlide(slider.track.details.rel)
@@ -27,7 +29,7 @@ export default ({att}) => {
       })
     },
   })
-  React.useEffect(() => {
+  useEffect(() => {
     timer.current = setInterval(() => {
       if (!pause && instanceRef && !document.hidden) {
         instanceRef.current?.next()
@@ -43,7 +45,8 @@ export default ({att}) => {
       <div className="navigation-wrapper">
         <div ref={sliderRef} className="keen-slider">
           {att.map((slide,id,index) =>(
-            <div key={id} className="keen-slider__slide">
+            <>
+            <a key={index} className="keen-slider__slide"  href={slide.slide_button_link ? slide.slide_button_link : "#"}>
               <div className="slide-content">
               {slide.slide_title ? <h2>{slide.slide_title} </h2> : "" }
               {slide.slide_text ? <p>{slide.slide_text}</p> :"" }
@@ -51,7 +54,8 @@ export default ({att}) => {
               </div>
               <img className="slide-image slide-img-desktop" src={slide.slide_image} alt=""/>
               <img className="slide-image slide-img-mobile" src={slide.slide_image_mobile} alt=""/>
-            </div>
+              </a>
+            </>
           ))}
         </div>
         {loaded && instanceRef.current && (

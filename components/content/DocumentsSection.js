@@ -13,7 +13,7 @@ return <>
   </>
 }
 const DocumentsSection = ({ docs }) => {
-  let docTypes = ["Affiliation Copy","AISHE","AICTE","AQAR","Compliance with RTI","Form 10B","IACBE","IQAC","NAAC","NBA","Student Hand Book","UGC"]
+  let docTypes = ["Affiliation Copy","AISHE","AICTE","AQAR","PO&CO","Compliance with RTI","Form 10B","IACBE","IQAC","NAAC","NBA","Student Hand Book","Student feedback survey","UGC"]
   return (
   <>
     <section className="doc-wrapper">

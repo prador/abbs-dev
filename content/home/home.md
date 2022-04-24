@@ -11,19 +11,18 @@ seo_description: ABBS is a new breed of business school. Our MBA and PGDM
 seo_keywords: Best Business School, MBA, PGDM
 date: 2019-03-17T19:31:20.591Z
 slider_images:
-  - slide_title: A new breed of business school
-    slide_text: " We leverage the power of technology to help you achieve your goals
-      with a personalized experience."
-    slide_button_label: View More
-    slide_button_link: "#view"
-    slide_image: static/img/00-01-01-hero-desktop.jpg
-    slide_image_mobile: static/img/00-01-01-hero-mobile.jpg
   - slide_title: ""
     slide_text: ""
     slide_button_label: ""
-    slide_button_link: ""
-    slide_image: static/img/00-01-02-hero-desktop.jpg
-    slide_image_mobile: static/img/00-01-02-hero-mobile.jpg
+    slide_button_link: /programs/business/mba
+    slide_image: static/img/9141-70700.jpg
+    slide_image_mobile: static/img/9141-70700-1080-×-1530-px-.jpg
+  - slide_title: ""
+    slide_text: ""
+    slide_button_label: ""
+    slide_button_link: /news-events/events/hr-conclave-nurturing-human-capital-in-the-post-pandemic-regime
+    slide_image: static/img/hr-conclave.jpg
+    slide_image_mobile: static/img/hr-conclave-1080-×-1530-px-2.jpg
 program_accordion:
   - icon: static/img/00-02-01-programs-management-solid.svg
     bg_image: static/img/00-02-01-programs-management.jpg

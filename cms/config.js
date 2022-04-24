@@ -1305,7 +1305,7 @@ module.exports = {
           required: true,
           widget: "select",
           multiple: false,
-          options: ["Affiliation Copy","AISHE","AICTE","AQAR","Compliance with RTI","Code of Conduct","Form 10B","IACBE","IQAC","NAAC","NBA","Student Hand Book","UGC"],
+          options: ["Affiliation Copy","AISHE","AICTE","AQAR","PO&CO","Compliance with RTI","Code of Conduct","Form 10B","IACBE","IQAC","NAAC","NBA","Student Hand Book","Student feedback survey","UGC"],
           hint: "",
           default: ""
         },{

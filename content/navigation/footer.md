@@ -88,6 +88,9 @@ columns:
       - links_label: Mandatory Disclosures
         links_loc: /mandatory-disclosures
         show: true
+      - links_label: AQAR
+        links_loc: /mandatory-disclosures/category/AQAR
+        show: true
 ---
 
 ## Welcome to the About page
