@@ -1315,6 +1315,12 @@ module.exports = {
           required: true,
           allow_multiple: true
         },
+        {
+          label: "Show in Docs",
+          name: "show_toggle",
+          widget: "boolean",
+          default: true
+        }
       ]
     },
     {

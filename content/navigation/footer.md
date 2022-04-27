@@ -14,7 +14,7 @@ social_links:
     links_loc: https://www.youtube.com/c/AcharyabbsAcInABBS
     show: true
   - links_label: Linkedin
-    links_loc: https://www.linkedin.com/school/acharya-bangalore-business-school/
+    links_loc: https://www.linkedin.com/school/abbs-bangalore/
     show: true
 footer_copyright: © Acharya Bangalore B-School. All rights reserved.
 contact_info:
