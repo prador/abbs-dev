@@ -20,6 +20,12 @@ slider_images:
   - slide_title: ""
     slide_text: ""
     slide_button_label: ""
+    slide_button_link: /programs/business/business-programs
+    slide_image: static/img/banner-website-desktop.jpg
+    slide_image_mobile: static/img/website-mobile.jpg
+  - slide_title: ""
+    slide_text: ""
+    slide_button_label: ""
     slide_button_link: /news-events/events/hr-conclave-nurturing-human-capital-in-the-post-pandemic-regime
     slide_image: static/img/hr-conclave.jpg
     slide_image_mobile: static/img/hr-conclave-1080-×-1530-px-2.jpg
