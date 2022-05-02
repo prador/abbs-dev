@@ -340,6 +340,9 @@ font-weight: 500;
   grid-column-end: 3;
   grid-column-start: 1;
 }
+.leadership-team-wrapper .search-input{
+  display:none;
+}
 /* Text Section */
 .section-content.above-content {
   display: flex;

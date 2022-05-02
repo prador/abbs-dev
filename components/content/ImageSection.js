@@ -1,26 +1,15 @@
-import Link from 'next/link';
-import react from 'react';
-import remark from 'remark';
-import html from 'remark-html';
-import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm'
 
 const ImageSection = ({att}) => {
   return (
-  <>
-    <section className="text-section-wrapper">
-     {att.image_section ?  <>
-     { att.image_section.map((section,index) => (
-          <div key={section.id} className="text-section-block">
-            {section.section_title ? <h2 className="section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
-            {/* {section.section_text ? <div dangerouslySetInnerHTML={{ __html: section.section_text }} /> :"" } */}
-
-            <div><ReactMarkdown children={section.section_text} remarkPlugins={[remarkGfm]} /></div>
-            {section.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={section.button_link ? section.button_link : "#"}>{section.button_label}</a> :"" }
+    <>
+     <>
+        <div className={"section-content "}>
+          {att.section_image ? 
+            <div className="section-image">
+              <img src={"../"+att.section_image} alt={att.section_title}/>
+            </div> : "" }
           </div>
-    ))}
-      </> : "" }
-    </section>
+      </>
   </>
 )}
 

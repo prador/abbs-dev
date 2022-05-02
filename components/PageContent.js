@@ -4,6 +4,7 @@ import Accordion from './content/Accordion'
 import AnchorLinks from './content/AnchorLinks'
 import LogoSection from './content/LogoSection'
 import TextSection from './content/TextSection'
+import ImageSection from './content/ImageSection'
 import TableSection from './content/TableSection'
 import GallerySection from './content/GallerySection'
 import AccordionSection from "./content/AccordionSection";
