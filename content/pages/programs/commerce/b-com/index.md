@@ -1,5 +1,11 @@
 ---
 title: B. Com
+seo_title: Best B Com Colleges In Bangalore | B Com Colleges In Bangalore
+seo_description: "Top b com colleges in Bangalore: Abbs is one of the best b com
+  colleges in Bangalore. ABBS B Com program curriculum has been suitably
+  reformed to meet the challenging needs of the Indian Corporates"
+seo_keywords: best b com colleges in bangalore, B com Colleges in Bangalore, Top
+  B com Colleges in Bangalore
 date: 2021-12-04T06:00:23.196Z
 thumbnail: static/img/03-04-03-bcom-banner.jpg
 sections:
@@ -118,7 +124,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelor of Commerce
-    apply_form: "https://application.abbs.edu.in/"
+    apply_form: https://application.abbs.edu.in/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf
