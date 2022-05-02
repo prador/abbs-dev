@@ -1,5 +1,14 @@
 ---
 title: BBA Aviation Management
+seo_title: BBA aviation management | BBA In Airport Management
+seo_description: "BBA in airport management: Abbs offering BBA aviation
+  management a 3 years Graduate Program in bba aviation management in
+  Bangalore."
+seo_keywords: BBA Aviation Colleges in Bangalore, bba in aviation colleges in
+  bangalore, bba aviation course, BBA aviation management, BBA Aviation
+  Management in Bangalore, bba aviation colleges, bba in airport management
+  colleges, bba in aviation management, bba in airport management, bba airline
+  and airport management
 date: 2021-12-04T06:08:56.905Z
 thumbnail: static/img/03-02-05-bba-aviation-management-01-banner.jpg
 sections:
@@ -135,7 +144,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelors in Aviation Management
-    apply_form: "https://application.abbs.edu.in/"
+    apply_form: https://application.abbs.edu.in/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-02-05-bba-aviation-management.pdf
