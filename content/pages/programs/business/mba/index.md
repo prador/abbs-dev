@@ -1,5 +1,14 @@
 ---
 title: MBA
+seo_title: Top MBA Colleges in Bangalore | Bangalore MBA Schools
+seo_description: Abbs is one of the Best MBA colleges in Bangalore. Offers
+  various MBA courses in Bangalore, It is among the leading management colleges
+  in Bangalore.
+seo_keywords: mba colleges in bangalore, mba admission in bangalore, good mba
+  colleges in bangalore, list of mba colleges in bangalore, top 10 mba colleges
+  in bangalore, Top 5 mba colleges in bangalore, Top MBA Colleges in Bangalore,
+  MBA Schools in Bangalore, Best MBA Colleges in Bangalore, MBA Courses in
+  Bangalore
 date: 2021-12-04T06:07:30.634Z
 thumbnail: static/img/03-02-02-mba-banner.jpg
 sections:
