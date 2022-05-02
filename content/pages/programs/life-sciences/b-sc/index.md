@@ -1,8 +1,14 @@
 ---
 title: B.Sc
-seo_title: Programs | ABBS
-seo_description: Programs page description
-seo_keywords: Programs, business
+seo_title: Bsc Biotechnology in bangalore | Bsc Microbiology in Bangalore
+seo_description: "Bsc biotechnology in bangalore: Abbs is one of the best bsc
+  genetics colleges in Bangalore also know as bsc microbiology colleges in
+  Bangalore."
+seo_keywords: bsc biotechnology in bangalore, BSc Biotechnology colleges in
+  Bangalore, Best BSC Biotechnology Colleges in Bangalore, bsc biotechnology
+  colleges bangalore , bsc genetics in bangalore, top bsc biotechnology colleges
+  in bangalore, BSC Microbiology Colleges in Bangalore, bsc genetics colleges in
+  bangalore, bsc in microbiology colleges in bangalore
 date: 2021-11-19T22:38:59.974Z
 thumbnail: static/img/03-03-01-life-sciences-program-banner.jpg
 sections:
@@ -146,7 +152,7 @@ sections:
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelor’s of Science in Biotechnology, Biochemistry, Microbiology
       and Genetics
-    apply_form: "https://application.abbs.edu.in/"
+    apply_form: https://application.abbs.edu.in/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-03-01-life-sciences-program.pdf

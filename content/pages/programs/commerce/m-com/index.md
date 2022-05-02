@@ -1,5 +1,10 @@
 ---
 title: M. Com
+seo_title: M com Colleges In Bangalore | Acharya Bangalore B Schools
+seo_description: Abbs offers the Best MCom course in Bangalore it will provide a
+  solid foundation for graduate careers in the challenging &rewarding world of
+  business
+seo_keywords: M COM Colleges in Bangalore
 date: 2021-12-04T05:59:02.718Z
 thumbnail: static/img/03-04-02-mcom-banner.jpg
 sections:
@@ -147,7 +152,7 @@ sections:
     next_intake: January 2023
     duration: 2 Years (4 semesters)
     credentials: Masters of Commerce
-    apply_form: "https://application.abbs.edu.in/"
+    apply_form: https://application.abbs.edu.in/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-02-mcom.pdf

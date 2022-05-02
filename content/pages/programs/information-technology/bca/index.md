@@ -1,5 +1,11 @@
 ---
 title: BCA
+seo_title: Best BCA Colleges In Bangalore | BCA Course In Bangalore
+seo_description: "BCA Colleges: Abbs is one of the Best BCA colleges in
+  Bangalore also know as top BCA Colleges in Bangalore."
+seo_keywords: Best BCA colleges in Bangalore, BCA Colleges in bangalore, BCA
+  Colleges, Best college for bca, BCA Course in Bangalore, top BCA Colleges in
+  Bangalore
 date: 2021-12-04T06:12:58.305Z
 thumbnail: static/img/03-06-02-bca-01-banner.jpg
 sections:
@@ -122,7 +128,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelors in Computer Applications
-    apply_form: "https://application.abbs.edu.in/"
+    apply_form: https://application.abbs.edu.in/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-06-02-bca.pdf

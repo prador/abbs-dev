@@ -3,12 +3,13 @@ slug: /
 body_scripts: ""
 thumbnail: static/img/00-01-01-hero-desktop.jpg
 title: Home
-seo_title: Best Business School in Bangalore | Acharya Bangalore Business School
-seo_description: ABBS is a new breed of business school. Our MBA and PGDM
-  programs provide a holistic, experiential, and efficient way of learning. We
-  leverage the power of technology to help you achieve your goals with a
-  personalized experience.
-seo_keywords: Best Business School, MBA, PGDM
+seo_title: Top B Schools in Bangalore | Bangalore Business School
+seo_description: ABBS is Ranked among the top business school in Bangalore which
+  provides the best MBA /PGDM and Management Programmes.
+seo_keywords: Bangalore b school, Bangalore Business School, B School, B Schools
+  in Bangalore, Business School in Bangalore, Best b school in bangalore,
+  Bangalore b schools, top b schools in bangalore, Top Business School in
+  Bangalore, management colleges in bangalore
 date: 2019-03-17T19:31:20.591Z
 slider_images:
   - slide_title: ""

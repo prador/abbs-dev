@@ -1,5 +1,10 @@
 ---
 title: BBA
+seo_title: Best BBA Colleges In Bangalore | BBA Colleges In Bangalore
+seo_description: "Top BBA colleges in Bangalore :  Abbs is one of the best BBA
+  colleges in Bangalore offering various BBA courses in Bangalore."
+seo_keywords: "bba colleges in bangalore, BBA course in Bangalore, Best BBA
+  Colleges in Bangalore, Top BBA Colleges in Bangalore,  bba in bangalore "
 date: 2021-12-04T06:09:06.039Z
 thumbnail: static/img/03-02-04-bba-01-banner.jpg
 sections:
@@ -118,7 +123,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelors in Business Administration
-    apply_form: "https://application.abbs.edu.in/"
+    apply_form: https://application.abbs.edu.in/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-02-04-bba.pdf
