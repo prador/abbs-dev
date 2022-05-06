@@ -22,10 +22,6 @@ sections:
       of learning. The MBA at ABBS is specifically designed to prepare graduates
       in the emerging markets around the globe. The program is triple accredited
       by NAAC ‘A’ Grade, NBA and IACBE (USA).
-  - type: text_section
-    section_id: information
-    section_title: Information
-    section_text: ""
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
