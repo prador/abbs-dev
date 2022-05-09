@@ -105,198 +105,888 @@ module.exports = {
           }],
         },
         {
-          label: "Program Accordion",
-          name: "program_accordion",
-          required: true,
-          widget: "list",
-          hint: "",
-          default: "#",
-          allow_add: true,
-          fields: [{
-            label: "Icon",
-            name: "icon",
-            widget: "image",
-            required: false
-          }, {
-            label: "Background Image",
-            name: "bg_image",
-            widget: "image",
-            required: false
-          }, 
-          {
-            label: "Background Color",
-            name: "bg_color",
-            widget: "color",
-            required: false
-          },
-           {
-            label: "Program",
-            name: "program",
-            widget: "string",
-            required: false
-          }, {
-            label: 'Links',
-            name: 'links',
-            required: false,
-            widget: "list",
-            hint: "",
-            allow_add: true,
-            fields: [{
-              label: "Program Name",
-              name: "name",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }, {
-              label: "Program Location",
-              name: "loc",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }]
-          }]
-        },
-        {
-          label: 'Recognition and Accreditation Section',
-          name: 'rec_acc_section',
+          label: 'Content Sections',
+          hint: "Adding one of multiple extra fields for the page, based on the need",
+          name: 'sections',
           required: false,
-          widget: "object",
-          fields: [{
-            label: "Section ID",
-            name: "section_id",
-            required: false,
-            widget: "string",
-            hint: "this id should match the navigation anchor link on the side",
-            default: ""
-          }, {
-            label: "Section Image",
-            name: "section_image",
-            widget: "image",
-            required: false
-          }, {
-            label: "Section Title",
-            name: "section_title",
-            required: false,
-            widget: "string",
-            hint: "",
-            default: ""
-          }, {
-            label: "Section Grid Size",
-            name: "section_grid_size",
-            widget: "select",
-            options: ["grid-2", "grid-3", "grid-4"],
-            required: false
-          }, {
-            label: "Section Text",
-            name: "section_text",
-            widget: "text",
-            required: false
-          },{
-            label: 'Logos',
-            name: 'logos',
-            required: false,
+          widget: "list",
+          types: [{
+            label: "Slider",
+            name: "slider",
+            fields: [{
+              label: "Slides",
+              name: "slides",
+              required: true,
+              widget: "list",
+              summary: "{{slide_title}}",
+              allow_add: true,
+              fields: [{
+                label: "Slide Image",
+                name: "slide_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Slide Image Mobile",
+                name: "slide_image_mobile",
+                widget: "image",
+                required: false
+              }, {
+                label: "Slide Title",
+                name: "slide_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Slide Text",
+                name: "slide_text",
+                required: false,
+                widget: "text",
+                hint: "",
+                default: ""
+              }, {
+                label: "Slide Button Label",
+                name: "slide_button_label",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Slide Button Link",
+                name: "slide_button_link",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }],
+            }]
+          },
+          {
+            label: "Program Accordion",
+            name: "program_accordion",
+            required: true,
             widget: "list",
             hint: "",
+            default: "#",
             allow_add: true,
-            summary: "{{logo_title}}",
             fields: [{
-              label: "Logo Image",
-              name: "logo_image",
+              label: "Icon",
+              name: "icon",
               widget: "image",
               required: false
             }, {
-              label: "Logo Size",
-              name: "logo_size",
-              widget: "select",
-              options: ["small", "medium", "large"],
+              label: "Background Image",
+              name: "bg_image",
+              widget: "image",
+              required: false
+            }, 
+            {
+              label: "Background Color",
+              name: "bg_color",
+              widget: "color",
+              required: false
+            },
+             {
+              label: "Program",
+              name: "program",
+              widget: "string",
               required: false
             }, {
-              label: "Logo Title",
-              name: "logo_title",
+              label: 'Links',
+              name: 'links',
               required: false,
-              widget: "string",
+              widget: "list",
               hint: "",
-              default: ""
-            }, {
-              label: "Logo Subtitle",
-              name: "logo_subtitle",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
-            }, {
-              label: "Logo Link",
-              name: "logo_link",
-              required: false,
-              widget: "string",
-              hint: "",
-              default: ""
+              allow_add: true,
+              fields: [{
+                label: "Program Name",
+                name: "name",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Program Location",
+                name: "loc",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }]
             }]
-          }]
-        },
-        {
-          label: 'FAQ Section',
-          name: 'faq_section',
-          summary: "{{section_title}}",
-          required: false,
-          widget: "object",
-          fields: [{
-            label: "Section ID",
-            name: "section_id",
+          },
+          {
+            label: 'Recognition and Accreditation Section',
+            name: 'rec_acc_section',
             required: false,
-            widget: "string",
-            hint: "this id should match the navigation anchor link on the side",
-            default: ""
-          }, {
-            label: "Section Image",
-            name: "section_image",
-            widget: "image",
-            required: false
-          },{
-            label: "Image Position",
-            name: "image_position",
-            widget: "select",
-            options: ["Above Content", "Content Left", "Content Right", "Below Content"],
-            required: false
-          }, {
-            label: "Section Title",
-            name: "section_title",
-            required: false,
-            widget: "string",
-            hint: "",
-            default: ""
-          }, {
-            label: 'Accordions',
-            name: 'accordions',
-            required: false,
-            widget: "list",
-            hint: "",
-            allow_add: true,
-            summary: "{{accordion_title}}",
+            widget: "object",
             fields: [{
-              label: "Accordion Title",
-              name: "accordion_title",
+              label: "Section ID",
+              name: "section_id",
+              required: false,
+              widget: "string",
+              hint: "this id should match the navigation anchor link on the side",
+              default: ""
+            }, {
+              label: "Section Image",
+              name: "section_image",
+              widget: "image",
+              required: false
+            }, {
+              label: "Section Title",
+              name: "section_title",
               required: false,
               widget: "string",
               hint: "",
               default: ""
             }, {
-              label: "Accordion Content",
-              name: "accordion_content",
+              label: "Section Grid Size",
+              name: "section_grid_size",
+              widget: "select",
+              options: ["grid-2", "grid-3", "grid-4"],
+              required: false
+            }, {
+              label: "Section Text",
+              name: "section_text",
+              widget: "text",
+              required: false
+            },{
+              label: 'Logos',
+              name: 'logos',
               required: false,
-              widget: "markdown",
+              widget: "list",
+              hint: "",
+              allow_add: true,
+              summary: "{{logo_title}}",
+              fields: [{
+                label: "Logo Image",
+                name: "logo_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Logo Size",
+                name: "logo_size",
+                widget: "select",
+                options: ["small", "medium", "large"],
+                required: false
+              }, {
+                label: "Logo Title",
+                name: "logo_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Logo Subtitle",
+                name: "logo_subtitle",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Logo Link",
+                name: "logo_link",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }]
+            }]
+          },
+          {
+            label: 'FAQ Section',
+            name: 'faq_section',
+            summary: "{{section_title}}",
+            required: false,
+            widget: "object",
+            fields: [{
+              label: "Section ID",
+              name: "section_id",
+              required: false,
+              widget: "string",
+              hint: "this id should match the navigation anchor link on the side",
+              default: ""
+            }, {
+              label: "Section Image",
+              name: "section_image",
+              widget: "image",
+              required: false
+            },{
+              label: "Image Position",
+              name: "image_position",
+              widget: "select",
+              options: ["Above Content", "Content Left", "Content Right", "Below Content"],
+              required: false
+            }, {
+              label: "Section Title",
+              name: "section_title",
+              required: false,
+              widget: "string",
               hint: "",
               default: ""
+            }, {
+              label: 'Accordions',
+              name: 'accordions',
+              required: false,
+              widget: "list",
+              hint: "",
+              allow_add: true,
+              summary: "{{accordion_title}}",
+              fields: [{
+                label: "Accordion Title",
+                name: "accordion_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Accordion Content",
+                name: "accordion_content",
+                required: false,
+                widget: "markdown",
+                hint: "",
+                default: ""
+              }]
             }]
-          }]
-        },
-        {
-          label: "Body",
-          name: "body",
-          widget: "markdown",
-          required: false
+          },{
+              label: 'Text Section',
+              name: 'text_section',
+              required: false,
+              widget: "list",
+              hint: "",
+              summary: "{{section_title}}",
+              allow_add: true,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Image Position",
+                name: "image_position",
+                widget: "select",
+                options: ["Above Content", "Content Left", "Content Right", "Below Content"],
+                required: false
+              }, {
+                label: "Section Text",
+                name: "section_text",
+                required: false,
+                widget: "markdown",
+                hint: "",
+                default: ""
+              }, {
+                label: 'Buttons',
+                name: 'buttons',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{button_label}}",
+                fields: [{
+                  label: "Button Label",
+                  name: "button_label",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Button Link",
+                  name: "button_link",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Logo Section',
+              name: 'logo_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Section Grid Size",
+                name: "section_grid_size",
+                widget: "select",
+                options: ["grid-2", "grid-3", "grid-4"],
+                required: false
+              }, {
+                label: 'Logos',
+                name: 'logos',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{logo_title}}",
+                fields: [{
+                  label: "Logo Image",
+                  name: "logo_image",
+                  widget: "image",
+                  required: false
+                }, {
+                  label: "Logo Size",
+                  name: "logo_size",
+                  widget: "select",
+                  options: ["small", "medium", "large"],
+                  required: false
+                }, {
+                  label: "Logo Title",
+                  name: "logo_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Logo Subtitle",
+                  name: "logo_subtitle",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Logo Link",
+                  name: "logo_link",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Anchor Section',
+              name: 'anchor_section',
+              required: false,
+              fields: [{
+                label: 'Links',
+                name: 'links',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{anchor_label}}",
+                fields: [{
+                  label: "Anchor Label",
+                  name: "anchor_label",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Anchor Location",
+                  name: "anchor_loc",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Accordion Section',
+              name: 'accordion_section',
+              summary: "{{section_title}}",
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: 'Accordions',
+                name: 'accordions',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{accordion_title}}",
+                fields: [{
+                  label: "Accordion Title",
+                  name: "accordion_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Accordion Content",
+                  name: "accordion_content",
+                  required: false,
+                  widget: "markdown",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Gallery Section',
+              name: 'gallery_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Section Grid Size",
+                name: "section_grid_size",
+                widget: "select",
+                options: ["grid-2", "grid-3", "grid-4"],
+                required: false
+              }, {
+                label: 'Images',
+                name: 'images',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                fields: [{
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                  required: false
+                }, {
+                  label: "Image Size",
+                  name: "image_size",
+                  widget: "select",
+                  options: ["small", "medium", "large"],
+                  required: false
+                }, {
+                  label: "Image Title",
+                  name: "image_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Image Section',
+              name: 'image_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: 'Galleries',
+                name: 'galleries',
+                required: false,
+                hint: "",
+              }]
+            },
+            {
+              label: 'Embed Section',
+              name: 'embed_section',
+              required: false,
+              fields: [{
+                  label: "Section ID",
+                  name: "section_id",
+                  required: false,
+                  widget: "string",
+                  hint: "this id should match the navigation anchor link on the side",
+                  default: ""
+                }, {
+                  label: "Section Image",
+                  name: "section_image",
+                  widget: "image",
+                  required: false
+                }, {
+                  label: "Section Title",
+                  name: "section_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Embed Source",
+                  name: "embed_source",
+                  required: false,
+                  widget: "text",
+                  hint: "",
+                  default: ""
+                },
+                {
+                  label: "Embed Size",
+                  name: "embed_size",
+                  required: false,
+                  widget: "select",
+                  options: ["large", "half", "auto"],
+                  hint: "",
+                  default: ""
+                }
+              ]
+            },
+            {
+              label: "Program Details",
+              name: "program_details",
+              required: true,
+              widget: "object",
+              hint: "",
+              default: "#",
+              allow_add: true,
+              fields: [{
+                label: "Next Intake",
+                name: "next_intake",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Duration",
+                name: "duration",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Credentials",
+                name: "credentials",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Apply Form",
+                name: "apply_form",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Contact Form",
+                name: "contact_form",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Request Brochure Link",
+                name: "request_brochure_link",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Brochure",
+                name: "brochure",
+                required: false,
+                widget: "file",
+                hint: "",
+                default: ""
+              }
+            ]
+            },
+            {
+              label: 'Program Brief Section',
+              name: 'program_section',
+              summary: "{{section_title}} Programs ",
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Logo",
+                name: "section_logo",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: 'Programs',
+                name: 'programs',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{program_title}}",
+                fields: [{
+                  label: "Program Title",
+                  name: "program_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Program Content",
+                  name: "program_content",
+                  required: false,
+                  widget: "markdown",
+                  hint: "",
+                  default: ""
+                },{
+                  label: "Program Link Label",
+                  name: "program_link_label",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Program Link Location",
+                  name: "program_link_loc",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
+              }]
+            },
+            {
+              label: 'Person Section',
+              name: 'person_section',
+              summary: "{{section_title}}",
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: 'People',
+                name: 'people',
+                required: false,
+                widget: "list",
+                hint: "",
+                allow_add: true,
+                summary: "{{name}}",
+                fields: [{
+                  label: "Name",
+                  name: "name",
+                  widget: "string",
+                  required: true
+                },
+                {
+                  label: "Qualifications",
+                  name: "qualifications",
+                  widget: "string",
+                  required: false
+                },
+                {
+                  label: "Position",
+                  name: "position",
+                  widget: "string",
+                  required: false
+                },
+                {
+                  label: "Featured Image",
+                  name: "thumbnail",
+                  widget: "image",
+                  required: false
+                },
+                {
+                  label: "Description",
+                  name: "body",
+                  widget: "markdown",
+                  required: false
+                }]
+              }]
+            },
+            {
+              label: 'Testimonials Section',
+              name: 'testimonials_section',
+              required: false,
+              fields: [{
+                  label: "Section ID",
+                  name: "section_id",
+                  required: false,
+                  widget: "string",
+                  hint: "this id should match the navigation anchor link on the side",
+                  default: ""
+                },{
+                  label: "Section Title",
+                  name: "section_title",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                },
+                {
+                  label: "Show / Hide",
+                  name: "show_toggle",
+                  widget: "boolean",
+                  default: true
+                },{
+                  label: "Program",
+                  name: "program",
+                  widget: "select",
+                  multiple: false,
+                  options: ["MBA","BBA","BBA Aviation Management","B. Sc. Biotechnology","M. Com.","B. Com.","B. Com Supply Chain & Logistics","BA Psychology","BA Journalism","BA Economics","BCA"],
+                  required: true
+                },{
+                  label: "Testimonial Limit",
+                  name: "limit",
+                  widget: "number",
+                  default: 2,
+                  value_type: "int",
+                  min: 1,
+                  max: 5,
+                  step: 1
+                }
+              ]
+            },
+            {
+              label: 'Table Section',
+              name: 'table_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Table Content",
+                name: "table_content",
+                required: false,
+                widget: "markdown",
+                hint: "",
+                default: ""
+              }]
+            },
+            {
+              label: 'Collection Section',
+              name: 'collection_section',
+              required: false,
+              fields: [{
+                label: "Section ID",
+                name: "section_id",
+                required: false,
+                widget: "string",
+                hint: "this id should match the navigation anchor link on the side",
+                default: ""
+              }, {
+                label: "Section Image",
+                name: "section_image",
+                widget: "image",
+                required: false
+              }, {
+                label: "Section Title",
+                name: "section_title",
+                required: false,
+                widget: "string",
+                hint: "",
+                default: ""
+              }, {
+                label: "Collection Content",
+                name: "collection_content",
+                required: false,
+                widget: "select",
+                options: ["Leadership Team", "Advisory Council", "Faculty Directory"],
+                hint: "",
+              }]
+            }
+          ]
         },
         {
           label: "Header Scripts",

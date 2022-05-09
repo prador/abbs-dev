@@ -39,12 +39,12 @@ export default ({att}) => {
       clearInterval(timer.current)
     }
   }, [pause, instanceRef])
-
+console.log("homeslide att",att)
   return (
     <>
       <div className="navigation-wrapper">
         <div ref={sliderRef} className="keen-slider">
-          {att.map((slide,id,index) =>(
+          {att? att.map((slide,id,index) =>(
             <>
             <a key={index} className="keen-slider__slide"  href={slide.slide_button_link ? slide.slide_button_link : "#"}>
               <div className="slide-content">
@@ -56,9 +56,9 @@ export default ({att}) => {
               <img className="slide-image slide-img-mobile" src={slide.slide_image_mobile} alt=""/>
               </a>
             </>
-          ))}
+          )) :null}
         </div>
-        {loaded && instanceRef.current && (
+        {/* {loaded && instanceRef.current && (
           <div className="slide-controls">
             <Arrow
               left
@@ -78,7 +78,7 @@ export default ({att}) => {
               }
             />
           </div>
-        )}
+        )} */}
       </div>
     </>
   )

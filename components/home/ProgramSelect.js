@@ -66,10 +66,14 @@ React.useEffect(() => {
 	}
   }, [selected]);
 return (
+	<div className="content news-events-wrapper">
+      {/* <div className="w-layout-grid contain-block"> */}
+      <section className='program-select-section'>
 	<div
 	style={{
 		padding: "16px",
 		margin: "16px",
+		textAlign: "center"
 	}}
 	>
 	<form>
@@ -108,6 +112,8 @@ return (
 		</div>
 		</div>
 	</form>
+	</div>
+	</section>
 	</div>
 );
 };

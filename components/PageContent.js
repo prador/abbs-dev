@@ -17,12 +17,22 @@ import CollectionSection from "./content/CollectionSection"
 import ProgramDetailsSection from "./content/ProgramDetailsSection"
 import DocumentsSection from "./content/DocumentsSection";
 import PersonSection from "./content/PersonSection";
+import HomeSlideshow from "./home/HomeSlideshow";
 // import '../assets/styles/pagecontent.module.css'
 
 const PageContent = ({att,html,list,testimonials,docs,cls}) => {
   const [hasPrograms, setHasPrograms] = useState(false);
   const sectionSwitch = (section) => {
     switch (section.type) {
+      case "slider":
+        console.log(section.slides)
+        return <HomeSlideshow att={section.slides} className="animate__animated animate__fadeInUp"/> 
+      // case "program_accordion":
+      //   return <ImageSection att={section} />
+      // case "rec_acc_section":
+      //   return <ImageSection att={section} />
+      // case "faq_section":
+      //   return <ImageSection att={section} />
       case "text_section":
         return <TextSection att={section}/>
       case "logo_section":
