@@ -123,7 +123,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelors in Business Administration
-    apply_form: https://application.abbs.edu.in/
+    apply_form: https://application.abbs.edu.in/bschool/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-02-04-bba.pdf

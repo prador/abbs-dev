@@ -243,7 +243,7 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: Apply Now
-        menu_nav_link: https://application.abbs.edu.in/
+        menu_nav_link: https://application.abbs.edu.in/bschool/
         submenu_link: null
         show: true
     parent_menu_id: main

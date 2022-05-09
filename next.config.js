@@ -363,7 +363,7 @@ module.exports = {
       },
       {
         source: '/admission-aid/apply-now/',
-        destination: 'https://application.abbs.edu.in',
+        destination: 'https://application.abbs.edu.in/bschool',
         permanent: false,
         basePath: false,
       },

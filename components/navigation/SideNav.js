@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import Script from 'next/script'
 import Image from 'next/image'
 import DropdownMenu from './DropdownMenu';
 import searchIcon from '../../assets/icons/search.svg'
@@ -13,6 +14,15 @@ function SideNav() {
 }
 
 function Navbar(props) {
+  const [modal, setModal] = useState(false);
+  const showModal = () => {
+    if(modal) {
+      setModal(false);
+    }
+    else {
+      setModal(true);
+    }
+  }
   return (
     <nav className="navbar nav animate__animated animate__fadeIn">
       <button className="nav-btn">
@@ -30,10 +40,14 @@ function Navbar(props) {
       </div>
       <button className="nav-btn search-btn"><Image src={searchIcon} width="30px" className="nav-search"/></button>
       <ul className="navbar-nav nav-links">{props.children}</ul>
-      <button className="nav-apply btn btn-blue" type="button" class="npfWidgetButton npfWidget-91417a0f63179d933617d74133cf2030">Enquire Now</button>
+      <button id="npfWidgetButton" onClick={showModal} className="nav-apply btn btn-blue" type="button" class="npfWidgetButton npfWidget-91417a0f63179d933617d74133cf2030">Enquire Now</button>
+      <div id="npf_wrapper" className={`${modal ? "show": "hide"}`} >
+        <div className="close-btn-row"><button onClick={showModal}>Close form</button></div>
+        <div className="npf_wgts" data-height="600px" data-w="1d53de89c59cbc5ee84eba92b1b0c7d7"></div>
+        </div> 
       <div className="nav-footer">
         <a target="_blank" href="tel:+919141707070" className="nav-contact menu-item menu-last">Contact us: +91 9141707070</a>
-        <a href="https://application.abbs.edu.in/" className="nav-apply btn btn-blue">Apply Now</a>
+        <a href="https://application.abbs.edu.in/bschool/" className="nav-apply btn btn-blue">Apply Now</a>
       </div>
     </nav>
   );
