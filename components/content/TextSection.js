@@ -23,7 +23,11 @@ const TextSection = ({att}) => {
             </div> : "" }
         <div className="section-richtext"><ReactMarkdown children={att.section_text} remarkPlugins={[remarkGfm]} /></div>
           </div>
-        {att.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={att.button_link ? att.button_link : "#"}>{att.button_label}</a> :"" }
+          {att.buttons ? att.buttons.map((button,index)=> (
+            <>
+                    {button.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={button.button_link ? button.button_link : "#"}>{button.button_label}</a> :"" }
+            </>
+          )) : null}
       </div>
       </>
     </section>

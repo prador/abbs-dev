@@ -1,0 +1,681 @@
+@media (min-width:1921px){
+.dsu-intro:after{content:'';width:46%;}
+}
+@media (min-width:576px){
+}
+@media (min-width:768px){
+}
+@media (min-width:992px){
+/*.success-section .success-block .cols {-ms-flex: 0 0 20%;flex: 0 0 20%;max-width: 20%;} */
+.specializationSec:before {content: '';position: absolute;bottom: 0px;left: 0px;width: 100%;border-bottom:3px solid #ffffff;z-index: 1;}
+.specializationSec:hover:before {border-bottom:3px solid transparent;}
+.abbsAbout .colm {-ms-flex: 0 0 20%;flex: 0 0 20%;max-width: 20%;}
+}
+@media only screen and (min-width:768px) and (max-width:992px){
+.aboutContent{padding:25px 20px;}
+.section2 .col-sm-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%;}
+}
+@media only screen and (max-width:1499px){
+.sec3GMcontent p{font-size:18px;}
+.sec9GMcontent p{font-size:17px;}
+.icon-box p{font-size:18px;}
+.playbtn,.playbtnSec a{font-size:21px;}
+.aboutSec .subtitle h4,.collSec .subtitle h4{font-size:25px;}
+.aboutSec .subtitle p{font-size:18px;}
+.collSec .subtitle{padding:5px 7% 30px;}
+.coll-wrap h5{font-size:18px;}
+.mentor-wrap h5{font-size:18px;}
+.sec3PgROW1 .widget-title h3 {margin-left: 18%;}
+}
+@media only screen and (max-width:1399px){
+.headerSubmenu ul li a{padding:0px 3px;font-size:14px;}
+
+.dsu-addmission p {font-size: 28px;}
+.widget-title h3 {font-size: 28px;}
+.awardSec .subtitle p {font-size: 19px;}
+.abtBox h4 {font-size: 20px;}
+.success-section .success-block .countingbg .countingContent p {font-size: 19px;}
+.section1 .courses-wrap strong {font-size: 20px;}
+.section1 .courses-wrap {padding: 10px;}
+
+}
+@media only screen and (max-width:1299px){
+.headerSubmenu ul li img {margin-right: 3px;}
+.headerSubmenu ul li a{font-size:12px;}
+.section1 .courses-wrap strong {font-size: 18px;}
+.section1 .courses-wrap p {font-size: 16px;}
+.abtcontent p{font-size:16px;}
+.icon-box p{font-size:17px;}
+.feature_content h5{font-size:16px;}
+.feature_content p{font-size:16px;}
+.alumni_content p{font-size:18px;}
+.coll-wrap{padding:15px;padding-bottom:60px;}
+.readbtn,.readbtnSec a{font-size:14px;margin:10px 0px 15px 15px;}
+#ent-slider.owl-carousel .items{padding:0px 14%;}
+.logoRTsec>img {max-width: 200px;}
+.dsu-addmission h1 {font-size: 60px;}
+.dsu-addmission p {font-size: 27px;}
+.widget-title h3 {font-size: 26px;}
+.success-section .success-block .countingbg .countingnumber .counting-number,
+.success-section .success-block .countingbg .countingnumber .counting-text {font-size: 35px;}
+.success-section .success-block .countingbg .countingContent p {font-size: 18px;}
+.sec9GMcontent h4 {font-size: 25px;}
+.sec3GMcontent p {font-size: 17px;}
+.sec9GMcontent p {font-size: 16px;}
+.aboutSec .subtitle h4, .collSec .subtitle h4 {font-size: 23px;}
+.sec3GMcontent ul li {font-size: 18px;}
+.section5 {padding: 60px 0px;}
+
+
+}
+@media only screen and (max-width:1199px){
+.header .admissons h1{font-size:22px;}
+.widget-title h3 {font-size:24px;}
+.section6 .courses-wrap strong{font-size:36px;}
+.section6 .courses-wrap strong>small{font-size:16px;}
+.header .navbar-dark .navbar-nav .nav-link{padding:0px 6px;font-size:11px;}
+.videosection{height:260px;}
+.abtcontent p{text-shadow:1px 1px 2px rgba(0,0,0,.6);}
+.placebxContent h4{font-size:24px;}
+.placebxContent h3{font-size:60px;padding-bottom:30px;margin-bottom:30px;}
+.container{width:90%;}
+.feature_content p{font-size:15px;}
+.alumni_content p{font-size:16px;}
+.mentor-wrap p{font-size:14px;}
+.mentor-wrap h5{font-size:17px;}
+.awardContent p{font-size:15px;}
+.awardSec{padding-left:5%;padding-right:5%;}
+.coll-wrap h5{font-size:16px;}
+#coll-slider.owl-carousel .items{min-height:255px;}
+.aboutSec .subtitle p{font-size:16px;}
+.aboutSec .subtitle h4,.collSec .subtitle h4{font-size:20px;}
+.playbtn,.playbtnSec a{font-size:18px;}
+.sec9GMcontent p,.sec3GMcontent p{font-size:16px;}
+.sec9GMcontent h4{font-size:24px;margin-bottom:17px;}
+.success-section .success-block .countingbg .countingnumber .counting-number,
+.success-section .success-block .countingbg .countingnumber .counting-text {font-size: 29px;}
+.success-section .success-block .countingbg .countingContent p {font-size: 16px;}
+.success-section .success-block .cols{padding:17px 5px;}
+.dsu-addmission h1{font-size:58px;}
+.dsu-addmission p{font-size:24px;}
+.dsu-addmission h2 {font-size: 21px;margin-top:25px;}
+#ent-slider.owl-carousel .items p{font-size:18px;}
+.logo img{width:370px;}
+.logoRTsec>img{max-width:180px;}
+.frmBg h4{font-size:24px;}
+.sec3GMcontent ul li {font-size: 17px;}
+.awardSec .subtitle p {font-size: 17px;}
+.subtitle p {font-size: 20px;}
+.section1 .courses-wrap strong {font-size: 17px;}
+.section1 .courses-wrap p {font-size: 15px;}
+.abtBox:before {content: '';width: 48px;height: 50px;}
+.abtBox h4 {font-size: 18px;}
+.ProgContainer {padding-left: 30px;margin-bottom: 1rem !important;}
+.IntContainer {padding-right: 30px;}
+.sec3PgROW1 .widget-title h3 {margin-left: 14%;}
+.header .approvalbx p {font-size: 25px;}
+.awardContent p {font-size: 16px;}
+.header .approvalbx p {font-size: 22px;}
+.specSec {padding-left:15px;padding-right:15px; }
+.section1 .courses-wrap img {max-width: 140px;height: 140px;}
+.awardContent {padding: 45px 40px;}
+#testi-slider.owl-carousel .owl-item figure>img {max-width: 110px;height: 110px;}
+.section5 {padding:50px 0px;}
+.testicontent p {font-size: 14px;}
+#countdown {padding: 10px 20%;}
+
+}
+@media only screen and (max-width:1024px){
+.headerSubmenu ul li img{max-width:24px;margin-right:2px;}
+#hero.container-fluid,#hero.container-fluid .row{padding-left:0px;padding-right:0px;margin-right:0px;margin-left:0px;}
+.bc-img01,.section2{background-size:cover;}
+.section6 .courses-wrap strong{font-size:32px;}
+.section6 .courses-wrap strong>small{font-size:14px;}
+.section6 .courses-wrap.align-self-center strong{margin:0px 0px;}
+.section_gallery{padding:30px 0px 45px;}
+.whyrow{padding-left:0px;}
+.dsu-addmission h1{font-size:53px;}
+.dsu-addmission h3>small{font-size:22px;}
+.dsu-addmission h3{font-size:16px;}
+.dsu-addmission figure>img{max-width:175px;}
+.icon-box p{font-size:16px;}
+.sec9GMcontent p,.sec3GMcontent p{font-size:15px;}
+.sec9GMcontent p,.sec3GMcontent p{font-size:14px;}
+.sec9GMcontent h4{font-size:20px;margin-bottom:15px;}
+.sec9GMimgBox{padding:15px 0px 0px 15px;}
+.sec3GMimgBox:before,.sec3GMimgBox::before{content:'';right:15px;left:-15px;top:-15px;bottom:15px;}
+.sec3GMimgBox:before,.sec3GMimgBox::before{content:'';right:15px;left:-15px;top:-15px;bottom:15px;}
+.sec3GMcontent{padding-left:0px;padding-right:0px;}
+.sec9GMcontent{padding-left:0px;padding-right:0px;}
+.aboutSec .subtitle h4,.collSec .subtitle h4{font-size:19px;}
+.aboutSec .subtitle p{font-size:15px;}
+.coll-wrap h5{font-size:15px;}
+.awardContent p,.feature_content p{font-size:14px;padding: 10px 0;}
+.container{width:95%;}
+.alumni_content{padding:12px 12px;}
+.alumniplay a i,.alumniplaybtn i{font-size:50px;}
+.alumni_content p{font-size:15px;}
+.mentor-wrap h5{font-size:15px;}
+#mentor-slider.owl-theme .owl-nav .owl-prev{left:-15px;}
+#mentor-slider.owl-theme .owl-nav .owl-next{right:-15px;}
+#client-slider.owl-theme .owl-nav [class*=owl-]{width:30px;height:30px;font-size:13px;line-height:27px;}
+.sec4Head{margin-top:10px;margin-bottom:0px;}
+.awardSec .sec4Head {padding-top: 0px;margin-bottom: -100px;}
+#place-slider.owl-theme .owl-nav .owl-prev{left:-5px;}
+#place-slider.owl-theme .owl-nav .owl-next{right:-5px;}
+#gallery-memeber.owl-theme .owl-nav [class*=owl-],#visiting-slider.owl-theme .owl-nav [class*=owl-]{font-size:32px;}
+.playbtn,.playbtnSec a{font-size:17px;}
+.collSec .subtitle{padding:5px 20px 20px;}
+.headerSubmenu ul li a{padding:0px 2px;font-size:11px;}
+.cmsinner {padding: 10px 15px;}
+.aboutSec::before, .aboutSec:before {content: '';width: 110px; height: 100px;}
+.aboutSec::after, .aboutSec:after {content: '';width: 110px;height: 110px;}
+.testimonials-box h4 {font-size: 18px;padding-left: 12px;}
+.timersec h3 {font-size: 28px;}
+
+}
+@media only screen and (max-width:991px){
+
+
+
+
+
+
+
+.logo img{width:270px;}
+.logoRTsec>img{max-width:170px;}
+
+
+
+
+
+#nav.navbar,.header:after{display:none;}
+.dsu-addmission{margin-top:20px;margin-bottom:0px;text-align:center;padding-right:0px;text-shadow: none;/*text-shadow:1px 1px 2px rgba(0,0,0,0.55);*/} 
+.dsu-addmission p{font-size:23px;text-shadow:none;}
+.applyBox{margin-top:20px;margin-bottom:20px;}
+.dsu-form{float:none;margin:0 auto;max-width: 395px;}
+.section1 .courses-wrap{width:50%;padding:15px;margin-bottom:0px;}
+.section1 .courses-wrap:last-child{margin-bottom:0px;}
+.coll-wrap{padding-bottom:60px;background-color:rgba(0,0,0,.75);}
+.section1 .courses_sec3 .courses-wrap{width:50%;}
+.sec9GMimgBox{max-width:350px;margin:0 auto;}
+#place-slider.owl-carousel .owl-item .items{margin-bottom:0px;}
+#coll-slider.owl-carousel .items,#mentor-slider.owl-carousel .items,.alumniBX{margin-bottom:5px;}
+.mobview{display:block!important;}
+.mobhide{display:none!important;}
+#gallery-memeber.owl-theme .owl-nav .owl-next{right:-1px;margin:0px;}
+#gallery-memeber.owl-theme .owl-nav .owl-prev{left:-1px;margin:0px;}
+.row.justify-content-around.px-5.mt-3,.px-5.text-center{padding-left:0px!important;padding-right:0px!important;}
+.service-block{margin-bottom:30px;}
+.header .approvalbx p br,.section1 .courses-wrap:nth-child(1) h2 br{display:none;}
+.header .approvalbx{border:0px;padding:0px;margin:0px;}
+.dsu-intro .container,.dsu-intro .row,.leftsec_content,.applyBox,.dsu-form{height:auto;}
+
+.dsu-addmission h1:before{content:'';right:0px;}
+
+.dsu-addmission h2 {font-size: 18px;margin-top: 15px;line-height: 1.3;}
+.logoRTsec{text-align:center;margin-top:15px;}
+.logoRTsecMob{display:inline;float:right;}
+.headerSubmenu{width:100%;margin-top:20px;}
+.logo{text-align:center;-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%;padding-left:15px!important;padding-right:15px!important;}
+.top-head .col-md-7{text-align:center!important;-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%;padding-left:15px!important;padding-right:15px!important;margin-top: 7px;}
+.top-head {padding: 9px 0px 9px;}
+.headerSubmenu ul{text-align:center;}
+.proseccontent ul li{width:49%;}
+.placebxContent h4{font-size:20px;}
+.placebxContent h3{font-size:50px;padding-bottom:25px;margin-bottom:25px;}
+.incuRTSec img.d-block.d-sm-none{display:block!important;margin:0 auto;}
+.incuRTSec{background:none;}
+.icon-box p{font-size:15px;}
+.testicontent p{font-size:14px;}
+.testimonials-box h4{font-size:18px;}
+.abtcontent p{font-size:15px;}
+#testi-slider.owl-carousel .owl-item figure>img{max-width:140px;height:140px;}
+.sec8Head img.topquote,.topquote{width:80px;}
+.testimonials-box figure:before{content:'';right:83px;}
+.footer span{font-size:14px;}
+.pt-sm-0.prosec{padding:0!important;}
+.section6 .eligibilitysec p{margin-top:0px;font-size:17px;}
+.proseccontent{margin-bottom:10px;}
+.feature_content p{font-size:15px;}
+.cmsmobilelist ul{max-width:100%;}
+.container{width:100%;padding-left:15px;padding-right:15px;}
+#client-slider.owl-carousel .owl-item .items{padding:0 0px;}
+#coll-slider.owl-theme .owl-nav .owl-prev{left:-20px;}
+#coll-slider.owl-theme .owl-nav .owl-next{right:-20px;}
+.coll-wrap p{font-size:13px;}
+.sec9PgROW1 .col-md-6{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%;}
+.sec9PgROW1 .para{margin-top:20px;}
+.sec9GMcontent{padding-left:0px;padding-right:0px;}
+.sec9PgROW1{padding-left:50px;padding-right:50px;}
+.sec9Head.mt-4{margin-top:0.5rem!important;}
+.sec9GMcontent h4{text-align:center;}
+.collSecSlider{padding:0 10px;}
+.cmsinner{padding:10px 30px;}
+.sec3PgROW2{margin-top:0px;}
+.sec3GMcontent{padding-left:0px;padding-right:0px;}
+.sec3GMinner{padding-top:0px!important;padding-bottom:0px!important;}
+.sec3GMHead{margin-top:0rem!important;}
+.sec3PgROW1 .col-md-6,.sec3PgROW2 .col-md-6{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%;}
+.ProgContainer {padding-left:15px;padding-right:15px;}
+.IntContainer {padding-left:15px;padding-right:15px;}
+.sec3PgROW1 .widget-title h3 {margin-left: 0px;}
+.widget-title.text-left h3:before {content: '';left: 0px; right: 0px;}
+.sec3PgROW1,.sec3PgROW2{padding-left:0px;padding-right:0px;}
+.sec3GMimgBox{max-width:350px;margin:0 auto;margin-bottom:15px;}
+.widget-title.text-left{text-align:center!important;}
+.success-section .success-block .countingbg .countingnumber .counting-number,
+.success-section .success-block .countingbg .countingnumber .counting-text {font-size:28px;}
+.success-section .success-block .countingbg .countingContent p {font-size: 16px;}
+.success-section .success-block .countingbg .countingnumber .counting-text,.success-section .success-block .countingbg .countingnumber .counting-text{/* line-height:50px;*/ } 
+#ent-slider.owl-theme .owl-nav .owl-prev{left:0px;}
+#ent-slider.owl-theme .owl-nav .owl-next{right:0px;}
+#ent-slider.owl-carousel .items p{font-size:17px;}
+.alumni_content{padding:18px 15px;min-height:initial;min-height:unset;}
+#client-slider.owl-carousel .owl-item {padding-bottom: 10px;}
+#client-slider.owl-theme .owl-nav {margin-top: 15px;}
+.cmsinner figure {text-align:center; margin-bottom: 10px;}
+.cmsinner figure:last-child {margin-bottom: 0px;}
+.cmsinner figure img {width: 100%; max-width: 400px;}
+.success-section {padding-top: 1.5rem !important;padding-bottom: 0.3rem !important;}
+.subtitle p {font-size: 18px;line-height: 1.5;}
+.success-section .success-block .cols {margin-top: 0px;padding: 10px 4px;margin-bottom: 15px;}
+.progmsec .numbercounter .cols:nth-child(2) {border-right: 0px; }
+.sec3GMcontent ul li {font-size: 16px;}
+.testimonials-box h4 {font-size: 20px;}
+.widget-title h3 {padding-bottom: 8px;margin-bottom: 15px;}
+.widget-title h3:before {content: ''; width: 90px;}
+#testi-slider.owl-carousel .owl-item figure>img {max-width: 100px;height: 100px;padding: 6px;}
+.testimonials-box h4 {font-size: 17px;padding-left: 10px;}
+.testimonials-box h4>small {font-size: 14px;}
+.testicontent {padding: 22px 15px 22px 45px;min-height: 290px;}
+.header .approvalbx p {font-size: 20px;}
+.dsu-form {padding: 20px 20px;}
+.sec3High {padding: 20px 15px;}
+.abtBox h4 {font-size: 17px;}
+.sec3PgROW1 .offset-sm-0 {margin-left: 0;}
+.sec8Head::before, .sec8Head:before {content: '';top: 110px;left: -15px;width: 65px;height: 65px;}
+.sec8Head::after, .sec8Head:after {content: '';top: -80px;right: -15px; width: 80px; height: 80px;}
+#testi-slider.owl-carousel .items {padding: 0 0px;}
+.testimonials-box figure {
+height: auto;
+-ms-flex-line-pack: center!important;
+align-content: center!important;
+-ms-flex-pack: center!important;
+justify-content: center!important;
+}
+.abtBoxArrowbtn, .abtBoxArrow a {font-size: 24px;}
+.customfancymodel h4 {font-size: 18px;}
+.animated-modal ul, .animated-modal p {font-size: 14px;}
+.abtBox:before {content: '';width: 36px;}
+.sec3GMcontent .listcontent {margin-bottom:0px;}
+
+.abbsAbout .colm {
+  -ms-flex: 0 0 33.33%;
+  flex: 0 0 33.33%;
+  max-width: 33.33%;
+}
+.abtBoxInner img {max-width: 150px;}
+.section1 .courses-wrap strong {font-size: 16px;}
+.section1 .courses-wrap p {font-size: 14px;}
+.awardContent {padding: 35px 30px;}
+.widget-title h3 {font-size: 20px;}
+.alumnisec {margin-top: 60px; padding-left: 15px;padding-right: 15px;}
+#testi-slider.owl-theme .owl-nav .owl-prev {left: -15px;}
+#testi-slider.owl-theme .owl-nav .owl-next {right: -15px;}
+.section1 .courses-wrap img {max-width: 120px;height: 120px;}
+.timersec h3 {font-size: 24px;}
+.timersec ul>li span {font-size: 38px;}
+.timersec ul>li {font-size: 13px;}
+#countdown {padding: 10px 8%;}
+
+/* Hero Section Slide */
+
+.success-section {background-color: #4d1a0f;}
+
+
+
+.header{position:relative; background-color: rgba(0, 0, 0, 1) !important;}
+
+.mbhiddle { display: block; }
+
+.mobileBk {
+display: none;}
+
+.dsu-addmission{top:auto; width: 100%; text-align:center; margin:0 auto;
+left: auto;
+display: block;
+position: relative; padding-top:10px ;}
+
+.dsu-addmission h1 {
+  position: relative;
+  color: #000;
+  font-weight: 700;
+  font-size: 32px ;
+line-height: 1; margin-bottom: 10px;
+text-transform: uppercase;
+margin-left: 0px;}
+.dsu-addmission h1 b{font-size: 32px;}
+
+
+.dsu-form{width:100%;}
+ .dsu-intro {
+  position: relative;
+width: 100%;}
+.dsu-addmission p{width:30%; margin:0 auto;}
+.dsu-addmission h2{color:#000;}
+.dsu-addmission .studentimg {
+  position: relative;
+  z-index: 999;
+  float: right;
+  bottom: auto;
+  text-align: right;
+left: 500px;}
+
+.dsu-addmission .nextline{ position:relative; text-align:left; }
+
+.dsu-addmission .nextline h5 {
+  font-weight: 700;
+  font-size: 26px;
+  color: #000;
+text-align: left;}
+.dsu-addmission .nextline h4{color:#000; font-size:26px; padding-bottom:10px;}
+
+
+
+.dsu-addmission { margin-top: 33%;margin-left: 0;
+    margin-right: 0; background-color: #f2c601; padding: 8px; text-align: center; }
+.dsu-addmission .bannerContent h2 {margin-left: 0px; font-size: 1.5em; line-height: 1; color: #010101; position: relative; z-index: 1;}
+.dsu-addmission .bannerContent p {  margin-top: 8px; padding: 0; }    
+.dsu-form { margin-left: auto; margin-right: auto; margin-top: 10px;
+    margin-bottom: 10px; }
+ .leftsec_content { padding: 0 0; }
+ 
+
+}
+@media only screen and (max-width:800px){
+.section3 img.d-none.d-sm-block{display:none!important;margin:0 auto;}
+.section3 img.d-block.d-sm-none{display:block!important;margin:0 auto;}
+}
+@media only screen and (max-width:767px){
+.thankyou .dsu-addmission p {color: #ffffff;}
+.thankyou .dsu-addmission .headerSubmenu ul li {color: #ffffff;}
+.thankyou .headerSubmenu ul li a {color: #ffffff;}
+#client-slider:before{content:'';left:0px;right:0px;}
+#place-slider:before{content:'';left:0px;right:0px;}
+#testi-slider:before{content:'';left:0px;right:0px;}
+#edge-slider:before{content:'';left:0px;right:0px;}
+.sec4Head{padding:0 10px;margin-bottom:0px;}
+.top-head .justify-content-end{-ms-flex-pack:center!important;justify-content:center!important;}
+.top-head .headerSubmenu{display:none!important;}
+.dsu-addmission .headerSubmenu{display:block;}
+.dsu-addmission .headerSubmenu ul li{width:100%;margin-bottom:10px;}
+.dsu-addmission .headerSubmenu ul li:last-child{margin-bottom:0px;}
+.headerSubmenu ul li a{padding:0px 3px;text-shadow:none;font-size:14px;}
+
+.dsu-intro{padding-top:80px;}
+.logoRTsec{width:100%;text-align:center;}
+.header .approvalbx p{font-size:15px;}
+.logo-right.mt-3{margin-top:10px!important;}
+.logo img{width:auto;max-width:190px;margin-top:0;}
+.logoRTsec>img{max-width:320px;}
+.aboutContent{margin:15px 0;padding:30px 20px;}
+.section1 .courses-wrap{padding:5px;}
+.section1 .courses-wrap strong{font-size:15px;}
+.section1 .courses-wrap p {font-size: 14px;}
+.widget-title h3{font-size:18px;}
+.widget-title h3 br {display: none;}
+.sec9GMcontent h4{font-size:18px;}
+.sec9Head.mt-4{margin-top:0px!important;}
+.success-section .success-block .countingbg .countingContent p{font-size:16px;}
+.aboutSec .subtitle h4,.collSec .subtitle h4{font-size:16px;}
+.aboutSec .subtitle p{font-size:14px;}
+.aboutSec .subtitle{width:100%;padding:0px 0px 15px;}
+.specializationSec{margin-top:0px;}
+.section6 .courses-wrap strong{font-size:28px;}
+.whyrow{padding:0px 0px;}
+.section6 .courses-wrap{padding:11px 10px;border:3px solid #ebebeb;width:96%;max-width:480px;}
+.section6 .courses-wrap:nth-child(2){padding:18px 10px;}
+.section6 .courses-wrap:nth-last-child(1){padding:16px 10px;}
+.section6 .courses-wrap strong>small{font-size:15px;}
+.dsu-addmission p {font-size: 21px;}
+.dsu-addmission h2{font-size: 16px;margin-top: 10px;}
+.dsu-addmission h3{margin-bottom:15px;font-size:17px;line-height:1.2;}
+.dsu-addmission h3>small{font-size:22px;}
+.aboutContent{background-color:rgba(0,0,0,0.87);}
+.widget-title h3:before{content:'';width:85px;height:3px;}
+#place-slider.owl-theme .owl-nav .owl-prev{left:0px;}
+#place-slider.owl-theme .owl-nav .owl-next{right:0px;}
+#testi-slider.owl-theme .owl-nav [class*=owl-]{top:120px;}
+#testi-slider.owl-theme .owl-nav .owl-prev{left:-10px;}
+#testi-slider.owl-theme .owl-nav .owl-next{right:-10px;}
+#edge-slider.owl-theme .owl-nav .owl-prev{left:-15px;}
+#edge-slider.owl-theme .owl-nav .owl-next{right:-15px;}
+#gallery-memeber.owl-theme .owl-nav [class*=owl-],#visiting-slider.owl-theme .owl-nav [class*=owl-]{font-size:28px;padding:5px 10px;}
+.section3 .container{padding-right:7px;padding-left:7px;}
+.contact-fild-box .form-control{font-size:13px;}
+.contact-fild-box .form-control option{font-size:12px;}
+.dsu-addmission figure>img{max-width:165px;}
+.owl-theme .owl-dots .owl-dot span{margin:2px 1px!important;}
+.section9:after,.section9::after{content:'';display:none;}
+.placebx{padding:0;background-color:#f08f2b;}
+.section9 .container{max-width:100%!important;}
+.placebxContent{padding:25px;}
+.incuRTSec{position:relative;width:100%;height:auto;}
+.incuRTSec img.d-block.d-sm-none{display:none!important;}
+#why{padding:0px!important;}
+.abtinner{padding-top:0px!important;padding-bottom:15px!important;}
+.sec7Head{margin:0px!important;}
+.section8 .widget-title.text-left{text-align:center!important;}
+.testimonials-box figure{height:auto;-ms-flex-line-pack:center!important;align-content:center!important;-ms-flex-pack:center!important;justify-content:center!important;padding-top:10px;margin-bottom: 0px; }
+.testimonials-box figure:before{content:'';right:50%;height:80%;-o-transform:translateX(-50%);-ms-transform:translateX(-50%);-moz-transform:translateX(-50%);-webkit-transform:translateX(-50%);transform:translateX(-50%);}
+.sec8Head img.topquote,.topquote{width:55px;}
+.section7:before,.section7::before{content:'';width:140px;height:140px;}
+.section7:after,.section7::after{content:'';z-index:-2;opacity:0;}
+.placebxContent{text-align:center;}
+.placebxContent h3{font-size:44px;padding-bottom:20px;margin-bottom:20px;}
+.sec8Head{position:relative;padding:0 0px;margin-top: 0px;}
+.testicontent{padding:22px;position: relative;min-height:340px;}
+.testicontent p:first-child::before, .testicontent p:first-child:before {content: '';width: 18px;height: 30px;top: -10px;left: -19px;}
+.testicontent p:last-child::after, .testicontent p:last-child:after {content: '';width: 15px;height: 22px;bottom: -15px;}
+.testimonials-box h4{font-size:15px;}
+.testimonials-box h4>small{font-size:14px;}
+.testimonials-box{padding:0;margin-bottom:0px;text-align:center;min-height:unset;}
+.testicontent:after{content:'';width:100px;left:0px;right:0px;margin:0 auto;bottom:-12px;}
+.section6 .eligibilitysec p{font-size:16px;}
+.sec5Head{padding:0 0px;margin-top:10px!important;}
+.section5:before,.section5::before{content:'';width:220px;height:220px;}
+#client-slider .owl-dots{position:relative;z-index:1;}
+#ent-slider .owl-dots{position:relative;z-index:1;}
+.proseccontent ul li{width:100%;}
+.feature_content p{font-size:14px;}
+.feature_content h5{min-height:unset;margin-bottom:8px;}
+.proseccontent ul li span{padding-left:5px;}
+.thankyou .dsu-form{padding:15px 5px;}
+.dsu-addmission figure{margin-bottom:15px!important;}
+
+.header{z-index:9; background-color: rgba(0,0,0,.6);}
+.sec3High>.container{width:100%;max-width:100%;padding-left:20px;padding-right:20px;}
+.cmsinner{padding:10px 0px 0px;}
+.sec3PgROW1,.sec3PgROW2{padding-left:0px;padding-right:0px;}
+.sec9PgROW1{padding-left:0px;padding-right:0px;}
+.sec3GMcontent p,.sec9GMcontent p{margin-bottom:10px;}
+.sec3GMcontent p:last-child,.sec9GMcontent p:last-child{margin-bottom:0px;}
+#ent-slider.owl-carousel .items{padding:0px 15px;}
+.courses_sec1{padding: 0px 0px;}
+.collSec .subtitle{padding:5px 5px 20px;}
+.coll-wrap h5{line-height:1.5;}
+.awardSec{padding-left:0px;padding-right:0px;}
+.section5{padding-top:20px!important;padding-bottom:20px!important;}
+.edgeBX{padding:0px 0px;margin-bottom:0px;}
+.edgeBX figure:before{content:'';width:0px;left:-10px;}
+.feature_content{padding:18px 10px;min-height:initial;min-height:unset;}
+.playbtnSlider a i,.sliderplaybtn i{font-size:45px;}
+.alumniplay a i,.alumniplaybtn i{font-size:40px;}
+.alumniBX{padding:0px 10px;}
+.alumniBX figure:before{content:'';width:10px;left:-10px;}
+#alumni-slider{padding:0 10px;}
+.top-head{padding:5px 0;}
+.dsu-addmission h1{font-size:45px;}
+.footer span br{display:block;}
+.icon-box p{font-size:14px;text-align:left;width:100%;}
+.whyrow .colms{margin-bottom:15px;}
+.whyrow .colms:last-child{margin-bottom:0px;}
+.playbtn,.playbtnSec a{font-size:15px;}
+.section3 .container-fluid{padding-top:50px;padding-bottom:50px;}
+#coll-slider.owl-carousel .items{min-height:230px;}
+.dsu-intro .container{padding-left:0px;padding-right:0px;}
+#ent-slider.owl-theme .owl-nav .owl-prev{left:-10px;}
+#ent-slider.owl-theme .owl-nav .owl-next{right:-10px;}
+#ent-slider.owl-theme .owl-nav [class*=owl-]{width:32px;height:32px;font-size:18px;line-height:30px;}
+.alignBx{width: 100% !important;}
+.aboutSec .subtitle p img {max-height: 30px;}
+.sec3GMcontent ul li {font-size: 15px;line-height: 1.35;}
+.ProgContainer,.IntContainer {padding-left: 15px;padding-right: 15px;}
+.sec3PgROW1 .widget-title h3 {margin-left: 0px;}
+.sec3GM {padding-bottom: 0px !important;}
+.awardSec .subtitle p {font-size: 15px;}
+.customfancymodel {width: 98%!important;}
+.testimonials-box h4 {font-size: 15px;padding: 0px;text-align: center;display: block;width: 100%;}
+.testicontent::before, .testicontent:before {content: '';left: 50%;bottom: -22px;width: 40px;height: 40px;margin-left: 0px;}
+.frmBg h4 {font-size: 20px;}
+.dsu-form {padding:16px 18px; /* background-color: rgba(129, 44, 255, 1); */}
+.awardSec .sec4Head {padding-left: 0px;padding-right: 0px;}
+.sec3GMcontent .listcontent {padding: 10px 10px;}
+.sec3GMcontent ul li span {padding: 7px 0px;}
+.subtitle p {font-size: 17px;}
+#heroo.owl-theme .owl-nav.disabled+.owl-dots {margin-top: 0px;bottom: 0px;}
+.abtBox {padding: 1px;}
+.success-section .success-block {padding: 0;}
+.subtitle {padding: 0px 10px 20px;}
+.sec3High {padding: 20px 0px 5px;}
+.sec3High.specSec {padding-left:10px;padding-right:10px; }
+.loader img {max-width: 200px;}
+.testicontent p {font-size: 13px;}
+.awardContent {padding: 20px 15px;}
+#client-slider.owl-theme .owl-nav .owl-prev {top: 5px;}
+#client-slider.owl-theme .owl-nav .owl-next {bottom: 0px;}
+.aboutSec::before, .aboutSec:before {content: '';width: 60px; height: 60px;}
+.aboutSec::after, .aboutSec:after {content: '';width: 60px;height: 60px;}
+.abtBoxInner img {max-width: 135px;}
+.sec3GMimgBox {margin-bottom: 10px;}
+.aboutSec {padding-bottom: 5px !important;}
+.edgeBX figure {padding: 15px;}
+#edge-slider.owl-carousel .owl-item img {width:85%;}
+.section1 .courses-wrap img {max-width: 100px;height: 100px;}
+.timersec h3 {font-size:21px;margin-bottom:8px;}
+
+/* sideNavi */
+.sideNavi{position:fixed;width:100%;bottom:0px;top:auto;right:auto;left:0;z-index:2;-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}
+.sideNavi a{display:block;text-align:center;padding:12px 2px;background-color:#b2b2b2;}
+.sideNavi a>i{display: inline-block;}
+.sideNavi-item{width:100%;}
+.footer{height:110px;}
+.bitwhatapp{display:none;}
+.callnone{display:block;}
+.footer {padding: 15px 0;}
+.bitwhatapp{display:none;}
+.callnone{display:block;}
+}
+@media only screen and (max-width:736px){
+.container{max-width:100%;}
+.header .approvalbx{border:0px;padding:0px;margin:0px;}
+.header .top-head .logo.pr-0{padding-right:15px!important;}
+.header .top-head .logo-right.text-right.pl-0{padding-left:15px!important;}
+.top-head .col-md-8 {margin-top: 2px;}
+.head6{font-size:16px;}
+.hero-section-slide{height: auto;}
+.dsu-addmission{margin-top:48%;}
+.bc-img01, .bc-img02, .bc-img03, .bc-img04{ height: 670px; background-size: 100%;}
+
+.dsu-addmission p {
+    width: 100%;
+margin: 0 auto;}
+.dsu-addmission h1 {
+font-size: 32px;}
+
+.dsu-addmission .studentimg {
+    position: relative;
+    z-index: 999;
+    float: right;
+    bottom: auto;
+text-align: right;
+left:auto;}
+
+.dsu-addmission .nextline h6 b {
+    font-weight: 700;
+    color: #000;
+	font-size:25px;
+}
+@media only screen and (max-width:576px){
+#ent-slider.owl-carousel .items p{font-size:15px;}
+
+.logo img{max-width:160px;}
+.logoRTsecMob img{max-width:125px;}
+.header .approvalbx p {font-size: 13px;}
+.header .approvalbx p br{display:none;}
+.header .approvalbx{border:0px;padding:2px 0;margin:0px;}
+.top-head .justify-content-end{-ms-flex-pack:center!important;justify-content:center!important;}
+.sec3High>.container{padding-left:15px;padding-right:15px;}
+.cmsmobilelist ul li{padding-right:0px; margin-bottom: 5px;}
+.success-section .success-block .cols {padding: 5px 5px;margin-bottom: 15px;}
+.success-section .success-block .countingbg .countingnumber .counting-number,
+.success-section .success-block .countingbg .countingnumber .counting-text {font-size: 22px;}
+.success-section .success-block .countingbg .countingContent p {font-size: 14px;line-height: 1.2; min-height:40px;}
+.countingContent {margin-bottom: 0px;}
+.section1 .courses-wrap{min-height:initial;min-height:unset;}
+#coll-slider.owl-carousel .items{min-height:200px;}
+.headerSubmenu ul li a{font-size:12px;}
+#place-slider.owl-theme .owl-nav [class*=owl-]{position:absolute;top:190px;transform:unset;transform:initial;}
+#alumni-slider{padding:0px;}
+.aboutSec .subtitle h4 br,.collSec .subtitle h4 br{display:none;}
+.testicontent {min-height: unset;min-height: initial;}
+
+.abtBox h4 {font-size: 14px;line-height: 1.25;}
+.abbsAbout .col-12 {padding-right: 0px;padding-left: 0px;margin-bottom: 10px;}
+.abbsAbout .col-12:last-child {margin-bottom: 0px;}
+.cmsinner figure img {max-width: 100%;}
+.owl-theme .owl-nav {margin-top: 0px !important;}
+.awardSec .subtitle p {font-size: 14px;}
+.subtitle p {font-size: 16px;}
+.abtBoxInner img {max-width: 95px;}
+.section1 .courses-wrap strong{font-size:14px;}
+.section1 .courses-wrap p {font-size: 13px;}
+
+}
+@media only screen and (max-width:480px){
+.img100{width:100%;}
+.dsu-addmission h3{font-size:15px;}
+.dsu-addmission h3>small{font-size:20px;}
+.widget-title h3{font-size:18px;}
+.facilities-row{margin-top:10px!important;}
+
+.footer span {font-size: 12px;display: block;line-height: 1.27;}
+.sec3GMimgBox,.sec9GMimgBox{max-width:100%;}
+.testicontent p {font-size: 14px;}
+.timersec h3 {font-size: 18px;}
+.dsu-form{max-width: 100%;}
+#countdown {padding: 10px 0px;}
+
+}
+@media only screen and (max-width:414px){
+#applyBox {padding-right: 0px;padding-left: 0px;}
+.applyBox,.dsu-form{width:100%;}
+.f-size22{font-size:18px;}
+.gallery_area .title{font-size:14px;}
+.timersec ul>li {padding: 10px 5px;}
+}
+@media only screen and (max-width:384px){
+.videosection{height:195px;}
+.sideNavi a{font-size:14px;}
+}
+@media only screen and (max-width:360px){
+.logoRTsecMob img{max-width:110px;}
+}
+@media only screen and (max-width:320px){
+.approvalbx p{font-size:12px;}
+.proseccontent ul li{width:100%;}
+.section1 .courses-wrap{width:100%;padding:10px;min-height:unset;min-height:initial;}
+.footer {padding: 10px 0;}
+.section1 .courses-wrap {border-right: 0px;text-align: center!important;}
+}
