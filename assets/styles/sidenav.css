@@ -244,6 +244,9 @@
     width:100%;
   }
   @media screen and (max-width:600px) {
+    .nav-apply {
+      display:none;
+    }
     .nav {
       max-width: 100vw;
       display: flex;

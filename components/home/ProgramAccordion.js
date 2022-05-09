@@ -26,7 +26,7 @@ const ProgramAccordion = ({programs}) => {
     <div className="content animate__animated animate__fadeInUp">
           <h2 className='home-section-title'><span className="header-hyphen"></span>Our Programs</h2>
         <ul className="program-accordion">
-            {programs.program_accordion.map((prog, index) => (
+            {programs.map((prog, index) => (
                 <li key={index} className={`program-tabs ${clicked === index ? "active" : ""}`} 
                 onClick={() => handleToggle(index)} 
                 onMouseEnter={(e) => mouseEnter(index)} 

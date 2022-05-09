@@ -5,7 +5,7 @@ import HomeSlideshow from '../components/home/HomeSlideshow'
 import ProgramAccordion from '../components/home/ProgramAccordion'
 import ProgramSelect from '../components/home/ProgramSelect'
 import PageHeader from '../components/PageHeader'
-import PageContent from '../components/PageContent'
+import HomePageContent from '../components/HomePageContent'
 import AccordionSection from '../components/content/AccordionSection'
 import { attributes, html } from '../content/home/home.md'
 import HomeHeader from '../components/home/HomeHeader'
@@ -54,49 +54,10 @@ const Home = ({newsList,eventsList}) => {
   return (
   <Layout>
     <PageHeader attributes={attributes}><HomeHeader attributes={attributes}/></PageHeader>
-    <HomeSlideshow att={attributes.slider_images} className="animate__animated animate__fadeInUp"/>  
-    {/* <PageContent att={attributes} html={html}/> */}
-    <ProgramSelect />
-    <ProgramAccordion programs={attributes}/> 
-    <HomeNewsEvents newsList={newsList} eventsList={eventsList}/>
-
-    <div className="content">
-      <div className="w-layout-grid contain-block">
-      <section className='rec-acred-section'>
-        <div className='rec-acred-block'>
-      <h2 className='home-section-title'><span className="header-hyphen"></span>{attributes.rec_acc_section.section_title}</h2>
+    {/* <HomeSlideshow att={attributes.slider_images} className="animate__animated animate__fadeInUp"/>   */}
+    <HomePageContent att={attributes} html={html} newsList={newsList} eventsList={eventsList}/>
       
-      <div className='rec-acred-wrapper'>
-        <div className="rec-acred-content">
-          <p>{attributes.rec_acc_section.section_text}</p>
-          <a href="/abbs-edge/recognition-accreditations" className="btn btn-outline">View More</a>
-        </div>
-        {attributes.rec_acc_section.logos.map((post,index) => 
-          <>
-          <img key={index} className="rec-acred-image" src={post.logo_image}/>
-          </>
-        )}
-      </div>
-        
-    </div>
-    </section>
-        </div>
-      </div>
       
-      <div className="content home-faq-wrapper">
-      <div className="w-layout-grid contain-block">
-      <section className='home-faq-section'>
-        <div className='home-faq-block'>
-        <h2 className='home-section-title'><span className="header-hyphen"></span>FAQs</h2> 
-      <AccordionSection att={attributes.faq_section} />
-      </div>
-      {attributes.faq_section.section_image ? 
-            <div className="home-faq-image">
-              <img src={"../"+attributes.faq_section.section_image} alt={attributes.faq_section.section_title}/>
-            </div> : "" }
-      </section>
-        </div>
-      </div>
     <style jsx>{`
       h1,
       div {

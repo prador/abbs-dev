@@ -56,55 +56,6 @@ module.exports = {
           required: true
         },
         {
-          label: "Slider Images",
-          name: "slider_images",
-          required: true,
-          widget: "list",
-          hint: "",
-          default: "#",
-          summary: "{{slide_title}}",
-          allow_add: true,
-          fields: [{
-            label: "Slide Image",
-            name: "slide_image",
-            widget: "image",
-            required: false
-          }, {
-            label: "Slide Image Mobile",
-            name: "slide_image_mobile",
-            widget: "image",
-            required: false
-          }, {
-            label: "Slide Title",
-            name: "slide_title",
-            required: false,
-            widget: "string",
-            hint: "",
-            default: ""
-          }, {
-            label: "Slide Text",
-            name: "slide_text",
-            required: false,
-            widget: "text",
-            hint: "",
-            default: ""
-          }, {
-            label: "Slide Button Label",
-            name: "slide_button_label",
-            required: false,
-            widget: "string",
-            hint: "",
-            default: ""
-          }, {
-            label: "Slide Button Link",
-            name: "slide_button_link",
-            required: false,
-            widget: "string",
-            hint: "",
-            default: ""
-          }],
-        },
-        {
           label: 'Content Sections',
           hint: "Adding one of multiple extra fields for the page, based on the need",
           name: 'sections',
@@ -162,6 +113,26 @@ module.exports = {
             }]
           },
           {
+            label: "Program Selector",
+            name: "program_select",
+            fields: [{
+              label: "Show Program Selector",
+              name: "show_program_select",
+              widget: "boolean",
+              default: true
+            }]
+          },
+          {
+            label: "News and Events",
+            name: "news_events_section",
+            fields: [{
+              label: "Show News and Events",
+              name: "show_news_events",
+              widget: "boolean",
+              default: true
+            }]
+          },
+          {
             label: "Program Accordion",
             name: "program_accordion",
             required: true,
@@ -170,53 +141,60 @@ module.exports = {
             default: "#",
             allow_add: true,
             fields: [{
-              label: "Icon",
-              name: "icon",
-              widget: "image",
-              required: false
-            }, {
-              label: "Background Image",
-              name: "bg_image",
-              widget: "image",
-              required: false
-            }, 
-            {
-              label: "Background Color",
-              name: "bg_color",
-              widget: "color",
-              required: false
-            },
-             {
-              label: "Program",
-              name: "program",
-              widget: "string",
-              required: false
-            }, {
-              label: 'Links',
-              name: 'links',
-              required: false,
+              label: "programs",
+              name: "programs",
               widget: "list",
-              hint: "",
+              summary: "{{program}}",
               allow_add: true,
               fields: [{
-                label: "Program Name",
-                name: "name",
-                required: false,
-                widget: "string",
-                hint: "",
-                default: ""
+                label: "Icon",
+                name: "icon",
+                widget: "image",
+                required: false
               }, {
-                label: "Program Location",
-                name: "loc",
-                required: false,
+                label: "Background Image",
+                name: "bg_image",
+                widget: "image",
+                required: false
+              }, 
+              {
+                label: "Background Color",
+                name: "bg_color",
+                widget: "color",
+                required: false
+              },
+              {
+                label: "Program",
+                name: "program",
                 widget: "string",
+                required: false
+              }, {
+                label: 'Links',
+                name: 'links',
+                required: false,
+                widget: "list",
                 hint: "",
-                default: ""
+                allow_add: true,
+                fields: [{
+                  label: "Program Name",
+                  name: "name",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }, {
+                  label: "Program Location",
+                  name: "loc",
+                  required: false,
+                  widget: "string",
+                  hint: "",
+                  default: ""
+                }]
               }]
             }]
           },
           {
-            label: 'Recognition and Accreditation Section',
+            label: 'Recognition and Accreditation',
             name: 'rec_acc_section',
             required: false,
             widget: "object",
@@ -296,7 +274,7 @@ module.exports = {
           {
             label: 'FAQ Section',
             name: 'faq_section',
-            summary: "{{section_title}}",
+            summary: "FAQ Section",
             required: false,
             widget: "object",
             fields: [{

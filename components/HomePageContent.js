@@ -25,7 +25,7 @@ import HomeRecAccred from "./home/HomeRecAccred";
 import HomeFaqSection from  "./home/HomeFaqSection"
 // import '../assets/styles/pagecontent.module.css'
 
-const PageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsList}) => {
+const HomePageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsList}) => {
   const [hasPrograms, setHasPrograms] = useState(false);
   const sectionSwitch = (section) => {
     switch (section.type) {
@@ -81,10 +81,7 @@ const PageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsList}) 
   
   return (
     <>
-      <div className={"content animate__animated animate__fadeInUp "+ `${cls? cls : null}`}>
-  
-        <div className="w-layout-grid contain-block">
-        <Breadcrumbs att={att}/>
+
           {/* <div id="content-wrapper" className={getContainer()}> */}
           <div id="content-wrapper" className={att.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
               {html ? <div dangerouslySetInnerHTML={{ __html: html }} /> : "" }
@@ -105,10 +102,8 @@ const PageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsList}) 
               </>
             ))}
           </div> : "" }
-        </div>
-      </div>
     </>
   )
 } 
 
-export default PageContent
+export default HomePageContent

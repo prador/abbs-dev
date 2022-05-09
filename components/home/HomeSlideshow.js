@@ -39,7 +39,6 @@ export default ({att}) => {
       clearInterval(timer.current)
     }
   }, [pause, instanceRef])
-console.log("homeslide att",att)
   return (
     <>
       <div className="navigation-wrapper">
