@@ -17,7 +17,7 @@ sections:
       department was established in the year 2010 at ABBS to allow and
       strengthen the students to acquire mandatory knowledge, skills and
       abilities required for analysing the business’s reality and coming up with
-      excellent business strategies. 
+      excellent business strategies.
 
 
       Our B com college in Bangalore aims to make students well-equipped with conceptual and practical knowledge of commerce and the business world. The students here are made ready to face challenges when they are hired by organizations and prove themselves deserving professionals. The course is structured in a way to help the students develop their entrepreneurial mindset and skills.
