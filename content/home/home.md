@@ -56,6 +56,8 @@ program_accordion:
         loc: /programs/information-technology/bca
 title: Home
 seo_title: Top B Schools in Bangalore | Bangalore Business School
+seo_description: ABBS is Ranked among the top business school in Bangalore which
+  provides the best MBA /PGDM and Management Programmes.
 date: 2019-03-17T19:31:20.591Z
 sections:
   - type: slider
@@ -234,9 +236,9 @@ header_scripts: >-
   {
     "@context": "https://schema.org",
     "@type": "Localbusiness",
-    "name": "ABBSLAW",
-    "image": "https://abbslaw.edu.in/wp-content/uploads/2018/11/Law-1.jpg",
-    "description":"ABBS School of Law is one of the top law colleges in bangalore ,Affiliated to Karnataka State Law University and Approved by Bar Council of India, New Delhi. ",
+    "name": "ABBS",
+    "image": "https://abbs.edu.in/static/img/9141-70700.jpg",
+    "description": "ABBS is Ranked among the top business school in Bangalore which provides the best MBA /PGDM and Management Programmes.",
     "url": "https://abbslaw.edu.in/",
     "telephone": "+91 9141707070",
     "priceRange": "Call US : +91 9141707070",
@@ -272,7 +274,7 @@ header_scripts: >-
       "opens": "10:00",
       "closes": "07:00"
     }],
-    "sameAs": "https://abbslaw.edu.in/"
+    "sameAs": "https://abbs.edu.in/"
   }
 
   </script>
@@ -282,11 +284,11 @@ header_scripts: >-
   {
     "@context": "https://schema.org/",
     "@type": "WebSite",
-    "name": "ABBSLAW",
-    "url": "https://abbslaw.edu.in",
+    "name": "ABBS",
+    "url": "https://abbs.edu.in",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://abbslaw.edu.in/{search_term_string}",
+      "target": "https://abbs.edu.in/{search_term_string}",
       "query-input": "required name=search_term_string"
     }
   }
@@ -313,8 +315,6 @@ rec_acc_section:
       logo_subtitle: ""
       logo_link: ""
       logo_image: static/img/00-03-01-accreditions.jpg
-seo_description: ABBS is Ranked among the top business school in Bangalore which
-  provides the best MBA /PGDM and Management Programmes.
 faq_section:
   accordions:
     - accordion_title: "What B-school means? "
