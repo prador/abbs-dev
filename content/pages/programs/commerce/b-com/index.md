@@ -6,23 +6,21 @@ seo_description: "Top b com colleges in Bangalore: Abbs is one of the best b com
   reformed to meet the challenging needs of the Indian Corporates"
 seo_keywords: best b com colleges in bangalore, B com Colleges in Bangalore, Top
   B com Colleges in Bangalore
-date: 2021-12-04T06:00:23.196Z
+date: 2022-05-10T04:40:14.916Z
 thumbnail: static/img/03-04-03-bcom-banner.jpg
 sections:
   - type: text_section
     section_id: overview
     section_title: Overview
     section_text: >-
-      The B.Com Program was started in the year 2010 with the objective of
-      introducing innovative and modern curriculum and imparting Holistic
-      Education. The B Com Degree course is a three year – six semester program
-      affiliated to Bangalore University.
+      The Bachelor’s in commerce is a programme for commerce aspirants. This
+      department was established in the year 2010 at ABBS to allow and
+      strengthen the students to acquire mandatory knowledge, skills and
+      abilities required for analysing the business’s reality and coming up with
+      excellent business strategies.
 
 
-      This course offers a blend of theoretical and practical exposure to the students through Seminars, Conferences, Guest Lectures, Workshops, Industrial Visits, Training and Development programs. The Department has qualified and experienced professors with high backend knowledge of Commerce, Accounts and Banking.
-
-
-      The Bachelor of Commerce has the objective of preparing graduates to acquire thorough knowledge in accounting, taxation and finance. It provides students with the knowledge, tools of analysis and skills required for the modern business world, to prepare them for subsequent graduate studies and to achieve success in their professional careers.
+      Our B com college in Bangalore aims to make students well-equipped with conceptual and practical knowledge of commerce and the business world. The students here are made ready to face challenges when they are hired by organizations and prove themselves deserving professionals. The course is structured in a way to help the students develop their entrepreneurial mindset and skills.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
