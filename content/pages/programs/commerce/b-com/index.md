@@ -126,4 +126,8 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf
+  - type: text_section
+    section_id: "-"
+    section_title: "-"
+    section_text: Acharya Bangalore Business School
 ---
