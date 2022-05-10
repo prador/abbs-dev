@@ -21,6 +21,10 @@ sections:
 
 
       Our B com college in Bangalore aims to make students well-equipped with conceptual and practical knowledge of commerce and the business world. The students here are made ready to face challenges when they are hired by organizations and prove themselves deserving professionals. The course is structured in a way to help the students develop their entrepreneurial mindset and skills.
+  - type: text_section
+    section_id: information
+    section_title: Information
+    section_text: More Information on ABBS Website
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -126,8 +130,4 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf
-  - type: text_section
-    section_id: "-"
-    section_title: "-"
-    section_text: Acharya Bangalore Business School
 ---
