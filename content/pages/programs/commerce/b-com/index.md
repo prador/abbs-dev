@@ -14,16 +14,13 @@ sections:
     section_title: Overview
     section_text: >-
       The Bachelor’s in commerce is a programme for commerce aspirants. This
-      department was established in the year 2010 at ABBS to allow and
+      department was established in the year 20101 at ABBS to allow and
       strengthen the students to acquire mandatory knowledge, skills and
       abilities required for analysing the business’s reality and coming up with
       excellent business strategies.
 
 
       Our B com college in Bangalore aims to make students well-equipped with conceptual and practical knowledge of commerce and the business world. The students here are made ready to face challenges when they are hired by organizations and prove themselves deserving professionals. The course is structured in a way to help the students develop their entrepreneurial mindset and skills.
-
-
-      fdvfevwverv
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
