@@ -14,7 +14,7 @@ sections:
     section_title: Overview
     section_text: >-
       The Bachelor’s in commerce is a programme for commerce aspirants. This
-      department was established in the year 20101 at ABBS to allow and
+      department was established in the year 2010 at ABBS to allow and
       strengthen the students to acquire mandatory knowledge, skills and
       abilities required for analysing the business’s reality and coming up with
       excellent business strategies.
