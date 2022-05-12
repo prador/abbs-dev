@@ -13,16 +13,100 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      Bachelor in Computer Application, BCA program provides an opportunity for
-      aspirants who are heading towards a career in the Information and
-      Technology field. The course enables students to identify and sharpen
-      their IT skills and cater to the needs of the IT industry. 
+      **BACHELOR’S IN COMPUTER APPLICATION (BCA) AT ABBS**
 
 
-      Our BCA program strikes a balance between theoretical skill instruction and intricate, hands-on system design. The program encompasses a broad range of topics including object-oriented programming, software engineering, computer architecture, data structures and database management. Our highly qualified faculty members, eminent guest lecturers, professors, and successful entrepreneurs are well-versed in the field of Computer Applications. 
+      ### BEST BCA COLLEGE IN BANGALORE
 
 
-      The BCA course imparts learning and skills about various computer applications and issues that arise with it. The BCA course includes subjects like core programming languages, data structure, and hardware networking.
+      BCA course in Bangalore is inclined toward developing smart professionals in information technology. The aim of the program is to focus on the information technology skills of students including creativity, technical skills and logical thinking of a given scenario. In India, there is a high demand for BCA courses in Bangalore as a result of the high demand for computer application professionals that are created in ABBS-top BCA college in Bangalore.
+
+      Here information technology (IT) aspirants get an opportunity to build skills that are
+
+      required for building a flourishing career in the IT sector both at the national and
+
+      international levels. The students are made well-equipped to evaluate, develop and
+
+      create software applications. They gain practical knowledge about best software
+
+      practices by comprehending the logical design ideas in the industry.
+
+      At ABBS-the best college for BCA the experimental learning is given the utmost
+
+      importance because that’s what turns a student into a professional who is highly in
+
+      demand by big organizations.
+  - type: text_section
+    section_id: ""
+    section_title: Course outline at ABBS BCA college
+    section_text: Computer Architecture Artificial Intelligence Data Analytics
+      Python Programming Design and Analysis of Algorithm Machine Learning
+      Internet of Things Mobile Application Development Cloud Computing Internet
+      Technologies Lab Design and Analysis of Algorithm Software Engineering.
+  - type: text_section
+    section_id: ""
+    section_title: Eligibility criteria for admission to BCA college in Bangalore
+    section_text: 10+2 or PUC equivalent degree from a recognized education board
+      and a minimum aggregate of 40% in 10th and 12th.
+  - type: text_section
+    section_id: ""
+    section_title: Career prospect after studying at BCA college
+    section_text: >-
+      * Software engineer 
+
+      *  Software associate 
+
+      *  System admin 
+
+      *  Associate programmer 
+
+      *  Jobs in government & private sectors 
+
+      *  Junior developer 
+
+      *  Job opportunities from leading IT giants like Infosys, Wipro, Oracle, etc
+  - type: text_section
+    section_id: ""
+    section_title: Outcome of BCA course in Bangalore
+    section_text: >-
+      * BCA delivers the beforehand professional knowledge to candidates looking
+      forward to pursuing an advanced career in IT sectors that can be built at
+      both national and international levels. 
+
+      * This course is the best option to acquire the ability to analyze, design and code software systems. 
+
+      * At ABBS, the top BCA college in Bangalore, students are made adept in concepts of logical thinking and top-notch software development practices applied in the industry. 
+
+      * Along with the software development ability students get the opportunity to comprehend and implement practices of content management strategies, mobile computing, computer game designing and cloud.
+  - type: text_section
+    section_id: ""
+    section_title: Objectives of BCA course in Bangalore
+    section_text: >-
+      * ABBS aims to allow access to outstanding academics, analysis and
+      service-learning to people coming from different backgrounds and groups
+      irrespective of their economic standards and religion. 
+
+      *  Being the best college for BCA, ABBS aims to train students to enter a variety of specialisations so that education becomes inter-and multi-disciplinary and contributes to holistic development. 
+
+      * To develop possibilities for students in self-learning, creativity and innovation. -To facilitate students with exceptional academic and individual attention no matter if they are underprivileged and differently-abled students. 
+
+      * To make students aware of gender sensitivity and equality. 
+
+      * Our BCA college in Bangalore aims to form scientific thinking and enable the staff and students to contribute to analysis work.
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS over BCA colleges in Bangalore
+    section_text: >-
+      At ABBS, we are willing to carry and aware of the sincere commitment that
+      a higher education establishment must fulfil. The college is known for its
+      national and international innovations in academics along with other
+      educational aspects that make education complete. 
+
+
+      To all members of the college, we offer unlimited resources and opportunities. Compare to other colleges our campus is well-facilitated, from classrooms to aid centres all the mandatory facilities are both abundant and world-class. 
+
+
+      At ABBS, the top BCA college in Bangalore the teaching and non-teaching members have been influenced and motivated to support students to make their dreams come true.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details

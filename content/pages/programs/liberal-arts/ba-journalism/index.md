@@ -16,15 +16,97 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      Bachelor in Arts with a specialization in Journalism is a 3-year
-      undergraduate course, 4-years for BA honors under the Bangalore University
-      Curriculum. Acharya Bangalore B-School’s BA program provides a jumpstart
-      for aspirants who are heading towards a smart career in the Journalism and
-      Tourism field. BA course is a full-time course that enables you to explore
-      the opportunities in the news and media industry.
+      **ABBS-BA JOURNALISM COLLEGE**
 
 
-      ABBS is one of the best colleges in Bangalore for the BA courses and has highly qualified faculty members, eminent guest lecturers, professors, successful entrepreneurs who are well-versed in the field of media and journalism. Our BA program focuses on enabling students for news and media-oriented careers and a global perspective.
+      > **Fill The Gap That Persists Between Your Struggle And Success…..**
+
+
+      **It's time to get enrolled at ABBS -  Best college for BA in Mass Communication**
+
+
+      Today is an era where mass communication is constantly gaining more significance in our lives. The blend of technology and digital platforms is unleashing more opportunities for journalism professionals diversely. The boom in technology and online multimedia platforms are changing the complete scene of Journalism. From print media to publishing houses to OTT platforms, mass communication is becoming vital everywhere and evolving to reach out to more and more people. The fact that mass media is the fourth pillar of our Indian democracy makes it a more reasonable and relevant field to build a career.
+
+
+      However becoming a part of such a dynamic and the most demanding sector is not going to be easy for you, it is feasible for a confident, fearless and creative person who can make themselves acknowledged by big media houses or attract the attention of the audience. Studying at ABBS-BA journalism college in Bangalore makes you that person.
+
+
+      Are you all set to push your limits? Are you ready to think beyond your capacity? Are you ready to be creative?
+
+
+      If the answer is yes, get enrolled at **ABBS-BA Journalism and mass communication college in Bangalore**
+  - type: text_section
+    section_id: ""
+    section_title: Outcomes of Studying at ABBS - Best college for BA in Mass Communication
+    section_text: >-
+      The following skills are developed in a student upon completion of the
+      journalism course:
+
+
+      * Students develop advanced oral and written presentation skills. 
+
+      * The teamwork and collaboration become easy for an individual.
+
+      * A well-equipped journalist is one who writes and edits efficiently, and that is developed here. 
+
+      * Students are imparted with meticulous journalism and reporting training.
+
+      * Professional understanding of qualitative and quantitative research methods.
+
+      * Students become creative and thus excel in digital and social media platforms.
+
+      * Our BA mass communication college makes students experts in media content creation. 
+
+      * Critical thinking and adaptability is no more fear for the students.
+
+      * We offer practical training to enhance research and data analysis, and visual and graphic communication.
+  - type: text_section
+    section_id: ""
+    section_title: Course outline at BA Mass Communication college
+    section_text: BA Journalism course focuses specifically on the news and the
+      media industry. The subjects are selected, updated, and presented to suit
+      the graduates in this profession. Subjects such as Communicative English,
+      Functional English, Basics of Mass media like the Television, Newspaper,
+      Journalistic writing, certain elements of written English, Basics of
+      computers are some of the topics that are taught.
+  - type: text_section
+    section_id: ""
+    section_title: Eligibility for admission at BA Mass Communication college
+    section_text: 10+2 or PUC or an equivalent degree from a recognized board and a
+      minimum aggregate of 40% in 10th and 12th.
+  - type: text_section
+    section_id: ""
+    section_title: Career opportunities after Studying at BA Journalism college in Bangalore
+    section_text: |-
+      * Reporter 
+      * Correspondent 
+      * Sub-Editor 
+      * Video-Editor 
+      * Social Media Writer 
+      * Content Writer 
+      * Feature Writer 
+      * Photojournalist 
+      * Video journalist 
+      * Copywriters 
+      * Visualizers 
+      * Media Planner 
+      * Media Executive 
+      * Creative Director 
+      * Event Planner
+  - type: text_section
+    section_id: ""
+    section_title: Why pursue Journalism at ABBS - BA Journalism college?
+    section_text: >-
+      * Our faculty aims to support each student to become a multi-tasker and
+      capable of thinking critically on matters from different perspectives. 
+
+      * The communication skills of students are developed and their whole personality is groomed. 
+
+      * The education system at ABBS is a result of a profound academic research based on rigorous pedagogy, and an emphasis on foundational knowledge. 
+
+      * Students are exposed to numerous scope to help them develop their journalistic skills.
+
+      * ABBS- the best college for BA in mass communication gives you an opportunity to do internships with the finest media companies.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details

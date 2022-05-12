@@ -11,14 +11,54 @@ sections:
   - type: text_section
     section_id: overview
     section_title: Overview
-    section_text: The M. Com Program was started in the year 2014 with the objective
-      of introducing innovative and modern curriculum and imparting Holistic
-      Education. The M. Com course is a two year – four semester program
-      affiliated to Bangalore University. This course offers a blend of
-      theoretical and practical exposure to the students through Seminars,
-      Conferences, Guest Lectures, Workshops, Industrial Visits, Training and
-      Development programs. The Department has qualified and experienced
-      professors with high backend knowledge of Commerce, Accounts and Banking.
+    section_text: >-
+      **ABBS- M.COM COLLEGE IN BANGALORE**
+
+
+      At ABBS Master’s in commerce (M.com) is offered for graduates who want to pursue a master's program in commerce. This program provides professional education and training in various aspects of the commerce stream in order to make students well-equipped with a deeper understanding of the concept and skills that are demanded in a professional by organizations. Students are made adept in commerce, accounts and banking so that they can get a job in their respective fields easily.
+
+
+      Our M.COM college in Bangalore is inclined to keep the department updated to face the challenges and meet the demand of the dynamic nature of the course both in regard to curriculum and faculty. In order to deliver students with top-notch education, ABBS put all its efforts into rendering all needs of the students.
+
+
+      The M.om college in Bangalore fees is quite affordable for students coming from all spheres of life. The faculty here are doctorates and have years of experience in teaching the subject and are experts in the respective field and profession that offers students a deeper understanding of the industry.
+  - type: text_section
+    section_id: ""
+    section_title: Objective at ABBS-M Com college in Bangalore
+    section_text: >-
+      * The purpose of the course is to render professional education and
+      training in numerous concepts of commerce and its industry. The candidates
+      are imparted with analytical skills and knowledge to fulfil the demands of
+      organizations at both national and international levels. 
+
+      * This course aims to give students the next level of technical knowledge of the different concepts of commerce including accounts, commerce and banking.
+
+      * At ABBS- M.com course college in Bangalore offers well-facilitated training programmes, that offer students a comprehensive understanding of techniques and professional learning on cutting edge matters of commerce. 
+
+      * The course delivers a mixed education associating experimental subjects and understanding by delivering unique dimensions to the commerce topics.
+  - type: text_section
+    section_id: ""
+    section_title: Career prospect after studying at M.Com college in Bangalore
+    section_text: Master of commerce focuses on commerce, management and economics
+      related subjects. The curriculum is usually concentrated on one subject
+      area such as accounting, economics, finance or marketing. With an M. Com
+      degree, students can apply for jobs in all industries in corporate finance
+      or can apply in Banks, investment banks, equity research and advisors
+      companies, mutual funds, stockbroking firms, etc. It will help in pursuing
+      a profession in finance to prospects such as CFA, ICWA, etc.
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS - M.Com college in Bangalore
+    section_text: >-
+      * **Academic Excellence**
+
+        We strive to render excellence in learning through various creative, experimental and coordinative leadership programmes. The students are kept motivated and focused on their careers by adding moral and social values to the educational process. 
+      * **Character Building** 
+
+        Formulating value-focused viewpoints in students, building an environment for students to achieve a proper learning system embedded with truthfulness, fairness, collaboration, friendship, empathy for others, faith in God and spreading the love that includes people from all spheres of life irrespective of the religion, caste and nationality. 
+      * **Social Responsibility** 
+
+        Here at ABBS-M.COM college in Bangalore, the students are encouraged to maintain their position in the society they live in and become competent and responsible citizens by developing awareness of persisting social situations and thereby preparing them to dedicate themselves to the cause of righteousness.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details

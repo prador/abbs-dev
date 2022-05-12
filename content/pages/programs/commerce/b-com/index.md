@@ -13,14 +13,98 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      The Bachelor’s in commerce is a programme for commerce aspirants. This
-      department was established in the year 2010 at ABBS to allow and
-      strengthen the students to acquire mandatory knowledge, skills and
-      abilities required for analysing the business’s reality and coming up with
-      excellent business strategies.
+      **ABBS- Top B com college in Bangalore**
+
+
+      The Bachelor’s in commerce is a programme for commerce aspirants. This department was established in the year 2010 at ABBS to allow and strengthen the students to acquire mandatory knowledge, skills and abilities required for analysing the business’s reality and coming up with excellent business strategies.
 
 
       Our B com college in Bangalore aims to make students well-equipped with conceptual and practical knowledge of commerce and the business world. The students here are made ready to face challenges when they are hired by organizations and prove themselves deserving professionals. The course is structured in a way to help the students develop their entrepreneurial mindset and skills.
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS over other B Com colleges in Bangalore
+    section_text: >-
+      * Here at ABBS the b.com course offers a meticulous understanding of
+      business affairs and the economic parameters.
+
+      * The commerce aspirants get an opportunity to become adept at evaluating numerous systems, policy guidelines and methods required to manage an ever-changing organization’s environment. 
+
+      * The students are made competent in understanding the financial system, the country’s constituents, the foundation on which business operates, inter-linkages and government compliance guidelines along with a meticulous understanding of commerce and business management.
+  - type: text_section
+    section_id: ""
+    section_title: Objectives of the program at ABBS - top B Com college in Bangalore
+    section_text: >-
+      The B.Com. programme at ABBS-best b.com. college in Bangalore is designed
+      with a special focus on making students adept and well-equipped to serve
+      in the field of commerce. The objectives of the programme are:
+
+
+      * To impart to students the understanding and expertise of the business world and its strategies. We endeavour to make each student competent with the practical skills and problem-solving approach concerned with business matters.
+
+      * To train students and make them capable of developing their technical skills so that big organizations are always ready to hire them for a good position. The course is designed to allow students to upskill and reskill their learning ability even in the future.
+  - type: text_section
+    section_id: ""
+    section_title: Course outline at ABBS-B Com college in Bangalore
+    section_text: >-
+      B.Com. The course is affiliated with Bangalore University. The course of
+      study for a B.Com. degree extends over a period of three years divided
+      into 6 (Six) semesters. The curriculum for B.Com. is focused on: 
+
+
+      * AECC: Ability Enhancement Compulsory Course, Discipline Specific Core (Course)
+
+      * SEC-SB/VB: Skill Enhancement Course-Skill Based/Value-Based
+
+      * OEC: Open Elective Course 
+
+      * DSE: Discipline Specific Elective 
+
+      * SEE: Semester End Examination 
+
+      * CIE: Continuous Internal Evaluation
+
+      * L+T+P : Lecture+Tutorial+Practical(s)
+  - type: text_section
+    section_id: ""
+    section_title: Career prospect after studying at Top B Com college in Bangalore
+    section_text: Students shall pursue professional courses like CA, ICWA, CS, CMA
+      etc. One can opt for a Master of Commerce (M Com) or Master of Business
+      Administration (MBA). They can pursue M Com and Research programs to
+      enhance their knowledge in the research domain and for teaching jobs. The
+      course, MBA will be apt for young entrepreneurs, job seekers etc. They
+      have ample choices of jobs in the field of Accounting and Auditing, Tax
+      Advisory Services, Financial Services, Commercial Banking, International
+      Banking, Insurance Services, Telecommunication Services and BPOs and
+      Manufacturing Services.
+  - type: text_section
+    section_id: ""
+    section_title: Skills Development at ABBS - Best B Com college in Bangalore
+    section_text: >-
+      The commerce aspirants at ABBS become adept in the following aptitudes
+      once they pass out from here: 
+
+
+      * Excellent Disciplinary Knowledge 
+
+      * Real-time Critical Thinking 
+
+      * Superb Communication Skills 
+
+      * Cooperation/TeamWork 
+
+      * Research Related Skills 
+
+      * Moral and Ethical Awareness 
+
+      * Lifelong Learning 
+
+      * Information and Digital Expertise 
+
+      * Multicultural Competence 
+
+      * Reflective Thinking 
+
+      * Scientific Reasoning
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
