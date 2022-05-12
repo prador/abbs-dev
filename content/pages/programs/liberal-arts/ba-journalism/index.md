@@ -60,6 +60,20 @@ sections:
       * Critical thinking and adaptability is no more fear for the students.
 
       * We offer practical training to enhance research and data analysis, and visual and graphic communication.
+  - type: text_section
+    section_id: ""
+    section_title: Course outline at BA Mass Communication college
+    section_text: BA Journalism course focuses specifically on the news and the
+      media industry. The subjects are selected, updated, and presented to suit
+      the graduates in this profession. Subjects such as Communicative English,
+      Functional English, Basics of Mass media like the Television, Newspaper,
+      Journalistic writing, certain elements of written English, Basics of
+      computers are some of the topics that are taught.
+  - type: text_section
+    section_id: ""
+    section_title: Eligibility for admission at BA Mass Communication college
+    section_text: 10+2 or PUC or an equivalent degree from a recognized board and a
+      minimum aggregate of 40% in 10th and 12th.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -200,17 +214,4 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/ba-journalism.pdf
-  - type: text_section
-    section_id: ""
-    section_title: Course outline at BA Mass Communication college
-    section_text: >-
-      **BA Journalism course focuses specifically on the news and the media
-      industry. The subjects are selected, updated, and presented to suit the
-      graduates in this profession. Subjects such as Communicative English,
-      Functional English, Basics of Mass media like the Television, Newspaper,
-      Journalistic writing, certain elements of written English, Basics of
-      computers are some of the topics that are taught.**
-
-
-      <!--EndFragment-->
 ---
