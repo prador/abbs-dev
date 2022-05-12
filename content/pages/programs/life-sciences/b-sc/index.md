@@ -15,13 +15,102 @@ sections:
   - type: text_section
     section_id: overview
     section_title: Overview
-    section_text: Bachelor’s in science with Biotechnology, as a specialization,
-      involves an in-depth study of bio-molecular reactions for the development
-      of a variety of technologies and outcomes that contribute to improving
-      people’s lives and being as a whole. The BSc Biotechnology course, at
-      ABBS, deals with advanced topics in biological processes meant for
-      industrial and genetic manipulation of microorganisms for the production
-      of antidotes, antibiotics, etc. which can be used as medication.
+    section_text: >-
+      B.Sc. Biotechnology/ Genetics/Microbiology/Biochemistry
+
+
+      **BSC BIOTECHNOLOGY IN BANGALORE**
+
+
+      > **Protection of natural life is the subject you will study here and protection of your interest is the subject that matters most in ABBS-Best BSC Biotechnology College in Bangalore**
+
+
+      The BSc biotechnology course at ABBS has gained importance and reputation over years for superiority in its education and research, constantly being the top recommendation for BSc biotechnology college Bangalore. This unit of study is small enough to unite everyone together but at the same time is extensive enough to deliver excellent skills.
+  - type: text_section
+    section_id: ""
+    section_title: What is Biotechnology?
+    section_text: >-
+      Before you get enrolled at the BSc Biotechnology college in Bangalore it
+      is important to understand the concept of Biotechnology. This is a program
+      based on biological technology that talks about harnessing cellular and
+      biomolecular methods to build technologies and products that aid and
+      enhance our lives and the health of our planet. In the coming future
+      Biotechnology will become an integral part of human and plant lives on
+      earth which will increase the demand for experts in biotechnology
+      extensively. 
+
+
+      The major topics of biotechnology are Immunology, Cell Biology, Industrial Biotechnology, Molecular Biology, and Bioinformatics, and these are in the high in-demand topics. Since the inception of the department of BSc genetics in Bangalore, there has been immense demand for the course and professionals in the field. Many alumni of ABBS are doing great in their respective jobs in India and globally as well.
+  - type: text_section
+    section_id: ""
+    section_title: Course outline at  top BSC Biotechnology in Bangalore
+    section_text: >-
+      The curriculum at ABBS, BSc genetics college in Bangalore is
+      interdisciplinary in nature, providing students with a strong basis to
+      understand principles for diverse biological phenomena, and allowing them
+      to be creative and competitive researchers in life sciences. The
+      curriculum is designed to prepare students for advances in life sciences
+      and technologies in the 21st century.
+
+
+      The curriculum for BSc biotechnology in Bangalore is focused on
+
+
+      * DSC: Disciple Specific core (Course) 
+
+      * DSE: Disciple Elective 
+
+      * OE: Open Elective 
+
+      * AECC: Ability Enhancement Compulsory Courses
+
+      * SEC: Skill Enhancement Courses 
+
+      * SEE: Semester End Examination
+
+      *  CIE: Continuous Internal Evaluation, L+T+P: Lecture + Tutorial + Practical(s)
+  - type: text_section
+    section_id: ""
+    section_title: Career prospect after studying at BSC Microbiology Colleges in Bangalore
+    section_text: |-
+      * Pharma 
+      * Genetic Engineering 
+      * Applied Microbiology 
+      * Bioinformatics & Bioengineering 
+      * Bioprocess Research 
+      * Agricultural Biotechnology 
+      * Molecular Biology 
+      * Research Analyst 
+      * Research Associate 
+      * Junior Scientist 
+      * Food & Agricultural Scientist 
+      * Biomedical Engineer 
+      * Microbiologist 
+      * Soil & Plant Scientist 
+      * Agricultural Engineer
+  - type: text_section
+    section_id: ""
+    section_title: Eligibility for admission to BSC Genetics college in Bangalore
+    section_text: 10+2 or PUC equivalent degree from a recognized education board
+      and a minimum aggregate of 40% in 10th and 12th.
+  - type: text_section
+    section_id: ""
+    section_title: Why ABBS is a top BSC Biotechnology college in Bangalore?
+    section_text: >-
+      **Focused learning environment**
+
+
+      * Our educational pattern is focused to allow students to unleash their full potential and interest in biotechnology and providing learning opportunities that synergize the process to develop strong and adept professionals. 
+
+      * The faculty here try hard to enhance the research aptitude of the students.
+
+      * At ABBS, the best BSC Biotechnology college in Bangalore, students are well-equipped to face big challenges and play their part in the building of healthy lives and the environment in the nation.
+
+
+      **Tailored learning Experience**
+
+
+      At ABBS, BSc Biotechnology college in Bangalore, we allow each student to come up with intriguing questions, opinions on how a process is done, how things can improve, research their questions and get opinions from their peers and understand the concept clearly. A biotechnology aspirant gets the right opportunity to see the different aspects of topics and find connections between topics. This way students of ABBS think intellectually and understand things deeper.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
