@@ -33,7 +33,7 @@ sections:
       * The students are made competent in understanding the financial system, the country’s constituents, the foundation on which business operates, inter-linkages and government compliance guidelines along with a meticulous understanding of commerce and business management.
   - type: text_section
     section_id: ""
-    section_title: ""
+    section_title: Objectives of the program at ABBS - top B Com college in Bangalore
     section_text: >-
       ## **OBJECTIVES OF THE PROGRAM AT ABBS-TOP B COM COLLEGE IN BANGALORE**
 
