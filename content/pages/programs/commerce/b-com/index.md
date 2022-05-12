@@ -44,6 +44,33 @@ sections:
       * To impart to students the understanding and expertise of the business world and its strategies. We endeavour to make each student competent with the practical skills and problem-solving approach concerned with business matters.
 
       * To train students and make them capable of developing their technical skills so that big organizations are always ready to hire them for a good position. The course is designed to allow students to upskill and reskill their learning ability even in the future.
+  - type: text_section
+    section_id: ""
+    section_title: Course outline at ABBS-B Com college in Bangalore
+    section_text: >-
+      B.Com. The course is affiliated with Bangalore University. The course of
+      study for a B.Com. degree extends over a period of three years divided
+      into 6 (Six) semesters. The curriculum for B.Com. is focused on: 
+
+
+      * AECC: Ability Enhancement Compulsory Course, Discipline Specific Core (Course)
+
+      * SEC-SB/VB: Skill Enhancement Course-Skill Based/Value-Based
+
+      * OEC: Open Elective Course 
+
+      * DSE: Discipline Specific Elective 
+
+      * SEE: Semester End Examination 
+
+      * CIE: Continuous Internal Evaluation
+
+      * L+T+P : Lecture+Tutorial+Practical(s) 
+
+
+
+
+      <!--EndFragment-->
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
