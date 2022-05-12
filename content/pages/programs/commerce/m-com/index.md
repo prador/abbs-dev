@@ -22,6 +22,30 @@ sections:
 
 
       The M.om college in Bangalore fees is quite affordable for students coming from all spheres of life. The faculty here are doctorates and have years of experience in teaching the subject and are experts in the respective field and profession that offers students a deeper understanding of the industry.
+  - type: text_section
+    section_id: ""
+    section_title: Objective at ABBS-M Com college in Bangalore
+    section_text: >-
+      * The purpose of the course is to render professional education and
+      training in numerous concepts of commerce and its industry. The candidates
+      are imparted with analytical skills and knowledge to fulfil the demands of
+      organizations at both national and international levels. 
+
+      * This course aims to give students the next level of technical knowledge of the different concepts of commerce including accounts, commerce and banking.
+
+      * At ABBS- M.com course college in Bangalore offers well-facilitated training programmes, that offer students a comprehensive understanding of techniques and professional learning on cutting edge matters of commerce. 
+
+      * The course delivers a mixed education associating experimental subjects and understanding by delivering unique dimensions to the commerce topics.
+  - type: text_section
+    section_id: ""
+    section_title: Career prospect after studying at M.Com college in Bangalore
+    section_text: Master of commerce focuses on commerce, management and economics
+      related subjects. The curriculum is usually concentrated on one subject
+      area such as accounting, economics, finance or marketing. With an M. Com
+      degree, students can apply for jobs in all industries in corporate finance
+      or can apply in Banks, investment banks, equity research and advisors
+      companies, mutual funds, stockbroking firms, etc. It will help in pursuing
+      a profession in finance to prospects such as CFA, ICWA, etc.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
