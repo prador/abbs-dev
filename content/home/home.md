@@ -226,9 +226,6 @@ header_scripts: >-
 
   <meta name="facebook-domain-verification" content="htimxyajz3p173zwfwymj1au47xy9d" />
 
-
-
-
   <script type="application/ld+json">
 
   {
