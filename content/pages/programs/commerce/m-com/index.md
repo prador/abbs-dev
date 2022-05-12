@@ -11,14 +11,17 @@ sections:
   - type: text_section
     section_id: overview
     section_title: Overview
-    section_text: The M. Com Program was started in the year 2014 with the objective
-      of introducing innovative and modern curriculum and imparting Holistic
-      Education. The M. Com course is a two year – four semester program
-      affiliated to Bangalore University. This course offers a blend of
-      theoretical and practical exposure to the students through Seminars,
-      Conferences, Guest Lectures, Workshops, Industrial Visits, Training and
-      Development programs. The Department has qualified and experienced
-      professors with high backend knowledge of Commerce, Accounts and Banking.
+    section_text: >-
+      **ABBS- M.COM COLLEGE IN BANGALORE**
+
+
+      At ABBS Master’s in commerce (M.com) is offered for graduates who want to pursue a master's program in commerce. This program provides professional education and training in various aspects of the commerce stream in order to make students well-equipped with a deeper understanding of the concept and skills that are demanded in a professional by organizations. Students are made adept in commerce, accounts and banking so that they can get a job in their respective fields easily.
+
+
+      Our M.COM college in Bangalore is inclined to keep the department updated to face the challenges and meet the demand of the dynamic nature of the course both in regard to curriculum and faculty. In order to deliver students with top-notch education, ABBS put all its efforts into rendering all needs of the students.
+
+
+      The M.om college in Bangalore fees is quite affordable for students coming from all spheres of life. The faculty here are doctorates and have years of experience in teaching the subject and are experts in the respective field and profession that offers students a deeper understanding of the industry.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
