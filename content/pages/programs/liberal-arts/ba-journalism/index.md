@@ -74,6 +74,39 @@ sections:
     section_title: Eligibility for admission at BA Mass Communication college
     section_text: 10+2 or PUC or an equivalent degree from a recognized board and a
       minimum aggregate of 40% in 10th and 12th.
+  - type: text_section
+    section_id: ""
+    section_title: Career opportunities after Studying at BA Journalism college in Bangalore
+    section_text: |-
+      * Reporter 
+      * Correspondent 
+      * Sub-Editor 
+      * Video-Editor 
+      * Social Media Writer 
+      * Content Writer 
+      * Feature Writer 
+      * Photojournalist 
+      * Video journalist 
+      * Copywriters 
+      * Visualizers 
+      * Media Planner 
+      * Media Executive 
+      * Creative Director 
+      * Event Planner
+  - type: text_section
+    section_id: ""
+    section_title: Why pursue Journalism at ABBS - BA Journalism college?
+    section_text: >-
+      * Our faculty aims to support each student to become a multi-tasker and
+      capable of thinking critically on matters from different perspectives. 
+
+      * The communication skills of students are developed and their whole personality is groomed. 
+
+      * The education system at ABBS is a result of a profound academic research based on rigorous pedagogy, and an emphasis on foundational knowledge. 
+
+      * Students are exposed to numerous scope to help them develop their journalistic skills.
+
+      * ABBS- the best college for BA in mass communication gives you an opportunity to do internships with the finest media companies.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
