@@ -16,16 +16,62 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      Aviation is by far, one of the fastest-growing industries in India and
-      across the world. BBA Aviation specifically teaches students the art of
-      managing this particular industry. ABBS is ranked as one of the best
-      B-schools in Bangalore. 
+      ***Come and get the wings needed to fly towards your dream job***
 
 
-      BBA in Aviation is an undergraduate program that specifically focuses on the basics of business communication, operations, logistics, economics, and security, especially in the aviation area. The course deals with the study of airports, flight businesses, airline management, and other aspects of aviation management. Aviation Management is a multi-disciplinary course involving management, air travel, airport management, safety, logistics and retail areas. 
+      **BBA AVIATION COURSE AT ABBS**
 
 
-      BBA-Aviation Management Course offered by our institution is under the purview of Bangalore University. Our highly qualified faculty members, eminent guest lecturers, professors, successful entrepreneurs are well-versed in Business Administration and Aviation Management. The institution has a full-fledged placement support system, and we arrange for campus selection by reputed companies.
+      For the past few years, there has been a craze among youths to pursue their career in aviation management, which has given rise to extensive competition in this field. Only the ‘best’ get a chance to build a successful career in the aviation industry and here at ABBS, the BBA aviation college in Bangalore we build that ‘best’.
+  - type: text_section
+    section_id: ""
+    section_title: Who we are?
+    section_text: >-
+      ABBS offers a Bachelor of Business Administration **BBA Aviation
+      Management** in Bangalore. We are the leading educational institution for
+      aviation management, business management, aviation safety and security
+      studies. 
+
+
+      Here aviation aspirants get an opportunity to obtain a bachelor’s degree in aviation which is a blend of top-notch educational standards and aviation management. Students here gain knowledge and skill in the most recent aviation industry development and innovation. 
+
+
+      Our purpose is to deliver a vibrant and effective aviation learning experience that is accomplished with the help of our exceptional faculty, multi-national student body and the purpose-built campus. At ABBS every step we take is for students' growth, knowledge and individual development.
+  - type: text_section
+    section_id: ""
+    section_title: Career prospects after completing BBA Aviation Management
+    section_text: >-
+      * Aviation Managers 
+
+      * Resource Managers 
+
+      * Fleet Managers 
+
+      * Financial Accounting 
+
+      * Airport Operations 
+
+      * Passenger Forecasting 
+
+      * Travel & Tourism 
+
+      * Airport Infrastructure Support Systems Management 
+
+      * Flight Operations 
+
+      * Airport Allied Services 
+
+      * Cargo / Freight Movement 
+
+      * Academics / Teaching Assignments 
+
+      * Airport Planning 
+
+      * Communication 
+
+      * Marketing
+
+      * Administrative knowledge in Sales & Advertising Companies or Educational Institutes
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -148,4 +194,16 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-02-05-bba-aviation-management.pdf
+  - type: text_section
+    section_id: ""
+    section_title: ""
+    section_text: ""
+  - type: text_section
+    section_id: ""
+    section_title: ""
+    section_text: ""
+  - type: text_section
+    section_id: ""
+    section_title: ""
+    section_text: ""
 ---
