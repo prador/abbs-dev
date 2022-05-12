@@ -20,7 +20,7 @@ sections:
       excellent business strategies.
 
 
-      qOur B com college in Bangalore aims to make students well-equipped with conceptual and practical knowledge of commerce and the business world. The students here are made ready to face challenges when they are hired by organizations and prove themselves deserving professionals. The course is structured in a way to help the students develop their entrepreneurial mindset and skills.
+      Our B com college in Bangalore aims to make students well-equipped with conceptual and practical knowledge of commerce and the business world. The students here are made ready to face challenges when they are hired by organizations and prove themselves deserving professionals. The course is structured in a way to help the students develop their entrepreneurial mindset and skills.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -126,4 +126,14 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS over other B Com colleges in Bangalore
+    section_text: >-
+      * Here at ABBS the b.com course offers a meticulous understanding of
+      business affairs and the economic parameters.
+
+      * The commerce aspirants get an opportunity to become adept at evaluating numerous systems, policy guidelines and methods required to manage an ever-changing organization’s environment. 
+
+      * The students are made competent in understanding the financial system, the country’s constituents, the foundation on which business operates, inter-linkages and government compliance guidelines along with a meticulous understanding of commerce and business management.
 ---
