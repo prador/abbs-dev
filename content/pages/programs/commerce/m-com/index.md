@@ -46,6 +46,19 @@ sections:
       or can apply in Banks, investment banks, equity research and advisors
       companies, mutual funds, stockbroking firms, etc. It will help in pursuing
       a profession in finance to prospects such as CFA, ICWA, etc.
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS - M.Com college in Bangalore
+    section_text: >-
+      * **Academic Excellence**
+
+        We strive to render excellence in learning through various creative, experimental and coordinative leadership programmes. The students are kept motivated and focused on their careers by adding moral and social values to the educational process. 
+      * **Character Building** 
+
+        Formulating value-focused viewpoints in students, building an environment for students to achieve a proper learning system embedded with truthfulness, fairness, collaboration, friendship, empathy for others, faith in God and spreading the love that includes people from all spheres of life irrespective of the religion, caste and nationality. 
+      * **Social Responsibility** 
+
+        Here at ABBS-M.COM college in Bangalore, the students are encouraged to maintain their position in the society they live in and become competent and responsible citizens by developing awareness of persisting social situations and thereby preparing them to dedicate themselves to the cause of righteousness.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
