@@ -72,6 +72,44 @@ sections:
       * Marketing
 
       * Administrative knowledge in Sales & Advertising Companies or Educational Institutes
+  - type: text_section
+    section_id: ""
+    section_title: "Eligibility criteria for admission to BBA Aviation college "
+    section_text: 10+2 or PUC equivalent degree from a recognized education board
+      and a minimum aggregate of 40% in 10th and 12th.
+  - type: text_section
+    section_id: ""
+    section_title: "Objectives of BBA Aviation Course "
+    section_text: >-
+      * To develop ethical managers with inter-disciplinary knowledge. ○ To
+      develop entrepreneurs in Civil Aviation related organizations. ○ To
+      prepare students to take the responsibility for the financial, marketing
+      and human resource functionings of a company. 
+
+      * To develop aviation global leaders. 
+
+      * To develop business analysts for companies, capital markets and commodity markets. 
+
+      * To prepare students to take up higher education to become business scientists, researchers, consultants and teachers, with core competencies. 
+
+      * To develop the students for competitive examinations of UPSC, KPSC, BSRB, Airline Selection, etc.
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS for BBA in Airport Management
+    section_text: >-
+      Unlike other BBA in airport management colleges, the students at ABBS are
+      filled with mandatory skills required to fast-track and boost their
+      aviation careers. Here students are made adept in cutting-edge aviation
+      theory, provided with practical learning, and coached by tutors who have
+      years of experience in aviation. This BBA Airline and airport management
+      program offers the learners a well-rounded and hands-on exposure to the
+      industry. 
+
+
+      It is our mission to provide aviation aspirants with outstanding academic and practical training programmes that can make them creative, analytical, good communicators and filled with influential thinking skills. 
+
+
+      We value and support students to enhance their academic and applied research skills that are necessary for building a career at an international level. ABBS is a BBA aviation college that has a unique specialization in aviation offered by a few universities around the globe. The graduates from our college are capable of meeting the demands of this fastest-growing aviation industry.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -194,16 +232,4 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-02-05-bba-aviation-management.pdf
-  - type: text_section
-    section_id: ""
-    section_title: ""
-    section_text: ""
-  - type: text_section
-    section_id: ""
-    section_title: ""
-    section_text: ""
-  - type: text_section
-    section_id: ""
-    section_title: ""
-    section_text: ""
 ---
