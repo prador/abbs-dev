@@ -31,6 +31,19 @@ sections:
       * The commerce aspirants get an opportunity to become adept at evaluating numerous systems, policy guidelines and methods required to manage an ever-changing organization’s environment. 
 
       * The students are made competent in understanding the financial system, the country’s constituents, the foundation on which business operates, inter-linkages and government compliance guidelines along with a meticulous understanding of commerce and business management.
+  - type: text_section
+    section_id: ""
+    section_title: ""
+    section_text: >-
+      **OBJECTIVES OF THE PROGRAM AT ABBS-TOP B COM COLLEGE IN BANGALORE**
+
+
+      The B.Com. programme at ABBS-best b.com. college in Bangalore is designed with a special focus on making students adept and well-equipped to serve in the field of commerce. The objectives of the programme are:
+
+
+      * To impart to students the understanding and expertise of the business world and its strategies. We endeavour to make each student competent with the practical skills and problem-solving approach concerned with business matters.
+
+      * To train students and make them capable of developing their technical skills so that big organizations are always ready to hire them for a good position. The course is designed to allow students to upskill and reskill their learning ability even in the future.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -136,17 +149,4 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf
-  - type: text_section
-    section_id: ""
-    section_title: ""
-    section_text: >-
-      **OBJECTIVES OF THE PROGRAM AT ABBS-TOP B COM COLLEGE IN BANGALORE**
-
-
-      The B.Com. programme at ABBS-best b.com. college in Bangalore is designed with a special focus on making students adept and well-equipped to serve in the field of commerce. The objectives of the programme are:
-
-
-      * To impart to students the understanding and expertise of the business world and its strategies. We endeavour to make each student competent with the practical skills and problem-solving approach concerned with business matters.
-
-      * To train students and make them capable of developing their technical skills so that big organizations are always ready to hire them for a good position. The course is designed to allow students to upskill and reskill their learning ability even in the future.
 ---
