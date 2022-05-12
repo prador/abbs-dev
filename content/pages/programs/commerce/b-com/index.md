@@ -35,10 +35,9 @@ sections:
     section_id: ""
     section_title: Objectives of the program at ABBS - top B Com college in Bangalore
     section_text: >-
-      ## **OBJECTIVES OF THE PROGRAM AT ABBS-TOP B COM COLLEGE IN BANGALORE**
-
-
-      The B.Com. programme at ABBS-best b.com. college in Bangalore is designed with a special focus on making students adept and well-equipped to serve in the field of commerce. The objectives of the programme are:
+      The B.Com. programme at ABBS-best b.com. college in Bangalore is designed
+      with a special focus on making students adept and well-equipped to serve
+      in the field of commerce. The objectives of the programme are:
 
 
       * To impart to students the understanding and expertise of the business world and its strategies. We endeavour to make each student competent with the practical skills and problem-solving approach concerned with business matters.
@@ -65,12 +64,7 @@ sections:
 
       * CIE: Continuous Internal Evaluation
 
-      * L+T+P : Lecture+Tutorial+Practical(s) 
-
-
-
-
-      <!--EndFragment-->
+      * L+T+P : Lecture+Tutorial+Practical(s)
   - type: text_section
     section_id: ""
     section_title: Career prospect after studying at Top B Com college in Bangalore
