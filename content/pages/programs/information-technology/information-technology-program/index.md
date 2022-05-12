@@ -18,7 +18,7 @@ sections:
           programming, software engineering, computer architecture, data
           structures and database management.
         program_link_label: Find Out More
-        program_link_loc: /programs/information-technology/bca
+        program_link_loc: /programs/information-technology/bca-colleges-in-bangalore
   - type: anchor_section
     links: []
 ---

@@ -15,7 +15,7 @@ sections:
           graduates are in great demand amongst pharma, healthcare, and chemical
           industries.
         program_link_label: Find Out More
-        program_link_loc: /programs/life-sciences/b-sc
+        program_link_loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
     section_logo: static/img/00-02-02-programs-lide-sciences-solid.svg
   - type: anchor_section
     links: []

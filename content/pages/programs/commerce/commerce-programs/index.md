@@ -17,7 +17,7 @@ sections:
           students, the minimum percentage of marks required shall be less by
           5%.
         program_link_label: Find Out More
-        program_link_loc: /programs/commerce/m-com
+        program_link_loc: /programs/commerce/m-com-colleges-in-bangalore
       - program_title: B. Com
         program_content: A candidate who has passed the B.com or B.B.M Degree
           examination of this university or any other university recognized as
@@ -28,7 +28,7 @@ sections:
           students, the minimum percentage of marks required shall be less by
           5%.
         program_link_label: Find Out More
-        program_link_loc: /programs/commerce/b-com
+        program_link_loc: /programs/commerce/b-com-colleges-in-bangalore
       - program_title: B. Com Supply Chain & Logistics
         program_content: >-
           ABBS has four academic divisions, made up of individual departments,

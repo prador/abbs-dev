@@ -13,27 +13,27 @@ program_accordion:
     program: Business
     links:
       - name: MBA
-        loc: /programs/business/mba
+        loc: /programs/business/best-mba-colleges-in-bangalore
       - name: BBA
-        loc: /programs/business/bba
+        loc: /programs/business/bba-colleges-in-bangalore
       - name: BBA Aviation Management
-        loc: /programs/business/bba-aviation-management
+        loc: /programs/business/bba-aviation-colleges-in-bangalore
   - icon: static/img/00-02-02-programs-lide-sciences-solid.svg
     bg_image: static/img/00-02-02-programs-lide-sciences.jpg
     bg_color: "#cbe9e6"
     program: Life Sciences
     links:
       - name: B. Sc. Biotechnology
-        loc: /programs/life-sciences/b-sc
+        loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
   - icon: static/img/00-02-03-programs-commerce-solid.svg
     bg_image: static/img/00-02-03-programs-commerce.jpg
     bg_color: "#fbedd3"
     program: Commerce
     links:
       - name: M. Com
-        loc: /programs/commerce/m-com
+        loc: /programs/commerce/m-com-colleges-in-bangalore
       - name: B. Com
-        loc: /programs/commerce/b-com
+        loc: /programs/commerce/b-com-colleges-in-bangalore
       - name: B. Com Supply Chain & Logistics
         loc: /programs/commerce/b-com-supply-chain-management
   - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
@@ -42,18 +42,18 @@ program_accordion:
     program: Liberal Arts
     links:
       - name: BA Psychology
-        loc: /programs/liberal-arts/ba-psychology
+        loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
       - name: BA Journalism
-        loc: /programs/liberal-arts/ba-journalism
+        loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
       - name: BA Economics
-        loc: /programs/liberal-arts/ba-economics
+        loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
   - icon: static/img/00-02-05-programs-information-technology-solid.svg
     bg_image: static/img/00-02-05-programs-information-technology.jpg
     bg_color: "#fbcbc2"
     program: Information Technology
     links:
       - name: BCA
-        loc: /programs/information-technology/bca
+        loc: /programs/information-technology/bca-colleges-in-bangalore
 title: Home
 seo_title: Top B Schools in Bangalore | Bangalore Business School
 seo_description: ABBS is Ranked among the top business school in Bangalore which
@@ -65,7 +65,7 @@ sections:
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
-        slide_button_link: /programs/business/mba
+        slide_button_link: /programs/business/best-mba-colleges-in-bangalore
         slide_image: static/img/9141-70700.jpg
         slide_image_mobile: static/img/9141-70700-1080-×-1530-px-.jpg
       - slide_title: ""
@@ -90,7 +90,7 @@ sections:
         program: Business
         links:
           - name: MBA
-            loc: /programs/business/mba
+            loc: /programs/business/best-mba-colleges-in-bangalore
           - name: BBA
             loc: /programs/business/bba
           - name: BBA Aviation Management
@@ -101,16 +101,16 @@ sections:
         program: Life Sciences
         links:
           - name: B. Sc. Biotechnology
-            loc: /programs/life-sciences/b-sc
+            loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
       - icon: static/img/00-02-03-programs-commerce-solid.svg
         bg_image: static/img/00-02-03-programs-commerce.jpg
         bg_color: "#fbedd3"
         program: Commerce
         links:
           - name: M. Com
-            loc: /programs/commerce/m-com
+            loc: /programs/commerce/m-com-colleges-in-bangalore
           - name: B. Com
-            loc: /programs/commerce/b-com
+            loc: /programs/commerce/b-com-colleges-in-bangalore
           - name: B. Com Supply Chain & Logistics
             loc: /programs/commerce/b-com-supply-chain-management
       - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
@@ -119,18 +119,18 @@ sections:
         program: Liberal Arts
         links:
           - name: BA Psychology
-            loc: /programs/liberal-arts/ba-psychology
+            loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
           - name: BA Journalism
-            loc: /programs/liberal-arts/ba-journalism
+            loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
           - name: BA Economics
-            loc: /programs/liberal-arts/ba-economics
+            loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
       - icon: static/img/00-02-05-programs-information-technology-solid.svg
         bg_image: static/img/00-02-05-programs-information-technology.jpg
         bg_color: "#fbcbc2"
         program: Information Technology
         links:
           - name: BCA
-            loc: /programs/information-technology/bca
+            loc: /programs/information-technology/bca-colleges-in-bangalore
   - type: news_events_section
     show_news_events: true
   - type: rec_acc_section

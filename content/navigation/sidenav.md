@@ -267,15 +267,15 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: MBA
-        menu_nav_link: /programs/business/mba
+        menu_nav_link: /programs/business/best-mba-colleges-in-bangalore
         submenu_link: null
         show: true
       - menu_nav_label: BBA
-        menu_nav_link: /programs/business/bba
+        menu_nav_link: /programs/business/bba-colleges-in-bangalore
         submenu_link: null
         show: true
       - menu_nav_label: BBA Aviation Management
-        menu_nav_link: /programs/business/bba-aviation-management
+        menu_nav_link: /programs/business/bba-aviation-colleges-in-bangalore
         submenu_link: null
         show: true
     parent_menu_id: programs
@@ -287,7 +287,7 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: B. Sc. Biotechnology
-        menu_nav_link: /programs/life-sciences/b-sc
+        menu_nav_link: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
         submenu_link: null
         show: true
     parent_menu_id: programs
@@ -299,11 +299,11 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: M. Com
-        menu_nav_link: /programs/commerce/m-com
+        menu_nav_link: /programs/commerce/m-com-colleges-in-bangalore
         submenu_link: null
         show: true
       - menu_nav_label: B. Com
-        menu_nav_link: /programs/commerce/b-com
+        menu_nav_link: /programs/commerce/b-com-colleges-in-bangalore
         submenu_link: null
         show: true
       - menu_nav_label: B. Com Supply Chain & Logistics
@@ -319,15 +319,15 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: BA Psychology
-        menu_nav_link: /programs/liberal-arts/ba-psychology
+        menu_nav_link: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
         submenu_link: null
         show: true
       - menu_nav_label: BA Journalism
-        menu_nav_link: /programs/liberal-arts/ba-journalism
+        menu_nav_link: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
         submenu_link: null
         show: true
       - menu_nav_label: BA Economics
-        menu_nav_link: /programs/liberal-arts/ba-economics
+        menu_nav_link: /programs/liberal-arts/ba-economics-colleges-in-bangalore
         submenu_link: null
         show: true
     parent_menu_id: programs
@@ -339,7 +339,7 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: BCA
-        menu_nav_link: /programs/information-technology/bca
+        menu_nav_link: /programs/information-technology/bca-colleges-in-bangalore
         submenu_link: null
         show: true
     parent_menu_id: programs

@@ -23,10 +23,10 @@ const group1 = [
 ];
 
 const group2 = [
-	{"course":"MBA","link":"/programs/business/mba"},
+	{"course":"MBA","link":"/programs/business/best-mba-colleges-in-bangalore"},
 ];
 const group3 = [
-	{"course":"MBA","link":"/programs/business/mba"},
+	{"course":"MBA","link":"/programs/business/best-mba-colleges-in-bangalore"},
 	{"course":"M.Com","link":"/programs/commerce/m-com"}
 ];
 
@@ -60,7 +60,7 @@ React.useEffect(() => {
     if (type == group1) {
 		setSelectedProg("/programs/business/bba");
 	} else if (type == group2 || type == group3) {
-		setSelectedProg("/programs/business/mba");
+		setSelectedProg("/programs/business/best-mba-colleges-in-bangalore");
 	} else {
 		setSelectedProg("#");
 	}

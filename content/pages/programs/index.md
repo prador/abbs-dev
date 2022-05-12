@@ -39,7 +39,7 @@ sections:
 
           **PEO5**: To impart professional ethics and commitment to social responsibilities enabling them to become global corporate citizens.
         program_link_label: Find Out More
-        program_link_loc: /programs/business/mba
+        program_link_loc: /programs/business/best-mba-colleges-in-bangalore
       - program_title: BBA
         program_content: The BBA program at ABBS is a sought-after program amongst the
           likes of students across the country. The program, affiliated to
@@ -48,7 +48,7 @@ sections:
           development and experiential learning that is needed in the corporate
           world.
         program_link_label: Find Out More
-        program_link_loc: /programs/business/bba
+        program_link_loc: /programs/business/bba-colleges-in-bangalore
       - program_title: BBA Aviation Management
         program_content: >-
           ABBS has four academic divisions, made up of individual departments,
@@ -58,7 +58,7 @@ sections:
 
           On this page you’ll find essential information about each department and the courses they offer, to help you to narrow your focus to a particular course.
         program_link_label: Find Out More
-        program_link_loc: /programs/business/bba-aviation-management
+        program_link_loc: /programs/business/bba-aviation-colleges-in-bangalore
   - type: program_section
     section_id: life-sciences
     section_title: Life Sciences
@@ -72,7 +72,7 @@ sections:
           graduates are in great demand amongst pharma, healthcare, and chemical
           industries.
         program_link_label: Find Out More
-        program_link_loc: /programs/life-sciences/b-sc
+        program_link_loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
     section_logo: static/img/00-02-02-programs-lide-sciences-solid.svg
   - type: program_section
     section_id: commerce
@@ -88,7 +88,7 @@ sections:
           students, the minimum percentage of marks required shall be less by
           5%.
         program_link_label: Find Out More
-        program_link_loc: ""
+        program_link_loc: /programs/commerce/m-com-colleges-in-bangalore
       - program_title: B. Com
         program_content: A candidate who has passed the B.com or B.B.M Degree
           examination of this university or any other university recognized as
@@ -99,7 +99,7 @@ sections:
           students, the minimum percentage of marks required shall be less by
           5%.
         program_link_label: Find Out More
-        program_link_loc: ""
+        program_link_loc: /programs/commerce/b-com-colleges-in-bangalore
       - program_title: B. Com Supply Chain & Logistics
         program_content: >-
           ABBS has four academic divisions, made up of individual departments,
@@ -124,7 +124,7 @@ sections:
 
           The B.A Political Science Course is a Credit Based Semester Scheme, spread over six semesters for BA. The syllabus has been updated. Many new and innovative papers are being offered in keeping with the changing times and circumstances, as well as the larger societal needs.
         program_link_label: Find Out More
-        program_link_loc: /programs/liberal-arts/ba-psychology
+        program_link_loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
       - program_title: BA Journalism
         program_content: Bachelor in Arts with a specialization in Journalism is a
           3-year undergraduate course, 4-years for BA honors under the Bangalore
@@ -134,7 +134,7 @@ sections:
           course that enables you to explore the opportunities in the news and
           media industry.
         program_link_label: Find Out More
-        program_link_loc: /programs/liberal-arts/ba-journalism
+        program_link_loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
       - program_title: BA Economics
         program_content: >-
           BA Economics, Statistics and Marketing is one of the most sought after
@@ -143,7 +143,7 @@ sections:
 
           It opens up to the world of data analysis, probability, statistical inference, sampling theory, time series analysis, and operations research. Depending on the job role, a student can earn anywhere between 3 to 7 LPA after completion of BA Economics
         program_link_label: Find Out More
-        program_link_loc: /programs/liberal-arts/ba-economics
+        program_link_loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
   - type: program_section
     section_id: information-technology
     section_title: Information Technology
@@ -159,7 +159,7 @@ sections:
           programming, software engineering, computer architecture, data
           structures and database management.
         program_link_label: Find Out More
-        program_link_loc: /programs/information-technology/bca
+        program_link_loc: /programs/information-technology/bca-colleges-in-bangalore
   - type: anchor_section
     links:
       - anchor_label: Business

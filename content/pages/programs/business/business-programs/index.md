@@ -25,13 +25,13 @@ sections:
 
           **PEO5**: To impart professional ethics and commitment to social responsibilities enabling them to become global corporate citizens.
         program_link_label: Find Out More
-        program_link_loc: /programs/business/mba
+        program_link_loc: /programs/business/best-mba-colleges-in-bangalore
       - program_title: BBA
         program_content: Pass in two year PUC of Karnataka state (or) 10+2 or Higher
           Secondary equivalent examination of any recognized Board or Council in
           any discipline
         program_link_label: Find Out More
-        program_link_loc: /programs/business/bba
+        program_link_loc: /programs/business/bba-colleges-in-bangalore
       - program_title: BBA Aviation Management
         program_content: >-
           ABBS has four academic divisions, made up of individual departments,

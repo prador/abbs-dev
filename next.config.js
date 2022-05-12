@@ -1212,6 +1212,66 @@ module.exports = {
         destination: '/faculty/profiles',
         permanent: false,
         basePath: false,
+      },
+      {
+        source: '/programs/business/mba', 
+        destination: '/programs/business/best-mba-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/business/bba', 
+        destination: '/programs/business/bba-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/business/bba-aviation-management', 
+        destination: '/programs/business/bba-aviation-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/commerce/m-com', 
+        destination: '/programs/commerce/m-com-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/commerce/b-com', 
+        destination: '/programs/commerce/b-com-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/life-sciences/b-sc', 
+        destination: '/programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/information-technology/bca', 
+        destination: '/programs/information-technology/bca-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/liberal-arts/ba-journalism', 
+        destination: '/programs/liberal-arts/ba-journalism-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/liberal-arts/ba-economics', 
+        destination: '/programs/liberal-arts/ba-economics-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/liberal-arts/ba-psychology', 
+        destination: '/programs/liberal-arts/ba-sociology-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
       }
     ]
   }

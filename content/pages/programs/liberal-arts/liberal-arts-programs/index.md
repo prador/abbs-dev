@@ -17,7 +17,7 @@ sections:
           keeping with the changing times and circumstances, as well as the
           larger societal needs.
         program_link_label: Find Out More
-        program_link_loc: /programs/liberal-arts/ba-psychology
+        program_link_loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
       - program_title: BA Journalism
         program_content: Bachelor in Arts with a specialization in Journalism is a
           3-year undergraduate course, 4-years for BA honors under the Bangalore
@@ -27,7 +27,7 @@ sections:
           course that enables you to explore the opportunities in the news and
           media industry.
         program_link_label: Find Out More
-        program_link_loc: /programs/liberal-arts/ba-journalism
+        program_link_loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
       - program_title: BA Economics
         program_content: >-
           BA Economics, Statistics and Marketing is one of the most sought after
@@ -35,7 +35,7 @@ sections:
 
           It opens up to the world of data analysis, probability, statistical inference, sampling theory, time series analysis, and operations research. Depending on the job role, a student can earn anywhere between 3 to 7 LPA after completion of BA Economics.
         program_link_label: Find Out More
-        program_link_loc: /programs/liberal-arts/ba-economics
+        program_link_loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
   - type: anchor_section
     links: []
 ---
