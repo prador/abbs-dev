@@ -12,15 +12,105 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      Bachelor of Business Administration, BBA, is a professional undergraduate
-      degree that provides valuable knowledge into the basics of Business
-      Management and Administration.
+      **BBA IN BANGALORE**
 
 
-      The BBA course offered, trains students by enabling them with skills and knowledge in Management as a whole. Students are exposed to various learning experiences that provide them with solution-based skills that come to use in the professional & personal sphere.
+      > **WHATEVER IT TAKES TO BUILD AN ACCOMPLISHED PROFESSIONAL……**
 
 
-      ABBS collaborates with highly qualified faculty members, eminent guest lecturers, professors, successful entrepreneurs, who are well-versed in Business Administration and Management. Our BBA program focuses on enabling students with the skills for a management career with a global perspective in terms of their abilities, education, skills, and attitude.
+      **ABBS-BBA college in Bangalore delivers incomparable educational excellence.**
+
+
+      **ABBS-BEST BBA COLLEGE IN BANGALORE**
+
+
+      The Bachelor of Business Administration (BBA) is a 3-year bachelor’s degree program. The aim of this program is to deliver proficient scholars who understand the core business management strategies. 
+
+
+      ABBS ranks top among the list of BBA colleges in Bangalore. The students here get an opportunity to attend interactive classes which allows them to gain knowledge, and skills and develop the personality and attitude that’s most in-demand for managerial and professional career growth provided by organizations, industries and government. 
+
+
+      To be more precise, the BBA course in Bangalore is structured to make sure that candidates become adept to help modern businesses and organizations with their excellent managerial skills.
+  - type: text_section
+    section_id: ""
+    section_title: "BBA Course In Bangalore- Course Highlights "
+    section_text: |-
+      * Marketing Management 
+      * Management Innovation 
+      * Fundamentals of Accountancy 
+      * Digital Fluency 
+      * Business Organization 
+      * Physical Education -Yoga 
+      * Health and Wellness 
+      * Languages-I, II
+  - type: text_section
+    section_id: ""
+    section_title: Eligibility criteria for BBA in Bangalore
+    section_text: 10+2 or PUC equivalent degree from a recognized education board
+      and a minimum aggregate of 40% in 10th and 12th.
+  - type: text_section
+    section_id: ""
+    section_title: "Career prospect after completing BBA course in Bangalore "
+    section_text: |-
+      * Data Analyst 
+      * Finance Manager 
+      * Start-up/Entrepreneur 
+      * Human Resource 
+      * Executive/Manager 
+      * Research and Development Assistant/Manager 
+      * Business Consultant 
+      * Marketing Executive/Manager 
+      * Business Researcher 
+      * Information Systems Executive/Manager
+  - type: text_section
+    section_id: ""
+    section_title: Objectives of the program
+    section_text: |-
+      *  Innovative Teaching-Learning Research 
+      * Holistic Personality Development 
+      * Experiential Learning through Club Activities 
+      * Industry Expert Talks 
+      * Industrial visits 
+      * Value Added Certifications
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS for BBA in Bangalore?
+    section_text: >-
+      Here at ABBS, we try hard to make every student shine in their specific
+      profession. We make students multi-tasker that can lead and synergize the
+      process of business management and implement new strategies. Being the
+      best BBA college in Bangalore it is our intent to enable students to reach
+      their full potential and acknowledge their compatible strengths. When the
+      time comes for a student to graduate from ABBS, it is our aim to wave
+      goodbye to a totally different personality who is more vibrant and valued
+      in the world out there. 
+
+
+      **Exceptional Faculty** 
+
+
+      The exceptional faculty members are zealous to bring students into real-time business situations and provide them with a stimulating educational environment. 
+
+
+      **Most Affordable BBA course fees in Bangalore** 
+
+
+      ABBS offers affordable BBA course fees in Bangalore which provides students with the possibility to grow extensively in a different range of industries and organizations, and build sound and multiple opportunities careers for themselves. The ABBS, the top BBA college in Bangalore takes pride in delivering a professional who is competitive in today’s ever-changing business environment and meets the demands of organizations. 
+
+
+      **Overwhelming Educational Campus** 
+
+
+      The school campus contributes to the competitiveness of the students as well. Pursuing BBA in Bangalore from ABBS is a perfect opportunity to get enrolled at a school that offers a well-equipped campus. From infrastructural to instructional facilities, everything is well maintained and adequate at ABBS.
+
+
+      Here an effective teaching-learning combination among faculty members is appreciated a lot. The future professionals come from ABBS who own the exact set of attributes, skills and intelligence required to rule the business world. 
+
+
+      **Delivering Adept Professionals** 
+
+
+      A sound manager fuels discovery and impacts the business world with strategic skills. The pass out of ABBS does not only inspire intellectuals but also helps shape and define new educational parameters that will enhance lives around the world. The ABBS, the best BBA college in Bangalore, enables students to open the scope for more questions leading to more lines of development. Here at ABBS, we encourage students to engage in intellectual debate, do rigorous research, find evidence for the questions from peers and get opinions from different sources and people.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
