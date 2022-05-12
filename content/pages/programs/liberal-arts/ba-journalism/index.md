@@ -16,15 +16,25 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      Bachelor in Arts with a specialization in Journalism is a 3-year
-      undergraduate course, 4-years for BA honors under the Bangalore University
-      Curriculum. Acharya Bangalore B-School’s BA program provides a jumpstart
-      for aspirants who are heading towards a smart career in the Journalism and
-      Tourism field. BA course is a full-time course that enables you to explore
-      the opportunities in the news and media industry.
+      **ABBS-BA JOURNALISM COLLEGE**
 
 
-      ABBS is one of the best colleges in Bangalore for the BA courses and has highly qualified faculty members, eminent guest lecturers, professors, successful entrepreneurs who are well-versed in the field of media and journalism. Our BA program focuses on enabling students for news and media-oriented careers and a global perspective.
+      > **Fill The Gap That Persists Between Your Struggle And Success…..**
+
+
+      **It's time to get enrolled at ABBS -  Best college for BA in Mass Communication**
+
+
+      Today is an era where mass communication is constantly gaining more significance in our lives. The blend of technology and digital platforms is unleashing more opportunities for journalism professionals diversely. The boom in technology and online multimedia platforms are changing the complete scene of Journalism. From print media to publishing houses to OTT platforms, mass communication is becoming vital everywhere and evolving to reach out to more and more people. The fact that mass media is the fourth pillar of our Indian democracy makes it a more reasonable and relevant field to build a career.
+
+
+      However becoming a part of such a dynamic and the most demanding sector is not going to be easy for you, it is feasible for a confident, fearless and creative person who can make themselves acknowledged by big media houses or attract the attention of the audience. Studying at ABBS-BA journalism college in Bangalore makes you that person.
+
+
+      Are you all set to push your limits? Are you ready to think beyond your capacity? Are you ready to be creative?
+
+
+      If the answer is yes, get enrolled at **ABBS-BA Journalism and mass communication college in Bangalore**
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
