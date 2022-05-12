@@ -35,6 +35,31 @@ sections:
 
 
       If the answer is yes, get enrolled at **ABBS-BA Journalism and mass communication college in Bangalore**
+  - type: text_section
+    section_id: ""
+    section_title: Outcomes of Studying at ABBS - Best college for BA in Mass Communication
+    section_text: >-
+      The following skills are developed in a student upon completion of the
+      journalism course:
+
+
+      * Students develop advanced oral and written presentation skills. 
+
+      * The teamwork and collaboration become easy for an individual.
+
+      * A well-equipped journalist is one who writes and edits efficiently, and that is developed here. 
+
+      * Students are imparted with meticulous journalism and reporting training.
+
+      * Professional understanding of qualitative and quantitative research methods.
+
+      * Students become creative and thus excel in digital and social media platforms.
+
+      * Our BA mass communication college makes students experts in media content creation. 
+
+      * Critical thinking and adaptability is no more fear for the students.
+
+      * We offer practical training to enhance research and data analysis, and visual and graphic communication.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -175,4 +200,17 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/ba-journalism.pdf
+  - type: text_section
+    section_id: ""
+    section_title: Course outline at BA Mass Communication college
+    section_text: >-
+      **BA Journalism course focuses specifically on the news and the media
+      industry. The subjects are selected, updated, and presented to suit the
+      graduates in this profession. Subjects such as Communicative English,
+      Functional English, Basics of Mass media like the Television, Newspaper,
+      Journalistic writing, certain elements of written English, Basics of
+      computers are some of the topics that are taught.**
+
+
+      <!--EndFragment-->
 ---
