@@ -71,6 +71,47 @@ sections:
 
 
       <!--EndFragment-->
+  - type: text_section
+    section_id: ""
+    section_title: Career prospect after studying at Top B Com college in Bangalore
+    section_text: Students shall pursue professional courses like CA, ICWA, CS, CMA
+      etc. One can opt for a Master of Commerce (M Com) or Master of Business
+      Administration (MBA). They can pursue M Com and Research programs to
+      enhance their knowledge in the research domain and for teaching jobs. The
+      course, MBA will be apt for young entrepreneurs, job seekers etc. They
+      have ample choices of jobs in the field of Accounting and Auditing, Tax
+      Advisory Services, Financial Services, Commercial Banking, International
+      Banking, Insurance Services, Telecommunication Services and BPOs and
+      Manufacturing Services.
+  - type: text_section
+    section_id: ""
+    section_title: Skills Development at ABBS - Best B Com college in Bangalore
+    section_text: >-
+      The commerce aspirants at ABBS become adept in the following aptitudes
+      once they pass out from here: 
+
+
+      * Excellent Disciplinary Knowledge 
+
+      * Real-time Critical Thinking 
+
+      * Superb Communication Skills 
+
+      * Cooperation/TeamWork 
+
+      * Research Related Skills 
+
+      * Moral and Ethical Awareness 
+
+      * Lifelong Learning 
+
+      * Information and Digital Expertise 
+
+      * Multicultural Competence 
+
+      * Reflective Thinking 
+
+      * Scientific Reasoning
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
