@@ -131,6 +131,24 @@ sections:
         links:
           - name: BCA
             loc: /programs/information-technology/bca-colleges-in-bangalore
+  - type: text_section
+    section_id: ""
+    section_title: "#Top Business School in Bangalore"
+    section_text: >-
+      > ***From Developing Business Modules To Resolving Business Affairs, You
+      Learn All At ABBS-Business School in Bangalore......***
+
+
+      **ABBS- BANGALORE B SCHOOL**
+
+
+      The reason ABBS pass outs are different from others is the level of their competency which allows them to look at the unforeseen business calamities and develop the solution considering different parameters and looking at the problems from a different perspective. 
+
+
+      Here at Bangalore business school, you don’t just become a degree holder, you become a leader of business management as well. The courses here are designed as a blend of creativity, teamwork and social interaction which makes you stand out from everyone in the crowd. 
+
+
+      Picking the Best b school in Bangalore can be a strenuous task and picking the right program can be a more difficult task. At ABBS you get an opportunity to interact with the education counsellor who guides you through the options available and which is best for you thus making the admission procedure at business school in Bangalore easier for you.
   - type: news_events_section
     show_news_events: true
   - type: rec_acc_section
