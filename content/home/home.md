@@ -189,6 +189,14 @@ sections:
 
 
       From all over the world students come to study at ABBS because of its intellectual challenge and its proven capability to enormously boost student career possibilities. The flexible curriculum attracts students. Different courses options are available with different duration and eligibility criteria. Whichever course you want to opt for and whenever you are ready you can get enrolled at ABBS, the best b school in Bangalore.
+  - type: rec_acc_section
+    section_id: ""
+    section_title: Wo we are?
+    section_text: "Established in 2008, Acharya Bangalore B School (ABBS) has
+      completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles
+      of NBA accreditation (MBA department) and is internationally accredited by
+      IACBE. ABBS represents the Top Business School in Bangalore with its
+      accreditations and rankings. "
   - type: news_events_section
     show_news_events: true
   - type: rec_acc_section
@@ -275,14 +283,6 @@ sections:
           according to the request of the students with good facilities along
           with 24 hours Wi-Fi.
     section_title: ""
-  - type: rec_acc_section
-    section_id: ""
-    section_title: Wo we are?
-    section_text: "Established in 2008, Acharya Bangalore B School (ABBS) has
-      completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles
-      of NBA accreditation (MBA department) and is internationally accredited by
-      IACBE. ABBS represents the Top Business School in Bangalore with its
-      accreditations and rankings. "
 header_scripts: >-
   <meta name="geo.region" content="IN-KA" />
 
