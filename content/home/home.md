@@ -154,6 +154,10 @@ sections:
         logo_subtitle: ""
         logo_link: ""
         logo_image: static/img/00-03-01-accreditions.jpg
+  - type: text_section
+    section_id: main section
+    section_title: TOP BUSINESS SCHOOL IN BANGALORE
+    section_text: ""
   - type: faq_section
     image_position: Content Right
     section_image: static/img/00-04-faqs.jpg
@@ -217,10 +221,6 @@ sections:
           according to the request of the students with good facilities along
           with 24 hours Wi-Fi.
     section_title: ""
-  - type: text_section
-    section_id: main section
-    section_title: TOP BUSINESS SCHOOL IN BANGALORE
-    section_text: ""
 header_scripts: >-
   <meta name="geo.region" content="IN-KA" />
 
