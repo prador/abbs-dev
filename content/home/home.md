@@ -275,6 +275,14 @@ sections:
           according to the request of the students with good facilities along
           with 24 hours Wi-Fi.
     section_title: ""
+  - type: rec_acc_section
+    section_id: ""
+    section_title: Wo we are?
+    section_text: "Established in 2008, Acharya Bangalore B School (ABBS) has
+      completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles
+      of NBA accreditation (MBA department) and is internationally accredited by
+      IACBE. ABBS represents the Top Business School in Bangalore with its
+      accreditations and rankings. "
 header_scripts: >-
   <meta name="geo.region" content="IN-KA" />
 
