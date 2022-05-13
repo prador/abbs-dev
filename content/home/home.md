@@ -132,7 +132,7 @@ sections:
           - name: BCA
             loc: /programs/information-technology/bca-colleges-in-bangalore
   - type: rec_acc_section
-    section_id: ""
+    section_id: main section
     section_title: "#TOP BUSINESS SCHOOL IN BANGALORE"
     section_text: >-
       The reason ABBS pass outs are different from others is the level of their
