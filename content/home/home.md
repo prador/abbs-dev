@@ -217,6 +217,10 @@ sections:
           according to the request of the students with good facilities along
           with 24 hours Wi-Fi.
     section_title: ""
+  - type: text_section
+    section_id: main section
+    section_title: TOP BUSINESS SCHOOL IN BANGALORE
+    section_text: ""
 header_scripts: >-
   <meta name="geo.region" content="IN-KA" />
 
