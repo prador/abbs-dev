@@ -1,8 +1,10 @@
 import Head from 'next/head'
 import React from 'react'
+import { useRouter } from "next/router";
 
 const PageHeader = ({attributes,children}) => {
-
+  const router = useRouter();
+  const canonical = `https://abbs.edu.in` + router.asPath;
   return (
   <>
     <Head>
@@ -34,6 +36,7 @@ const PageHeader = ({attributes,children}) => {
           
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
           {attributes.header_scripts ? <head dangerouslySetInnerHTML={{ __html: attributes.header_scripts }} /> : "" }
+          <link rel="canonical" href={canonical} />
     </Head>
   </>
 )}

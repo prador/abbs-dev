@@ -12,7 +12,7 @@ const Footer = () => (
         </div>
         <div className="whatsapp">
           <h4 className="footer-heading">WhatsApp us now:</h4>
-          <a target="_blank" href={"https://wa.me/"+attributes.contact_info.whatsapp_number.replace("+","").replace(" ","")} className="footer-link">{attributes.contact_info.whatsapp_number}</a>
+          <a target="_blank" href={"https://api.whatsapp.com/send/?phone=919148977317&text&app_absent=0"} className="footer-link">{attributes.contact_info.whatsapp_number}</a>
         </div>
         <div className="email">
           <h4 className="footer-heading">Send us a message</h4>

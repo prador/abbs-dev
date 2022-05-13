@@ -5,7 +5,7 @@ import {attributes} from '../content/general/index.md';
 
 export default function Document() {
   return (
-    <Html>
+    <Html lang="en">
       <Head />
       {attributes.header_scripts ? <head dangerouslySetInnerHTML={{ __html: attributes.header_scripts }} /> : "" }
       <body>
