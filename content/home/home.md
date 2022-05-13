@@ -169,6 +169,15 @@ sections:
       department) and is internationally accredited by IACBE. ABBS represents the Top
 
       Business School in Bangalore with its accreditations and rankings.
+  - type: rec_acc_section
+    section_id: ""
+    section_title: Why choose ABBS - Business School in Bangalore
+    section_text: >
+      We Build Remarkable Leadership Qualities 
+
+      This is a B-school that follows a high-impact, low-ego perspective. We don’t just teach students to walk towards success but also make them a leader who is admired and approached by others. This is a legacy of ABBS that’s inherited by every student. You become a master in how to influence others with your personality, you develop skills which strengthen productivity and inspire loyalty. 
+
+      Our Bangalore b school teaches students to gain success for an organization that’s driven by a team, not just a single person. We acknowledge the fact that it takes many hands and minds to carry a load and beat the competition, so our graduates are motivated to work with collaboration. You are taught to become a leader who brings expert minds and hands under one roof.
   - type: text_section
     section_id: ""
     section_title: Why choose ABBS -  Business School in Bangalore
