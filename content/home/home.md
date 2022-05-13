@@ -161,6 +161,34 @@ sections:
       department) and is internationally accredited by IACBE. ABBS represents the Top
 
       Business School in Bangalore with its accreditations and rankings.
+  - type: text_section
+    section_id: ""
+    section_title: Why choose ABBS -  Business School in Bangalore
+    section_text: >-
+      **We Build Remarkable Leadership Qualities**
+
+
+      This is a B-school that follows a high-impact, low-ego perspective. We don’t just teach students to walk towards success but also make them a leader who is admired and approached by others. This is a legacy of ABBS that’s inherited by every student. You become a master in how to influence others with your personality, you develop skills which strengthen productivity and inspire loyalty. 
+
+
+      Our Bangalore b school teaches students to gain success for an organization that’s driven by a team, not just a single person. We acknowledge the fact that it takes many hands and minds to carry a load and beat the competition, so our graduates are motivated to work with collaboration. You are taught to become a leader who brings expert minds and hands under one roof.
+  - type: text_section
+    section_id: ""
+    section_title: Our commitment to you
+    section_text: >-
+      The ABBS family promotes diversity, equality and inclusion all across the
+      world. We allow candidates to experience an educational environment that
+      allows them to bring their full potential and thrive in their careers. You
+      become Future-Ready at ABBS, the best b school in Bangalore 
+
+
+      Our programs are designed for working professionals not just for degree holders. Unlike other business schools in Bangalore, it is our endeavour to deliver a top-notch education to students in every way possible irrespective of the circumstances. The online lectures are made available if offline lectures are not possible, regular audits of faculty members take place to check if there has been any flaw in their teaching pattern, and it is checked if every student is provided with adequate study material or not. 
+
+
+      The study technique at this top b school in Bangalore is adapted in a way that allows candidates to flourish in their careers and also find a balance between life and career. 
+
+
+      From all over the world students come to study at ABBS because of its intellectual challenge and its proven capability to enormously boost student career possibilities. The flexible curriculum attracts students. Different courses options are available with different duration and eligibility criteria. Whichever course you want to opt for and whenever you are ready you can get enrolled at ABBS, the best b school in Bangalore.
   - type: news_events_section
     show_news_events: true
   - type: rec_acc_section
