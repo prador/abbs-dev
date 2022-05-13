@@ -189,6 +189,20 @@ sections:
 
 
       Our Bangalore b school teaches students to gain success for an organization that’s driven by a team, not just a single person. We acknowledge the fact that it takes many hands and minds to carry a load and beat the competition, so our graduates are motivated to work with collaboration. You are taught to become a leader who brings expert minds and hands under one roof.
+  - type: rec_acc_section
+    section_id: ""
+    section_title: Our commitment to you
+    section_text: >-
+      The ABBS family promotes diversity, equality and inclusion all across the
+      world. We allow candidates to experience an educational environment that
+      allows them to bring their full potential and thrive in their careers. You
+      become Future-Ready at ABBS, the best b school in Bangalore 
+
+      Our programs are designed for working professionals not just for degree holders. Unlike other business schools in Bangalore, it is our endeavour to deliver a top-notch education to students in every way possible irrespective of the circumstances. The online lectures are made available if offline lectures are not possible, regular audits of faculty members take place to check if there has been any flaw in their teaching pattern, and it is checked if every student is provided with adequate study material or not. 
+
+      The study technique at this top b school in Bangalore is adapted in a way that allows candidates to flourish in their careers and also find a balance between life and career. 
+
+      From all over the world students come to study at ABBS because of its intellectual challenge and its proven capability to enormously boost student career possibilities. The flexible curriculum attracts students. Different courses options are available with different duration and eligibility criteria. Whichever course you want to opt for and whenever you are ready you can get enrolled at ABBS, the best b school in Bangalore.
   - type: text_section
     section_id: ""
     section_title: Our commitment to you
