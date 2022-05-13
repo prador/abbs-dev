@@ -149,6 +149,18 @@ sections:
 
 
       Picking the Best b school in Bangalore can be a strenuous task and picking the right program can be a more difficult task. At ABBS you get an opportunity to interact with the education counsellor who guides you through the options available and which is best for you thus making the admission procedure at business school in Bangalore easier for you.
+  - type: text_section
+    section_id: ""
+    section_title: Who we are ?
+    section_text: >-
+      Established in 2008, Acharya Bangalore B School (ABBS) has completed two
+      cycles
+
+      of NAAC Accreditation with an ‘A’ grade, two cycles of NBA accreditation (MBA
+
+      department) and is internationally accredited by IACBE. ABBS represents the Top
+
+      Business School in Bangalore with its accreditations and rankings.
   - type: news_events_section
     show_news_events: true
   - type: rec_acc_section
