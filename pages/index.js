@@ -1,5 +1,4 @@
 import Layout from '../components/layout'
-import Script from 'next/script'
 import Head from 'next/head'
 import Link from 'next/link'
 import HomeSlideshow from '../components/home/HomeSlideshow'
