@@ -1,4 +1,5 @@
 import Layout from '../components/layout'
+import Script from 'next/script'
 import Head from 'next/head'
 import Link from 'next/link'
 import HomeSlideshow from '../components/home/HomeSlideshow'
@@ -10,6 +11,7 @@ import AccordionSection from '../components/content/AccordionSection'
 import { attributes, html } from '../content/home/home.md'
 import HomeHeader from '../components/home/HomeHeader'
 import HomeNewsEvents from '../components/home/HomeNewsEvents'
+
 const importNews = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
   const markdownFiles = require
