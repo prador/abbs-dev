@@ -546,7 +546,11 @@
     margin-left: 0%;
     padding: 30px 20px;
   }
-
+  .home-content {
+    width: 90%;
+    margin-left: 0%;
+    padding: 30px 20px;
+  }
   .sidebar-column {
     position: static;
     width: 100%;
