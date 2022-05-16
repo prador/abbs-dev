@@ -501,10 +501,15 @@ display:none;
   }
   #scroll-top-anchor {
     bottom: 30px;
-    right: 20px;
+    left: 20px;
+    right: auto;
   }
   .floating-whatsapp {
+    left: auto;
     bottom: 110px;
     right: 30px;
+  }
+  #__eechatIcon {
+    right:20px;
   }
 }
