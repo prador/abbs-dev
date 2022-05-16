@@ -1,4 +1,5 @@
 import React, { useEffect,useState } from "react";
+import { useRouter } from "next/router";
 import Link from 'next/link'
 import Accordion from './content/Accordion'
 import AnchorLinks from './content/AnchorLinks'
@@ -43,7 +44,7 @@ const HomePageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsLis
       case "program_accordion":
         return <ProgramAccordion programs={section.programs}/> 
       case "text_section":
-        return <TextSection att={section}/>
+        return <TextSection att={section} isHome={true}/>
       case "logo_section":
         return <LogoSection att={section} /> 
       case "gallery_section":

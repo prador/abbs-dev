@@ -1,7 +1,7 @@
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
 
-const TextSection = ({att}) => {
+const TextSection = ({att,isHome}) => {
   let imgPos;
 
   const getPos = () => {
@@ -12,7 +12,7 @@ const TextSection = ({att}) => {
   }
   return (
   <>
-    <section className="text-section-wrapper">
+    <section className={`text-section-wrapper ${isHome ? "home-content" : null}`}>
      <>
      <div key={att.id} className="text-section-block">
         {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }

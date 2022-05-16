@@ -191,12 +191,13 @@
   color: #333;
 }
 
-
-
 .content {
   padding: 20px 5rem 50px;
 }
-
+.home-content {
+  padding: 20px 5rem 50px;
+  margin-bottom: 0;
+}
 .post-title-section {
   position: absolute;
   left: 0%;

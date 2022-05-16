@@ -165,13 +165,27 @@ section {
   height:30px;
   opacity: 0;
   border-radius:5px;
-  bottom: 50px;
+  bottom: 125px;
   right:50px;
   display:flex;
   justify-content: center;
   align-items: center;
   background:var(--color-black);
   color:var(--color-white);
+  transition: all 0.5s ease-in-out;
+}
+.floating-whatsapp {
+  position: fixed;
+  width:50px;
+  height:50px;
+  border-radius:5px;
+  bottom: 75px;
+  left:225px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  box-shadow: 5px 10px 15px #0000008f;
   transition: all 0.5s ease-in-out;
 }
 #scroll-top-anchor.active {
