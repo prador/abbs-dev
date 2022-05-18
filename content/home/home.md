@@ -56,6 +56,8 @@ program_accordion:
         loc: /programs/information-technology/bca-colleges-in-bangalore
 title: Home
 seo_title: Top B Schools in Bangalore | Bangalore Business School
+seo_description: ABBS is Ranked among the top business school in Bangalore which
+  provides the best MBA /PGDM and Management Programmes.
 date: 2019-03-17T19:31:20.591Z
 sections:
   - type: slider
@@ -86,6 +88,55 @@ sections:
         slide_image_mobile: static/img/hr-conclave-mobile.jpg
   - type: program_select
     show_program_select: true
+  - type: program_accordion
+    programs:
+      - icon: static/img/00-02-01-programs-management-solid.svg
+        bg_image: static/img/00-02-01-programs-management.jpg
+        bg_color: "#cfd1e8"
+        program: Business
+        links:
+          - name: MBA
+            loc: /programs/business/best-mba-colleges-in-bangalore
+          - name: BBA
+            loc: /programs/business/bba
+          - name: BBA Aviation Management
+            loc: /programs/business/bba-aviation-management
+      - icon: static/img/00-02-02-programs-lide-sciences-solid.svg
+        bg_image: static/img/00-02-02-programs-lide-sciences.jpg
+        bg_color: "#cbe9e6"
+        program: Life Sciences
+        links:
+          - name: B. Sc. Biotechnology
+            loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
+      - icon: static/img/00-02-03-programs-commerce-solid.svg
+        bg_image: static/img/00-02-03-programs-commerce.jpg
+        bg_color: "#fbedd3"
+        program: Commerce
+        links:
+          - name: M. Com
+            loc: /programs/commerce/m-com-colleges-in-bangalore
+          - name: B. Com
+            loc: /programs/commerce/b-com-colleges-in-bangalore
+          - name: B. Com Supply Chain & Logistics
+            loc: /programs/commerce/b-com-supply-chain-management
+      - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
+        bg_image: static/img/00-02-04-programs-liberal-arts.jpg
+        bg_color: "#ece0d4"
+        program: Liberal Arts
+        links:
+          - name: BA Psychology
+            loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
+          - name: BA Journalism
+            loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
+          - name: BA Economics
+            loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
+      - icon: static/img/00-02-05-programs-information-technology-solid.svg
+        bg_image: static/img/00-02-05-programs-information-technology.jpg
+        bg_color: "#fbcbc2"
+        program: Information Technology
+        links:
+          - name: BCA
+            loc: /programs/information-technology/bca-colleges-in-bangalore
   - type: text_section
     section_id: main section
     section_title: "TOP BUSINESS SCHOOL IN BANGALORE "
@@ -139,55 +190,6 @@ sections:
 
 
       From all over the world students come to study at ABBS because of its intellectual challenge and its proven capability to enormously boost student career possibilities. The flexible curriculum attracts students. Different courses options are available with different duration and eligibility criteria. Whichever course you want to opt for and whenever you are ready you can get enrolled at ABBS, the best b school in Bangalore.
-  - type: program_accordion
-    programs:
-      - icon: static/img/00-02-01-programs-management-solid.svg
-        bg_image: static/img/00-02-01-programs-management.jpg
-        bg_color: "#cfd1e8"
-        program: Business
-        links:
-          - name: MBA
-            loc: /programs/business/best-mba-colleges-in-bangalore
-          - name: BBA
-            loc: /programs/business/bba
-          - name: BBA Aviation Management
-            loc: /programs/business/bba-aviation-management
-      - icon: static/img/00-02-02-programs-lide-sciences-solid.svg
-        bg_image: static/img/00-02-02-programs-lide-sciences.jpg
-        bg_color: "#cbe9e6"
-        program: Life Sciences
-        links:
-          - name: B. Sc. Biotechnology
-            loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
-      - icon: static/img/00-02-03-programs-commerce-solid.svg
-        bg_image: static/img/00-02-03-programs-commerce.jpg
-        bg_color: "#fbedd3"
-        program: Commerce
-        links:
-          - name: M. Com
-            loc: /programs/commerce/m-com-colleges-in-bangalore
-          - name: B. Com
-            loc: /programs/commerce/b-com-colleges-in-bangalore
-          - name: B. Com Supply Chain & Logistics
-            loc: /programs/commerce/b-com-supply-chain-management
-      - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
-        bg_image: static/img/00-02-04-programs-liberal-arts.jpg
-        bg_color: "#ece0d4"
-        program: Liberal Arts
-        links:
-          - name: BA Psychology
-            loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
-          - name: BA Journalism
-            loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
-          - name: BA Economics
-            loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
-      - icon: static/img/00-02-05-programs-information-technology-solid.svg
-        bg_image: static/img/00-02-05-programs-information-technology.jpg
-        bg_color: "#fbcbc2"
-        program: Information Technology
-        links:
-          - name: BCA
-            loc: /programs/information-technology/bca-colleges-in-bangalore
   - type: news_events_section
     show_news_events: true
   - type: rec_acc_section
@@ -369,8 +371,6 @@ rec_acc_section:
       logo_subtitle: ""
       logo_link: ""
       logo_image: static/img/00-03-01-accreditions.jpg
-seo_description: ABBS is Ranked among the top business school in Bangalore which
-  provides the best MBA /PGDM and Management Programmes.
 faq_section:
   accordions:
     - accordion_title: "What B-school means? "
