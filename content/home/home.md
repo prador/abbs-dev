@@ -317,31 +317,98 @@ sections:
 
 
           The Best b school in Bangalore like ABBS claim an average placement salary of about INR 25 to 35 lakh per annum! The maximum salary offered for domestic placements can be as high as INR 60 lakh per annum!! The minimum salary offered to students of the Bangalore b schools is about INR 12-15 lakh.
-      - accordion_title: Which are the core areas covered during the first semester of
-          MBA courses?
-        accordion_content: General Management, Organization Behavior, Economics, Basics
-          of Communication, Accounting, Statistics (The analytics tool ‘R’ is
-          taught), Business Environment, Marketing Management, Operations
-          Management, Corporate finance, Human Resource Management.
       - accordion_title: How is ABBS different from the other B-schools in Bangalore?
-        accordion_content: All courses at ABBS are designed with the latest subjects
-          like analytics in various fields, understanding business models,
-          analyzing global risks that cater to the needs of the contemporary
-          business world. The course content is designed by a panel of eminent
-          academicians, industry experts, and practitioners from different parts
-          of India. We often take inputs from foreign academicians also. The
-          only Business school in Bangalore which takes care of sustainability
-          and we are a green campus which uses solar power Students are
-          encouraged into research interventions carried out by eminent scholars
-          Co-curricular and extra-curricular activities are encouraged to ensure
-          holistic development Sports and Gym facilities are available to
-          students.
+        accordion_content: >-
+          Indeed ABBS is different from the other B schools in Bangalore as they
+          build remarkable leadership qualities that cannot be found in students
+          of other school’s students.
+
+
+          This is a B-school that follows a high-impact, low-ego perspective. Here they don’t just teach students to walk towards success but also make them a leader who is admired and approached by others. This is a legacy of ABBS that’s inherited by every student. You become a master in how to influence others with your personality, you develop skills which strengthen productivity and inspire loyalty.
+
+
+          ABBS Business School in Bangalore teaches students to gain success for an organization that’s driven by a team, not just a single person. They acknowledge the fact that it takes many hands and minds to carry a load and beat the competition, so the graduates are motivated to work with collaboration. You are taught to become a leader who brings expert minds and hands under one roof.
+
+
+          The ABBS family promotes diversity, equality and inclusion all across the world. They allow candidates to experience an educational environment that allows them to bring their full potential and thrive in their careers. You become Future-Ready at ABBS, the best b school in Bangalore.
+
+
+          Here the programs are designed for working professionals not just for degree holders. Unlike other business schools in Bangalore, it is their aim to deliver a top-notch education to students in every way possible irrespective of the circumstances. The online lectures are made available if offline lectures are not possible, regular audits of faculty members take place to check if there has been any flaw in their teaching pattern, and it is checked if every student is provided with adequate study material or not.
       - accordion_title: What is the selection process to join B-schools in Bangalore?
-        accordion_content: To join the top b schools in Bangalore. the procedure as
-          follows Written test, Group discussion, and Personal interview. The
-          students have to take one National level test such as CAT, MAT, XAT,
-          or CMAT and the students who are aspiring to join business courses in
-          Bangalore should have a minimum of 50% marks in their Graduation.
+        accordion_content: >-
+          The selection process at Top Business School in Bangalore starts every
+          year in the month of July/August and ends 2-to 3 months from the
+          commencement date. While top institutes like ABBS, IIFT, IIMs, XLRI,
+          NMIMS, and SIBM among others start their selection process in
+          July-August, other B Schools in Bangalore like FMS, MDI, SPJIMR, IMI,
+          IMT start their selection process in September-October and end it in
+          December. If you are preparing to pursue business studies at B school
+          it is important that you are familiar with the admission process and
+          the colleges that are best suited for your needs. Unlike other
+          schools, getting enrolled at a top Business School in Bangalore is not
+          going to be an easy task.
+
+
+          The selection process to join B schools in Bangalore is fixed separately. The primary factors evaluated for selection are the CAT scores, Written Ability Test(WAT)/Group Discussion(GD) and Personal Interview (PI), and Past Academic Performance & Diversity factor.
+
+
+          Students have to take one National level test such as CAT, MAT or XAT and the students who are aspiring to join MBA courses in management colleges in Bangalore should have a minimum of 50% marks in their Graduation.
+
+
+          Generally, Management colleges in Bangalore publish 2 separate call lists, first, it issues profile based calls following which score + profile based calls are issued – the profile based calls are occasionally issued even before CAT results are disclosed.
+
+
+          Few colleges ask for your preference in a specific occupation at the time of applying to their college.
+
+
+          The best way to get into decent Bangalore b schools at your convenience is to make a significant contribution to the research of schools thoroughly or study for the GMAT.
+      - accordion_title: What about hostel accommodation facilities in Bangalore
+          Business School?
+        accordion_content: >-
+          To streamline the education procedure and allow students to grab
+          topics more effectively Bangalore b schools take the initiative to
+          provide students with clean and hygienic hostel facilities especially
+          when it comes to sharing rooms and mess facilities.
+
+
+          The Top Business School in Bangalore like ABBS the hostel accommodation facilities are designed to provide students with welfare and security, maintain a healthy and friendly hostel environment, facilitate good personal connections and relish living with individuals from different backgrounds and religions.
+
+
+          Generally, Hostel Facilities at Bangalore Business School include:
+
+
+          * Exclusive uninterrupted study room for students after college hours
+
+          * Uninterrupted power supply, separate Generator for Students
+
+          * Medical facility available with free medicines provided to a sick student
+
+          * Mineral water (RO service)
+
+          * Mess facilities
+
+          * 24 hrs internet connectivity in the rooms through WI-FI
+
+          * Recreation room,
+
+          * Drinking water treatment plant
+
+          * Support staff services for room cleaning
+
+          * Electrician and Plumber for an immediate solution
+
+          * Tight security arrangements ensure a pleasant stay allowing students to focus on academics.
+
+          * Open Space for TV LED
+
+          * Tata Sky services
+
+          * Indoor Games
+
+          * Commuting Services “To & Fro” from Hostel and College.
+
+
+          The school administration acknowledges the fact that people are leaving the comfort of their homes and coming all the way to their college for the first time to endeavour to provide students with all possible hostel facilities. Living at the hostel is an experience that goes a long way in building confidence in one's own abilities, cooperating with others in spite of differences and being much stronger.
       - accordion_title: "What about hostel accommodation facilities in Bangalore
           Business School? "
         accordion_content: The accommodation facilities depend on the b-school, but
