@@ -218,12 +218,26 @@ sections:
     section_image: static/img/00-04-faqs.jpg
     section_id: faqs
     accordions:
-      - accordion_title: "What B-school means? "
-        accordion_content: Abbreviation of business school (B-school), an educational
-          institution that focuses on teaching business-related courses. While
-          business schools may offer courses ranging from undergraduate degrees
-          to postdoctoral programs, their prime offering is the Master of
-          Business Administration (MBA) program.
+      - accordion_title: What does B school mean?
+        accordion_content: >-
+          Business school or B school can be a stand-alone Bangalore b school or
+          can be affiliated with a university. Same accreditations can be shared
+          as a university and even issue the same internationally recognised
+          Bachelor’s and Master’s degrees, but it differs from a university in a
+          few ways.
+
+
+          B Schools in Bangalore are designed specifically for advanced business education. If you are planning to take admission to B School you should know that schools are more focused on career development rather than providing theoretical knowledge, meaning that there will be less emphasis on the theoretical part and more on practical knowledge and skill development.
+
+
+          Bangalore Business School offers a university-level institution that provides business administration or management degrees. A business school is also called a b-school or biz school, management school, a school of business administration, management science, and school of management. Courses that may be taught at Business School in Bangalore are administration, human resource management, management information systems, public relations, supply chain management, accounting, business analytics, strategy, economics, entrepreneurship, finance, management science, international business, logistics, marketing, sales, operations management, organizational psychology, organizational behavior, research methods and real estate.
+
+
+          * The Best b school in Bangalore affiliated with the university comprises faculties, colleges, or departments within the university, and primarily teaches business courses.
+
+          * In continents like Europe and Asia, some universities teach primarily business courses.
+
+          * There are privately-owned Bangalore b schools as well which are not affiliated with any university.
       - accordion_title: "How many years does it take to get a business degree? "
         accordion_content: "Depending upon your level of dedication, a business
           administration major can take the following time to complete:
