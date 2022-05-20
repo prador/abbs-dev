@@ -238,12 +238,29 @@ sections:
           * In continents like Europe and Asia, some universities teach primarily business courses.
 
           * There are privately-owned Bangalore b schools as well which are not affiliated with any university.
-      - accordion_title: "How many years does it take to get a business degree? "
-        accordion_content: "Depending upon your level of dedication, a business
-          administration major can take the following time to complete:
-          Associate’s degree programs, which provide entry-level opportunity,
-          usually take two years. A bachelor’s degree program takes four years.
-          Master’s degree programs and MBAs generally require one to two years."
+      - accordion_title: What Will I Learn in Business School?
+        accordion_content: >-
+          What individuals will learn in today’s top b schools in Bangalore
+          differs dramatically from what individuals learned in past decades.
+          The syllabus and courses at B School have been modified a lot and the
+          current lessons in MBA programs are surprising and fresh.
+
+
+          Management colleges in Bangalore provide MBA programs that have changed in distinctive ways in the last few years.
+
+
+          At Top Business School in Bangalore, MBA programs are not limited to theoretical knowledge but it is more about imparting practical knowledge and experience as well. A Bangalore b school helps students to learn valuable skills through practical applications that will allow them to set up their own business, get a hike in career development and become more advanced in their current jobs. Students get an opportunity to master in Business administration (MBA) programs by developing the most desirable skills through academic theories and practical assessments.
+
+
+          The courses that are covered at top b schools in Bangalore are:
+
+
+          Principles of Marketing, Entrepreneurship, Basic Accounting, Microeconomics, Macroeconomics, Business Communications, Personal Finance, and Principles of Business Management are some of the examples.\
+
+          Apart from the above mentioned theoretical subjects students get an opportunity to learn outside the actual coursework. The additional skills students gain by studying business management at B Schools in Bangalore are Analytical Thinking, Strategy Management, Time, Work/Life Balance, Data Analytics and Reporting, Decision Making, Networking, Strategy, Teamwork, Communication and People Skills, Ethical Reasoning, Problem Solving, Operation and People Management.
+
+
+          While they’re some of the significant subjects and courses covered at the best b school in Bangalore however they often describe just a fraction of what a student can truly learn from the experience. Throughout the course duration at B school, students learn valuable lessons and skills that are not specifically related to the course or syllabus which helps students to give a wider business management perspective.
       - accordion_title: What is the selection process for B-schools in bangalore?
         accordion_content: Written test, Group discussion, Personal interview the
           students have to take one National level test such as CAT, MAT or XAT
