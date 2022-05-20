@@ -409,13 +409,44 @@ sections:
 
 
           The school administration acknowledges the fact that people are leaving the comfort of their homes and coming all the way to their college for the first time to endeavour to provide students with all possible hostel facilities. Living at the hostel is an experience that goes a long way in building confidence in one's own abilities, cooperating with others in spite of differences and being much stronger.
-      - accordion_title: "What about hostel accommodation facilities in Bangalore
-          Business School? "
-        accordion_content: The accommodation facilities depend on the b-school, but
-          Acharya Bangalore B-School has a separate hostel accommodation for
-          boys and girls, which is of single, 2 sharing, 3 sharing and 4 sharing
-          according to the request of the students with good facilities along
-          with 24 hours Wi-Fi.
+      - accordion_title: Best Management colleges in Bangalore
+        accordion_content: >-
+          **1. ABBS- BANGALORE B SCHOOL**
+
+
+          ABBS is a Bangalore business school, where you don’t just become a degree holder, you become a leader of business management as well. The courses here are designed as a blend of creativity, teamwork and social interaction which makes you stand out from everyone in the crowd.
+
+
+          The management course offered at this business school are :
+
+
+          * MBA
+
+          * BBA
+
+          * BBA Aviation Management
+
+
+
+
+          2. The Indian Institute of Management Bangalore (IIMB) is considered one of the top B-Schools all over Asia and under the IIM Act of 2017, IIMB has been recognised as an
+
+
+          'Institute of National Importance. This institute has a full-time faculty strength of 110 expert staff, about 1200 students studying in various programmes and about 5000 students enrolling in Executive Education. The institute has been ranked 2nd in the NIRF rankings of 2021 in the management category.
+
+
+
+
+          3. Department of Management Studies, Indian Institute of Science, Bangalore also referred to as DoMS IISc a Business School in Bangalore is a constituent department of the Indian Institute of Science Bangalore.
+
+
+          Total 8 faculty members are available at the campus. DoMS IISc meticulously provides two courses i.e. Master of Management and PhD Management.
+
+
+          4. Xavier Institute of Management and Entrepreneurship Bangalore was established in 1991 with the help of the former director of IIM Bangalore, Professor J. Philip. The Best b school in Bangalore is also accredited by the National Board of Accreditation (NBA). The institute intends to be a globally acknowledged business school and produce competent business professionals.
+
+
+          <!--EndFragment-->
     section_title: ""
 header_scripts: >-
   <meta name="geo.region" content="IN-KA" />
