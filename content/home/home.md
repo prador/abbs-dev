@@ -293,14 +293,30 @@ sections:
 
 
           This can be a most organic way to get an understanding of the pros and cons of Bangalore Business School.
-      - accordion_title: Where do B-school students get placed?
-        accordion_content: B-school student are placed across all the sectors like
-          Banking, IT, Logistics, BFSI, Consulting, E-commerce, Education,
-          Finance, Health care, Hospitality, Real Estate, Travel and Tours, etc.
-          Few companies in which the present batch students placed are PWC,
-          Oracle, Asian paints, Bristlecone, Ceasefire, Dart logistics, Geojit,
-          HFFC, ICICI Prudential, IndusInd bank, Maverick turf, Nest way, Ninja
-          cart, etc.
+      - accordion_title: Where do B school students get placed?
+        accordion_content: >-
+          Undoubtedly people consider studying at Bangalore b school because
+          they want to get placed in the most renowned organizations or get a
+          hike to their current career. Top b schools in Bangalore offer an
+          all-around MBA program and provide business development skills to
+          students throughout the course duration that will help them get highly
+          attractive placements where a candidate must possess sharp business
+          acumen and leadership skills to drive future growth.
+
+
+          There are career opportunities available for students of B school in all types of industries from healthcare to finance.
+
+
+          Some of the industries where students are placed most often are Investment banking: Private Equity, Venture capital, and Investment Management.
+
+
+          Management consulting, Marketing, Product management, Project management and Program management, Business Development, Human resource management.
+
+
+          Top Business School in Bangalore has a remarkable track record of getting their students 100% placement with a very good package and job positions at both national and international levels. Especially pass outs of management colleges in Bangalore have been quite a sustainable career in international postings, in fact, the average dollar salaries for these international placements range between USD 60,000 and USD 200,000 per annum.
+
+
+          The Best b school in Bangalore like ABBS claim an average placement salary of about INR 25 to 35 lakh per annum! The maximum salary offered for domestic placements can be as high as INR 60 lakh per annum!! The minimum salary offered to students of the Bangalore b schools is about INR 12-15 lakh.
       - accordion_title: Which are the core areas covered during the first semester of
           MBA courses?
         accordion_content: General Management, Organization Behavior, Economics, Basics
