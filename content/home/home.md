@@ -427,26 +427,16 @@ sections:
           * BBA Aviation Management
 
 
+          **2.** The **Indian Institute of Management Bangalore (IIMB)** is considered one of the top B-Schools all over Asia and under the IIM Act of 2017, IIMB has been recognised as an 'Institute of National Importance. This institute has a full-time faculty strength of 110 expert staff, about 1200 students studying in various programmes and about 5000 students enrolling in Executive Education. The institute has been ranked 2nd in the NIRF rankings of 2021 in the management category.
 
 
-          2. The Indian Institute of Management Bangalore (IIMB) is considered one of the top B-Schools all over Asia and under the IIM Act of 2017, IIMB has been recognised as an
-
-
-          'Institute of National Importance. This institute has a full-time faculty strength of 110 expert staff, about 1200 students studying in various programmes and about 5000 students enrolling in Executive Education. The institute has been ranked 2nd in the NIRF rankings of 2021 in the management category.
-
-
-
-
-          3. Department of Management Studies, Indian Institute of Science, Bangalore also referred to as DoMS IISc a Business School in Bangalore is a constituent department of the Indian Institute of Science Bangalore.
+          **3.** Department of Management Studies, **Indian Institute of Science**, Bangalore also referred to as DoMS IISc a Business School in Bangalore is a constituent department of the Indian Institute of Science Bangalore.
 
 
           Total 8 faculty members are available at the campus. DoMS IISc meticulously provides two courses i.e. Master of Management and PhD Management.
 
 
-          4. Xavier Institute of Management and Entrepreneurship Bangalore was established in 1991 with the help of the former director of IIM Bangalore, Professor J. Philip. The Best b school in Bangalore is also accredited by the National Board of Accreditation (NBA). The institute intends to be a globally acknowledged business school and produce competent business professionals.
-
-
-          <!--EndFragment-->
+          **4. Xavier Institute of Management and Entrepreneurship Bangalore** was established in 1991 with the help of the former director of IIM Bangalore, Professor J. Philip. The Best b school in Bangalore is also accredited by the National Board of Accreditation (NBA). The institute intends to be a globally acknowledged business school and produce competent business professionals.
     section_title: ""
 header_scripts: >-
   <meta name="geo.region" content="IN-KA" />
