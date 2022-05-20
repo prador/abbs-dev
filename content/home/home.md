@@ -261,11 +261,38 @@ sections:
 
 
           While they’re some of the significant subjects and courses covered at the best b school in Bangalore however they often describe just a fraction of what a student can truly learn from the experience. Throughout the course duration at B school, students learn valuable lessons and skills that are not specifically related to the course or syllabus which helps students to give a wider business management perspective.
-      - accordion_title: What is the selection process for B-schools in bangalore?
-        accordion_content: Written test, Group discussion, Personal interview the
-          students have to take one National level test such as CAT, MAT or XAT
-          and the students who are aspiring to join MBA courses in Bangalore
-          should have a minimum of 50% marks in their Graduation.
+      - accordion_title: How Do I Get into Business School?
+        accordion_content: >-
+          Unlike other schools, getting enrolled at a top Business School in
+          Bangalore is not going to be an easy task. The minimum selection
+          criteria are fixed separately. The primary factors evaluated for
+          selection are the CAT scores, Written Ability Test(WAT)/Group
+          Discussion(GD) and Personal Interview (PI), and Past Academic
+          Performance & Diversity factor.
+
+
+          Students have to take one National level test such as CAT, MAT or XAT and the students who are aspiring to join MBA courses in management colleges in Bangalore should have a minimum of 50% marks in their Graduation.
+
+
+          The best way to get into decent Bangalore b schools at your convenience is to make a significant contribution to the research of schools thoroughly or study for the GMAT. A simple approach that a candidate can follow to get into business school is:
+
+
+          **Begin The Process Beforehand :**
+
+
+          It is always the best option to start putting together details of Business Schools in Bangalore and applying strategically. Try to apply to those schools where the faculty has excellent and brightest minds from all over the world.
+
+
+          **Get The GMAT Done First**
+
+
+          The GMAT is one of the highly remarkable elements of your MBA resume. Generally, Bangalore Business School doesn't even consider a candidate if he/she doesn’t meet their initial screening criteria which include GMAT, so make sure you prepare and you have cleared that one.
+
+
+          **Get In Touch With Current Or Alumni Students**
+
+
+          This can be a most organic way to get an understanding of the pros and cons of Bangalore Business School.
       - accordion_title: Where do B-school students get placed?
         accordion_content: B-school student are placed across all the sectors like
           Banking, IT, Logistics, BFSI, Consulting, E-commerce, Education,
