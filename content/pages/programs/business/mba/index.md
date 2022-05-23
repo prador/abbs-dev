@@ -161,12 +161,13 @@ sections:
     section_title: More Information
     accordions:
       - accordion_title: Bring Your Own Device
-        accordion_content: As part of ABBS commitment to innovative learning strategies,
-          the Bring Your Own Device (BYOD) initiative is designed to enhance
-          your learning experience. Through the use of online and mobile
-          technologies in and out of the classroom, you will be able to access
-          course materials, participate in collaborative learning environments
-          and build the technological skills needed in today's workforce.
+        accordion_content:  As part of ABBS's commitment to innovative learning
+          strategies, while pursuing MBA courses in Bangalore, the Bring Your
+          Own Device (BYOD) initiative is designed to enhance your learning
+          experience. Through the use of online and mobile technologies in and
+          out of the classroom, you will be able to access course materials,
+          participate in collaborative learning environments and build the
+          technical skills needed in today's workforce.
   - type: testimonials_section
     section_id: testimonials
     section_title: Testimonials
