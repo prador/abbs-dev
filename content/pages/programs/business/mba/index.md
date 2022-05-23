@@ -102,7 +102,7 @@ sections:
           unparalleled opportunity along the way, with access to the best Global
           Management knowledge, corporate internships and placements from the
           finest companies in the market.
-      - accordion_title: Value Added Programs
+      - accordion_title: "Value-Added Programs at top 10 MBA colleges in Bangalore "
         accordion_content: |-
           *  Toastmasters International 
           *  Industrial visits 
