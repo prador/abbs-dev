@@ -123,14 +123,6 @@ sections:
     section_id: admission-tuition
     section_title: Admission and Tuition
     accordions:
-      - accordion_title: Eligibility
-        accordion_content: >-
-          Graduation with an aggregate of 50% marks from any recognized
-          university in any discipline.
-
-          Should have compulsorily appeared for CAT/XAT/MAT/KMAT/CMAT/GMAT.
-
-          Work experience would be added value.
       - accordion_title: Application Process
         accordion_content: >-
           * Step 1: Complete the online application form:
@@ -154,8 +146,6 @@ sections:
 
 
           *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
-      - accordion_title: "Scholarships: "
-        accordion_content: "[Please read the details here](/admissions/fees-scholarships)"
   - type: accordion_section
     section_id: more-information
     section_title: More Information
