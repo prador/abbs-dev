@@ -147,9 +147,10 @@ sections:
           * Step 6: Candidate registration fee is paid directly to the institution after the confirmation of seat.
       - accordion_title: Application Timeline
         accordion_content: >-
-          The admission process for various programmes commences during January
-          of every year and extends till the last date of admission as per the
-          university regulations or availability of seats, whichever is earlier.
+          The admission process for various programmes at the top 5 MBA colleges
+          in Bangalore commences during January of every year and extends till
+          the last date of admission as per the university regulations or
+          availability of seats, whichever is earlier. 
 
 
           *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
