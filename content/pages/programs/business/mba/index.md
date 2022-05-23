@@ -22,23 +22,23 @@ sections:
       > **RIGHT SPOT TO WORK OUT AND BECOME THE LEADER YOU ALWAYS DREAMT OF……..**
 
 
-      Get Yourself Enrolled At **ABBS,** Listed Among **Top 5 MBA Colleges In Bangalore**
+      Get Yourself Enrolled At **ABBS**, Listed Among **Top 5 MBA Colleges In Bangalore**
 
 
-      Best MBA College In Bangalore
+      **Best MBA College In Bangalore**
 
 
       ABBS offers real-time learning that goes hand in hand with practical experience and peer learning. Our Master’s of Business Administration (MBA) program in Bangalore delivers the leaders of the business world who are competitive in all factors an organization seeks in its manager. 
 
 
-      The students here get a learning experience that’s well organized and synchronised to ensure each student stays focused and positive while building their career. The classes are held for adequate hours which allows students to learn, discuss and work with a team effectively. 
+      The students at good MBA colleges in Bangalore get a learning experience that’s well organized and synchronised to ensure each student stays focused and positive while building their career. The classes are held for adequate hours which allows students to learn, discuss and work with a team effectively. 
 
 
-      The time you take MBA admission in Bangalore at ABBS the countdown to your successful career begins. We rank at top of the list of MBA colleges in Bangalore on google which has become possible with the help of our dedicated faculty members and enthusiastic study structure. It is our aim to enliven, strengthen and refine our student's leadership and management skills while building a multi-tasker for top organizations of the world. Gain access to the best Global Management knowledge, corporate internships and placements in the finest companies of the business world exclusively at ABBS.
+      The time you take MBA admission in Bangalore at ABBS the countdown to your successful career begins. We rank at top of the list of MBA colleges in Bangalore on google which has become possible with the help of our dedicated faculty members and enthusiastic study structure. It is our aim to enliven, strengthen and refine our student's leadership and management skills while building a multi-tasker for top organizations of the world. Gain access to the best Global Management knowledge, corporate internships and placements in the finest companies of the business world exclusively at ABBS one of the best MBA schools in Bangalore.
     buttons: []
   - type: text_section
     section_id: ""
-    section_title: ABBS- MBA courses in Bangalore
+    section_title: ABBS - MBA courses in Bangalore
     section_text: |-
       1. Master’s of Business Administration (MBA) 
       2. Value-Added Programs 
@@ -78,19 +78,19 @@ sections:
       Bangalore we understand that making such a professional requires going
       beyond his/her field of study and acquiring end-to-end ideas about the
       industries, a deep understanding of organizational operations and
-      multi-tasking ability. 
+      multi-tasking ability.
 
 
-      This MBA course in Bangalore elevates the business administration abilities through the blend of full-time and tailored learning experience along with practical knowledge, eventually allowing students to maximize their knowledge and get maximum return on investment. 
+      This MBA course at the best MBA colleges in Bangalore elevates the business administration abilities through the blend of full-time and tailored learning experience along with practical knowledge, eventually allowing students to maximize their knowledge and get maximum return on investment. 
 
 
-      Become adept in the fundamentals of business. Here at ABBS, all the elements of business administration are embedded in our MBA course in Bangalore. Our dedicated faculty teachers make you adept at how to use analytical frameworks and implement evidence-based ideas to unravel tricky situations and make an actual difference in your organization’s growth in real-time. 
+      Become adept in the fundamentals of business. Here at ABBS, all the elements of business administration are embedded in our MBA courses in Bangalore. Our dedicated faculty teachers make you adept at how to use analytical frameworks and implement evidence-based ideas to unravel tricky situations and make an actual difference in your organization’s growth in real-time. 
 
 
-      MBA college in Bangalore with low fees that offer you extensive career opportunities as the skills and knowledge you acquire here stays with you forever. This is an MBA school in Bangalore that helps you not only gain rightful knowledge to crack your interview but also help you to prepare a powerful, supportive and evident portfolio.
+      Good MBA colleges in Bangalore with low fees that offer you extensive career opportunities as the skills and knowledge you acquire here to stay with you forever. This is an MBA school in Bangalore that helps you not only gain rightful knowledge to crack your interview but also help you to prepare a powerful, supportive and evident portfolio. 
 
 
-      *Come and get a track to your success only at ABBS-Top MBA College in Bangalore!!!*
+      ***Come and get a track to your success only at ABBS-Top MBA College in Bangalore!!!***
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
