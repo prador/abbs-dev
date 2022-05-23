@@ -97,26 +97,27 @@ sections:
     accordions:
       - accordion_title: Course Outline
         accordion_content: The Curriculum integrates coursework along with international
-          expertise and pedagogy. The MBA program at ABBS is a transformative
-          journey offering unparalleled opportunity along the way, with access
-          to the best Global Management knowledge, corporate internships and
-          placements from the finest companies in the market.
+          expertise and pedagogy. The MBA program at ABBS, the top-ranked on the
+          list of MBA colleges in Bangalore is a transformative journey offering
+          unparalleled opportunity along the way, with access to the best Global
+          Management knowledge, corporate internships and placements from the
+          finest companies in the market.
       - accordion_title: Value Added Programs
         accordion_content: |-
-          * Toastmasters International
-          * Industrial visits
-          * Live projects and simulations
-          * Business management book reviews
-          * Armageddon
-          * Entrepreneurship development 
-          * Socially relevant projects
+          *  Toastmasters International 
+          *  Industrial visits 
+          *  Live projects and simulations 
+          *  Business management book reviews 
+          *  Armageddon 
+          *  Entrepreneurship development 
+          *  Socially relevant projects
       - accordion_title: Certifications
         accordion_content: |-
-          * Business analytics certification from Virginia Tech
-          * Six Sigma Green Belt Training 
-          * Supply Chain Management Certification
-          * Bombay Stock Exchange Certification on Derivatives 
-          * 21st Century Skills Micro 
+          * Business analytics certification from Virginia Tech 
+          * Six Sigma Green Belt Training 
+          * Supply Chain Management Certification 
+          * Bombay Stock Exchange Certification on Derivatives 
+          * 21st Century Skills Micro 
           * Learning Program
   - type: accordion_section
     section_id: admission-tuition
