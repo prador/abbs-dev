@@ -1,7 +1,7 @@
 ---
 title: Top Opportunities with MBA in Healthcare Management
 date: 2022-05-24T05:43:36.033Z
-thumbnail: https://bmba.in/wp-content/uploads/2021/02/MBA-Healthcare-Management.png
+thumbnail: static/img/mba-healthcare.jpg
 ---
 **Overview of MBA in Healthcare Management**
 
