@@ -4,13 +4,86 @@ date: 2022-02-22T03:21:18.494Z
 thumbnail: static/img/03-05-04-ba-economics-banner.jpg
 sections:
   - type: text_section
-    section_id: overview
-    section_title: Overview
+    section_id: ""
+    section_title: Introduction to BA Economics, Statistics and Marketing
     section_text: >-
-      BA Economics, Statistics and Marketing is one of the most sought after BA
-      programs. 
+      Due to the recent global economic crisis, economics has gained more
+      significance than ever across the world. More and more BA Economics
+      Colleges in Bangalore are establishing and offering specialized courses. 
 
-      It opens up to the world of data analysis, probability, statistical inference, sampling theory, time series analysis, and operations research. Depending on the job role, a student can earn anywhere between 3 to 7 LPA after completion of BA Economics.
+
+      Conclusions related to money, banking, interest rates, taxation and government expenses impact the lives of everyone at the global level. 
+
+
+      Economics strives to comprehend the actions of the different mechanisms in the economy – consumers, producers and the government – and how they align with each other. This course at BA statistics Colleges in Bangalore offers aspiring students the ability to demonstrate complex data in simple terms or laymen's terms to audiences. It helps one to develop outstanding economic statistical, problem-solving and marketing skills and use them for various business motives.
+  - type: text_section
+    section_id: ""
+    section_title: What will you Learn?
+    section_text: >-
+      * BA Economics, Statistics and Marketing are one of the most sought after
+      BA programs. It opens up to the world of data analysis, probability,
+      statistical inference, sampling theory, time series analysis, and
+      operations research. 
+
+      * Students pursuing this course at BA marketing Colleges in Bangalore get familiar with key economics concepts and standards to meticulously comprehend practical problems. 
+
+      * This course allows students to acquire outstanding analytical and problem-solving abilities that are primary factors considered by big organizations. 
+
+      * BA Economics Colleges in Bangalore impart students with an education that is not limited to theoretical knowledge rather it is more about applying skills to solve practical problems.
+  - type: text_section
+    section_id: ""
+    section_title: Why BA Economics, Statistics and Marketing Courses are Best at ABBS?
+    section_text: >-
+      * This course is a unique blend of relentless training in economic thesis
+      and applications with the most recent insights and advanced techniques
+      from current marketing events. 
+
+      * ABBS is one of the top BA statistics Colleges in Bangalore as here the economic study covers major aspects of the market and current trends which enable students to comprehend tools and techniques helpful when dealing with different matters practically. 
+
+      * Also, this BA marketing College in Bangalore utilizes perspectives from sociology management and psychology to keep students ahead of their competition. 
+
+      *  Students will get an opportunity to study in groups and separately as well with the help of our exceptional faculty members who are experienced and motivated to build a bright future. 
+
+      * Our BA statistics College in Bangalore makes sure that each student is observed individually, gets a tailored education and is involved in other co-curricular activities as well because that’s what makes you special.
+
+      * Getting this undergraduate degree at ABBS, one of the best BA Economics Colleges in Bangalore offers students great opportunities in today's highly competitive labour market. Students will have immense opportunities in front of them such as traditional economics jobs and a range of management and marketing jobs where your skillset is desirable.
+  - type: text_section
+    section_id: ""
+    section_title: Eligibility Criteria at ABBS
+    section_text: Candidates applying to ABBS a BA statistics College in Bangalore
+      must have studied mathematics in 10+2 or PUC or an equivalent degree from
+      a recognized board and a minimum aggregate of 40% in 10th and 12th.
+  - type: text_section
+    section_id: ""
+    section_title: "Career Opportunities after Studying at ABBS "
+    section_text: >-
+      The opportunities for students upon completion of their BA Economics,
+      Statistics and Marketing course at ABBS one of the top BA marketing
+      Colleges in Bangalore are abundant in both the analytics field and the
+      public sector area. With the huge requirement for analysts across several
+      industries, students with a background in statistics, marketing and
+      economics are hired in key analysis roles. 
+
+
+      * Data analyst 
+
+      * Economist 
+
+      * Sales analyst 
+
+      * Market analyst 
+
+      * Management consultant 
+
+      * Financial analyst 
+
+      * Investment administrator 
+
+      * Statistician 
+
+      * Risk analyst 
+
+      * Equity analyst
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -152,7 +225,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelor of Arts
-    apply_form: "https://application.abbs.edu.in/bschool/"
+    apply_form: https://application.abbs.edu.in/bschool/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/ba-economics.pdf
