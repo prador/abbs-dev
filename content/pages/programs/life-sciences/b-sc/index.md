@@ -194,23 +194,24 @@ sections:
     accordions:
       - accordion_title: Objectives of the Program
         accordion_content: >-
-          * Provide groundbreaking research in the field of molecular biology
-          and applied bioengineering.
+          * Provide groundbreaking research in the field of BSc genetics in
+          Bangalore which involves molecular biology and
+          applied bioengineering. 
 
-          * Develop methods to gain higher yields in agricultural methods of harvest.
+          * Develop methods to gain higher yields in agricultural methods of harvest. 
 
           * Accelerate interdisciplinary research and educational opportunities that solve problems and improve the quality of life.
       - accordion_title: Bring Your Own Device
-        accordion_content: As part of ABBS commitment to innovative learning strategies,
-          the Bring Your Own Device (BYOD) initiative is designed to enhance
-          your learning experience. Through the use of online and mobile
+        accordion_content: As part of ABBS's commitment to innovative learning
+          strategies, the Bring Your Own Device (BYOD) initiative is designed to
+          enhance your learning experience. Through the use of online and mobile
           technologies in and out of the classroom, you will be able to access
           course materials, participate in collaborative learning environments
-          and build the technological skills needed in today's workforce.
+          and build the technical skills needed in today's workforce.
       - accordion_title: Who should apply
         accordion_content: Aspirants who are interested in biology and have a keen
           aptitude for scientific applications are suitable to take up this
-          course.
+          course at the top BSc biotechnology college in Bangalore.
   - type: testimonials_section
     section_id: testimonials
     section_title: Testimonials
