@@ -124,7 +124,7 @@ sections:
           **MBA, PGDHRM, B. Ed**
 
 
-          Welcome to the department of Aviation Management at Acharya Bangalore B-School, Bengaluru. Aviation management is the ability to manage the workflow related to the airline, airport or aviation industry. We at ABBS aims to train competent personnel to oversee the quality, control and safety of all necessary operations-based activities, especially marketing, finance and accounting in the aviation sector, such as airline, airport, ground handling, shipment management.Apart from Academics students are given opportunities to explore the industry through Industrial visits to various Airports, Student Presentation on Aviation Topics, Case Study Analysis & so on.  I wish your years at ABBS to be very fruitful for you.
+          Welcome to the Department of Aviation Management at Acharya Bangalore B-School, Bengaluru. Aviation management is the ability to manage the workflow related to the airline, airport or aviation industry. We at ABBS top-notch BBA in airport management college, aim to train competent personnel to oversee the quality, control and safety of all necessary operations-based activities, especially marketing, finance and accounting in the aviation sector, such as airline, airport, ground handling, shipment management. Apart from Academics students pursuing BBA Airline and airport management courses are given opportunities to explore the industry through Industrial visits to various Airports, Student presentations on Aviation Topics, Case Study Analysis & so on. I wish your years at ABBS to be very fruitful for you.
       - accordion_title: Career Prospect
         accordion_content: >-
           * Aviation Managers 
@@ -169,13 +169,13 @@ sections:
           board and a minimum aggregate of 40% in 10th and 12th."
       - accordion_title: Application Timeline
         accordion_content: >-
-          The Admission selection process for undergraduate programs commences
-          during January of every year and extends till the last date of
-          admission as per the university regulations or availability of seats,
-          whichever is earlier.
+          The Admission selection process for undergraduate programs at BBA
+          aviation college in Bangalore commences during January of every year
+          and extends till the last date of admission as per the university
+          regulations or availability of seats, whichever is earlier. 
 
 
-          *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
+          Note: *Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
       - accordion_title: "Scholarships: "
         accordion_content: "[Please read the details here](/admissions/fees-scholarships)"
   - type: accordion_section
@@ -198,12 +198,13 @@ sections:
 
           * To develop the students for competitive examinations of UPSC, KPSC, BSRB, Airline Selection, etc.
       - accordion_title: Bring Your Own Device
-        accordion_content: As part of ABBS commitment to innovative learning strategies,
-          the Bring Your Own Device (BYOD) initiative is designed to enhance
-          your learning experience. Through the use of online and mobile
+        accordion_content: As part of ABBS's commitment to innovative learning
+          strategies, the Bring Your Own Device (BYOD) initiative is designed to
+          enhance your learning experience. Through the use of online and mobile
           technologies in and out of the classroom, you will be able to access
           course materials, participate in collaborative learning environments
-          and build the technological skills needed in today's workforce.
+          and build the technical skills needed in today's workforce in our BBA
+          in aviation college in Bangalore.
   - type: testimonials_section
     section_id: testimonials
     section_title: Testimonials
