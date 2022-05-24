@@ -35,6 +35,68 @@ sections:
 
 
       Aptitudes like analytical reasoning, research, arguments, and debates with relevant evidence, leadership, teamwork, and logical thinking are discovered and developed to help students grow into mindful global residents.
+  - type: text_section
+    section_id: ""
+    section_title: Why Choose ABBS for BA in Sociology, Psychology and Political Science?
+    section_text: >-
+      One thing that makes our undergraduates unique is that they work in a
+      union with faculty members. ABBS, a BA Psychology College in Bangalore
+      offers students the to discuss and tackle various issues related to
+      topics, pursue fundamental questions, and translate ideas into action.
+
+
+      Whether a student of sociology, psychology or political science we offer excellence across all subjects. Our BA Sociology College in Bangalore also pioneered digital education to allow students a flexible education system and rigorous learning. 
+
+
+      Across ABBS, faculty help to establish the global benchmark of excellence for students and help them to achieve their individual goals during the duration of the course.
+  - type: text_section
+    section_id: ""
+    section_title: Career Prospects After Studying at ABBS
+    section_text: >-
+      Upon completion of the course at BA Psychology Colleges in Bangalore,
+      sociology and political science colleges one can get jobs in the following
+      sectors and posts: 
+
+
+      *  Civil services 
+
+      *  Policy analyst 
+
+      *  Politics 
+
+      *  Marketing research analyst 
+
+      *  Legislative assistant 
+
+      *  Journalist 
+
+      *  Media planner 
+
+      *  Psychologist 
+
+      *  Rehabilitation specialist 
+
+      *  Social worker 
+
+      *  Writer 
+
+      *  Teacher 
+
+      *  Corporate Companies 
+
+      *  Digital Marketing Firms 
+
+      *  Counselling Centers 
+
+      *  Rehabilitation Centers 
+
+      *  NGOs 
+
+      *  Educational Institutes 
+
+      *  Social Services 
+
+      * Human Resources
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
