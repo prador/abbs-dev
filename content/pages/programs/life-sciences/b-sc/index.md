@@ -117,15 +117,15 @@ sections:
     accordions:
       - accordion_title: Course Outline
         accordion_content: >-
-          The curriculum is interdisciplinary in nature, providing students with
-          a strong basis to understand principles for diverse biological
-          phenomena, and allowing them to be creative and competitive
-          researchers in life sciences. The curriculum is designed to prepare
-          students for advances in life sciences and technologies in the 21st
-          century. 
+          The curriculum for BSc genetics in Bangalore is interdisciplinary in
+          nature, providing students with a strong basis to understand
+          principles for diverse biological phenomena, and allowing them to be
+          creative and competitive researchers in life sciences. The curriculum
+          is designed to prepare students for advances in life sciences and
+          technologies in the 21st century. 
 
 
-          The curriculum for B.Sc. Life Science is focused on
+          The curriculum for BSc in microbiology colleges in Bangalore is focused on
 
 
           * DSC: Disciple Specific core (Course)
@@ -144,13 +144,9 @@ sections:
           ###### Prof. Keshavamurthy M
 
 
-          M.Sc., NET., K-SET., (Ph.D.)
+          M.Sc., NET., K-SET., (Ph.D.) Assistant Professor & Program Coordinator
 
-          Assistant Professor & Program Coordinator
-
-
-
-          Welcome to B.Sc. course! My hope is that by the end of this course you have a new appreciation for the subject matter and will continue your education in the subject. We at ABBS offer B.Sc. in the following subjects, Biotechnology, Biochemistry, Microbiology, and Genetics. The students will be equipped with the multidisciplinary skills and knowledge base required in the field of Life Sciences, with an understanding of the subject specific knowledge as well as critical, analytical and flexible approach to problem-solving in the field of professional employment or higher studies in Life Science. Students will be able to choose two major subjects among the three subjects that are being offered by the college.
+           Welcome to the B.Sc. course at the top BSc biotechnology college in Bangalore! My hope is that by the end of this course you have a new appreciation for the subject matter and will continue your education in the subject. We at ABBS offer B.Sc. in the following subjects, Biotechnology, Biochemistry, Microbiology, and Genetics. The students will be equipped with the multidisciplinary skills and knowledge base required in the field of Life Sciences, with an understanding of the subject-specific knowledge as well as a critical, analytical and flexible approach to problem-solving in the field of professional employment or higher studies in Life Science. Students will be able to choose two major subjects among the three subjects that are being offered by the BSc Microbiology colleges in Bangalore.
       - accordion_title: Career Prospect
         accordion_content: |-
           * Pharma
@@ -160,8 +156,8 @@ sections:
           * Bioprocess Research
           * Agricultural Biotechnology
           * Molecular Biology
-          * Research Analyst\
-            Research Associate
+          * Research Analyst
+          * Research Associate
           * Junior Scientist
           * Food & Agricultural Scientist
           * Biomedical Engineer
@@ -179,20 +175,19 @@ sections:
     section_id: admission-tuition
     section_title: Admission and Tuition
     accordions:
-      - accordion_title: Eligibility
-        accordion_content: "* 10+2 or PUC equivalent degree from a recognized education
-          board and a minimum aggregate of 40% in 10th and 12th."
       - accordion_title: Application Timeline
         accordion_content: >-
-          The Admission selection process for undergraduate programs commences
-          during January of every year and extends till the last date of
-          admission as per the university regulations or availability of seats,
-          whichever is earlier.
+          The Admission selection process for undergraduate programs at the best
+          BSc biotechnology college in Bangalore commences during January of
+          every year and extends till the last date of admission as per the
+          university regulations or availability of seats, whichever is
+          earlier. 
 
 
-          *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
-      - accordion_title: "Scholarships: "
-        accordion_content: "[Please read the details here](/admissions/fees-scholarships)"
+          Note: *Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
+      - accordion_title: Scholarships
+        accordion_content: "[Please read the details
+          here](https://abbs.edu.in/admissions/fees-scholarships)"
   - type: accordion_section
     section_id: more-information
     section_title: More Information
