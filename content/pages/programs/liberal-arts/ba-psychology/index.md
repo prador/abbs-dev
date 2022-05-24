@@ -6,12 +6,35 @@ sections:
   - type: text_section
     section_id: overview
     section_title: Overview
-    section_text: The BA Sociology, Psychology & Political sciences is a new 3 year
-      undergraduate program, 4-years for BA honors under Bangalore University.
-      The B.A Political Science Course is a Credit Based Semester Scheme, spread
-      over six semesters for BA. The syllabus has been updated. Many new and
-      innovative papers are being offered in keeping with the changing times and
-      circumstances, as well as the larger societal needs.
+    section_text: >-
+      **INTRODUCTION TO BA SOCIOLOGY, PSYCHOLOGY AND POLITICAL SCIENCE**
+
+
+      The Bachelor’s of Arts (BA) Sociology, Psychology & Political sciences are the latest 3-year undergraduate programs and 4-years for BA honours under Bangalore University. The BA Political Science in Bangalore is a Credit Based Semester Scheme course, spread over six semesters for BA. The syllabus of the programs has been updated. Many unique and innovative papers are being offered to stay relevant with today’s ever-changing market and circumstances, as well as the larger societal needs. 
+
+
+      The BA Sociology Colleges in Bangalore provides a striking combination of subjects that allow students to enhance and develop their communication, research, presentation, and analysis skills. The program focuses on imparting concepts and abilities that enhance the student’s proficiency, creating a highly adaptive environment, and opening up opportunities to grow successfully in their respective field. 
+
+
+      Students are basically trained to analyse and review valuable data and create mind-blowing concepts and ideas in the industry.
+  - type: text_section
+    section_id: ""
+    section_title: What Will You Learn?
+    section_text: >-
+      BA Psychology Colleges in Bangalore curriculum enables students with a
+      holistic outlook on the mysteries of the human mind, human behaviour,
+      interaction, and wisdom. The Economics curriculum prepares candidates for
+      the fulfilling world of accounts, retail, sales, finance, and tax in the
+      public, business, or industrial sectors. 
+
+
+      BA Political Science in Bangalore equips the learners to prepare themselves for careers in teaching and research, the Union and State Civil Services, and the non-governmental sector. This program expands awareness among students on local, national and international issues, and strengthens their analytical skills and capabilities. 
+
+
+      BA Sociology Colleges in Bangalore offers a curriculum that trains students about the theoretical and methodological themes of Indian and global society. Students are taught to monitor, examine, and comprehend social events and implement their academic knowledge into action and practice. 
+
+
+      Aptitudes like analytical reasoning, research, arguments, and debates with relevant evidence, leadership, teamwork, and logical thinking are discovered and developed to help students grow into mindful global residents.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
@@ -87,12 +110,6 @@ sections:
           learning. 
 
           Program Duration: 70 hours.
-  - type: testimonials_section
-    section_id: testimonials
-    section_title: Testimonials
-    show_toggle: true
-    program: BA Psychology
-    limit: 2
   - type: anchor_section
     links:
       - anchor_label: Overview
@@ -111,8 +128,14 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelors of Arts
-    apply_form: "https://application.abbs.edu.in/bschool/"
+    apply_form: https://application.abbs.edu.in/bschool/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/ba-psychology.pdf
+  - type: testimonials_section
+    section_id: testimonials
+    section_title: Testimonials
+    show_toggle: true
+    program: BA Psychology
+    limit: 2
 ---
