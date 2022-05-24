@@ -13,100 +13,80 @@ date: 2021-12-04T06:11:45.069Z
 thumbnail: static/img/03-05-03-ba-journalism-banner.jpg
 sections:
   - type: text_section
-    section_id: overview
-    section_title: Overview
+    section_id: ""
+    section_title: Introduction to BA Tourism, History & Journalism
     section_text: >-
-      **ABBS-BA JOURNALISM COLLEGE**
+      The Bachelor of Arts in Journalism/Tourism/History at BA journalism
+      colleges are designed to deliver a strong grounding in the subjects
+      concerned, to help students in the development of analytical skills and
+      keep them in tune with Historical events and their relevance. BA
+      journalism colleges in Bangalore allow students to develop a practical and
+      pragmatic attitude on local, national, regional and international matters
+      pertaining to media and tourism. 
 
 
-      > **Fill The Gap That Persists Between Your Struggle And Success…..**
-
-
-      **It's time to get enrolled at ABBS -  Best college for BA in Mass Communication**
-
-
-      Today is an era where mass communication is constantly gaining more significance in our lives. The blend of technology and digital platforms is unleashing more opportunities for journalism professionals diversely. The boom in technology and online multimedia platforms are changing the complete scene of Journalism. From print media to publishing houses to OTT platforms, mass communication is becoming vital everywhere and evolving to reach out to more and more people. The fact that mass media is the fourth pillar of our Indian democracy makes it a more reasonable and relevant field to build a career.
-
-
-      However becoming a part of such a dynamic and the most demanding sector is not going to be easy for you, it is feasible for a confident, fearless and creative person who can make themselves acknowledged by big media houses or attract the attention of the audience. Studying at ABBS-BA journalism college in Bangalore makes you that person.
-
-
-      Are you all set to push your limits? Are you ready to think beyond your capacity? Are you ready to be creative?
-
-
-      If the answer is yes, get enrolled at **ABBS-BA Journalism and mass communication college in Bangalore**
+      The course duration is 3 years and is spread over six semesters. The BA Journalism and Tourism colleges in Bangalore curriculum have three subjects, i.e. journalism, history and tourism, with meticulous focus given to each of these three majors. English language and optional languages are also included in this curriculum which can be pursued during semesters 1 to 4.
   - type: text_section
     section_id: ""
-    section_title: Outcomes of Studying at ABBS - Best college for BA in Mass Communication
+    section_title: What Will You Learn?
     section_text: >-
-      The following skills are developed in a student upon completion of the
-      journalism course:
+      The best college for BA in mass communication offers a course that is
+      particularly developed to fulfil the futuristic possibilities in
+      journalism. Students acquire skills needed to perform in the communication
+      domain, such as writing, research and data gathering, reporting, video
+      production, online journalism, and media literacy. Students are imparted
+      with an overview of journalism and become familiar with the concept of
+      independence of the press, procedures and models of mass communication. 
 
 
-      * Students develop advanced oral and written presentation skills. 
+      BA History colleges in Bangalore play an important role in today’s era and the course has a lot of applicability in today’s market. It is crucial to comprehend what the past says and how it can impact the present so that a better future can be developed. This course has gained a massive scope as well. Students are trained to investigate and study a series of past occasions and determine reasons and remedies, which can help them in plotting ideas to shape a better world if the gathered information is utilised sincerely. 
 
-      * The teamwork and collaboration become easy for an individual.
 
-      * A well-equipped journalist is one who writes and edits efficiently, and that is developed here. 
-
-      * Students are imparted with meticulous journalism and reporting training.
-
-      * Professional understanding of qualitative and quantitative research methods.
-
-      * Students become creative and thus excel in digital and social media platforms.
-
-      * Our BA mass communication college makes students experts in media content creation. 
-
-      * Critical thinking and adaptability is no more fear for the students.
-
-      * We offer practical training to enhance research and data analysis, and visual and graphic communication.
+      BA Travel and Tourism colleges in Bangalore offer a course that has innumerable valuable opportunities. This course talks about the information gathered concerning tourist destinations, developing marketing skills, report writing, etc. to help students have a successful career in tourism.
   - type: text_section
     section_id: ""
-    section_title: Course outline at BA Mass Communication college
-    section_text: BA Journalism course focuses specifically on the news and the
-      media industry. The subjects are selected, updated, and presented to suit
-      the graduates in this profession. Subjects such as Communicative English,
-      Functional English, Basics of Mass media like the Television, Newspaper,
-      Journalistic writing, certain elements of written English, Basics of
-      computers are some of the topics that are taught.
-  - type: text_section
-    section_id: ""
-    section_title: Eligibility for admission at BA Mass Communication college
+    section_title: Eligibility Criteria for Admission at ABBS
     section_text: 10+2 or PUC or an equivalent degree from a recognized board and a
       minimum aggregate of 40% in 10th and 12th.
   - type: text_section
     section_id: ""
-    section_title: Career opportunities after Studying at BA Journalism college in Bangalore
+    section_title: Career Opportunities After Studying at BA Journalism Colleges
     section_text: |-
-      * Reporter 
-      * Correspondent 
-      * Sub-Editor 
-      * Video-Editor 
-      * Social Media Writer 
-      * Content Writer 
-      * Feature Writer 
-      * Photojournalist 
-      * Video journalist 
-      * Copywriters 
-      * Visualizers 
-      * Media Planner 
-      * Media Executive 
-      * Creative Director 
-      * Event Planner
+      * Editing
+      * Press offices 
+      * Print journalism 
+      * Publishing 
+      * Public relations specialist 
+      * Television and radio journalism 
+      * Teaching 
+      * Social Scientist 
+      * Research 
+      * Archiving 
+      * Archaeology 
+      * Epigraphy 
+      * Curation 
+      * Entrepreneurship 
+      * Travel agency jobs-tour operator, travel agent, tourist guide etc. 
+      * Hospitality industry 
+      * Tourist information bureau 
+      * Aviation industry
   - type: text_section
     section_id: ""
-    section_title: Why pursue Journalism at ABBS - BA Journalism college?
+    section_title: "Why ABBS is the Best BA Journalism and Tourism College in Bangalore? "
     section_text: >-
-      * Our faculty aims to support each student to become a multi-tasker and
-      capable of thinking critically on matters from different perspectives. 
+      * Imparting top-class education for decades. 
 
-      * The communication skills of students are developed and their whole personality is groomed. 
+      * Students onboarded from all over the world and irrespective of their background and community. 
 
-      * The education system at ABBS is a result of a profound academic research based on rigorous pedagogy, and an emphasis on foundational knowledge. 
+      * This BA Travel and Tourism college in Bangalore helps students financially by providing them institutional scholarships besides scholarships from state and central government, and Departments of Social Welfare. 
 
-      * Students are exposed to numerous scope to help them develop their journalistic skills.
+      * Providing students with consultation in acquiring academic loans from private and public sector banks, and other financial institutions. 
 
-      * ABBS- the best college for BA in mass communication gives you an opportunity to do internships with the finest media companies.
+      * Top faculty members across the country who are highly qualified and experienced in their respective fields. 
+
+      * Our BA History college in Bangalore counts a team of trainers who have firm research backgrounds and current research projects. 
+
+      * Adequate laboratory facilities with well-maintained state-of-the-art scientific equipment.
   - type: accordion_section
     section_id: course-details
     section_title: Course Details
