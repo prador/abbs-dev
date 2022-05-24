@@ -200,4 +200,9 @@ sections:
     show_toggle: true
     program: BA Psychology
     limit: 2
+  - type: text_section
+    section_id: ""
+    section_title: Eligibility Criteria to get enrolled at ABBS
+    section_text: Candidates must have 10+2 or PUC or an equivalent degree from a
+      recognized board and a minimum aggregate of 40% in 10th and 12th.
 ---
