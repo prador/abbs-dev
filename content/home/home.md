@@ -457,7 +457,7 @@ header_scripts: >-
     "name": "ABBS",
     "image": "https://abbs.edu.in/static/img/9141-70700.jpg",
     "description": "ABBS is Ranked among the top business school in Bangalore which provides the best MBA /PGDM and Management Programmes.",
-    "url": "https://abbslaw.edu.in/",
+    "url": "https://abbs.edu.in/",
     "telephone": "+91 9141707070",
     "priceRange": "Call US : +91 9141707070",
     "address": {
