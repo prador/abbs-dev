@@ -219,7 +219,7 @@ sections:
     brochure: static/img/03-02-04-bba.pdf
   - type: accordion_section
     section_id: ""
-    section_title: ""
+    section_title: FAQ's
     accordions:
       - accordion_title: 1. question 1
         accordion_content: answer
