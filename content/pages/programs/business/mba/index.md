@@ -186,4 +186,119 @@ sections:
     request_brochure_link: ""
     brochure: static/img/03-02-02-mba.pdf
     apply_form: " "
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: What should I know about the CAT and MAT?
+        accordion_content: >-
+          CAT and MAT both are national levels entrance exams on the basis of
+          which you can get admission to an MBA college in Bangalore also if you
+          are willing to get admission to some of the top MBA Colleges in
+          Bangalore then it’s mandatory to pass one of the entrances. Candidates
+          very often get confused when it comes to picking and taking the
+          entrance exam as the CAT entrance score will be a basis for getting
+          admission to an A-grade business school whereas the MAT entrance score
+          will not be a basis for admission to the top 10 MBA colleges in
+          Bangalore. However, they both hold importance when getting admission
+          to college so it's important to understand both concepts before taking
+          the exams. 
+
+
+          Many people wonder what makes MAT so important that it is compared with CAT. The answer is that MAT offers multiple attempts for candidates who want to improve their scores in the same academic year. Unfortunately, candidates don’t get this option in CAT as it can only be attempted annually. 
+
+
+          You should know that both the entrance exams are similar in terms of syllabus and question types that are MCQs but are different in other aspects like topics, exam pattern, marking scheme, difficulty level, etc. In simple terms, CAT is tougher to crack than MAT which opens up more chances for MBA admission in Bangalore.
+      - accordion_title: "Do I need to give an interview for the MBA entrance exam? "
+        accordion_content: >-
+          Good MBA colleges in Bangalore require candidates to have group
+          discussions and personal interview rounds also known as (GD/PI). The
+          GD/PI can be a tougher task than scoring good in entrance exams for
+          MBA as entrances are held on basis of a course and syllabus that can
+          be learned over a few months however in the case of GD/PI no one is
+          aware of what will be asked or what topic will be given. The questions
+          are always random and need candidates to be very confident and have a
+          good presence of mind. 
+
+
+          In order to get admission at a college that is among the best list of MBA colleges in Bangalore, you must put all your efforts to groom yourself. Some common questions that are often asked by interviewers in MBA personal interviews are: 
+
+
+          1. Tell us something about yourself. 
+
+          2. Why do you think we should give you admission to our college? 
+
+          3.  What are your key skills/ greatest strengths? 
+
+          4. What is your greatest weakness? 
+
+          5. What is your greatest achievement? 
+
+          6. Where do you see yourself five years down the line? 
+
+          7. What are your career goals? 
+
+          8. What are your short-term goals? 
+
+          9. What are your long-term goals?
+
+          10. Why do you want to join this College/B-school? 
+
+          11. Why MBA? 
+
+
+          Basically, these questions are asked to test a candidate’s IQ level, and presence of mind, to understand their personality and behaviour.
+      - accordion_title: Can I do an MBA without experience?
+        accordion_content: >-
+          Definitely yes. These days MBA programs at the top 5 MBA colleges in
+          Bangalore have changed a lot and are structured in a way to help
+          freshers as well to build their careers in the field of management. If
+          you have no work experience you can still get enrolled at MBA Schools
+          in Bangalore for various programs. 
+
+
+          These programs help freshers to get prepared for professional positions and are known as “early career” MBA programs. 
+
+
+          Well, yes! The MBA programs have changed and are designed to help the candidates to meet their future ambition. Students who do not have any professional experience can also choose the MBA program. Studying such programs offer candidates to gain knowledge, experience, network, career perspective, and many more. MBA programs for freshers at the best MBA Colleges in Bangalore make students adept to use many management tools that help to gain success in the business administration field. 
+
+
+          Before taking early career MBA courses candidates should check the program meets the following criteria: 
+
+
+          * Choose a full-time MBA program 
+
+          * The course must offer learning, practical experience 
+
+          * Help build a good professional portfolio 
+
+          * Internships must be included in the curriculum 
+
+          * Mentor programs, Projects for clients and many more 
+
+
+          MBA Courses in Bangalore should offer the student a comprehensive understanding of management with the help of practical training so that they could devise the same for the real business challenges. It should also deliver in-depth expertise in the areas of interest of the students.
+      - accordion_title: "What should be included in the MBA application? "
+        accordion_content: >-
+          The application for taking admission at MBA college in Bangalore
+          consist of the following sections: 
+
+
+          Background information, Application Fee, 2 essays, Transcripts (unofficial or official), Two letters of recommendation, GMAT/GRE scores, Resume (if any work experience) and English language test score. 
+
+
+          The Background Information in the application section of good MBA colleges in Bangalore includes: 
+
+
+          * Contact information of the applicant (e.g., mailing address and phone number) -Date of birth of the applicant
+
+          * Family background of the applicant 
+
+          * Academic degrees earned by the applicant consist of high school degree, intermediate degree, bachelor’s or bachelor’s-equivalent degree, study abroad (if any), summer school, and post-baccalaureate classes, complete the Education and Transcript section for all of your academic experiences. 
+
+
+          MBA admission in Bangalore application includes an Employment section as well where the candidate has to fill the duration of work experience, including military and entrepreneurial experiences. If any part-time job or summer employment is accomplished then that should also be included. 
+
+
+          Prior Conviction Information includes if a candidate has or had ever been convicted of or pleaded guilty or no contest to a felony or misdemeanour (excluding minor traffic violations). Failure to disclose this information may result in the withdrawal of any possible offers of admission.
 ---
