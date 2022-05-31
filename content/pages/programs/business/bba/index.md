@@ -221,6 +221,77 @@ sections:
     section_id: ""
     section_title: FAQ's
     accordions:
-      - accordion_title: 1. question 1
-        accordion_content: answer
+      - accordion_title: What is the BBA program?
+        accordion_content: >-
+          The Bachelor of Business Administration (BBA) is a 3-year bachelor’s
+          degree course. The BBA colleges in Bangalore offer this program with
+          the purpose to build professional individuals who have a comprehensive
+          understanding of the core business management strategies. 
+
+
+          The students pursuing BBA course in Bangalore get an opportunity to be a part of the interactive classes which would help them to gain a plethora of knowledge and develop skills, personality and confidence which are needed most for managerial and professional 
+
+
+          interactive classes which allow them to gain knowledge, and skills and develop the personality and attitude that’s most in demand for managerial and professional career growth. 
+
+
+          To be more precise, the BBA course in Bangalore is structured to make sure that candidates become adept to help modern businesses and organizations with their excellent managerial skills. 
+
+
+          This program is a gateway to countless job prospects in a mass group of sectors like Marketing, Education, Finance, Sales, and Government. The BBA course provides education and training in administration and leadership skills required in a candidate to carry out managerial and entrepreneurship roles. 
+
+
+          Best BBA Colleges in Bangalore make students well-equipped in multiple aspects of business management by providing them with practical training, internship programs and lectures. BBA is a perfect fit for those who are aspirants in the corporate management sector.
+      - accordion_title: "What specialisations are included in BBA? "
+        accordion_content: >-
+          Top BBA Colleges in Bangalore offer this course as it has great
+          potential to satisfy careers in management and thus has great demand
+          across the country. This degree course is designed to be like an MBA
+          course but on a bachelor's level. Similarly to MBA, BBA can also be
+          pursued in various specializations. Candidates choosing the
+          specialization course in BBA will decide what sector they will be
+          building their management career in. In India, a plethora of
+          specializations is offered for BBA in Bangalore which even leads
+          candidates to confusion. Following are some of the most common
+          specializations in BBA offered in India: 
+
+
+          * BBA in Business Administration 
+
+          * BBA in International Business 
+
+          * BBA in Computer Application 
+
+          * BBA in Finance 
+
+          * BBA in Entrepreneurship 
+
+          * BBA in Hospitality 
+
+          * BBA in Human Resources 
+
+          * BBA in Information Systems 
+
+          * BBA in Global Business 
+
+          * BBA in Tourism 
+
+          * BBA in Human Resource Management 
+
+          * BBA in Marketing 
+
+          * BBA in Sports Management 
+
+          * BBA in Management 
+
+          * BBA in Hospital & Healthcare 
+
+          * BBA in Accounting 
+
+          * BBA in Supply Chain 
+
+          * BBA in Retail 
+
+
+          Getting aware of all the above-mentioned specializations is a very first step after these candidates have to be very crucial when choosing the specialization while taking admission in BBA colleges in Bangalore as this would be their field of study and work for their whole life.
 ---
