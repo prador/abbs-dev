@@ -233,4 +233,67 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-02-05-bba-aviation-management.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: "What are the courses in aviation? "
+        accordion_content: >-
+          BBA Aviation Colleges in Bangalore offer numerous aviation such as
+          airport management, ground staff, cabin crew training, commercial
+          pilot license, and aviation hospitality. Different aviation courses
+          have been designed for fulfilling different needs of the aviation
+          industry. 
+
+
+          There is a set minimum eligibility criteria for getting admission in BBA in aviation colleges in Bangalore after 12th such as admission for Bachelor’s courses and PG courses in aviation will depend on the score of 12th and bachelor’s score respectively. 
+
+
+          Aviation Courses are available for the different ranges of qualification levels and can be pursued right after class 10th. Interested candidates can decide to pursue aviation courses right after class 10, or 12, or even after a bachelor’s degree. 
+
+
+          The most common courses available in Aviation are: 
+
+
+          * BBA in Airport Management 
+
+          * BBA Aviation course 
+
+          * BBA in Airline And Airport Management 
+
+          * MBA in Aviation Management 
+
+          * MBA in Airline and Airport Management 
+
+          * MSc in Aviation 
+
+          * Diploma in Airport Management 
+
+          * Diploma in Ground Staff & Cabin Crew Training 
+
+          * Student Pilot License 
+
+          * Commercial Pilot Training 
+
+          * Private Pilot License 
+
+          * Diploma in Aviation Hospitality and Travel Management 
+
+          * Diploma in Airfare & Ticketing Management 
+
+          * Aircraft Maintenance Engineering (AME) 
+
+
+          Certification Aviation Courses are: 
+
+
+          * Air Hostess & Flight Steward Training 
+
+          * Air Hostess and Hospitality Training 
+
+
+          Aviation Courses for Post graduation are: 
+
+
+          * Masters in Aviation offered as MBA and MSc degree programs in India. Both the programs are of 2 years duration and the admission process differs, depending on the college.
 ---
