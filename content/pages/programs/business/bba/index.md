@@ -217,4 +217,10 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-02-04-bba.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: ""
+    accordions:
+      - accordion_title: 1. question 1
+        accordion_content: answer
 ---
