@@ -296,4 +296,148 @@ sections:
 
 
           * Masters in Aviation offered as MBA and MSc degree programs in India. Both the programs are of 2 years duration and the admission process differs, depending on the college.
+      - accordion_title: Why study BBA Aviation?
+        accordion_content: >-
+          In today’s world, the aviation industry plays an important role
+          globally. This transportation method helps residents of different
+          countries to travel conveniently within the least time. The demand for
+          the aviation industry is increasing rapidly every day thus increasing
+          the demand for aviation professionals as well. There are endless
+          exciting opportunities available for BBA aviation management graduates
+          which makes it the best option for a bright future. 
+
+
+          Studying BBA Aviation Management in Bangalore offers the following advantages: 
+
+
+          * Candidates for BBA Airline and airport management are hired by the top and prestigious Airline companies like Air India, India Jet Airways, Alliance Air, Air Costa and Air Heritage. The average package ranges from INR 4 to 8 lakhs per annum for the fresher. 
+
+          * The aviation industry doesn’t only demand pilots and flight attendants in the airline as there are numerous other opportunities as well on the floor such as BBA in aviation management trains candidates in the overall management of this particular industry. 
+
+          * The students of BBA and MBA in aviation are hired for the promotion of a particular airline company and to build their place in the industry as there is a lot of competition in this industry between the airline companies. 
+
+          * Studying at BBA aviation college plays a major role in contributing to the economy of the country as it is the most effective method to promote travel and tourism and foreign businesses in the country. 
+
+          * Studying at BBA in airport management colleges is the best opportunity to become well-equipped with the skills required to manage the proper functioning of the airport and also the airlines.
+      - accordion_title: "What is the syllabus for BBA Aviation? "
+        accordion_content: >-
+          BBA aviation course comprises 6 semesters course. The course begins
+          with former learning languages and the fundamentals of management and
+          Aviation. Upon completion of the previous semester, the course
+          syllabus gets more technical and complex. Below is the semester wise
+          syllabus of the course:
+
+
+          **Semester I Semester II**
+
+
+          * Introduction to Management & Leadership (Online) Organizational Behavior
+
+          * Introduction to Aviation Industry Business Economics I
+
+          * Business Mathematics Business Statistics
+
+          * Business Accounting IATA Travel & Tourism(Foundation)
+
+          * Business Communication I Enrichment course
+
+          * Business Computing Principles of Management
+
+          * Community Service I Community Service II
+
+
+          **Semester III Semester IV**
+
+
+          * Marketing Management Business Communication II
+
+          * Research Methodology & Report Writing Consumer Behavior Market Research
+
+          * Airport Functions of Airlines Cargo Handling
+
+          * Financial Management Programme Elective 1
+
+          * Business Economics II Market Research
+
+          * Open Elective I Open Elective 2
+
+
+          **Semester V Semester VI**
+
+
+          * Essential of Strategic Management Airport Customer Services
+
+          * International Business Aviation Marketing
+
+          * Understanding of Aviation Business Human Resource Management
+
+          * Dissertation I Dissertation II
+
+          * Summer Internship Summer Internship
+
+          * Industry Tour Report Industry Tour Report
+
+          * Programme Elective 2 Programme Elective 3
+
+
+          **BBA Aviation Elective subjects** 
+
+
+          Following are some of the BBA Aviation elective subjects.
+
+
+          * Aviation Security Awareness 
+
+          * Air Ticketing & Fare Construction
+
+          * Basic Ramp Safety 
+
+          * Customer Relationship Management
+
+          * Crew Resource Management 
+
+          * Airline Advertising & Sales Promotion
+
+          * Services Marketing
+
+          * Entrepreneurship Development
+      - accordion_title: What is the scope for BBA aviation?
+        accordion_content: >-
+          The graduates of BBA aviation management have the option to apply for
+          a plethora of job opportunities and pursue higher studies as well. 
+
+
+          The scope after the completion of the course is vast. The future scope after studying at BBA Aviation Colleges in Bangalore is immense. Major scopes for further studying are: 
+
+
+          * Master of Science (MSc) in aviation 
+
+          * Master of Business Administration (MBA) in Aviation management, Air travel management, Airline management and Airport management. 
+
+
+          Candidates after completing BBA Aviation Management in Bangalore can also apply for the jobs available in top airline companies. This course offers a wide range of career options in the aviation industry. People get hired by the top companies at a good package just after completing this graduate program. The average package offered to graduates of BBA aviation is INR 5.93 LPA. The annual package offered to candidates will depend on various factors like college of graduation, work experience, technical skills, and soft skills. 
+
+
+          Following are some of the career prospects after completion of the course at BBA aviation college: 
+
+
+          * Airport Manager 
+
+          * Aerodrome Officer 
+
+          * Cargo Manager 
+
+          * Store & Purchase Manager 
+
+          * Legal Officer 
+
+          * Branch Manager 
+
+          * Airline Contracting Manager 
+
+          * Assistant Manager 
+
+          * Aviation Industry Manager 
+
+          * Credit Control Manager
 ---
