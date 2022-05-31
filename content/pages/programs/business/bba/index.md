@@ -294,4 +294,52 @@ sections:
 
 
           Getting aware of all the above-mentioned specializations is a very first step after these candidates have to be very crucial when choosing the specialization while taking admission in BBA colleges in Bangalore as this would be their field of study and work for their whole life.
+      - accordion_title: What is the admission process in BBA?
+        accordion_content: >-
+          BBA admissions process consists of revealing the merit list of
+          students once they qualify for the entrance exam, group discussion and
+          personal interviews. Admission for correspondence BBA courses in
+          Bangalore can be taken directly by applying for admissions to many BBA
+          colleges. 
+
+
+          However, on the basis of merit, the selection process for admission to BBA programs in colleges and universities usually includes two rounds. Firstly a written examination is for the specific college admission and secondly, a personal interview round is taken.
+
+
+          Once the students pass in examination rounds of the BBA admission process, the final merit list for the selected students is prepared. It is best to submit college course fees along with other admission related documents on time and then the candidate is all set to begin their journey in Best BBA Colleges in Bangalore. 
+
+
+          Major factors that are considered for the admission process in BBA: 
+
+
+          * The entrance exam for the BBA program admission is conducted by most of the top colleges and universities. 
+
+          * Upon qualifying for the entrance examination, many colleges also conduct a Group discussion and a Personal Interview for the final selection result. 
+
+          * Candidates from any stream can apply for BBA/BMS courses. 
+
+          * a 10+2 or PUC equivalent degree from a recognized education board and a minimum aggregate of 40% in 10th and 12th are the minimum eligibility criteria.
+      - accordion_title: "What is the fee structure for BBA in Bangalore? "
+        accordion_content: >-
+          BBA Fee Structure in Bangalore would vary from college to college,
+          university to university as per their ranking. There are a total of
+          167 BBA colleges in Bangalore among them 144 are private colleges and
+          23 are government colleges. Obviously, the fee structure of the
+          government colleges is comparatively less than those of the private
+          colleges. 
+
+
+          The fees for BBA in Bangalore range from INR 1 lakh to INR 6 lakhs on average, which includes both private and public colleges. The program fee is not definite for the prescribed year in every college. The top BBA colleges in Bangalore have organised and set the fee structure as per the industry rankings and university guidelines. 
+
+
+          Every college has its own department to designate the deposition of the program fee. However, the course fee is taken in the following segments: 
+
+
+          **Tuition, exams, library, Registration, Development etc.** 
+
+
+          Most of the colleges take the hostel fee separately apart from the course fee. The best BBA Colleges in Bangalore have a very transparent and flexible fee structure. 
+
+
+          The above fee structures for the BBA colleges have been designed taking into account the comfort of the student community. Few colleges offer the instalment option for paying fees as well to support the basic needs of the students. The BBA Colleges in Bangalore also help students to apply for and acquire different types of scholarships who have a great performance and extraordinary talent in academics, sports and other co-curricular activities.
 ---
