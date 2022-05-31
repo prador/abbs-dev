@@ -241,4 +241,10 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-03-01-life-sciences-program.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: ""
+        accordion_content: ""
 ---
