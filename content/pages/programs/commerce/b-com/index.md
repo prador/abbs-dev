@@ -285,4 +285,127 @@ sections:
           * Choosing Business Accounting and Taxation 
 
           * Becoming Certified Management Accountant
+      - accordion_title: What does B.Com mostly cover?
+        accordion_content: >-
+          BCom program covers a few elements of Accounting, Business,
+          Management, Finance, and Banking domains, which makes students
+          well-equipped with managerial skills, and opens up career
+          opportunities for them. When it comes to the B Com subjects and
+          syllabus taught at B 
+
+
+          com College in Bangalore, candidates have the opportunity to choose among various combinations of courses offered. 
+
+
+          Following are the main subjects that are covered in the BCom course and BCom Hons. 
+
+
+          **BCom Semester I Syllabus** 
+
+
+          * Financial Accounting Business Computing 
+
+          * Business Organisation and Management 
+
+
+          Elective Courses: 
+
+
+          * Principles of Micro Economics, New Venture Planning 
+
+          * Quantitative Methods Communication In English 
+
+
+          **BCom Semester II Syllabus**
+
+
+          * Business Laws
+
+          * Environmental Studies
+
+          * Corporate Communication
+
+          * Financial Systems
+
+          * Business Mathematics and Statistics
+
+           Elective Courses: 
+
+          * Principles of Macro Economics 
+
+          * Foreign Exchange Markets, etc. 
+
+
+          **BCom Semester III Syllabus** 
+
+
+          * Company Law 
+
+          * Advanced Economics 
+
+          * Income Tax Laws
+
+           Elective Courses: 
+
+          * Financial Markets, Indian Economy, etc. 
+
+          * Elements of Cost Accounting Entrepreneurship 
+
+
+          **BCom Semester IV Syllabus** 
+
+
+          * Competition and Consumer Laws Indirect Tax Laws 
+
+          * Stock and Commodity Market  
+
+          * Corporate Accounting (Advanced)
+
+          * Operations Research
+
+
+          Elective Courses: 
+
+
+          * Human Resource Management, Investing in Stock Markets,
+
+          * ECommerce 
+
+
+          **BCom Semester V Syllabus**
+
+
+          * International Business Cost Accounting 
+
+          * Strategic Management
+
+
+          Elective Courses: 
+
+
+          * Principles of Marketing
+
+          * Computer Applications in Business or Advertising 
+
+
+          **BCom Semester VI Syllabus** 
+
+
+          * Business Communication 
+
+          * Management and Information Systems
+
+          * Principles of Auditing 
+
+          * Fundamentals of Financial Management 
+
+          * International Business,  
+
+          * Management Accounting,
+
+          * Corporate Tax Planning, etc. 
+
+          * Business Culture
+
+          * EBusiness Culturelective
 ---
