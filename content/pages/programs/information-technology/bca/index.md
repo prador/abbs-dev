@@ -216,4 +216,59 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-06-02-bca.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: "What are the eligibility criteria for the BCA program? "
+        accordion_content: >-
+          The Bachelor of Computer Applications (BCA) program is a 3-year
+          undergraduate program in India offered at the best BCA colleges in
+          Bangalore. This program educates students in software development,
+          computer programming, networking, and computer applications. BCA
+          course in Bangalore is inclined toward developing smart professionals
+          in information technology. The aim of the program is to focus on the
+          information technology skills of students including creativity,
+          technical skills, and logical thinking of a given scenario. 
+
+
+          Admission to BCA college in Bangalore can be taken on the basis of your 12th score which is a merit basis. The candidates can get admission to BCA college on after undergoing the entrance exam as well depending on the eligibility criteria of a particular university or college Candidates willing to pursue BCA in India must score at least 50% marks in their Class 12 exams and should choose English as a mandatory subject in their 12th class. 
+
+
+          A better understanding of the basic eligibility criteria for taking admissions to the best college for BCA are as follows: 
+
+
+          * Candidates must have completed 12th in any stream or equivalent from a recognized board. 
+
+          * Candidates must score a minimum aggregate of 50% in the Class 12th exam.
+
+          * Candidates who currently appear for their final 12th board exams can also apply for admission.
+      - accordion_title: "What is the duration of the BCA Program? "
+        accordion_content: >-
+          Bachelor of Computer Applications (BCA) is a 3-year undergraduate
+          degree program offered at the top BCA college in Bangalore that trains
+          students in the subjects of information technology and computer
+          applications. During this 3-year program, students are well-equipped
+          in the use of core programming languages like Java and C++, data
+          structure, networking, and others. This course offers various career
+          opportunities to students who love working in the IT sector as a
+          programmer or software developer. 
+
+
+          Students can get admission to the best BCA colleges in Bangalore on the basis of their scores in entrance exams and on a merit basis as well. The eligibility criteria for this course can differ from college to university and the same applies to the fee structure and curriculum of the course. Upon completion of the course, the BCA graduates have ‘n’ no. career prospects in the public as well as the private sector. The average salary a BCA graduate can expect in India is around 3-4 lakhs per annum for freshers.
+      - accordion_title: What is the placement facility for students?
+        accordion_content: >-
+          * The placement facility at the top BCA college in Bangalore acts as
+          an important department that helps talented candidates show their
+          ability to top companies and vice versa. -The placement department
+          trains the students for interviews and grooms the overall personality
+          of students that are sought by big MNCs. 
+
+          * The placement facility also includes Industrial tours and events for students to help them understand the real environment of the workplace. The final year BCA students of BCA college in Bangalore get an opportunity to clear their perspective of carrying out a task through these visits. 
+
+          * The placement facility bridges the gap between the technical and practical sides of education and the students become easily employable in various job areas. -The best college for BCA offers career counseling to each and every student on campus and directs them to choose the best possible stream that meets their requirements in a unique way. 
+
+          * The placement facility offers students to interact with their own mentors who are responsible to handle any issues that come their way and directing students to focus on the targets. -The placement facility includes workshops and guest lectures by professionals and experienced leaders. 
+
+          * Students are provided with constant interaction, consultation, and visits with the enterprise bodies, industry experts, R&D institutions, and University Officials which helps students to get a wider understanding of their job role.
 ---
