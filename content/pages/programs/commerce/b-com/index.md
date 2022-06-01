@@ -210,4 +210,53 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: What Bcom specializations can I pursue?
+        accordion_content: >-
+          The Bcom specialization courses offered at the best b com colleges in
+          Bangalore come with different fee structures and different career
+          opportunities. There are a plethora of options available in Bcom
+          Specialization which leads students to get confused about what to
+          choose. Before a student picks one specialization course it is
+          important to seek professional guidance and knowledge regarding the
+          same. 
+
+
+          To give you a wider understanding below is the list of top 5 specializations offered at B com College in Bangalore which will help you to build a better career. 
+
+
+          * B. Com in Economics 
+
+          * B.Com in Law 
+
+          * B.Com in Accounts and Finance 
+
+          * B.Com in Marketing 
+
+          * B.Com in Tourism and Travel Management 
+
+
+          The above-mentioned specializations are only a few specializations, other than that there are ‘n’ numbers of BCom specializations offered at top b com college in Bangalore. The different colleges offer different specializations and students can choose a specialization course as per their area of interest. Following is the list of BCom specialization courses other than the above-mentioned courses: 
+
+
+          * BCom Investment Management 
+
+          * BCom Banking and Insurance 
+
+          * BCom Financial Market 
+
+          * BCom Computer Applications 
+
+          * BCom statistics 
+
+          * BCom International Business 
+
+          * BCom Information Technology 
+
+          * BCom Foreign Trade Management 
+
+          * BCom ECommerce
 ---
