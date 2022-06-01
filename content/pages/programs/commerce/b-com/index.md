@@ -408,4 +408,20 @@ sections:
           * Business Culture
 
           * EBusiness Culturelective
+      - accordion_title: What are the benefits of taking a Bcom course?
+        accordion_content: >-
+          Completing this course from the top b com college in Bangalore comes
+          up with the following benefits to the students: 
+
+
+          **1. Vast Career Options :** After completing the course from the best b com colleges in Bangalore candidates have the option to go for higher education as per their area of interest. There are many courses. The two most sought-after programs after BCom are MBA and MCom which open up great career opportunities for students. 
+
+
+          **2. Greater career improvement :** Holding a BCom graduate degree means that a student is filled with persistence, determination, intellectual prowess, and the proficiency to handle challenging situations of any type. These qualities are the most desirable qualities looked at in individuals who want to work as a manager of big firms and directorial positions. 
+
+
+          **3. Plethora of Job Areas :** After studying at B com College in Bangalore the candidates are eligible to explore different job areas and know which area is most suitable for them. For BCom graduates, job areas are not limited. Areas, where candidates can try their luck are, are Business Consultancies, Educational Institutes, Industrial Houses, Public Accounting Firms, Policy Planning, Foreign Trade, Banks, Budget Planning, Inventory Control, Merchant Banking, Marketing, Working Capital Management, Treasury and Forex Department, Investment Banking and many more. 
+
+
+          **4. Good Salary Package :**No doubt that BCom graduates get the option to try their luck in various fields and positions. Because of the experience in different sectors, BCom graduates can also earn a good salary.
 ---
