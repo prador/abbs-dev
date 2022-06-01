@@ -295,4 +295,25 @@ sections:
           *  MCom E-Commerce 
 
           * MCom Finance and Control
+      - accordion_title: What are the admission criteria for the Master of Commerce programs?
+        accordion_content: >-
+          Admission to the m.com college in Bangalore is done on the basis of
+          merit or entrance examination. The admission procedures are relatively
+          simple and easy to complete. The candidate either needs to clear the
+          entrance exam or achieve good scores in graduation. The scores needed
+          for a particular MCom specialization will vary as per different
+          colleges/universities, but the basic requirements will remain the
+          same. 
+
+
+          Standard eligibility criteria to get admission at m.com college in Bangalore are as follows: 
+
+
+          * Candidates willing to enroll for an MCom course must obtain a minimum of 50% aggregate in BCom or BCom Hons or equivalent from a recognized university. - Some m.com colleges in Bangalore also consider taking admission the candidates who have done a Bachelor’s in Economics & Statistics, BFIA, BBS, and BBE and obtained a minimum aggregate score of 60% or equivalent from a recognized university. 
+
+          * Candidates under the reserved category get the privilege to mark relaxation of up to 5% in government universities. 
+
+          * There is no maximum age limit to get admission to the m.com college in Bangalore.
+
+          * There are a few m.com colleges in Bangalore, India where written examinations for enrollment in the program will be conducted. And there are some colleges as well where no entrance exams are conducted as the selection process is done on a merit basis.
 ---
