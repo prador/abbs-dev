@@ -196,4 +196,103 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-02-mcom.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: What is the structure of the Master of Commerce?
+        accordion_content: >-
+          Masters of Commerce (MCom) is a 2-year post-graduate level program
+          suitable for candidates who desire to build a career in banking,
+          financial services and insurance (BFSI) & accounting, and commerce
+          sectors as well. M.com college in Bangalore makes students adept at
+          understanding the deeper functioning of the economy, capital, revenue,
+          trade, taxes, etc. which makes this program a very versatile and
+          flexible option to go with, and upon completion of the course,
+          students get the option to pursue their career in various fields. 
+
+
+          In order to get admission to m.com college in Bangalore, students must complete a Graduation in Commerce or Management from a recognized university, with a 50% or more aggregate score. 
+
+
+          #### **Course structure:** 
+
+
+          * **Semester 1** 
+
+            * International Business Environment 4 credits
+            * Principles and Practice of Business Decisions 4 Credits 
+            * Information Technology for Business 4 credits 
+            * Managerial Finance 4 credits
+            * Global Talent Management 4 credits 
+            * Soft Core - Corporate Communication Skills 2 credits
+          * **Semester 2**
+
+            * Modern Indian Banking 4 credits
+            * Risk Management & Derivatives 4 credits
+            * Advanced Research Methodology 4 credits
+            * Digital Marketing 4 credits 
+            * Emerging Trends in Entrepreneurship 4 credits 
+            * Indian Ethos and Leadership 4 credits 
+            * Soft Core - Artificial and Business Intelligence 2 credits
+          * **Semester 3**
+
+            * Intellectual Property Rights 4 credits
+            * Logistics and Supply Chain Management 4 credits
+            * Corporate Reporting Practices - I 4 credits 
+            * Strategic Cost Management – I 4 credits 
+            * Corporate Tax Planning 4 credits Open Elective – Cooperative Management 4 credits
+          * **Semester 4**
+
+            * Business Analytics 4 credits
+            * Forensic Accounting & Auditing 4 credits 
+            * Corporate Reporting Practices - II 4 credits 
+            * Strategic Cost Management - II 4 credits 
+            * Customs Duty and GST 4 credits 
+            * Dissertation / Project 4 credits
+      - accordion_title: How many specializations are there in the Master of Commerce program?
+        accordion_content: >-
+          MCom or Masters of commerce is a two-year master's program designed
+          for the aspirants of accounting, banking, investment, financial
+          service, investment as well as economics, and marketing. This program
+          at m.com college in Bangalore is the perfect opportunity to choose
+          your career among almost all sectors of the economy which makes this
+          program one of the most flexible courses in India. 
+
+
+          The primary sector where MCom students are mostly employed is the insurance sector and as per the data, this sector is expected to attain USD 1 Trillion by 2025, which will ultimately open up more opportunities for MCom students. To Get enrolled at m.com college in Bangalore, candidates have to pass the entrance exam, and there are many universities as well where the admission process is done based on merit. 
+
+
+          This program offer plethora of specializations to the students and some of the major specializations are mentioned below: 
+
+
+          *  MCom Banking and Finance 
+
+          *  MCom Business Administration 
+
+          *  MCom Financial Management
+
+          *  MCom Accountancy 
+
+          *  MCom Economics  
+
+          *  MCom Taxation 
+
+          *  MCom Marketing 
+
+          *  MCom Statistics 
+
+          *  MCom Banking 
+
+          * MCom Finance 
+
+          * MCom Computer Application
+
+          *  MCom Business Management
+
+          *  MCom Accounting and Finance
+
+          *  MCom E-Commerce 
+
+          * MCom Finance and Control
 ---
