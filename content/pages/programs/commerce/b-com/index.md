@@ -259,4 +259,30 @@ sections:
           * BCom Foreign Trade Management 
 
           * BCom ECommerce
+      - accordion_title: "What are the future prospects of Bcom in terms of higher education? "
+        accordion_content: >-
+          Pursuing the BCom course from the best b com colleges in Bangalore is
+          the most common course taken by students after completing their
+          schooling in India. Every next 12th pass-out chooses to pursue the
+          BCom program which makes it hard to build a bright future just with 
+
+
+          this degree in hand until and unless you are extraordinarily smart. Even if you get a job after this degree the salary may not be higher unless higher education is completed. That’s why most BCom graduates opt for further education with expertise in a particular field after completing this course. Also after studying at B com College in Bangalore some candidates obtain a few years of experience and then get enrolled in higher education. 
+
+
+          BCom graduates can opt for PG programs such as MBA and MCom. MBA would help to build a career in the management sector with a higher salary and an MCom would help candidates to pursue their careers in teaching sectors. 
+
+
+          Other than PG courses candidates after studying at a top b com college in Bangalore can also go for further professional courses or prepare for competitive exams such as: 
+
+
+          * Becoming a Chartered Accountant after clearing CA exams. 
+
+          * Becoming Company Secretary is a professional career option in the field of commerce and management. 
+
+          * Becoming Chartered Financial Analyst (CFA) 
+
+          * Choosing Business Accounting and Taxation 
+
+          * Becoming Certified Management Accountant
 ---
