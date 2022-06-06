@@ -78,7 +78,6 @@ const DropdownMenu = () => {
         }
 				
 			}
-      console.log(props.color)
       return (
         <Link key={key} href={props.url ? props.url : "#"} scroll={false}>
           {/* onClick={props.goToMenu != null ? handleClick : ""} */}
