@@ -241,4 +241,80 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-03-01-life-sciences-program.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: "What are the benefits of taking a BSc Biotechnology course? "
+        accordion_content: >-
+          * BSc biotechnology in Bangalore is the most common and highly offered
+          course by the colleges as biotechnology is one of the
+          multidisciplinary fields with massive demand in diverse applications
+          in the field of research and development. 
+
+          * Candidates after completion of the course have options for higher study such as M.Sc, M.Phil, and PhD which will increase the chances for B.Sc Biotechnology graduates to get hired at the highest position jobs. 
+
+          * After studying at BSc Biotechnology college in Bangalore candidates can opt for building a career in their area of interest where biotechnology-related tasks are carried out. 
+
+          * The job prospects are not restricted to the field of Biotechnology like other courses. Graduates can opt to pursue their careers in other allied sectors as well. 
+
+          * Professionals after studying at the best BSc biotechnology college in Bangalore can start their careers in areas of agriculture, animal husbandry and in health care as well. Apart from these sectors an individual can also opt to work in other areas such as: 
+
+            1. Crop Production Units
+            2. Marine Biotechnology Units 
+            3. National Bio-resource Development Firms 
+            4. Bioinformatics sector 
+            5. Environmental Units 
+            6. Chemical Industries
+            7. Colleges and Universities 
+            8. Food Processing Industries 
+            9. Bio Fertilizer Industry 
+            10. Research Organizations  
+            11. Agro-Based Industries
+            12. Aquaculture Industries 
+
+          Graduates of BSc biotechnology colleges Bangalore can expect a salary of around Rs.25000/- per month on an average in top organizations. With sufficient experience in these areas, professionals can earn even more. Top organizations abroad offer various job opportunities for these graduates at a good salary package that is around Rs.45000/- per month on average.
+      - accordion_title: What is BSC Microbiology?
+        accordion_content: >-
+          BSc Microbiology or BSc genetics in Bangalore is all about a detailed
+          study of microorganisms and their effect on the human body. It is a
+          3-year undergraduate program. The course syllabus also includes
+          details on different kinds of viruses and bacteria and how they behave
+          in a human cell. 
+
+
+          The minimum eligibility criteria to get enrolled at a top BSc biotechnology college in Bangalore is completing class 12 or equivalent from a recognized board with Physics, Chemistry, and Biology as mandatory subjects. The admission is done as per the candidate's score in the class 12th examination. There are thriving job opportunities available for microbiology students in top industries. 
+
+
+          BSC Microbiology colleges in Bangalore educate students about microorganisms with particular emphasis on the biology of protozoan parasites, viruses, fungi and bacteria. Microbiologists are responsible for doing the analysis required for the future action against contagious diseases globally, comprehending the environmental significance of microbes and using them for food production, biotechnological and industrial applications. 
+
+
+          The primary aim of accomplishing this course is to understand the pathogenic potential of the organisms that generate infections in human beings. The BSc genetics college in Bangalore covers elements of the biochemistry, physiology and genetics of microorganisms. 
+
+
+          The students are firstly provided with learning the fundamental concepts before specialising in microbiology subjects in the second and final years.
+      - accordion_title: "What is the difference between BSc biotechnology and BSc
+          Microbiology? "
+        accordion_content: >-
+          BSc in microbiology colleges in Bangalore offers both the courses B.Sc
+          Biotechnology and B.Sc Microbiology as they both are the most sought
+          programs. However, students pursuing B.Sc Biotechnology will be
+          eligible for more career opportunities in comparison to students of
+          B.Sc Microbiology. Biotechnology and Microbiology courses are two
+          major disciplines of Biological Sciences with diversified applications
+          in terms of their domain. 
+
+
+          The major differences between both the courses are: 
+
+
+          * B.Sc Biotechnology also covers subjects of Microbiology. BSc biotechnology in Bangalore focuses on Industrial areas, management etc. 
+
+          * On the other hand B.Sc. Microbiology is precise, limited and case study-oriented. 
+
+          * B.Sc. Biotechnology refers to educating students about the manipulation of living organisms at the molecular level through recombinant DNA technology also known as genetic engineering to form useful products for the betterment of mankind. 
+
+          * At the same time B.Sc. Microbiology allows students to explore the world of microbes related to their genomics and proteomics and their applications in food, pharmaceutical, and biotech industries. The main focus of B Sc Microbiology is on microbes and the course includes different factors of Molecular Biology, Genetics, Metagenomics, Industrial Microbiology, Pathology etc. 
+
+          * Choosing a B.Sc Biotechnology course at BSc Biotechnology college in Bangalore can be a smarter choice for a candidate rather than studying at BSC Microbiology Colleges in Bangalore. The reason behind choosing the B.Sc Biotechnology course is that it covers more aspects of biology and thus offers more career opportunities in comparison to B.Sc. Microbiology.
 ---

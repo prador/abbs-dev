@@ -71,15 +71,9 @@ sections:
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
-        slide_button_link: /programs/business/business-programs
-        slide_image: static/img/banner-website-desktop.jpg
-        slide_image_mobile: static/img/website-mobile.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/selection-process-web.jpg
-        slide_image_mobile: static/img/selection-process-mobile.jpg
+        slide_image: static/img/desktop-hero-alumni.jpg
+        slide_image_mobile: static/img/mobile-hero-alumni.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""

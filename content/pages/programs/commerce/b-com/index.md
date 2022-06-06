@@ -210,4 +210,218 @@ sections:
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-03-bcom.pdf
+  - type: accordion_section
+    section_id: ""
+    section_title: FAQ's
+    accordions:
+      - accordion_title: What Bcom specializations can I pursue?
+        accordion_content: >-
+          The Bcom specialization courses offered at the best b com colleges in
+          Bangalore come with different fee structures and different career
+          opportunities. There are a plethora of options available in Bcom
+          Specialization which leads students to get confused about what to
+          choose. Before a student picks one specialization course it is
+          important to seek professional guidance and knowledge regarding the
+          same. 
+
+
+          To give you a wider understanding below is the list of top 5 specializations offered at B com College in Bangalore which will help you to build a better career. 
+
+
+          * B. Com in Economics 
+
+          * B.Com in Law 
+
+          * B.Com in Accounts and Finance 
+
+          * B.Com in Marketing 
+
+          * B.Com in Tourism and Travel Management 
+
+
+          The above-mentioned specializations are only a few specializations, other than that there are ‘n’ numbers of BCom specializations offered at top b com college in Bangalore. The different colleges offer different specializations and students can choose a specialization course as per their area of interest. Following is the list of BCom specialization courses other than the above-mentioned courses: 
+
+
+          * BCom Investment Management 
+
+          * BCom Banking and Insurance 
+
+          * BCom Financial Market 
+
+          * BCom Computer Applications 
+
+          * BCom statistics 
+
+          * BCom International Business 
+
+          * BCom Information Technology 
+
+          * BCom Foreign Trade Management 
+
+          * BCom ECommerce
+      - accordion_title: "What are the future prospects of Bcom in terms of higher education? "
+        accordion_content: >-
+          Pursuing the BCom course from the best b com colleges in Bangalore is
+          the most common course taken by students after completing their
+          schooling in India. Every next 12th pass-out chooses to pursue the
+          BCom program which makes it hard to build a bright future just with 
+
+
+          this degree in hand until and unless you are extraordinarily smart. Even if you get a job after this degree the salary may not be higher unless higher education is completed. That’s why most BCom graduates opt for further education with expertise in a particular field after completing this course. Also after studying at B com College in Bangalore some candidates obtain a few years of experience and then get enrolled in higher education. 
+
+
+          BCom graduates can opt for PG programs such as MBA and MCom. MBA would help to build a career in the management sector with a higher salary and an MCom would help candidates to pursue their careers in teaching sectors. 
+
+
+          Other than PG courses candidates after studying at a top b com college in Bangalore can also go for further professional courses or prepare for competitive exams such as: 
+
+
+          * Becoming a Chartered Accountant after clearing CA exams. 
+
+          * Becoming Company Secretary is a professional career option in the field of commerce and management. 
+
+          * Becoming Chartered Financial Analyst (CFA) 
+
+          * Choosing Business Accounting and Taxation 
+
+          * Becoming Certified Management Accountant
+      - accordion_title: What does B.Com mostly cover?
+        accordion_content: >-
+          BCom program covers a few elements of Accounting, Business,
+          Management, Finance, and Banking domains, which makes students
+          well-equipped with managerial skills, and opens up career
+          opportunities for them. When it comes to the B Com subjects and
+          syllabus taught at B 
+
+
+          com College in Bangalore, candidates have the opportunity to choose among various combinations of courses offered. 
+
+
+          Following are the main subjects that are covered in the BCom course and BCom Hons. 
+
+
+          **BCom Semester I Syllabus** 
+
+
+          * Financial Accounting Business Computing 
+
+          * Business Organisation and Management 
+
+
+          Elective Courses: 
+
+
+          * Principles of Micro Economics, New Venture Planning 
+
+          * Quantitative Methods Communication In English 
+
+
+          **BCom Semester II Syllabus**
+
+
+          * Business Laws
+
+          * Environmental Studies
+
+          * Corporate Communication
+
+          * Financial Systems
+
+          * Business Mathematics and Statistics
+
+           Elective Courses: 
+
+          * Principles of Macro Economics 
+
+          * Foreign Exchange Markets, etc. 
+
+
+          **BCom Semester III Syllabus** 
+
+
+          * Company Law 
+
+          * Advanced Economics 
+
+          * Income Tax Laws
+
+           Elective Courses: 
+
+          * Financial Markets, Indian Economy, etc. 
+
+          * Elements of Cost Accounting Entrepreneurship 
+
+
+          **BCom Semester IV Syllabus** 
+
+
+          * Competition and Consumer Laws Indirect Tax Laws 
+
+          * Stock and Commodity Market  
+
+          * Corporate Accounting (Advanced)
+
+          * Operations Research
+
+
+          Elective Courses: 
+
+
+          * Human Resource Management, Investing in Stock Markets,
+
+          * ECommerce 
+
+
+          **BCom Semester V Syllabus**
+
+
+          * International Business Cost Accounting 
+
+          * Strategic Management
+
+
+          Elective Courses: 
+
+
+          * Principles of Marketing
+
+          * Computer Applications in Business or Advertising 
+
+
+          **BCom Semester VI Syllabus** 
+
+
+          * Business Communication 
+
+          * Management and Information Systems
+
+          * Principles of Auditing 
+
+          * Fundamentals of Financial Management 
+
+          * International Business,  
+
+          * Management Accounting,
+
+          * Corporate Tax Planning, etc. 
+
+          * Business Culture
+
+          * EBusiness Culturelective
+      - accordion_title: What are the benefits of taking a Bcom course?
+        accordion_content: >-
+          Completing this course from the top b com college in Bangalore comes
+          up with the following benefits to the students: 
+
+
+          **1. Vast Career Options :** After completing the course from the best b com colleges in Bangalore candidates have the option to go for higher education as per their area of interest. There are many courses. The two most sought-after programs after BCom are MBA and MCom which open up great career opportunities for students. 
+
+
+          **2. Greater career improvement :** Holding a BCom graduate degree means that a student is filled with persistence, determination, intellectual prowess, and the proficiency to handle challenging situations of any type. These qualities are the most desirable qualities looked at in individuals who want to work as a manager of big firms and directorial positions. 
+
+
+          **3. Plethora of Job Areas :** After studying at B com College in Bangalore the candidates are eligible to explore different job areas and know which area is most suitable for them. For BCom graduates, job areas are not limited. Areas, where candidates can try their luck are, are Business Consultancies, Educational Institutes, Industrial Houses, Public Accounting Firms, Policy Planning, Foreign Trade, Banks, Budget Planning, Inventory Control, Merchant Banking, Marketing, Working Capital Management, Treasury and Forex Department, Investment Banking and many more. 
+
+
+          **4. Good Salary Package :**No doubt that BCom graduates get the option to try their luck in various fields and positions. Because of the experience in different sectors, BCom graduates can also earn a good salary.
 ---
