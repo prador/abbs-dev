@@ -65,7 +65,8 @@ const DropdownMenu = () => {
 			
 			const style = {
 				color: router.asPath === props.url ? 'black' : 'white',
-        backgroundColor: router.asPath === props.url ? '#DBDBDB' : 'transparent',
+        backgroundColor: router.asPath === props.url ? '#DBDBDB' : props.color ? props.color: "transparent",
+        // backgroundColor: props.nav_link_color? props.nav_link_color: "transparent"
 			}
 			const handleClick = (e) => {
 				e.preventDefault()
@@ -77,6 +78,7 @@ const DropdownMenu = () => {
         }
 				
 			}
+      console.log(props.color)
       return (
         <Link key={key} href={props.url ? props.url : "#"} scroll={false}>
           {/* onClick={props.goToMenu != null ? handleClick : ""} */}
@@ -106,7 +108,7 @@ const DropdownMenu = () => {
                 </DropdownItem> }
                 
                 {top.menu_nav_list.map(((nav,id,index) => 
-                  <>{nav.show !== false ? <DropdownItem btn={"menu"} className="something" key={id} url={top.parent_menu_id === "-" ? nav.menu_nav_link : nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem> : "" }</>
+                  <>{nav.show !== false ? <DropdownItem btn={"menu"} color={nav.nav_link_color} key={id} url={top.parent_menu_id === "-" ? nav.menu_nav_link : nav.menu_nav_link} goToMenu={nav.submenu_link}>{nav.menu_nav_label}</DropdownItem> : "" }</>
                 ))}
               </div>
             </CSSTransition>

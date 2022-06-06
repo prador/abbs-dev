@@ -18,7 +18,7 @@
 .in-page-links {
   position: sticky;
   opacity: 0;
-  top: 20vh;
+  top: 10vh;
   display: flex;
   flex-direction: column;
   height: auto;
@@ -401,6 +401,10 @@ flex-direction: column-reverse;
 .doc-btn p {
   margin:0
 }
+.table-wrapper {
+  width: 100%;
+  overflow-x: scroll;
+}
 table.c23 {
   margin: 1rem 0;
   border: 1px solid #eee;
@@ -418,6 +422,17 @@ td {
 .c9.table-head td{
   padding:0.5rem;
   text-align: center;
+}
+table td p {
+  margin-bottom: 0;
+}
+table:not(.organizing-committee) tr:nth-of-type(1) td span {
+  font-weight: bold;
+  color: var(--color-white);
+}
+table:not(.organizing-committee) tr:nth-of-type(1) td{
+  border: 1px solid #999;
+  background-color: var(--color-black);
 }
 @media screen and (max-width:575px) {
     .section-title .header-hyphen {

@@ -46,6 +46,12 @@ top_menu:
         menu_nav_link: https://www.tcsion.com/SelfServices/
         submenu_link: null
         show: true
+      - menu_nav_label: International Conference 2023
+        menu_nav_link: /international-conference-2023
+        submenu_link: ""
+        show: true
+        nav_link_colour: "#0c38ef"
+        nav_link_color: "#0c38ef"
     parent_menu_id: "-"
   - menu_title: Profile
     menu_id: profile

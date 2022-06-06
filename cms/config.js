@@ -911,12 +911,7 @@ module.exports = {
                 widget: "string",
                 hint: "this id should match the navigation anchor link on the side",
                 default: ""
-              }, {
-                label: "Section Image",
-                name: "section_image",
-                widget: "image",
-                required: false
-              }, {
+              },{
                 label: "Section Title",
                 name: "section_title",
                 required: false,
@@ -2128,6 +2123,13 @@ module.exports = {
                     required: false,
                     widget: "boolean",
                     default: true
+                  },
+                  {
+                    label: "Nav Link Colour",
+                    name: "nav_link_color",
+                    widget:"color",
+                    default:"transparent",
+                    required: false
                   }],
                 }
               ]

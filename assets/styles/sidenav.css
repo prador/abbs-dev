@@ -184,7 +184,7 @@
     position: fixed;
     display: flex;
     flex-direction: column;
-    max-width: 200px;
+    max-width: 230px;
     z-index: 999;
   }
   

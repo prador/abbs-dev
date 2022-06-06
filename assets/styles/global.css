@@ -143,6 +143,7 @@
 html{
   font-size: 14px;
   scroll-behavior: smooth;
+  scroll-padding-top: 2rem;
 }
 body {
   font-family: var(--font-family-secondary), sans-serif;

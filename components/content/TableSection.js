@@ -8,18 +8,11 @@ import remarkGfm from 'remark-gfm'
 const TableSection = ({att}) => {
   return (
   <>
-    <section className="text-section-wrapper">
-     {att.table_section ?  <>
-     { att.table_section.map((section,index) => (
-          <div key={section.id} className="text-section-block">
-            {section.section_title ? <h2 className="section-title" id={section.section_id}><span className="header-hyphen"></span>{section.section_title}</h2> : "" }
-            {/* {section.section_text ? <div dangerouslySetInnerHTML={{ __html: section.section_text }} /> :"" } */}
-
-            <div><ReactMarkdown children={section.section_text} remarkPlugins={[remarkGfm]} /></div>
-            {section.button_label ? <a className="btn btn-outline slide-btn" target="_blank" href={section.button_link ? section.button_link : "#"}>{section.button_label}</a> :"" }
+    <section className="table-section-wrapper">
+      <div className={"table-section-block "+`${att.embed_size ? att.embed_size : ""}`}>
+            {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
+            <div className="table-wrapper" dangerouslySetInnerHTML={{__html: att.table_content}}/>
           </div>
-    ))}
-      </> : "" }
     </section>
   </>
 )}
