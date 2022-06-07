@@ -1,5 +1,5 @@
 ---
-title: Terms and Conditions
+title: Terms and Conditions | Bangalore Business School
 date: 2021-12-04T06:36:27.149Z
 text_section:
   - section_id: ""
