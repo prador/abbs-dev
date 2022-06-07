@@ -1,21 +1,9 @@
 ---
 title: Health and Wellness
-date: 2021-12-04T06:22:18.564Z
-seo_title: Best Business School in Bangalore | Health and Wellness | Campus Life 
-seo_description: 
+seo_title: "Best Business School in Bangalore | Health and Wellness "
+seo_description: null
 seo_keywords: Business School in Bangalore, ABBS, Health and Wellness
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:22:18.564Z
 thumbnail: static/img/07-01-health-and-wellness-01-banner.jpg
 sections:
   - type: text_section
@@ -46,4 +34,16 @@ sections:
         anchor_loc: gymnasium
       - anchor_label: Yoga Oasis
         anchor_loc: yoga
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---
