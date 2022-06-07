@@ -1,5 +1,6 @@
 ---
 title: B. Com Supply chain Management
+seo_title: B. Com Supply chain Management.
 date: 2021-12-04T06:09:29.346Z
 thumbnail: static/img/03-04-04-bcom-supply-chain-and-logistics-01-banner.jpg
 sections:
@@ -131,7 +132,7 @@ sections:
     next_intake: January 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelors in Supply chain and Logistics
-    apply_form: "https://application.abbs.edu.in/bschool/"
+    apply_form: https://application.abbs.edu.in/bschool/
     contact_form: ""
     request_brochure_link: ""
     brochure: static/img/03-04-04-bcom-supply-chain-and-logistics.pdf
