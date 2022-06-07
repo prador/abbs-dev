@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: "Best Business School in Bangalore | Blog "
 seo_title: Best Business School in Bangalore | Blog | ABBS
 seo_description: null
 seo_keywords: null
