@@ -1,18 +1,9 @@
 ---
 title: Code of Conduct
+seo_title: Code of Conduct | B-School - top B school in Bangalore
+seo_description: The Institution has rules and regulations regarding Employee
+  behaviour that are necessary for the efficient operation of the Institution
 date: 2021-12-04T06:27:57.043Z
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
 thumbnail: static/img/code-of-conduct-banner.jpg
 sections:
   - type: text_section
@@ -131,4 +122,16 @@ sections:
     links:
       - anchor_label: "Code of Conduct for Employees "
         anchor_loc: code-of-conduct
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---
