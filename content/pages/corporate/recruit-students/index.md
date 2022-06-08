@@ -1,21 +1,10 @@
 ---
 title: Recruit Students
-date: 2021-12-04T06:17:01.833Z
 seo_title: Best Business School in Bangalore | Recruitment
-seo_description: 
+seo_description: ABBS collaborates with academic and corporate leaders to create
+  relevant and advanced programmes that are pointed at holistic development.
 seo_keywords: Business School in Bangalore, ABBS, Recruitment
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:17:01.833Z
 thumbnail: static/img/06-01-recruit-students-01-banner.jpg
 sections:
   - type: text_section
@@ -83,4 +72,16 @@ sections:
         anchor_loc: abbs-training
       - anchor_label: How is the placement record?
         anchor_loc: placement-record
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---
