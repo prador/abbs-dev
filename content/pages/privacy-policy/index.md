@@ -1,6 +1,8 @@
 ---
 title: Privacy Policy
 seo_title: Privacy Policy | Acharya top B school in Bangalore
+seo_description: Acharya Bangalore Business School is one of the Best Business
+  Schools in Bangalore | Acharya| privacy policy
 date: 2021-12-04T06:36:50.883Z
 thumbnail: static/img/student-exit-formalities-banner.jpg
 sections:
