@@ -1,6 +1,8 @@
 ---
 title: FAQs
 seo_title: "FAQs | Bangalore B-School - The top B school in Bangalore "
+seo_description: Acharya Bangalore Business School is one of the Best Business
+  Schools in Bangalore | Acharya| FAQs
 date: 2021-12-04T06:27:39.231Z
 thumbnail: static/img/faq-banner.jpg
 sections:
