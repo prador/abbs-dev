@@ -1,18 +1,7 @@
 ---
 title: Careers @ ABBS
+seo_title: Careers @ ABBS | top B school in Bangalore
 date: 2021-12-04T06:35:55.731Z
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
 thumbnail: static/img/careers-at-abbs-banner.jpg
 sections:
   - type: embed_section
@@ -123,5 +112,17 @@ sections:
         anchor_loc: teaching
       - anchor_label: Non-Teaching
         anchor_loc: non-teaching
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---
 The ABBS community thrives on its unity for professionalism and family bonding. This great environment is a self-reinforcing one, with all of these efforts supporting one another, and together creating an organization that is creative, fun, hardworking and highly productive. The work life at ABBS comes with many benefits, providing opportunities for growth, and solutions to mounting challenges. The campus is ergonomically designed to evoke one’s creativity and optimal productivity; it is perfectly situated away from the hustle of the metropolitan allowing for a stress-free campus atmosphere. The serene greenery at the campus helps one focus on important tasks and assignments with ease as well as unwind.
