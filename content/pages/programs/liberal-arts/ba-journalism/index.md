@@ -1,9 +1,9 @@
 ---
 title: BA Journalism
-seo_title: BA Journalism Colleges | Best College for BA in mass communication
-seo_description: ABBS College in Bangalore offers a three-year undergraduate
-  journalism and mass communication program. It focuses on the media and mass
-  communication industries.
+seo_title: BA Journalism Colleges | BA History colleges in Bangalore
+seo_description: ABBS offers a three-year undergraduate journalism and mass
+  communication program. It focuses on the media and mass communication
+  industries
 seo_keywords: ba journalism colleges, ba journalism colleges in bangalore, BA
   Mass Communication Colleges in Bangalore, ba journalism and mass communication
   colleges in bangalore, ba mass communication colleges, best college for ba in
