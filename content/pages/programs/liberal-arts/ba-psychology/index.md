@@ -1,5 +1,5 @@
 ---
-title: BA Psychology
+title: BA Psychology | B-School - The bangalore B School
 date: 2021-12-04T06:11:20.983Z
 thumbnail: static/img/03-05-02-ba-psychology-banner.jpg
 sections:
