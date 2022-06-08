@@ -1,6 +1,6 @@
 ---
 title: B.Sc
-seo_title: Bsc Biotechnology in bangalore | Bsc Microbiology in Bangalore
+seo_title: BSC Genetics in Bangalore | Bsc Microbiology in Bangalore
 seo_description: "Bsc biotechnology in bangalore: Abbs is one of the best bsc
   genetics colleges in Bangalore also know as bsc microbiology colleges in
   Bangalore."
