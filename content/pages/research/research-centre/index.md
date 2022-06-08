@@ -1,7 +1,8 @@
 ---
 title: Research Centre
 seo_title: Best Business School in Bangalore | Research Centre
-seo_description: null
+seo_description: ABBS Centre for Research and Innovation (ACRI) is an initiative
+  taken to emphasize on research having relevance to Industry and Society.
 seo_keywords: Business School in Bangalore, ABBS, Research
 date: 2021-12-04T06:14:40.465Z
 thumbnail: static/img/05-01-research-centre-01-banner.jpg
