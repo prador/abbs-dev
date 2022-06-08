@@ -1,9 +1,10 @@
 ---
 title: Recognition / Accreditations
+seo_title: Accredited Business School in Bangalore | Autonomous college
+seo_description: null
+seo_keywords: Business School in Bangalore, ABBS, Accredited Business School,
+  Acharya Bangalore Business School
 date: 2021-12-04T05:28:10.387Z
-seo_title: Accredited Business School in Bangalore | Acharya Bangalore Business School
-seo_description: 
-seo_keywords: Business School in Bangalore, ABBS, Accredited Business School, Acharya Bangalore Business School
 thumbnail: static/img/02-01-recongition-accredations-01-banner.jpg
 sections:
   - type: logo_section
