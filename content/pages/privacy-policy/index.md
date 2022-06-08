@@ -1,21 +1,22 @@
 ---
 title: Privacy Policy
+seo_title: Privacy Policy | Acharya top B school in Bangalore
 date: 2021-12-04T06:36:50.883Z
+thumbnail: static/img/student-exit-formalities-banner.jpg
+sections:
+  - type: anchor_section
+logo_section:
+  - logo_title: ""
+    logo_link: ""
 text_section:
   - section_id: ""
     section_title: ""
     section_text: ""
     button_label: ""
     button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
 links:
   - anchor_title: ""
     anchor_id: ""
-thumbnail: static/img/student-exit-formalities-banner.jpg
-sections:
-  - type: anchor_section
 ---
 A privacy policy states how you will respect the privacy of your website users. It says what information you will gather, how you will use it and how you will keep it secure. 
 
