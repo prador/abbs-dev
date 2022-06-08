@@ -1,7 +1,8 @@
 ---
 title: Recognition / Accreditations
 seo_title: Accredited Business School in Bangalore | Autonomous college
-seo_description: null
+seo_description: Acharya Bangalore Business School is one of the Best Business
+  Schools in Bangalore | Recognition / Accreditations
 seo_keywords: Business School in Bangalore, ABBS, Accredited Business School,
   Acharya Bangalore Business School
 date: 2021-12-04T05:28:10.387Z
