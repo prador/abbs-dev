@@ -1,7 +1,8 @@
 ---
 title: All Programs
 seo_title: "Acharya Bangalore B School | Programs  "
-seo_description: Programs page description
+seo_description: ABBS has five academic divisions, made up of individual
+  departments and faculties , and a Department for Continuing Education.
 seo_keywords: Programs, business
 date: 2021-11-19T22:38:59.974Z
 thumbnail: static/img/14.jpg
