@@ -1,5 +1,6 @@
 ---
 title: Life Sciences Programs
+seo_title: Life Sciences Programs |  Business School in Bangalore
 date: 2021-12-04T06:09:13.993Z
 sections:
   - type: program_section
