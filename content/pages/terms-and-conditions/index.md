@@ -13,6 +13,8 @@ logo_section:
 links:
   - anchor_title: ""
     anchor_id: ""
+seo_description: If you continue to browse and use this website you are agreeing
+  to comply with and be bound by the following terms and conditions of use
 thumbnail: static/img/student-exit-formalities-banner.jpg
 sections:
   - type: text_section
