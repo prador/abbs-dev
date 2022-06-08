@@ -1,5 +1,9 @@
 ---
-title: BA Psychology | B-School - The bangalore B School
+title: BA Psychology
+seo_title: BA Psychology | B-School - The bangalore B School
+seo_description: The Bachelor’s of Arts Sociology, Psychology & Political
+  sciences are latest 3year undergraduate programs and 4years for BA honours
+  under Bangalore University.
 date: 2021-12-04T06:11:20.983Z
 thumbnail: static/img/03-05-02-ba-psychology-banner.jpg
 sections:
