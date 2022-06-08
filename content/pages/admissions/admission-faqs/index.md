@@ -1,10 +1,11 @@
 ---
 title: Admission - FAQ's
+seo_title: Best Business School in Bangalore | ABBS | Admissions | FAQs
+seo_description: Acharya Bangalore Business School is one of the Best Business
+  Schools in Bangalore | Acharya| Admission
+seo_keywords: null
 date: 2021-12-04T06:21:36.601Z
 thumbnail: static/img/08-07-admission-faqs-01-banner.jpg
-seo_title: Best Business School in Bangalore | ABBS | Admissions | FAQs
-seo_description: 
-seo_keywords: 
 sections:
   - type: accordion_section
     section_id: faqs
