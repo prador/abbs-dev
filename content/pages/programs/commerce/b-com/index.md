@@ -1,9 +1,9 @@
 ---
 title: B. Com
 seo_title: B com College in Bangalore | top b com college in Bangalore
-seo_description: "Top b com colleges in Bangalore: Abbs is one of the best b com
-  colleges in Bangalore. ABBS B Com program curriculum has been suitably
-  reformed to meet the challenging needs of the Indian Corporates"
+seo_description: "Top b com colleges in Bangalore: ABBS B Com program curriculum
+  has been suitably reformed to meet the challenging needs of the Indian
+  Corporates"
 seo_keywords: best b com colleges in bangalore, B com Colleges in Bangalore, Top
   B com Colleges in Bangalore
 date: 2022-05-10T04:40:14.916Z
