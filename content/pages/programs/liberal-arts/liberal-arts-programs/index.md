@@ -1,6 +1,9 @@
 ---
 title: Liberal Arts Programs
 seo_title: Liberal Arts Programs | Top Business School in Bangalore
+seo_description: BA Economics, Statistics and Marketing is one of the most
+  sought after BA programs. It opens up to the world of data analysis,
+  probability
 date: 2021-12-04T06:10:03.871Z
 thumbnail: static/img/03-05-liberal-arts-banner.jpg
 sections:
