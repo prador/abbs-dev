@@ -1,6 +1,8 @@
 ---
 title: Careers @ ABBS
 seo_title: Careers @ ABBS | top B school in Bangalore
+seo_description: The ABBS community thrives on its unity for professionalism and
+  family bonding. This great environment is a self-reinforcing one
 date: 2021-12-04T06:35:55.731Z
 thumbnail: static/img/careers-at-abbs-banner.jpg
 sections:
