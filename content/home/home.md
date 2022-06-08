@@ -135,7 +135,7 @@ sections:
     section_id: main section
     section_title: "TOP BUSINESS SCHOOL IN BANGALORE "
     section_text: >-
-      **ABBS-B SCHOOL**
+      # Business School in Bangalore
 
 
       ***From Developing Business Modules To Resolving Business Affairs, You Learn All At ABBS-Business School in Bangalore……***
