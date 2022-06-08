@@ -1,6 +1,9 @@
 ---
 title: Business Programs
 seo_title: Business Programs | Top Business School in Bangalore
+seo_description: To develop students to face Managerial challenges through
+  effective decision making, logical and critical thinking to excel in chosen
+  career.
 date: 2021-12-04T06:08:08.025Z
 thumbnail: static/img/03-02-01-management-programs-banner.jpg
 sections:
