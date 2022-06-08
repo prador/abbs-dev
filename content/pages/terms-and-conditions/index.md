@@ -1,20 +1,9 @@
 ---
-title: Terms and Conditions | Bangalore Business School
-date: 2021-12-04T06:36:27.149Z
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+title: Terms and Conditions
+seo_title: Terms and Conditions | Bangalore Business School
 seo_description: If you continue to browse and use this website you are agreeing
   to comply with and be bound by the following terms and conditions of use
+date: 2021-12-04T06:36:27.149Z
 thumbnail: static/img/student-exit-formalities-banner.jpg
 sections:
   - type: text_section
@@ -199,4 +188,16 @@ sections:
 
       Every effort is made to keep the website up and running smoothly. However, Acharya Bangalore B-School takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
   - type: anchor_section
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---
