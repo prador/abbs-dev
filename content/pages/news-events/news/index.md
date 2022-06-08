@@ -1,4 +1,8 @@
 ---
+title: News
+seo_title: Best Business School in Bangalore | ABBS | News
+seo_description: Acharya Bangalore Business School is one of the Best Business
+  Schools in Bangalore | ABBS | News
 seo_keywords: null
 date: 2021-12-04T06:18:25.161Z
 thumbnail: static/img/09-01-news-01-banner.jpg
@@ -14,10 +18,7 @@ text_section:
     section_text: ""
     button_label: ""
     button_link: ""
-title: News
-seo_title: Best Business School in Bangalore | ABBS | News
 links:
   - anchor_title: ""
     anchor_id: ""
-seo_description: null
 ---
