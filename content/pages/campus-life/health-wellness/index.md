@@ -1,7 +1,8 @@
 ---
 title: Health and Wellness
 seo_title: "Best Business School in Bangalore | Health and Wellness "
-seo_description: null
+seo_description: We encourage all students to pursue a basic fitness programme
+  and strike a balance between mental and physical fitness.
 seo_keywords: Business School in Bangalore, ABBS, Health and Wellness
 date: 2021-12-04T06:22:18.564Z
 thumbnail: static/img/07-01-health-and-wellness-01-banner.jpg
