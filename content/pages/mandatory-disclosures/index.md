@@ -1,8 +1,8 @@
 ---
 title: Mandatory Disclosures
-seo_title: B Schools in Bangalore | Blog | ABBS
+seo_title: Mandatory Disclosures | Acharya the top B school in Bangalore
 seo_description: Acharya Bangalore Business School is one of the Best Business
-  Schools in Bangalore | Mandatory Disclosures | ACADEMICS
+  Schools in Bangalore | Acharya| Mandatory Disclosures
 date: 2021-12-04T06:34:56.957Z
 thumbnail: static/img/mandatory-disclosures-banner.jpg
 sections:
