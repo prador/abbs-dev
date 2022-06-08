@@ -1,5 +1,9 @@
 ---
 title: Information Technology Program
+seo_title: "Information Technology Program | top B school in Bangalore "
+seo_description: Our Information Technology programme strikes the perfect
+  balance between theoretical skill instruction and intricate, hands-on system
+  design.
 date: 2021-12-04T06:12:18.392Z
 thumbnail: static/img/03-06-inforamtion-technology-banner.jpg
 sections:
