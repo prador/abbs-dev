@@ -1,6 +1,8 @@
 ---
 title: Life Sciences Programs
 seo_title: Life Sciences Programs |  Business School in Bangalore
+seo_description: Biotechnology may be a fast-developing sector. Advancements are
+  being created at workable pace in this sector.
 date: 2021-12-04T06:09:13.993Z
 sections:
   - type: program_section
