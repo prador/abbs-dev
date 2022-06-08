@@ -1,6 +1,8 @@
 ---
 title: BA Economics
 seo_title: BA Economics | Bangalore B-School - Autonomous college
+seo_description: Due to the recent global economic crisis, economics has gained
+  more significance than ever across the world
 date: 2022-02-22T03:21:18.494Z
 thumbnail: static/img/03-05-04-ba-economics-banner.jpg
 sections:
