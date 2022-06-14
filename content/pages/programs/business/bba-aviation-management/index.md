@@ -16,7 +16,7 @@ sections:
     section_id: overview
     section_title: Overview
     section_text: >-
-      ***Come and get the wings needed to fly towards your dream job***
+      Come and get the wings needed to fly towards your dream job
 
 
       **BBA AVIATION COURSE AT ABBS**
