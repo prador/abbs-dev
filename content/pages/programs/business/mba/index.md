@@ -19,7 +19,7 @@ sections:
       ***\#Top MBA College in Bangalore***
 
 
-      > **RIGHT SPOT TO WORK OUT AND BECOME THE LEADER YOU ALWAYS DREAMT OF……..**
+      > RIGHT SPOT TO WORK OUT AND BECOME THE LEADER YOU ALWAYS DREAMT OF……..
 
 
       Get Yourself Enrolled At **ABBS**, Listed Among **Top 5 MBA Colleges In Bangalore**
