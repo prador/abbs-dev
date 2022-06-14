@@ -138,7 +138,7 @@ sections:
       # Business School in Bangalore
 
 
-      ***From Developing Business Modules To Resolving Business Affairs, You Learn All At ABBS-Business School in Bangalore……***
+      From Developing Business Modules To Resolving Business Affairs, You Learn All At ABBS-Business School in Bangalore……
 
 
       **ABBS- BANGALORE B SCHOOL**
