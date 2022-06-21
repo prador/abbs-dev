@@ -22,7 +22,7 @@ sections:
       **BSC BIOTECHNOLOGY IN BANGALORE**
 
 
-      > **Protection of natural life is the subject you will study here and protection of your interest is the subject that matters most in ABBS-Best BSC Biotechnology College in Bangalore**
+      > Protection of natural life is the subject you will study here and protection of your interest is the subject that matters most in ABBS-Best BSC Biotechnology College in Bangalore
 
 
       The BSc biotechnology course at ABBS has gained importance and reputation over years for superiority in its education and research, constantly being the top recommendation for BSc biotechnology college Bangalore. This unit of study is small enough to unite everyone together but at the same time is extensive enough to deliver excellent skills.

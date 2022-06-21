@@ -15,7 +15,7 @@ sections:
       **BBA IN BANGALORE**
 
 
-      > **WHATEVER IT TAKES TO BUILD AN ACCOMPLISHED PROFESSIONAL……**
+      > WHATEVER IT TAKES TO BUILD AN ACCOMPLISHED PROFESSIONAL……
 
 
       **ABBS-BBA college in Bangalore delivers incomparable educational excellence.**
