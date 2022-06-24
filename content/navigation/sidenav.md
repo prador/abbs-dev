@@ -42,6 +42,11 @@ top_menu:
         menu_nav_link: /news-events/news
         submenu_link: news-events
         show: true
+      - menu_nav_label: NAAC
+        menu_nav_link: /mandatory-disclosures/category/naac
+        submenu_link: "-"
+        show: true
+        nav_link_color: transparent
       - menu_nav_label: Login
         menu_nav_link: https://www.tcsion.com/SelfServices/
         submenu_link: null
