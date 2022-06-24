@@ -44,7 +44,7 @@ top_menu:
         show: true
       - menu_nav_label: NAAC
         menu_nav_link: /mandatory-disclosures/category/naac
-        submenu_link: "-"
+        submenu_link: ""
         show: true
         nav_link_color: transparent
       - menu_nav_label: Login
