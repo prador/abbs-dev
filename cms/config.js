@@ -2000,22 +2000,16 @@ module.exports = {
           required: true
         },
         {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          required: true
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false
         },
         {
           label: "Index number",
           name: "index",
           widget: "string",
           required: true
-        },
-        {
-          label: "Description",
-          name: "description",
-          widget: "string",
-          required: false
         },
         {
           label: "Section",
@@ -2025,7 +2019,7 @@ module.exports = {
           multiple: false,
           options: ["SSR","DVV"],
           hint: "",
-          default: ""
+          default: "SSR"
         },
         {
           label: "Category",
@@ -2049,6 +2043,12 @@ module.exports = {
           name: "show_toggle",
           widget: "boolean",
           default: true
+        },
+        {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          required: true
         }
       ]
     },

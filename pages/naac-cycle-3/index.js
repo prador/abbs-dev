@@ -45,7 +45,7 @@ const MandatoryDisclosures = (docList) => {
       <section id="content-wrapper" className='has-anchors'>
         <div className='naac-doc-tabs'>
           <button className={`naac-doc-tab ${docSection == "SSR" ? "active" : ""}`} onClick={()=> {setDocSection("SSR")}}>SSR</button>
-          <button className={`naac-doc-tab ${docSection == "DVV" ? "active" : ""}`}  onClick={()=> {setDocSection("DVV")}}>DVV</button>
+          {/* <button className={`naac-doc-tab ${docSection == "DVV" ? "active" : ""}`}  onClick={()=> {setDocSection("DVV")}}>DVV</button> */}
         </div>
       <input className="search-input" id="doc-search" placeholder="Search Docs" type="text" onChange={handleChange} value={searchValue}/>
       {/* <PageContent att={attributes} html={html} docs={docList}/> */}
