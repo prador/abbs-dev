@@ -401,6 +401,36 @@ flex-direction: column-reverse;
 .doc-btn p {
   margin:0
 }
+.naac-doc-btn {
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-position: 100%;
+}
+.naac-doc-btn .view-span{
+  margin-right:30px;
+}
+.naac-doc-btn .index-span{
+  min-width: 80px;
+  margin-right:10px;
+}
+.naac-doc-tabs {
+  margin-bottom: 1rem;
+}
+.naac-doc-tab {
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  background-color:var(--color-offwhite);
+  border: none;
+  color: var(--color-grey);
+}
+.naac-doc-tab.active {
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  background-color:var(--color-blue);
+  border: none;
+  color: var(--color-white);
+}
 .table-wrapper {
   width: 100%;
   overflow-x: scroll;

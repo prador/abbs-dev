@@ -42,8 +42,8 @@ top_menu:
         menu_nav_link: /news-events/news
         submenu_link: news-events
         show: true
-      - menu_nav_label: NAAC
-        menu_nav_link: /mandatory-disclosures/category/naac
+      - menu_nav_label: NAAC Cycle 3
+        menu_nav_link: /naac-cycle-3
         submenu_link: ""
         show: true
         nav_link_color: transparent
