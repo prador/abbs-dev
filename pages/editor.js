@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 import Head from "next/head";
-
+import netlifyIdentity from "netlify-identity-widget"
 import config from "../cms/config";
 import ImgCaption from "../components/cms/ImgCaption";
 import TextSection from "../components/cms/TextSection";
@@ -14,6 +14,12 @@ const CMS = dynamic(
       // cms.registerWidget('parent', parentWidget.control, parentWidget.preview);
       cms.registerEditorComponent(TextSection);
       cms.registerEditorComponent(RegisterFile);
+      {
+        // container: '#some-query-selector'; // container to attach to
+        APIUrl: 'https://abbs.edu.in/.netlify/identity'; // Absolute url to endpoint.  ONLY USE IN SPECIAL CASES!
+        namePlaceholder: 'ABBS'; // custom placeholder for name input form
+        locale: 'en'; // language code for translations - available: en, fr, es, pt, hu, pl, cs, sk - default to en
+      }
     }),
   {
     ssr: false,
@@ -36,7 +42,7 @@ const AdminPage = () => {
           <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32x32.png"/>
           <link rel="icon" type="image/png" sizes="16x16" href="../assets/img/favicon-16x16.png"/>
           <link rel="mask-icon" href="../assets/img/safari-pinned-tab.svg" color="#5bbad5"/>
-          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> 
+          {/* <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>  */}
       </Head>
       <CMS className="cms-editor"/>
     </>

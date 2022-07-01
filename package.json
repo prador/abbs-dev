@@ -16,6 +16,7 @@
     "keen-slider": "^6.2.3",
     "netlify-cms": "2.10.17",
     "netlify-cms-app": "^2.15.59",
+    "netlify-identity-widget": "^1.9.2",
     "next": "latest",
     "node-html-parser": "^5.3.3",
     "normalize.css": "^8.0.1",
