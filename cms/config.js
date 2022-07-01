@@ -1682,6 +1682,20 @@ module.exports = {
               }]
             }
           ]
+        },
+        {
+          label: "Header Scripts",
+          name: "header_scripts",
+          widget: "text",
+          required: false,
+          hint: "Add content or scripts here to be added on all pages, in the header"
+        },
+        {
+          label: "Body Scripts",
+          name: "body_scripts",
+          widget: "text",
+          required: false,
+          hint: "Add content or scripts here to be added on all pages, in the body"
         }
       ]
     },

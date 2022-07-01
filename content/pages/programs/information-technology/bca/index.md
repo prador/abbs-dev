@@ -271,4 +271,45 @@ sections:
           * The placement facility offers students to interact with their own mentors who are responsible to handle any issues that come their way and directing students to focus on the targets. -The placement facility includes workshops and guest lectures by professionals and experienced leaders. 
 
           * Students are provided with constant interaction, consultation, and visits with the enterprise bodies, industry experts, R&D institutions, and University Officials which helps students to get a wider understanding of their job role.
+header_scripts: >
+  <script type="application/ld+json">
+
+  {
+    "@context": "https://schema.org/", 
+    "@type": "BreadcrumbList", 
+    "itemListElement": [{
+      "@type": "ListItem", 
+      "position": 1, 
+      "name": "Home Page",
+      "item": "https://abbs.edu.in/"  
+    },{
+      "@type": "ListItem", 
+      "position": 2, 
+      "name": "best bca colleges in bangalore",
+      "item": "https://abbs.edu.in/programs/information-technology/bca-colleges-in-bangalore"  
+    }]
+  }
+
+  </script>
+
+
+  <script type="application/ld+json">
+
+  {
+    "@context": "https://schema.org/", 
+    "@type": "BreadcrumbList", 
+    "itemListElement": [{
+      "@type": "ListItem", 
+      "position": 1, 
+      "name": "Home Page",
+      "item": "https://abbs.edu.in/"  
+    },{
+      "@type": "ListItem", 
+      "position": 2, 
+      "name": "ba travel and tourism colleges in bangalore",
+      "item": "https://abbs.edu.in/programs/liberal-arts/ba-journalism-colleges-in-bangalore"  
+    }]
+  }
+
+  </script>
 ---

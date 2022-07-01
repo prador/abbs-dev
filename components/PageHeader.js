@@ -1,9 +1,11 @@
 import Head from 'next/head'
 import React from 'react'
 import { useRouter } from "next/router";
+import { Parser } from "html-to-react";
 
 const PageHeader = ({attributes,children}) => {
   const router = useRouter();
+  const { parse } = new Parser();
   const canonical = `https://abbs.edu.in` + router.asPath;
   return (
   <>
@@ -35,8 +37,9 @@ const PageHeader = ({attributes,children}) => {
           <meta property="og:type" content="website" />
           
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-          {attributes.header_scripts ? <head dangerouslySetInnerHTML={{ __html: attributes.header_scripts }} /> : "" }
+          {attributes.header_scripts ? parse(attributes.header_scripts) : "" }
           <link rel="canonical" href={canonical} />
+          
     </Head>
   </>
 )}

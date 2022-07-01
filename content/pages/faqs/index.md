@@ -67,4 +67,5 @@ sections:
           boys and girls, which is of single, 2 sharing, 3 sharing and 4 sharing
           according to the request of the students with good facilities along
           with 24 hours Wi-Fi.
+header_scripts: ""
 ---

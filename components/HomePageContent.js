@@ -85,7 +85,6 @@ const HomePageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsLis
 
           {/* <div id="content-wrapper" className={getContainer()}> */}
           <div id="content-wrapper" className={att.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
-              {html ? <div dangerouslySetInnerHTML={{ __html: html }} /> : "" }
               {att.sections ? <>
                 {att.sections.map((section,index)=> (
                   <div key={index}>

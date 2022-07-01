@@ -20,17 +20,85 @@ header_scripts: >-
 
 
   {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Abbs",
-    "url": "https://abbs.edu.in/",
-    "sameAs": \[
-      "http://linkedin.com/company/abbs-bangalore",
-      "https://www.instagram.com/acharyabbs/ ",
-      "https://www.youtube.com/channel/UCz8-ywkRROF8osRAkY7aYrQ",
-      "https://twitter.com/acharyabschool"
-    ]
+
+
+  "@context": "https://schema.org",
+
+
+  "@type": "Organization",
+
+
+  "name": "Abbs",
+
+
+  "alternateName": "business school in bangalore",
+
+
+  "url": "https://abbs.edu.in/",
+
+
+  "logo": "https://abbs.edu.in/static/img/00-abbs-logo-white.svg",
+
+
+  "sameAs": [
+
+
+  "http://linkedin.com/company/abbs-bangalore",
+
+
+  "https://www.instagram.com/acharyabbs/ ",
+
+
+  "https://www.youtube.com/channel/UCz8-ywkRROF8osRAkY7aYrQ",
+
+
+  "https://twitter.com/acharyabschool"
+
+
+  ]
+
+
   }
+
+
+  </script>
+
+
+  <script type="application/ld+json">
+
+
+  {
+
+
+  "@context": "https://schema.org/",
+
+
+  "@type": "WebSite",
+
+
+  "name": "ABBS",
+
+
+  "url": "https://abbs.edu.in/",
+
+
+  "potentialAction": {
+
+
+  "@type": "SearchAction",
+
+
+  "target": "https://abbs.edu.in/programs/business/best-mba-colleges-in-bangalore{search_term_string}",
+
+
+  "query-input": "required name=search_term_string"
+
+
+  }
+
+
+  }
+
 
   </script>
 body_scripts: >-
