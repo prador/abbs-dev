@@ -2,11 +2,12 @@ const DocBlock = ({ docs,type }) => {
 return <>
 {docs.filter((obj) => obj.attributes.category === type).length ? <div className="doc-block">
      <h4 className="doc-block-title"><a href={"/naac-cycle-3/category/"+type}>{type}</a></h4>
-    {docs.filter((obj) => obj.attributes.category === type).sort((a,b)=>(a.attributes.index>b.attributes.index ? 1 : -1)).map(({attributes}) => <>
+    {docs.filter((obj) => obj.attributes.category === type).sort((a,b)=>(a.attributes.description>b.attributes.description ? 1 : -1)).map(({attributes}) => <>
     {attributes.show_toggle? <div className='doc-item'>
             <a href={"/"+attributes.document} className="doc-btn naac-doc-btn" target="_blank">
-                
-                <p><span className="index-span">{attributes.index}</span> | {attributes.description}</p>
+                <p>
+                  <span className="index-span">{attributes.index}</span>
+                   | {attributes.description}</p>
                 <span className="view-span">View</span>
             </a>
           </div>
