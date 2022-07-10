@@ -1,6 +1,6 @@
 ---
-title: "7.1.3: Waste Management Facilities in the Institution (Geo Tagged Photos)"
-description: "7.1.3: Waste Management Facilities in the Institution (Geo Tagged Photos)"
+title: 7.1.3 Waste Management Facilities in the Institution (Geo Tagged Photos)
+description: 7.1.3 Waste Management Facilities in the Institution (Geo Tagged Photos)
 index: "7.1"
 section: SSR
 category: Criteria - 7 Innovations and Best Practices
