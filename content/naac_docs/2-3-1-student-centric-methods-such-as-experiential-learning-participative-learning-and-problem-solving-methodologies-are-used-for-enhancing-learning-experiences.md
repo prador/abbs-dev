@@ -8,6 +8,7 @@ description: 2.3.1- Student centric methods, such as experiential learning,
 index: "2.3"
 section: SSR
 category: Criteria - 2 Teaching Learning and Evaluation
+document: static/img/2.3.1.pdf
 show_toggle: true
 date: 2022-06-30T22:20:05.790Z
 ---
