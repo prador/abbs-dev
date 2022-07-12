@@ -6,7 +6,7 @@ description: 1.1.1- The Institution ensures effective curriculum delivery
 index: "1.1"
 section: SSR
 category: Criteria - 1 Curricular Aspects
-document: static/img/1.1.1.pdf
+document: ""
 show_toggle: true
 date: 2022-06-30T22:15:10.009Z
 ---
