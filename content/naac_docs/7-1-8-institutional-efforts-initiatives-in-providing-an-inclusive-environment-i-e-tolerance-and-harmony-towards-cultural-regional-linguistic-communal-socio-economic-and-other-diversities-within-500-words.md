@@ -8,6 +8,7 @@ description: 7.1.8 - Institutional efforts/initiatives in providing an inclusive
 index: "7.1"
 section: SSR
 category: Criteria - 7 Innovations and Best Practices
+document: static/img/7.1.8.pdf
 show_toggle: true
 date: 2022-06-30T22:39:32.411Z
 ---
