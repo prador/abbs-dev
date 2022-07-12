@@ -424,7 +424,7 @@ sections:
 
 
           **4. Good Salary Package :**No doubt that BCom graduates get the option to try their luck in various fields and positions. Because of the experience in different sectors, BCom graduates can also earn a good salary.
-header_scripts: >
+header_scripts: >-
   <script type="application/ld+json">
 
   {
@@ -654,6 +654,25 @@ header_scripts: >
       }
     }]
   }
+
+  </script>
+
+
+  <script>
+   window.unibuddySettings = {
+            uni_id: 'acharya-bangalore-business-school-abbs',
+            colour: '313032',
+            filterKey: 'degreeId',
+            filterValue: '6131cbe7c016490455eab02f',
+            domain: 'https://popcard.unibuddy.co/',
+            title: 'Unibuddy Popcard',
+            align: 'right',
+            ubLang: 'en-GB',
+            ubCookieConsent: 'necessary',
+          };
+  </script>
+
+  <script src="https://cdn.unibuddy.co/unibuddy-popcard.js" type="text/javascript">
 
   </script>
 ---

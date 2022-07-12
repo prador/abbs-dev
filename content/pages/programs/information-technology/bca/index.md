@@ -271,7 +271,7 @@ sections:
           * The placement facility offers students to interact with their own mentors who are responsible to handle any issues that come their way and directing students to focus on the targets. -The placement facility includes workshops and guest lectures by professionals and experienced leaders. 
 
           * Students are provided with constant interaction, consultation, and visits with the enterprise bodies, industry experts, R&D institutions, and University Officials which helps students to get a wider understanding of their job role.
-header_scripts: >
+header_scripts: >-
   <script type="application/ld+json">
 
   {
@@ -310,6 +310,25 @@ header_scripts: >
       "item": "https://abbs.edu.in/programs/liberal-arts/ba-journalism-colleges-in-bangalore"  
     }]
   }
+
+  </script>
+
+
+  <script>
+   window.unibuddySettings = {
+            uni_id: 'acharya-bangalore-business-school-abbs',
+            colour: '313032',
+            filterKey: 'degreeId',
+            filterValue: '6131cbe7c016490455eab023',
+            domain: 'https://popcard.unibuddy.co/',
+            title: 'Unibuddy Popcard',
+            align: 'right',
+            ubLang: 'en-GB',
+            ubCookieConsent: 'necessary',
+          };
+  </script>
+
+  <script src="https://cdn.unibuddy.co/unibuddy-popcard.js" type="text/javascript">
 
   </script>
 ---

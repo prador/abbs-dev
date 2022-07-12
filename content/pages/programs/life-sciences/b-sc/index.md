@@ -317,7 +317,7 @@ sections:
           * At the same time B.Sc. Microbiology allows students to explore the world of microbes related to their genomics and proteomics and their applications in food, pharmaceutical, and biotech industries. The main focus of B Sc Microbiology is on microbes and the course includes different factors of Molecular Biology, Genetics, Metagenomics, Industrial Microbiology, Pathology etc. 
 
           * Choosing a B.Sc Biotechnology course at BSc Biotechnology college in Bangalore can be a smarter choice for a candidate rather than studying at BSC Microbiology Colleges in Bangalore. The reason behind choosing the B.Sc Biotechnology course is that it covers more aspects of biology and thus offers more career opportunities in comparison to B.Sc. Microbiology.
-header_scripts: >
+header_scripts: >-
   <script type="application/ld+json">
 
   {
@@ -429,6 +429,25 @@ header_scripts: >
       }
     }]
   }
+
+  </script>
+
+
+  <script>
+   window.unibuddySettings = {
+            uni_id: 'acharya-bangalore-business-school-abbs',
+            colour: '313032',
+            filterKey: 'degreeId',
+            filterValue: '6131cbe7c016490455eab022',
+            domain: 'https://popcard.unibuddy.co/',
+            title: 'Unibuddy Popcard',
+            align: 'right',
+            ubLang: 'en-GB',
+            ubCookieConsent: 'necessary',
+          };
+  </script>
+
+  <script src="https://cdn.unibuddy.co/unibuddy-popcard.js" type="text/javascript">
 
   </script>
 ---

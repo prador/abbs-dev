@@ -957,6 +957,11 @@ module.exports = {
                 widget: "select",
                 options: ["Leadership Team", "Advisory Council", "Faculty Directory"],
                 hint: "",
+              },{
+                label: "Show in page",
+                name: "show_toggle",
+                widget: "boolean",
+                default: true
               }]
             }
           ]
@@ -1679,6 +1684,11 @@ module.exports = {
                 widget: "select",
                 options: ["Leadership Team", "Advisory Council", "Faculty Directory"],
                 hint: "",
+              },{
+                label: "Show in page",
+                name: "show_toggle",
+                widget: "boolean",
+                default: true
               }]
             }
           ]

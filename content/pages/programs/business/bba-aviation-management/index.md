@@ -440,7 +440,7 @@ sections:
           * Aviation Industry Manager 
 
           * Credit Control Manager
-header_scripts: >
+header_scripts: >-
   <script type="application/ld+json">
 
   {
@@ -663,6 +663,25 @@ header_scripts: >
       }
     }]
   }
+
+  </script>
+
+
+  <script>
+   window.unibuddySettings = {
+            uni_id: 'acharya-bangalore-business-school-abbs',
+            colour: '313032',
+            filterKey: 'degreeId',
+            filterValue: '6131cbe7c016490455eab028',
+            domain: 'https://popcard.unibuddy.co/',
+            title: 'Unibuddy Popcard',
+            align: 'right',
+            ubLang: 'en-GB',
+            ubCookieConsent: 'necessary',
+          };
+  </script>
+
+  <script src="https://cdn.unibuddy.co/unibuddy-popcard.js" type="text/javascript">
 
   </script>
 ---

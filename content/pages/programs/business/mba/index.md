@@ -301,7 +301,7 @@ sections:
 
 
           Prior Conviction Information includes if a candidate has or had ever been convicted of or pleaded guilty or no contest to a felony or misdemeanour (excluding minor traffic violations). Failure to disclose this information may result in the withdrawal of any possible offers of admission.
-header_scripts: >
+header_scripts: >-
   <script type="application/ld+json">
 
   {
@@ -442,6 +442,25 @@ header_scripts: >
       }
     }]
   }
+
+  </script>
+
+
+  <script>
+   window.unibuddySettings = {
+            uni_id: 'acharya-bangalore-business-school-abbs',
+            colour: '313032',
+            filterKey: 'degreeId',
+            filterValue: '6131cbf2e5425a04bbf8933a',
+            domain: 'https://popcard.unibuddy.co/',
+            title: 'Unibuddy Popcard',
+            align: 'right',
+            ubLang: 'en-GB',
+            ubCookieConsent: 'necessary',
+          };
+  </script>
+
+  <script src="https://cdn.unibuddy.co/unibuddy-popcard.js" type="text/javascript">
 
   </script>
 ---

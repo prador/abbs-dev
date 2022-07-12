@@ -1,8 +1,8 @@
 ---
-title: Grievance Redressal
-seo_title: Grievance Redressal | Acharya the top B school in Bangalore
+title: Feedback on curriculum
+seo_title: Feedback on curriculum | Acharya the top B school in Bangalore
 seo_description: Acharya Bangalore Business School is one of the Best Business
-  Schools in Bangalore | Acharya| Grievance Redressal
+  Schools in Bangalore | Acharya| Feedback on curriculum
 date: 2021-12-04T06:34:24.924Z
 thumbnail: static/img/grievances-redressal-banner.jpg
 sections:
