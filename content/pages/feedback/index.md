@@ -7,27 +7,27 @@ date: 2021-12-04T06:34:24.924Z
 thumbnail: static/img/grievances-redressal-banner.jpg
 sections:
   - type: embed_section
-    section_id: "grievances-redressal "
-    section_title: Grievances Redressal
+    section_id: Feedback
+    section_title: Feedback on curriculum at ABBS
     embed_source: >-
-      <div id="zf_div_NdZwOmSjUTXtPUqemSPIeG8dJXdxP2ygzYD0Tnpifpk"></div><script
+      <div id="zf_div_r6LPLwaeViZz2coWAbcw-VL4zeh66gQ2XJHjnfprDYc"></div><script
       type="text/javascript">(function() {
 
       try{
 
       var f = document.createElement("iframe");
 
-      f.src = 'https://forms.zohopublic.in/managerit/form/GrievanceRedressal/formperma/NdZwOmSjUTXtPUqemSPIeG8dJXdxP2ygzYD0Tnpifpk?zf_rszfm=1';
+      f.src = 'https://forms.zohopublic.in/managerit/form/FeedbackForm/formperma/r6LPLwaeViZz2coWAbcw-VL4zeh66gQ2XJHjnfprDYc?zf_rszfm=1';
 
       f.style.border="none";
 
-      f.style.height="708px";
+      f.style.height="2526px";
 
       f.style.width="100%";
 
       f.style.transition="all 0.5s ease";
 
-      var d = document.getElementById("zf_div_NdZwOmSjUTXtPUqemSPIeG8dJXdxP2ygzYD0Tnpifpk");
+      var d = document.getElementById("zf_div_r6LPLwaeViZz2coWAbcw-VL4zeh66gQ2XJHjnfprDYc");
 
       d.appendChild(f);
 
@@ -45,7 +45,7 @@ sections:
 
       var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px";
 
-      var iframe = document.getElementById("zf_div_NdZwOmSjUTXtPUqemSPIeG8dJXdxP2ygzYD0Tnpifpk").getElementsByTagName("iframe")[0];
+      var iframe = document.getElementById("zf_div_r6LPLwaeViZz2coWAbcw-VL4zeh66gQ2XJHjnfprDYc").getElementsByTagName("iframe")[0];
 
       if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) {
 

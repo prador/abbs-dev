@@ -91,6 +91,9 @@ columns:
       - links_label: AQAR
         links_loc: /mandatory-disclosures/category/AQAR
         show: true
+      - links_label: Feedback
+        links_loc: /feedback
+        show: true
 ---
 
 ## Welcome to the About page

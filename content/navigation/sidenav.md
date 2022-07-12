@@ -47,6 +47,11 @@ top_menu:
         submenu_link: ""
         show: true
         nav_link_color: transparent
+      - menu_nav_label: Feedback
+        menu_nav_link: /feedback
+        submenu_link: ""
+        show: true
+        nav_link_color: transparent
       - menu_nav_label: Login
         menu_nav_link: https://www.tcsion.com/SelfServices/
         submenu_link: null
