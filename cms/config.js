@@ -2041,7 +2041,7 @@ module.exports = {
           required: false,
           widget: "select",
           multiple: false,
-          options: ["ABBS NAAC Visit video","Self Study Report","Extended Profile","Criteria - 1 Curricular Aspects","Criteria - 2 Teaching Learning and Evaluation","Criteria - 3 Research, Consultancy and Extension","Criteria - 4 Infrastructure and Learning Resources","Criteria - 5 Student Support and Progression","Criteria - 6 Governance, Leadership and Management","Criteria - 7 Innovations and Best Practices"],
+          options: ["ABBS NAAC Visit video","Self Study Report","Extended Profile","Criteria - 1 Curricular Aspects","Criteria - 2 Teaching Learning and Evaluation","Criteria - 3 Research, Consultancy and Extension","Criteria - 4 Infrastructure and Learning Resources","Criteria - 5 Student Support and Progression","Criteria - 6 Governance, Leadership and Management","Criteria - 7 Institutional values and Best Practices"],
           hint: "",
           default: ""
         },
