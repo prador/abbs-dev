@@ -1,0 +1,133 @@
+@media only screen and (max-width: 1024px){
+#hero.container-fluid, #hero.container-fluid .row { padding-left: 0px; padding-right: 0px; margin-right: 0px; margin-left: 0px; }
+}
+
+@media only screen and (max-width: 980px){
+.desktop { display: none;}
+.mobile { display: block;}
+.dsu-intro { position: relative; width: 90%; margin-left: auto; margin-right: auto; }
+.dsu-addmission .bannerContent h2 br { display: none; }
+.dsu-addmission { margin-top: 0%;margin-left: 0;
+    margin-right: 0; background-color: #ed2d4a; padding: 8px; text-align: center; }
+.dsu-addmission .bannerContent h2 {margin-left: 0px; font-size: 1.5em; line-height: 1; color: #FFFFFF; position: relative; z-index: 1;}
+.dsu-addmission .bannerContent p {  margin-top: 8px; padding: 0; }    
+.dsu-form { margin-left: auto; margin-right: auto; margin-top: 10px;
+    margin-bottom: 10px; }
+ .leftsec_content { padding: 0 0; }
+.mx-5 { margin-left: 0px!important; margin-right: 0px!important; } 
+.w-75, .mw100 { width: 100% !important; }
+.bc-img01, .bc-img04, .bc-img03 { height: auto; background-image: none; }
+#collaborations-slider.owl-theme .owl-nav [class*=owl-] { display: none; }
+#heroo.owl-theme .owl-nav.disabled+.owl-dots { margin-top: 0;}
+
+#international-slider.owl-theme .owl-nav [class*=owl-] { display: none; position: relative; }
+#international-slider.owl-theme .owl-dots .owl-dot span, #students-slider.owl-theme .owl-dots .owl-dot span, 
+#packages-slider.owl-theme .owl-dots .owl-dot span, #collaborations-slider.owl-theme .owl-dots .owl-dot span, 
+#international-slider1.owl-theme .owl-dots .owl-dot span, 
+#highlight-slider.owl-theme .owl-dots .owl-dot span, #discover-slider.owl-theme .owl-dots .owl-dot span { width: 15px; margin: 0 2px;}
+.students__section .students__block .students__item { padding: 0 0;}
+.students__section .students__block .students__item p { min-height: auto; }
+.cerebral__db .cerebral__content .cerebral__absolute { position: relative; left: auto; bottom: auto; width: 100%;}
+.campus__section { background: #fafafa; }
+
+}
+
+
+@media only screen and (max-width: 767px){
+  .mobhide{
+    display: none !important;
+  }
+  .programs__content h4, .programs__content p strong {
+    font-size: 15px;
+  }
+
+}
+
+@media only screen and (max-width: 736px){
+.container { max-width: 100%;}
+.thankyou-sec .hero-thankyou .bc-img01 .thankyou__dv { width: 100%; }
+.thankyou-sec .hero-thankyou .bc-img01 { background-image: url(../images/banner.jpg); }
+
+}
+
+@media only screen and (max-width: 667px){
+.sideNavi {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    top: auto; right: auto;
+    left: 0;
+    z-index: 5;
+}
+.sideNavi a { display: block; text-align: center; padding: 12px 2px; width: 100%; }
+.footer { height: 100px; font-size: 12px; }
+.sideNavi .sideNavi-flex {
+    display: flex;
+}
+.sideNavi-item { width: 100%;display: flex;}
+#students-slider.owl-carousel.owl-drag .owl-item.active { border: 0px; }
+.widget-title h3 br, .widget-title p br { display: none; }
+.courses__section .resp-tabs-container { padding: 0px; }
+.courses__section #horizontalTab h2.resp-accordion { color: #FFFFFF; font-size: 16px; } 
+.programs__section #verticalTab h2.resp-accordion { color: #030e49 !important; background-color: #FFF; font-size: 16px; }
+.courses__Block { padding: 15px; }
+.courses__section .resp-tabs-container .courses__Content .table-info, .table-info > th {
+    font-size: 18px;
+}
+.courses__section .resp-tabs-container .courses__Content {
+    padding-bottom: 15px;
+}
+.courses__section #horizontalTab h2.resp-accordion.resp-tab-active { color: #000 !important; }
+.courses__section #horizontalTab h2.resp-accordion .resp-arrow:after { color: #FFF !important; }
+.programs__content { padding: 10px; }
+.programs__section .programs__dv .resp-tabs-container .programs__content ul li { font-size: 14px;
+    padding: 10px 0; } 
+}
+
+@media only screen and (max-width: 568px){
+.hr { margin: 10px auto; }
+.highlight__section .highlight__relative .highlight__top p, 
+.discover__section .discover__block .discover__top_dv .discover__item .counting-item-block h3 { font-size: 18px; }
+
+.highlight__section .highlight__relative .highlight__top {
+    padding: 10px 10px;
+}
+#back-top { bottom: 90px; }
+}
+
+@media only screen and (max-width: 480px){
+.fsize20 {
+    font-size: 14px;
+    line-height: 22px;
+}
+h1, h2, h3, h3, h4, h5, h6 { font-size: 22px; }
+p { font-size: 14px; line-height: 20px; }
+.fsize28 {
+    font-size: 22px;
+}
+.thankyou-sec .hero-thankyou .bc-img01 .thankyou__dv h3 {
+    font-size: 3em;
+}
+.thankyou-sec .hero-thankyou .bc-img01 .thankyou__dv p { font-size: 16px; }
+.thankyou-sec .hero-thankyou .bc-img01 { height: 415px; }
+.dsu-addmission .bannerContent p { font-size: 16px; padding: 8px;}
+.courses__form_dv .form-control { padding: 10px 15px; }
+}
+
+@media only screen and (max-width: 414px){
+
+}
+
+@media only screen and (max-width: 384px){
+.dsu-form { width: 100%; border: 1px solid #ed2d4a; }
+
+}
+
+
+@media only screen and (max-width: 360px){
+
+}
+
+@media only screen and (max-width: 320px){
+
+}

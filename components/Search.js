@@ -76,6 +76,9 @@ export default function Search() {
         </>
         
       ) }
+      <div className='nav-apply-wrapper'>        
+        <a href="https://application.abbs.edu.in/bschool/" className="nav-apply btn btn-blue">Apply Now</a>
+      </div>
     </div>
   )
 }

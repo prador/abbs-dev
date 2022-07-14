@@ -90,8 +90,7 @@ const DropdownMenu = () => {
   
     return (
       <div className="dropdown" ref={dropdownRef}>
-        <Search/>
-
+        {/* <Search/> */}
             {attributes.top_menu.map((top,id,index)=> (
               <CSSTransition
               key={id}
