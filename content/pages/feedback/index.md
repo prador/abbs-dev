@@ -10,7 +10,8 @@ sections:
     section_id: Feedback
     section_title: Feedback on curriculum at ABBS
     embed_source: >-
-      <div id="zf_div_r6LPLwaeViZz2coWAbcw-VL4zeh66gQ2XJHjnfprDYc"></div><script
+      <div id="zf_div_r6LPLwaeViZz2coWAbcw-VL4zeh66gQ2XJHjnfprDYc"></div>
+      <script
       type="text/javascript">(function() {
 
       try{
