@@ -34,13 +34,13 @@ const DropdownMenu = () => {
           setActiveMenu('main')
         }
       } else if(pageLevel === 2){
-        if (routes[1] == "blog") {
+        if (routes[1] == "blog" || routes[1] == "conferences") {
           setActiveMenu('main')
         } else {
           setActiveMenu(routes[1])
         }
       } else if(pageLevel === 3){
-        if (routes[1] == "blog") {
+        if (routes[1] == "blog" || routes[1] == "conferences") {
           setActiveMenu('main')
         } else if (routes[1] == "mandatory-disclosures") {
           setActiveMenu('main')

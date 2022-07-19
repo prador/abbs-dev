@@ -38,6 +38,10 @@ top_menu:
         menu_nav_link: /admissions/admission-faqs
         submenu_link: admissions
         show: true
+      - menu_nav_label: Conferences
+        menu_nav_link: /conferences
+        submenu_link: ""
+        show: true
       - menu_nav_label: News & Events
         menu_nav_link: /news-events/news
         submenu_link: news-events
