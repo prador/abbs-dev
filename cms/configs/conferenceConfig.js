@@ -26,6 +26,12 @@ const conferenceConfig = {
         required: true
       },
       {
+        label: "Slug",
+        name: "slug",
+        widget: "string",
+        required: true
+      },
+      {
         label: "Publish Date",
         name: "date",
         widget: "datetime",

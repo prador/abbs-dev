@@ -1272,6 +1272,12 @@ module.exports = {
         destination: '/programs/liberal-arts/ba-sociology-colleges-in-bangalore', 
         permanent: false,
         basePath: false,
+      },
+      {
+        source: '/conferences/ABBSICC2022', 
+        destination: '/conferences/international-case-conference-2022', 
+        permanent: false,
+        basePath: false,
       }
     ]
   }

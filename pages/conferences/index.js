@@ -48,7 +48,7 @@ const Conferences = ({conferenceList}) => {
   <Breadcrumbs att={attributes}/>
       <div className="w-layout-grid contain-block">
       <section className='news-events-page-section'>
-      <h2 className="section-title" id="upcoming_events"><span className="header-hyphen"></span>Upcoming Events</h2>
+      <h2 className="section-title" id="upcoming_events"><span className="header-hyphen"></span>Upcoming Conferences</h2>
       {conferenceList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
         <>{!isPast(post.attributes.event_date) ?
@@ -70,7 +70,7 @@ const Conferences = ({conferenceList}) => {
     ))}
     </section>
       <section className='news-events-page-section'>
-      <h2 className="section-title" id="past_events"><span className="header-hyphen"></span>Past Events</h2>
+      <h2 className="section-title" id="past_events"><span className="header-hyphen"></span>Past Conferences</h2>
       {conferenceList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
         <>{isPast(post.attributes.event_date) ?
