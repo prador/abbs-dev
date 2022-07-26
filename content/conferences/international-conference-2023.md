@@ -1,8 +1,7 @@
 ---
 title: "International Conference  on  Redefining Business Strategies: New Age
   Business Models"
-seo_title: "International Conference  on  Redefining Business Strategies: New
-  Age Business Models"
+slug: icrbsnabm2023
 date: 2022-06-03T13:10:31.424Z
 thumbnail: static/img/Auditorium-min.JPG
 event_date: 2023-01-05T18:34:47.529Z
@@ -316,102 +315,319 @@ sections:
 
       Correct Name, Designation, and e-mail ID of the authors and affiliating organization need to be mentioned in the abstract and full paper. A declaration should be provided from the corresponding author along with the paper stating Abstracts that the work is an original one and does not violate Copyright.
   - type: text_section
+    section_id: submission-guidelines
+    section_title: Guidelines for Submission of Manuscript
+    section_text: >-
+      * Authors are requested to submit the abstract/Full paper in MS-word
+      format at
+        icrbsnabm2023@abbs.edu.in
+      * The manuscript should be in MS-word format. The manuscript must be 1.5 line spaced, with 1-inch
+        margins with “Times New Roman, font size 12, black.
+      * On the First Page of the paper (Cover page), please provide full names (First, middle and last
+        names) and full addresses (Institute’s address along with designation and correspondence
+        address) along with the email address of the author(s). The author’s name or affiliations should not
+        appear anywhere else in the body of the manuscript to facilitate the blind peer-review process.
+      * The actual paper should commence from the second page. The manuscript contains the title
+        followed by the abstract, keywords, and the main paper. The paper should have an introduction,
+        literature review, objectives, research gaps, methodology, limitations/scope for future work, and
+        conclusion.
+      * The abstract, followed by relevant keywords should not be more than 300 words and should
+        adequately describe the work and highlight its significance. The abstract should only include text.
+        Avoid the use of abbreviations and references in the abstract.
+      * The manuscript should not be more than 5000 words including tables, figures, and an appendix
+        given at the end. Headings and subheadings must be short and not numbered. The primary
+        heading should be in the capitalized form (upper case), and boldface. The sub-headings should be in title-case capitalization (first letter of each word in the capital) and in bold. The table should be numbered consecutively. The title of the table should be placed above the table. The source should be indicated at the bottom.
+      * Figures/ diagrams/ graphs should be numbered consecutively. Wherever necessary, the source
+        should be indicated at the bottom. The figures should also be given relevant titles. Figures,
+        diagrams, and pictures should have good quality images preferably in JPEG Format.
+      * References should be included at the end of the paper and arranged in alphabetical order. The
+        references must follow the style guide of the American Psychological Association (APA).
+      * A declaration should be provided from the corresponding author along with the paper stating
+        Abstracts that the work is an original one and does not violate Copyright.
+  - type: text_section
     section_id: registration-details
     section_title: "Registration Details:"
-    section_text: Authors must start submitting the abstracts and complete the
-      registration process from **July 05, 2022**. The completed registration
-      form has to be compulsorily sent to the conference email id
-      (**icrbsnabm2023@abbs.edu.in**).  All the authors have to do the
-      registration individually to present the paper at the international
-      conference and receive the conference certificate. ***Absentia Option** is
-      available for all the individual participants provided wherein, such
-      author needs to complete the registration process with a nominal cost of
-      **₹500** at the earliest. Only registered authors would be receiving the
-      conference certificate.
+    section_text: >-
+      * Authors can start submitting the abstracts and complete the registration
+      process in order to avail
+        the early bird registration benefits. All the authors have to do the registration individually to present the paper at the international conference and receive the conference certificate.
+      * **\*Absentia Option** is available for all the individual participants provided wherein, such author
+        needs to complete the registration process with a nominal cost of **₹500** at the earliest. Only
+        registered authors would be receiving the conference certificate.
   - type: table_section
     section_id: participation-fee
     section_title: "Conference Participation Fee:"
     table_content: >-
-      <table class="c43"><tbody><tr class="c6"><td class="c70" colspan="1"
-      rowspan="1"><p class="c58"><span class="c14">Category</span></p></td><td
-      class="c4" colspan="1" rowspan="1"><p class="c16"><span class="c1">Early
-      Bird Registration</span></p><p class="c16"><span class="c1">(On or Before
-      July 25, 2022)</span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c1">Normal Registration</span></p><p
-      class="c16"><span class="c1">(On or Before Oct 25,
-      2022)</span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c16"><span class="c1">On the Spot</span></p><p class="c16"><span
-      class="c1">Registration</span></p><p class="c16 c36"><span
-      class="c1"></span></p></td></tr><tr class="c6"><td class="c12" colspan="1"
-      rowspan="1"><p class="c29"><span class="c10">Student Participant (Both UG
-      and PG)</span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1000</span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1250</span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1500</span></p></td></tr><tr class="c6"><td class="c12"
-      colspan="1" rowspan="1"><p class="c29"><span class="c7">Research Scholar
-      </span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1250</span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1500</span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1750</span></p></td></tr><tr class="c6"><td class="c12"
-      colspan="1" rowspan="1"><p class="c29"><span class="c7">Academicians
-      </span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1500</span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">1750</span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">2000</span></p></td></tr><tr class="c48"><td class="c12"
-      colspan="1" rowspan="1"><p class="c29"><span class="c7">Industry
-      /Corporate Participants</span></p></td><td class="c4" colspan="1"
-      rowspan="1"><p class="c16"><span class="c19">₹</span><span
-      class="c7">2000</span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">2250</span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c16"><span class="c19">₹</span><span
-      class="c7">2500</span></p></td></tr><tr class="c48"><td class="c12"
-      colspan="1" rowspan="1"><p class="c29"><span class="c7">Foreign
-      Participants (Participants – Virtual Mode)</span></p></td><td class="c4"
-      colspan="1" rowspan="1"><p class="c16"><span class="c20
-      c19">$25</span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c16"><span class="c20 c19">$50</span></p></td><td class="c22"
-      colspan="1" rowspan="1"><p class="c16"><span class="c20
-      c19">$75</span></p></td></tr><tr class="c48"><td class="c12" colspan="1"
-      rowspan="1"><p class="c29"><span class="c7">Foreign Participants
-      (Presenter – Virtual Mode)</span></p></td><td class="c4" colspan="1"
-      rowspan="1"><p class="c16"><span class="c19 c20">$50</span></p></td><td
-      class="c4" colspan="1" rowspan="1"><p class="c16"><span class="c20
-      c19">$75</span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c16"><span class="c20
-      c19">$100</span></p></td></tr></tbody></table>
+      <table class="c43">
 
 
-      <br/>
+      <tbody>
+
+
+      <tr class="c6">
+
+
+      <td class="c70" colspan="1" rowspan="1">
+
+
+      <p class="c58"><span class="c14">Category</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c1">Early Bird Registration</span></p>
+
+
+      <p class="c16"><span class="c1">Before September 30, 2022</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c1">Normal Registration</span></p>
+
+
+      <p class="c16"><span class="c1">Before Decmber 30, 2022</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c6">
+
+
+      <td class="c12" colspan="1" rowspan="1">
+
+
+      <p class="c29"><span class="c10">Student Participant (Both UG and PG)</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">1000</span></p>
+
+
+      </td>
+
+
+      <td class="c22" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">1500</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c6">
+
+
+      <td class="c12" colspan="1" rowspan="1">
+
+
+      <p class="c29"><span class="c7">Research Scholar </span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">1000</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">1500</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c6">
+
+
+      <td class="c12" colspan="1" rowspan="1">
+
+
+      <p class="c29"><span class="c7">Academicians </span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">1500</span></p>
+
+
+      </td>
+
+
+      <td class="c22" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">2000</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c48">
+
+
+      <td class="c12" colspan="1" rowspan="1">
+
+
+      <p class="c29"><span class="c7">Industry Practitioner</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">2000</span></p>
+
+
+      </td>
+
+
+      <td class="c22" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19">₹</span><span class="c7">2500</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c48">
+
+
+      <td class="c12" colspan="1" rowspan="1">
+
+
+      <p class="c29"><span class="c7">International Participants (Listener – Virtual Mode)</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c20 c19">$50</span></p>
+
+
+      </td>
+
+
+      <td class="c22" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c20 c19">$75</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c48">
+
+
+      <td class="c12" colspan="1" rowspan="1">
+
+
+      <p class="c29"><span class="c7">International Participants (Presenter – Virtual Mode)</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c19 c20">$50</span></p>
+
+
+      </td>
+
+
+      <td class="c4" colspan="1" rowspan="1">
+
+
+      <p class="c16"><span class="c20 c19">$75</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      </tbody>
+
+
+      </table><br/>
 
 
       <em>*The fee is inclusive of the Conference kit, Lunch & Snacks, Conference Proceedings, and Certification.</em>
   - type: text_section
     section_id: payment
-    section_title: Payment Procedure
+    section_title: Registration Fees Payment Procedure
     section_text: >-
-      **Payment Method No: 01** - Payment may be made in the form of DD/ Cheque
-      drawn in favor of “Acharya Bangalore B School”, payable at Bengaluru,
-      Karnataka, India.   (Domestic Participants Only)
+      Payments can be made Through Electronic Fund Transfer (EFT) using either
+      of the following account
+
+      numbers. Overseas participants are requested to make payment only through EFT vide INR (Indian
+
+      Rupees). (Both Indian/ International Participants)
 
 
-                                                                       (or)
+      * **Bank Name: South Indian Bank., Branch: Indiranagar, Location: Bangalore**
+
+      * **S/B Account Number: 0399053000015083**
+
+      * **IFSC CODE: SIBL0000399**
 
 
-      **Payment Method No: 02** - Through Electronic Fund Transfer (EFT) using either of the following account numbers. Overseas participants are requested to make payment only through EFT vide INR (Indian Rupees).
-
-
-      * Bank Name: **Axis Bank Ltd.**, Branch: **Peenya Branch**, Location: **Bangalore**\
-        S/B Account Number: **914010030078977**; IFSC CODE: **UTIB0000560**
+      Participants Scan QR Code Option is available in the Conference Registration Form
   - type: text_section
     section_id: publication
     section_title: "Publication Opportunities:"
@@ -486,32 +702,23 @@ sections:
       class="c14">10</span><span class="c14 c15">th</span><span
       class="c1">&nbsp;August 2022</span></p></td></tr><tr class="c40"><td
       class="c33" colspan="1" rowspan="1"><p class="c28"><span class="c10">Full
-      Paper Submission (Phase-01)</span></p></td><td class="c31" colspan="1"
-      rowspan="1"><p class="c25"><span class="c14">30</span><span class="c14
-      c15">th</span><span class="c1">&nbsp;September
-      2022</span></p></td></tr><tr class="c40"><td class="c33" colspan="1"
-      rowspan="1"><p class="c28"><span class="c7">Full Paper Submission (Phase
-      -02)</span></p></td><td class="c31" colspan="1" rowspan="1"><p
+      Paper Submission</span></p></td><td class="c31" colspan="1" rowspan="1"><p
       class="c25"><span class="c14">30</span><span class="c14
-      c15">th</span><span class="c1">&nbsp; October 2022</span></p></td></tr><tr
+      c15">th</span><span class="c1">&nbsp;November 2022</span></p></td></tr><tr
       class="c40"><td class="c33" colspan="1" rowspan="1"><p class="c28"><span
-      class="c10">Notification of Acceptance-Full paper</span></p></td><td
-      class="c31" colspan="1" rowspan="1"><p class="c25"><span
-      class="c14">13</span><span class="c14 c15">th</span><span
-      class="c1">&nbsp;November 2022</span></p></td></tr><tr class="c40"><td
-      class="c33" colspan="1" rowspan="1"><p class="c28"><span class="c10">Last
-      Date for Registration </span></p></td><td class="c31" colspan="1"
-      rowspan="1"><p class="c25"><span class="c14">20</span><span class="c14
-      c15">th</span><span class="c1">&nbsp;December 2022</span></p></td></tr><tr
-      class="c40"><td class="c33" colspan="1" rowspan="1"><p class="c28"><span
-      class="c10">Conference Date</span></p></td><td class="c31" colspan="1"
-      rowspan="1"><p class="c25"><span class="c14">05</span><span class="c14
+      class="c10">Last Date for Registration </span></p></td><td class="c31"
+      colspan="1" rowspan="1"><p class="c25"><span class="c14">30</span><span
+      class="c14 c15">th</span><span class="c1">&nbsp;December
+      2022</span></p></td></tr><tr class="c40"><td class="c33" colspan="1"
+      rowspan="1"><p class="c28"><span class="c10">Conference
+      Date</span></p></td><td class="c31" colspan="1" rowspan="1"><p
+      class="c25"><span class="c14">05</span><span class="c14
       c15">th</span><span class="c14">&nbsp;– 06</span><span class="c14
       c15">th</span><span class="c1">&nbsp;January
       2023</span></p></td></tr></tbody></table>
   - type: text_section
     section_id: contact
-    section_title: "Contact Information:"
+    section_title: For Further Details Contact and Queries
     section_text: >-
       **Dr.V.P.Sriram,**\
 
@@ -524,6 +731,15 @@ sections:
       Webpage: [https://abbs.edu.in](https://www.google.com/url?q=https://abbs.edu.in&sa=D&source=editors&ust=1654266930475689&usg=AOvVaw1vvfCIcAsEJKpIckavK5Ae)
 
 
+      **Dr.H.S.Shalini,**
+
+      Conference Secretary/ Associate Professor,
+
+      Department of MBA
+
+      Mobile: No: +91-6361615843
+
+      E-mail: icrbsnabm2023@abbs.edu.in
 
 
       **Dr.Arul Senthil,**\
@@ -539,6 +755,8 @@ sections:
       Webpage: [https://abbs.edu.in](https://www.google.com/url?q=https://abbs.edu.in&sa=D&source=editors&ust=1654266930476547&usg=AOvVaw0s6H0noDDo5jvJ9jDZJN1T)
   - type: anchor_section
     links:
+      - anchor_label: Registration Link
+        anchor_loc: https://docs.google.com/forms/d/e/1FAIpQLSeCyjSojGjG9fxFUMxvBayru6kTbUYJmyVGbeQArAi8vX3tMA/viewform
       - anchor_label: ABBS
         anchor_loc: abbs
       - anchor_label: Theme of the Conference
@@ -551,6 +769,8 @@ sections:
         anchor_loc: who-can-participate
       - anchor_label: Paper Submission Guidelines
         anchor_loc: paper-submission-guidelines
+      - anchor_label: Submission Guidelines
+        anchor_loc: submission-guidelines
       - anchor_label: Registration Details
         anchor_loc: registration-details
       - anchor_label: Conference Participation Fee
@@ -565,6 +785,10 @@ sections:
         anchor_loc: important-dates
       - anchor_label: Contact Information
         anchor_loc: contact
+seo_title: "International Conference  on  Redefining Business Strategies: New
+  Age Business Models"
+event_end_date: 2023-01-06T00:37:21.913Z
+event_link: https://docs.google.com/forms/d/e/1FAIpQLSeCyjSojGjG9fxFUMxvBayru6kTbUYJmyVGbeQArAi8vX3tMA/viewform
 ---
 ## International Conference  on  Redefining Business Strategies: New Age Business Models 
 

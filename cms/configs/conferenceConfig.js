@@ -49,6 +49,12 @@ const conferenceConfig = {
         required: true
       },
       {
+        label: "Event End Date",
+        name: "event_end_date",
+        widget: "date",
+        required: true
+      },
+      {
         label: "Event Link",
         name: "event_link",
         widget: "string",

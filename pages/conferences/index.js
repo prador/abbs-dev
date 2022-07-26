@@ -60,7 +60,7 @@ const Conferences = ({conferenceList}) => {
               </div>
               <div className="events-post-content">
                 <h6>{post.attributes.title}</h6>
-                <span>{setDate(post.attributes.event_date)}</span>
+                From <strong><span>{setDate(post.attributes.event_date)}</span></strong> to <strong><span>{setDate(post.attributes.event_end_date)}</span></strong>
               </div>
           </div>
         </Link>

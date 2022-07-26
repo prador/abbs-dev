@@ -4,6 +4,8 @@ slug: ABBSICC2022
 date: 2022-07-25T09:38:41.778Z
 thumbnail: static/img/auditorium-min.jpeg
 event_date: 2022-10-14T09:38:41.798Z
+event_end_date: 2022-10-14T23:39:10.302Z
+event_link: https://easychair.org/account/signin?l=e1YRD92vtCCOTavN6oEV56
 sections:
   - type: text_section
     section_id: ""
@@ -357,6 +359,8 @@ sections:
     embed_size: ""
   - type: anchor_section
     links:
+      - anchor_label: Registration Links
+        anchor_loc: https://easychair.org/account/signin?l=e1YRD92vtCCOTavN6oEV56
       - anchor_label: ABBS
         anchor_loc: abbs
       - anchor_label: Important Dates
