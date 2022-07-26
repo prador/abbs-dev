@@ -3,7 +3,7 @@ title: International case conference 2022
 slug: ABBSICC2022
 date: 2022-07-25T09:38:41.778Z
 thumbnail: static/img/auditorium-min.jpeg
-event_date: 2022-07-25T09:38:41.798Z
+event_date: 2022-10-14T09:38:41.798Z
 sections:
   - type: text_section
     section_id: ""
