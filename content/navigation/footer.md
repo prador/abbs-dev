@@ -30,10 +30,10 @@ contact_info:
 date: 2019-03-17T19:31:20.591Z
 footer_links:
   - links_label: Terms and Conditions
-    links_loc: terms-and-conditions
+    links_loc: /terms-and-conditions
     show: true
   - links_label: Privacy Policy
-    links_loc: privacy-policy
+    links_loc: /privacy-policy
     show: true
 title: Footer
 columns:
