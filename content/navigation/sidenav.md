@@ -61,7 +61,7 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: International Conference 2023
-        menu_nav_link: /international-conference-2023
+        menu_nav_link: /conferences/international-conference-2023
         submenu_link: ""
         show: true
         nav_link_colour: "#0c38ef"

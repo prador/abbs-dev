@@ -61,6 +61,13 @@ const conferenceConfig = {
         required: false
       },
       {
+        label: "Brochure",
+        name: "asset",
+        widget: "file",
+        required: false,
+        allow_multiple: true
+      },
+      {
         label: 'Content Sections',
         hint: "Adding one of multiple extra fields for the page, based on the need",
         name: 'sections',

@@ -6,6 +6,7 @@ thumbnail: static/img/auditorium-min.jpeg
 event_date: 2022-10-14T09:38:41.798Z
 event_end_date: 2022-10-14T23:39:10.302Z
 event_link: https://easychair.org/account/signin?l=e1YRD92vtCCOTavN6oEV56
+asset: static/img/abbs-case-studies-poster_updated.pdf
 sections:
   - type: text_section
     section_id: ""
@@ -357,6 +358,13 @@ sections:
       width="600" height="450" style="border:0;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     embed_size: ""
+  - type: text_section
+    section_id: brochure
+    section_title: Brochure
+    section_text: ""
+    buttons:
+      - button_label: View Brochure
+        button_link: /static/img/abbs-case-studies-poster_updated.pdf
   - type: anchor_section
     links:
       - anchor_label: Registration Links
@@ -397,4 +405,6 @@ sections:
         anchor_loc: contact
       - anchor_label: Location
         anchor_loc: location
+      - anchor_label: Brochure
+        anchor_loc: brochure
 ---

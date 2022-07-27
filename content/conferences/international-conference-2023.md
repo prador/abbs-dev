@@ -1,10 +1,9 @@
 ---
-title: "International Conference  on  Redefining Business Strategies: New Age
-  Business Models"
 slug: icrbsnabm2023
 date: 2022-06-03T13:10:31.424Z
 thumbnail: static/img/Auditorium-min.JPG
 event_date: 2023-01-05T18:34:47.529Z
+asset: static/img/icrbsnabm_2023_abbs.pdf
 sections:
   - type: text_section
     section_id: abbs
@@ -645,45 +644,215 @@ sections:
   - type: table_section
     section_id: committee
     section_title: "Conference Organizing Committee:"
-    table_content: <table class="c41 organizing-committee"><tbody><tr
-      class="c66"><td class="c54" colspan="1" rowspan="3"><p class="c28"><span
-      class="c1">Chief Patrons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      &nbsp; :</span></p></td><td class="c0" colspan="1" rowspan="1"><p
-      class="c28"><span class="c1">Dr.B.Vijay Pal Reddy</span></p><p
-      class="c28"><span class="c7">Chairman, Acharya Bangalore B School,
-      Bengaluru, Karnataka, India.</span></p></td></tr><tr class="c47"><td
-      class="c0" colspan="1" rowspan="1"><p class="c28"><span class="c1">Smt.
-      B.Poornima Reddy</span></p><p class="c28"><span class="c10">Managing
-      Director,</span><span class="c44">&nbsp;</span><span class="c7">Acharya
-      Bangalore B School, Bengaluru, Karnataka, India.</span></p></td></tr><tr
-      class="c47"><td class="c0" colspan="1" rowspan="1"><p class="c28"><span
-      class="c1">Shri. Ajitesh Basani,</span></p><p class="c28"><span
-      class="c7">Executive Director, Acharya Bangalore B School, Bengaluru,
-      Karnataka, India.</span></p></td></tr><tr class="c51"><td class="c54"
-      colspan="1" rowspan="4"><p class="c28"><span class="c1">Advisory Committee
-      &nbsp; &nbsp; &nbsp;:</span></p></td><td class="c0" colspan="1"
-      rowspan="1"><p class="c28"><span class="c14">Dr.
-      H.R.Venkatesha,</span><span class="c20 c42">&nbsp;</span></p><p
-      class="c28"><span class="c7">Director, Acharya Bangalore B School,
-      Bengaluru, Karnataka, India.</span></p></td></tr><tr class="c51"><td
-      class="c0" colspan="1" rowspan="1"><p class="c28"><span
-      class="c1">Dr.D.M.Mahishi, </span></p><p class="c28"><span
-      class="c10">Director-lQAC, Acharya Bangalore B
-      School,</span><span>&nbsp;</span><span class="c7">Bengaluru, Karnataka,
-      India.</span></p></td></tr><tr class="c47"><td class="c0" colspan="1"
-      rowspan="1"><p class="c28"><span class="c1">Dr. Madhumita Chatterji,
-      </span></p><p class="c28"><span class="c7">Director, ABBS School of
-      Management, Bengaluru, Karnataka, India.</span></p></td></tr><tr
-      class="c47"><td class="c0" colspan="1" rowspan="1"><p class="c28"><span
-      class="c1">Dr. Vijaya Bhaskar,</span></p><p class="c28"><span
-      class="c7">Principal, Acharya Bangalore B School, Bengaluru, Karnataka,
-      India.</span></p></td></tr><tr class="c68"><td class="c54" colspan="1"
-      rowspan="1"><p class="c28"><span class="c1">Conference Convener &nbsp;
-      :</span></p></td><td class="c0" colspan="1" rowspan="1"><p
-      class="c28"><span class="c1">Dr.V.P.Sriram</span></p><p class="c28"><span
-      class="c7">Professor,</span></p><p class="c28"><span class="c7">Department
-      of MBA,</span></p><p class="c28"><span class="c7">Acharya Bangalore B
-      School, Bengaluru, Karnataka, India.</span></p></td></tr></tbody></table>
+    table_content: >-
+      <table class="c41 organizing-committee">
+
+
+      <tbody>
+
+
+      <tr class="c66">
+
+
+      <td class="c54" colspan="1" rowspan="3">
+
+
+      <p class="c28"><span class="c1">Chief Patrons &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+
+      :</span></p>
+
+
+      </td>
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c1">Dr.B.Vijay Pal Reddy</span></b></p>
+
+
+      <p class="c28"><span class="c7">Chairman, Acharya Bangalore B School, Bengaluru, Karnataka,
+
+
+      India.</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c47">
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c1">Smt. B.Poornima Reddy</span></b></p>
+
+
+      <p class="c28"><span class="c10">Managing Director,</span><span class="c44">&nbsp;</span><span
+
+
+      class="c7">Acharya Bangalore B School, Bengaluru, Karnataka, India.</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c47">
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c1">Shri. Ajitesh Basani,</span></b></p>
+
+
+      <p class="c28"><span class="c7">Executive Director, Acharya Bangalore B School, Bengaluru, Karnataka,
+
+
+      India.</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c51">
+
+
+      <td class="c54" colspan="1" rowspan="4">
+
+
+      <p class="c28"><span class="c1">Advisory Committee &nbsp; &nbsp; &nbsp;:</span></p>
+
+
+      </td>
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c14">Dr. H.R.Venkatesha,</span></b></p>
+
+
+      <p class="c28"><span class="c7">Director, Acharya Bangalore B School, Bengaluru, Karnataka,
+
+
+      India.</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c51">
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c1">Dr.D.M.Mahishi, </span></b></p>
+
+
+      <p class="c28"><span class="c10">Director-lQAC, Acharya Bangalore B
+
+
+      School,</span><span>&nbsp;</span><span class="c7">Bengaluru, Karnataka, India.</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c47">
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c1">Dr. Madhumita Chatterji, </span></b></p>
+
+
+      <p class="c28"><span class="c7">Director, ABBS School of Management, Bengaluru, Karnataka, India.</span>
+
+
+      </p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c47">
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c1">Dr. Vijaya Bhaskar,</span></b></p>
+
+
+      <p class="c28"><span class="c7">Principal, Acharya Bangalore B School, Bengaluru, Karnataka,
+
+
+      India.</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      <tr class="c68">
+
+
+      <td class="c54" colspan="1" rowspan="1">
+
+
+      <p class="c28"><span class="c1">Conference Convener &nbsp; :</span></p>
+
+
+      </td>
+
+
+      <td class="c0" colspan="1" rowspan="1">
+
+
+      <p class="c28"><b><span class="c1">Dr.V.P.Sriram</span></b></p>
+
+
+      <p class="c28"><span class="c7">Professor, Department of MBA,</span></p>
+
+
+      <p class="c28"><span class="c7">Acharya Bangalore B School, Bengaluru, Karnataka, India.</span></p>
+
+
+      </td>
+
+
+      </tr>
+
+
+      </tbody>
+
+
+      </table>
   - type: table_section
     section_id: important-dates
     section_title: Important Dates
@@ -731,18 +900,18 @@ sections:
       Webpage: [https://abbs.edu.in](https://www.google.com/url?q=https://abbs.edu.in&sa=D&source=editors&ust=1654266930475689&usg=AOvVaw1vvfCIcAsEJKpIckavK5Ae)
 
 
-      **Dr.H.S.Shalini,**
+      **Dr.H.S.Shalini,**\
 
-      Conference Secretary/ Associate Professor,
+      Conference Secretary/ Associate Professor,\
 
-      Department of MBA
+      Department of MBA\
 
-      Mobile: No: +91-6361615843
+      Mobile: No: +91-6361615843\
 
       E-mail: icrbsnabm2023@abbs.edu.in
 
 
-      **Dr.Arul Senthil,**\
+      **Dr.Arul Senthil B,**\
 
       Conference Secretary/ Assistant Professor,\
 
@@ -753,6 +922,13 @@ sections:
       E-mail: icrbsnabm2023@abbs.edu.in\
 
       Webpage: [https://abbs.edu.in](https://www.google.com/url?q=https://abbs.edu.in&sa=D&source=editors&ust=1654266930476547&usg=AOvVaw0s6H0noDDo5jvJ9jDZJN1T)
+  - type: text_section
+    section_id: brochure
+    section_title: Brochure
+    section_text: ""
+    buttons:
+      - button_label: View brochure
+        button_link: /static/img/icrbsnabm_2023_abbs.pdf
   - type: anchor_section
     links:
       - anchor_label: Registration Link
@@ -785,8 +961,12 @@ sections:
         anchor_loc: important-dates
       - anchor_label: Contact Information
         anchor_loc: contact
+      - anchor_label: Brochure
+        anchor_loc: brochure
 seo_title: "International Conference  on  Redefining Business Strategies: New
   Age Business Models"
+title: "International Conference  on  Redefining Business Strategies: New Age
+  Business Models"
 event_end_date: 2023-01-06T00:37:21.913Z
 event_link: https://docs.google.com/forms/d/e/1FAIpQLSeCyjSojGjG9fxFUMxvBayru6kTbUYJmyVGbeQArAi8vX3tMA/viewform
 ---

@@ -7,6 +7,7 @@ const tableSection = {
       name: "section_id",
       required: false,
       widget: "string",
+      summary: "{{section_title}}",
       hint: "this id should match the navigation anchor link on the side",
       default: ""
     },{
