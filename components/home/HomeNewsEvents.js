@@ -41,13 +41,13 @@ return (
         <div  className='events-block'>
         <h2 className='home-section-title'><span className="header-hyphen"></span>Events</h2>
         <div>
-        {eventsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
+        {eventsList.sort(function(a,b){  return new Date(b.attributes.event_date) - new Date(a.attributes.event_date);
       }).slice(0, 4).map((post,index) => (
 <Link href="/news-events/events/[slug]" as={`/news-events/events/${post.slug}`} key={post.slug}>
             <div className="events-post">
             <div className='events-post-date-info'>
-            <h4 className='events-post-day'>{setEventDate(post.attributes.date).day}</h4>
-            <span className='events-post-month'>{setEventDate(post.attributes.date).month}</span>
+            <h4 className='events-post-day'>{setEventDate(post.attributes.event_date).day}</h4>
+            <span className='events-post-month'>{setEventDate(post.attributes.event_date).month}</span>
             </div>
             
             <div className="events-post-content">
