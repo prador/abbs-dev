@@ -360,15 +360,15 @@ sections:
     embed_size: ""
   - type: text_section
     section_id: brochure
-    section_title: Brochure
+    section_title: Brochure and Registration link
     section_text: ""
     buttons:
       - button_label: View Brochure
         button_link: /static/img/abbs-case-studies-poster_updated.pdf
+      - button_label: Registration Link
+        button_link: https://easychair.org/account/signin?l=e1YRD92vtCCOTavN6oEV56
   - type: anchor_section
     links:
-      - anchor_label: Registration Links
-        anchor_loc: https://easychair.org/account/signin?l=e1YRD92vtCCOTavN6oEV56
       - anchor_label: ABBS
         anchor_loc: abbs
       - anchor_label: Important Dates
@@ -405,6 +405,6 @@ sections:
         anchor_loc: contact
       - anchor_label: Location
         anchor_loc: location
-      - anchor_label: Brochure
+      - anchor_label: Brochure and Registration link
         anchor_loc: brochure
 ---

@@ -924,15 +924,15 @@ sections:
       Webpage: [https://abbs.edu.in](https://www.google.com/url?q=https://abbs.edu.in&sa=D&source=editors&ust=1654266930476547&usg=AOvVaw0s6H0noDDo5jvJ9jDZJN1T)
   - type: text_section
     section_id: brochure
-    section_title: Brochure
+    section_title: Brochure and Registration link
     section_text: ""
     buttons:
       - button_label: View brochure
         button_link: /static/img/icrbsnabm_2023_abbs.pdf
+      - button_label: Registration Link
+        button_link: https://docs.google.com/forms/d/e/1FAIpQLSeCyjSojGjG9fxFUMxvBayru6kTbUYJmyVGbeQArAi8vX3tMA/viewform
   - type: anchor_section
     links:
-      - anchor_label: Registration Link
-        anchor_loc: https://docs.google.com/forms/d/e/1FAIpQLSeCyjSojGjG9fxFUMxvBayru6kTbUYJmyVGbeQArAi8vX3tMA/viewform
       - anchor_label: ABBS
         anchor_loc: abbs
       - anchor_label: Theme of the Conference
@@ -961,7 +961,7 @@ sections:
         anchor_loc: important-dates
       - anchor_label: Contact Information
         anchor_loc: contact
-      - anchor_label: Brochure
+      - anchor_label: Brochure and Registration link
         anchor_loc: brochure
 seo_title: "International Conference  on  Redefining Business Strategies: New
   Age Business Models"
