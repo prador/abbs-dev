@@ -41,14 +41,14 @@ export const RegisterFile = {
 
   // Function to create a text block from an instance of this component
   toBlock(fileObj) {
-    return `[${fileObj.title}](${fileObj.src} "File")`;
+    return `[${fileObj.title}]("/"+${fileObj.src} "File")`;
   },
 
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview(fileObj) {
     return (
-      <File src={fileObj.src}>{fileObj.title}</File>
+      <File src={"/"+fileObj.src}>{fileObj.title}</File>
     );
   },
 
