@@ -234,6 +234,10 @@ margin-top: 0.5rem;
     max-height: 100%;
     height: 100%;
   }
+  .conference-layout .section-richtext p {
+    text-align: justify;
+  }
+
 .section-richtext a {
   text-decoration: underline;
 font-weight: 500;
@@ -270,6 +274,10 @@ font-weight: 500;
     color: var(--color-grey);
     text-align: center;
     font-size: 1.75rem;
+  }
+  .conference-layout .logo-subtitle {
+    font-size: 1.4rem;
+    margin-top: 0.5rem;
   }
   .grid-4 .logo-link {
     min-width: 120px;
@@ -464,6 +472,17 @@ table:not(.organizing-committee) tr:nth-of-type(1) td{
   border: 1px solid #999;
   background-color: var(--color-black);
 }
+
+.conference-layout #int-case-intro img {
+  max-width:150px;
+}
+.conference-layout #int-case-intro h2,.conference-layout #int-case-intro h3 {
+  margin: 0.5rem 0;
+}
+.conference-layout #int-case-intro,.conference-layout #int-case-intro p,.conference-layout #sponsor h3{
+text-align:center;
+}
+
 @media screen and (max-width:575px) {
     .section-title .header-hyphen {
         display: none;

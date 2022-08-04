@@ -2,6 +2,7 @@ const logoSection = {
     label: 'Logo Section',
     name: 'logo_section',
     required: false,
+    summary: "{{section_title}}",
     fields: [{
       label: "Section ID",
       name: "section_id",

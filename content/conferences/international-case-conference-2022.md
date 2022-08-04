@@ -1,5 +1,5 @@
 ---
-title: International case conference 2022
+title: INTERNATIONAL CASE CONFERENCE 2022
 slug: ABBSICC2022
 date: 2022-07-25T09:38:41.778Z
 thumbnail: static/img/auditorium-min.jpeg
@@ -9,21 +9,19 @@ event_link: https://easychair.org/account/signin?l=e1YRD92vtCCOTavN6oEV56
 asset: static/img/abbs-case-studies-poster_updated.pdf
 sections:
   - type: text_section
-    section_id: ""
+    section_id: int-case-intro
     section_title: ""
     section_text: |-
       ### ACHARYA BANGALORE B-SCHOOL 
 
       presents
 
-      ## AICTE 
+      ![](/static/img/aicte-logo-250x250-1.png)
 
       sponsored 
 
       ## “INTERNATIONAL CASE CONFERENCE-2022” 
-
       ### THEME: “REDEFINING PEDAGOGY”
-
       ## Date:  14th & 15th October 2022
   - type: text_section
     section_id: abbs
@@ -100,16 +98,17 @@ sections:
         logo_link: ""
         logo_image: static/img/anil.jpg
       - logo_subtitle: Dr. Cynthia Menezes Prabhu
-        logo_title: Vice Chancellor (Acting), Bangalore University, Bangalore
+        logo_title: Professor & Chairman, Department of Management Studies
         logo_link: ""
         logo_image: static/img/cynthia.jpg
       - logo_subtitle: Dr. Easwaramoorthy
         logo_title: Provost, Amity Global University, Singapore
         logo_link: ""
         logo_image: static/img/easwaramurthy.jpg
-      - logo_subtitle: Dr. Arockiasamy, Acting Dean & Associate Professor
-        logo_title: Department of Information Systems, College of Economics, Management
-          and Information Systems University of Nizwa, Oman
+      - logo_subtitle: Dr. Arockiasamy
+        logo_title: Acting Dean & Associate Professor, Department of Information
+          Systems, College of Economics, Management and Information Systems
+          University of Nizwa, Oman
         logo_link: ""
         logo_image: static/img/arockiaswamy.jpg
     section_grid_size: grid-2
@@ -202,22 +201,15 @@ sections:
     section_id: sponsor
     section_title: SPONSOR
     section_text: >-
-      All India Council for Technical Education (AICTE) is a statutory body, and
-      a national-level council for technical education under the Department of
-      Higher Education Govt. of India. It was established in 1945 as an advisory
-      body and later on in 1987 given statutory status by an Act of Parliament
-      AICTE is responsible for proper planning and coordinated development of
-      the technical education and management education system in India. AICTE is
-      assisted by 10 Statutory Boards of Studies, namely, UG Studies in Eng. &
-      Tech., PG and Research in Eng. and Tech., Management Studies, Vocational
-      Education, Technical Education, Pharmaceutical Education, Architecture,
-      Hotel Management and Catering Technology, Information Technology, Town and
-      Country Planning.
+      ### ALL INDIA TECHNICAL EDUCATION
+
+
+      All India Council for Technical Education (AICTE) is a statutory body, and a national-level council for technical education under the Department of Higher Education Govt. of India. It was established in 1945 as an advisory body and later on in 1987 given statutory status by an Act of Parliament AICTE is responsible for proper planning and coordinated development of the technical education and management education system in India. AICTE is assisted by 10 Statutory Boards of Studies, namely, UG Studies in Eng. & Tech., PG and Research in Eng. and Tech., Management Studies, Vocational Education, Technical Education, Pharmaceutical Education, Architecture, Hotel Management and Catering Technology, Information Technology, Town and Country Planning.
 
 
       The AICTE has its new headquarters building in Delhi on the Nelson Mandela Road, Vasant Kunj, New Delhi, 110067, which has the offices of the chairman, vice-chairman and the member secretary, plus it has regional offices at Kanpur, Chandigarh, Gurgaon, Mumbai, Bhopal, Vadodara, Kolkata, Guwahati, Bangalore, Hyderabad, Chennai and Thiruvananthapuram.
-    section_image: static/img/aicte-logo-250x250-1.png
-    image_position: Above Content
+    section_image: ""
+    image_position: null
   - type: text_section
     section_id: target
     section_title: TARGET PARTICIPANTS
@@ -236,12 +228,14 @@ sections:
     section_id: paper
     section_title: PAPER SUBMISSION
     section_text: >-
-      Paper must be submitted through the conference website:
-      [](<[http://www.abbs.edu.in)/conference/ABBSICC2022](http://www.abbs.edu.in)/conference/ABBSICC2022>)[www.abbs.edu.in/conference/ABBSICC2022](<www.abbs.edu.in)/conference/ABBSICC2022>)
-      via the following steps:
+      **Conference Participation:** Click the link below to register for
+      Conference as a Participant.
 
 
-      **Registration**:  Click on registration and submit your paper through EasyChair (in case of difficulty in registration use the link below)
+      <https://zfrmz.in/4Tcq8zXpSeQM0wY8C8Fe>
+
+
+      **Paper Submission:** Click the link below and submit your case
 
 
       <https://easychair.org/conferences/?conf=abbs2022>

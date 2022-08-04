@@ -43,7 +43,7 @@ color:rgba(0,0,0,0.8)!important;}
 #back-top {
 position:fixed;
 right:10px;
-bottom:0px;
+bottom:52px;
 z-index:999;
 overflow:hidden;
 display:none;
@@ -112,6 +112,17 @@ transition:color .25s ease, transform 2s ease;
 .bc-img03{background:url(../images/banner2.jpg);background-size:cover;background-position:top center;background-repeat:no-repeat;}
 .bc-img04{background:url(../images/banner3.jpg);background-size:cover;background-position:top center;background-repeat:no-repeat;}
 .bc-img05{background:url(../images/banner4.jpg);background-size:cover;background-position:top center;background-repeat:no-repeat;}
+
+
+.bc-img011 {
+	background: url(../images/banner.jpg);
+	background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+	height: 560px;
+	background-size: cover;
+	padding-top: 12%;
+}
 .section5{overflow-x:hidden;}
 /* =======================
 gallery area css
@@ -179,3 +190,5 @@ gallery area css
 .dflexAlignitmCNTR{-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
 .dflexSB > div,.dflexCNTR > div,.dflexCNTR2 > div,.dflexSTRH > div,.dflexSTRHCNTR > div,.dflexSTRHstart > div,.dflexSTRHstart2 > div,.dflexSTRHBTM > div,.dflexAlignitmCNTR > div,.dflexSB > li,.dflexCNTR > li,.dflexCNTR2 > li,.dflexSTRHCNTR > li,.dflexSTRHstart > li,.dflexSTRHstart2 > li,.dflexSTRHBTM > li,.dflexSTRH > li,.dflexAlignitmCNTR > li{margin-left:-1px;}
 /*dflex close*/
+
+

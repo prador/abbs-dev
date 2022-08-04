@@ -4,7 +4,7 @@ import Script from 'next/script'
 import Footer from './navigation/Footer'
 import SideNav from './navigation/SideNav'
 
-const Layout = ({ children }) => {
+const Layout = ({ children,layoutClass }) => {
   const [scrolling, setScrolling] = useState(false);
   const [scrollTop, setScrollTop] = useState(0);
   useEffect(() => {
@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
     <>
       <SideNav/>
       <div id="w-node-_213e7ee2-f0cb-cbea-eb62-6f01783e8cfa-fe48c5ce" className="layout-spacer"></div>
-      <main id="main">{children}
+      <main id="main" className={layoutClass? layoutClass: null}>{children}
       <Footer/>
       <a className="floating-whatsapp" target="_blank" href={"https://api.whatsapp.com/send/?phone=919148977317&text&app_absent=0"} >
       <svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">

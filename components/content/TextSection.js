@@ -14,7 +14,7 @@ const TextSection = ({att,isHome}) => {
   <>
     <section className={`text-section-wrapper ${isHome ? "home-content" : null}`}>
      <>
-     <div key={att.id} className="text-section-block">
+     <div key={att.id} className="text-section-block" id={att.section_id}>
         {att.section_title ? <h2 className="section-title" id={att.section_id}><span className="header-hyphen"></span>{att.section_title}</h2> : "" }
         <div className={"section-content "+`${getPos()}`}>
           {att.section_image ? 

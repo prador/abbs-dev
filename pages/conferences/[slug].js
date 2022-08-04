@@ -13,7 +13,7 @@ const Post = ({ conferencepost }) => {
   const { html, attributes } = conferencepost;
 
   return (
-    <Layout>
+    <Layout layoutClass="conference-layout">
       <PageHeader attributes={attributes} />
       <PageBanner att={attributes}/>
       <PageContent att={attributes} html={html}/>

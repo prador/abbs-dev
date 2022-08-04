@@ -391,8 +391,8 @@ text-align: left;}
     margin-right: 0; background-color: #f2c601; padding: 8px; text-align: center; }
 .dsu-addmission .bannerContent h2 {margin-left: 0px; font-size: 1.5em; line-height: 1; color: #010101; position: relative; z-index: 1;}
 .dsu-addmission .bannerContent p {  margin-top: 8px; padding: 0; }    
-.dsu-form { margin-left: auto; margin-right: auto; margin-top: 10px;
-    margin-bottom: 10px; }
+.dsu-form { margin-left: auto; margin-right: auto; margin-top: 0px;
+    margin-bottom: 0px; }
  .leftsec_content { padding: 0 0; }
 
 
@@ -585,9 +585,9 @@ text-align: left;}
 
 /* sideNavi */
 .sideNavi{position:fixed;width:100%;bottom:0px;top:auto;right:auto;left:0;z-index:2;-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}
-.sideNavi a{display:block;text-align:center;padding:12px 2px;background-color:#b2b2b2;}
-.sideNavi a>i{display:inline-block;}
-.sideNavi-item{width:100%;}
+.sideNavi a { display: block; text-align: center; padding: 12px 2px; background-color: #005d8f; width: 50%; }
+
+.sideNavi-item{width:100%; display: flex;}
 .footer{height:110px;}
 .bitwhatapp{display:none;}
 .callnone{display:block;}
@@ -605,6 +605,7 @@ text-align: left;}
 .hero-section-slide{height: auto;}
 .dsu-addmission{margin-top:48%;}
 .bc-img01, .bc-img02, .bc-img03, .bc-img04{ height: 670px; background-size: 100%;}
+.thankyou__dv{width:100%;}
 
 .dsu-addmission p {
     width: 100%;
@@ -623,7 +624,8 @@ left:auto;}
 .dsu-addmission .nextline h6 b {
     font-weight: 700;
     color: #000;
-font-size:25px;}
+font-size:22px;}
+.dsu-addmission .nextline h6{font-size:22px;}
 
 
 }
@@ -681,6 +683,7 @@ font-size:25px;}
 
 }
 @media only screen and (max-width:480px){
+.header .approvalbx p small span{color:#ffffff;font-size:18px; display:block; line-height:1.1;font-weight:600; padding-top: 10px;}
 .img100{width:100%;}
 .dsu-addmission h3{font-size:15px;}
 .dsu-addmission h3>small{font-size:20px;}
@@ -690,10 +693,21 @@ font-size:25px;}
 .footer span {font-size:12px;display:block;line-height:1.27;}
 .sec3GMimgBox,.sec9GMimgBox{max-width:100%;}
 .testicontent p {font-size:14px;}
+.dsu-intro {
+	padding-top: 0px;
+}
+
+#heroo{position:absolute; top:415px;}
+.dsu-intro{position: relative; z-index:1; margin-bottom:670px; }
+.dsu-addmission .nextline h5{font-size: 20px;}
+.dsu-addmission .nextline h6 b{font-size: 22px;}
+.dsu-addmission .nextline h6{font-size:22px;}
+
 
 
 }
 @media only screen and (max-width:414px){
+.header .approvalbx p small span{color:#ffffff;font-size:18px; display:block; line-height:1.1;font-weight:600; padding-top: 10px;}
 #applyBox {padding-right:0px;padding-left:0px;}
 .applyBox,.dsu-form{width:100%;}
 .f-size22{font-size:18px;}
