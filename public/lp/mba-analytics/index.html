@@ -28,6 +28,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" href="fonts/fonticon/css/font-awesome.min.css">
 <link rel="stylesheet" href="fonts/stylesheet.css" />
 <script src="js/jquery.min.js"></script>
+<script>
+    jQuery(document).ready(function(){
+    url = new URL(window.location.href);
+    var campaign_name = url.searchParams.get("utm_campaign");
+    var keyword = url.searchParams.get("utm_keyword");
+    var source = url.searchParams.get("utm_source");
+    var network = url.searchParams.get("utm_network");
+    var utm_medium = url.searchParams.get("utm_medium");
+    
+    document.getElementById("campaign_url").value = window.location.href;
+    document.getElementById("campaign_name").value = campaign_name;
+    document.getElementById("keyword").value = keyword;
+    document.getElementById("sourceId").value = source;
+    document.getElementById("network").value = network;
+    document.getElementById("utm_medium").value = utm_medium;
+    
+    if (document.referrer)
+    {
+    var myReferer = document.referrer;
+    document.getElementById("referrerid").value = myReferer;
+    }
+    else
+    {
+    document.getElementById("referrerid").value = 'None';
+    }
+    });
+    </script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -92,7 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h4>Get in touch with us!</h4>
 </div>
 <div class="contact_fild">
-<form id="formID" name="contact-form" method="post" action="https://uniproeducation.com/lp/abbs-mba-new2022-save.php">
+<form id="formID" name="contact-form" method="post" action="https://uniproeducation.com/lp/abbs-mba-ba-2022-save.php">
 <div class="formIDfid">
   <div class="contact-fild-box">
     <div class="form-group">
@@ -194,8 +221,8 @@ class="form-control validate[required]">
   <input type="hidden" id="campaign_name" name="campaign_name" value="">
   <input type="hidden" id="sourceId" name="source" value="">
   <input type="hidden" id="utm_medium" name="utm_medium" value="">
-  <input type="hidden" name="orderid" value="1136">
-  <input type="hidden" name="sitename" value="ABBSMBA2022">
+  <input type="hidden" name="orderid" value="1141">
+  <input type="hidden" name="sitename" value="ABBSMBABusinessAnalytics2022">
   <div class="contact-fild-box text-center">
     <div class="input-group">
       <button id="btnSubmit" type="submit" class="btn btn_submit mt-0">Submit</button>
