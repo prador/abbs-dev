@@ -71,7 +71,7 @@ sections:
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
-        slide_button_link: ""
+        slide_button_link: https://abbs.edu.in/news-events/events/international-case-conference-2022-on-the-theme-redefining-pedagogy-sponsored-by-aicte
         slide_image: static/img/aicet_2-300x-100.jpg
         slide_image_mobile: static/img/aicet_1-300x-100.jpg
       - slide_title: ""
