@@ -72,6 +72,12 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
+        slide_image: static/img/aicet_2-300x-100.jpg
+        slide_image_mobile: static/img/aicet_1-300x-100.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
         slide_image: static/img/alum-meet-web-1920-×-940-px-.jpg
         slide_image_mobile: static/img/alum-meet-mobile.jpg
       - slide_title: ""
@@ -80,12 +86,6 @@ sections:
         slide_button_link: /news-events/events/hr-conclave-nurturing-human-capital-in-the-post-pandemic-regime
         slide_image: static/img/desktop-adapt.jpg
         slide_image_mobile: static/img/mobile-adpt.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/aicet_2-300x-100.jpg
-        slide_image_mobile: static/img/aicet_1-300x-100.jpg
   - type: program_select
     show_program_select: true
   - type: program_accordion
