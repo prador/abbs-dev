@@ -84,8 +84,8 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/desktop-hero-congrats.jpg
-        slide_image_mobile: static/img/mobile-hero-congrats-alumni.jpg
+        slide_image: static/img/aicet_2-300x-100.jpg
+        slide_image_mobile: static/img/aicet_1-300x-100.jpg
   - type: program_select
     show_program_select: true
   - type: program_accordion
