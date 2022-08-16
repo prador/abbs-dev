@@ -21,8 +21,8 @@
 .btn_submit:hover {background-color: #ea6903; color: #FFF;}
 .contact-fild-box { margin-bottom: 8px; position: relative;}
 .contact-fild-box.text-center { margin-bottom: 0px;}
-.dsu-intro { position: absolute; width: 31%; top: 0%; z-index: 1; right: 0;}
-.dsu-addmission { margin-top: 55%; display: block; padding: 0px;}
+.dsu-intro { position: absolute; width: 31%; top: 5%; z-index: 1; right: 0;}
+.dsu-addmission { margin-top: 45%; display: block; padding: 0px;}
 .formIDfid { padding: 0 0px; }
 .contact-fild-box .form-control option { color: #000; }
 .dsu-addmission .bannerContent h2 { font-size: 3.2em;  line-height: 1; color: #FFF; position: relative; z-index: 1;}

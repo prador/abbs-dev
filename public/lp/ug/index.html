@@ -24,6 +24,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" href="css/pro.css">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
 <script src="js/jquery.min.js"></script>
+<script>
+    jQuery(document).ready(function(){
+    url = new URL(window.location.href);
+    var campaign_name = url.searchParams.get("utm_campaign");
+    var keyword = url.searchParams.get("utm_keyword");
+    var source = url.searchParams.get("utm_source");
+    var network = url.searchParams.get("utm_network");
+    var utm_medium = url.searchParams.get("utm_medium");
+    
+    document.getElementById("campaign_url").value = window.location.href;
+    document.getElementById("campaign_name").value = campaign_name;
+    document.getElementById("keyword").value = keyword;
+    document.getElementById("sourceId").value = source;
+    document.getElementById("network").value = network;
+    document.getElementById("utm_medium").value = utm_medium;
+    
+    if (document.referrer)
+    {
+    var myReferer = document.referrer;
+    document.getElementById("referrerid").value = myReferer;
+    }
+    else
+    {
+    document.getElementById("referrerid").value = 'None';
+    }
+    });
+    </script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -75,9 +102,121 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="applyBox" class="wow flipInY">
 <div class="applyBox">
 <div class="dsu-form shadow">
-<div class="contact_fild">
-<div class="npf_wgts" data-height="590px" data-w="1d53de89c59cbc5ee84eba92b1b0c7d7"></div>
+<div class="frmBg pt-3">
+<h4 class="font-weight-700 fsize24">ADMISSION ENQUIRY</h4>
+</div>
+<div class="contact_fild p-3">
+<form id="formID" name="contact-form" method="post" action="https://uniproeducation.com/lp/abbs-ug-2022-save.php">
+<div class="formIDfid">
+<div class="contact-fild-box">
+<div class="form-group">
+<input name="name" class="form-control validate[required, custom[name]]" placeholder="Name*" data-errormessage-value-missing="*Name is required!" type="text" />
+</div>
+</div>
+<div class="contact-fild-box">
+<div class="form-group">
+<input name="email" class="form-control validate[required, custom[email]]" placeholder="Email*" maxlength="30" data-errormessage-value-missing="* Email is required!" type="text" />
+</div>
+</div>
 
+<div class="contact-fild-box">
+<div class="form-group">
+<input name="phone" id="phone" maxlength="10" placeholder="Mobile*" class="form-control validate[required, custom[phone]]" data-errormessage-value-missing="* Mobile is required!" type="tel" />
+</div>
+</div>
+
+<div class="contact-fild-box">
+<div class="form-group">
+<select name="course" id="courseidd" onChange="select_courseform_func()" data-errormessage-value-missing="* Course is required!" class="form-control custom-select validate[required]">
+<option value="">Select Course*</option>
+<option value="Under Graduate Programs">Under Graduate Programs</option>
+</select>
+</div>
+</div>
+
+<div class="contact-fild-box">
+<div class="form-group">
+  <p id="citypid2">
+<select name="Program" id="branchid" data-errormessage-value-missing="*Program is required!" class="form-control custom-select formbg1 validate[required]">
+      <option value="">Select Program*</option>
+    </select>
+  </p>
+</div>
+</div>
+
+<div class="contact-fild-box">
+<div class="form-group">
+<select name="state" id="stateid" onchange="select_state_func()" data-errormessage-value-missing="* State is required!"
+class="form-control custom-select validate[required]">
+<option value="" selected="selected"> Select State * </option>
+<option value="1">Andaman and Nicobar</option>
+<option value="2"> Andhra Pradesh </option>
+<option value="3">Arunachal Pradesh</option>
+<option value="4"> Assam </option>
+<option value="5">Bihar</option>
+<option value="6"> Chandigarh </option>
+<option value="7">Chhattisgarh</option>
+<option value="8"> Dadra And Nagar Haveli </option>
+<option value="9">Daman And Diu</option>
+<option value="10"> Delhi </option>
+<option value="11">Goa</option>
+<option value="12"> Gujarat </option>
+<option value="13">Haryana</option>
+<option value="14"> Himachal Pradesh </option>
+<option value="15">Jammu and Kashmir</option>
+<option value="16"> Jharkhand </option>
+<option value="17">Karnataka</option>
+<option value="18"> Kerala </option>
+<option value="19">Ladakh</option>
+<option value="20"> Lakshadweep </option>
+<option value="21">Madhya Pradesh</option>
+<option value="22"> Maharashtra </option>
+<option value="23">Manipur</option>
+<option value="24"> Meghalaya </option>
+<option value="25">Mizoram</option>
+<option value="26"> Nagaland </option>
+<option value="27">Odisha</option>
+<option value="28"> Puducherry </option>
+<option value="29">Punjab</option>
+<option value="30"> Rajasthan </option>
+<option value="31">Sikkim</option>
+<option value="32"> Tamil Nadu </option>
+<option value="33">Telangana</option>
+<option value="34"> Tripura </option>
+<option value="35">Uttar Pradesh</option>
+<option value="36"> Uttarakhand </option>
+<option value="37">West Bengal</option>
+</select>
+</div>
+</div>
+<div class="contact-fild-box">
+<div class="form-group">
+<p id="citypid" style="">
+  <select name="city" id="cityid" data-errormessage-value-missing="* City is required!" class="form-control formbg1 custom-select validate[required]">
+    <option value="">Select City* </option>
+  </select>
+</p>
+</div>
+</div>
+
+
+<div class="contact-fild-box text-center mt-3">
+<div class="form-group">
+<input type="hidden" id="referrerid" name="referrer_name" value="" />
+<input type="hidden" id="keyword" name="keyword" value="" />
+<input type="hidden" id="network" name="network" value="" />
+<input type="hidden" id="campaign_url" name="campaign_url" value="" />
+<input type="hidden" id="campaign_name" name="campaign_name" value="" />
+<input id="utm_medium" name="utm_medium" type="hidden" value="">  
+<input type="hidden" id="sourceId" name="source" value="" />
+<input type="hidden" name="orderid" value="1145" />
+<input type="hidden" name="sitename" value="AbbsUG2022" />
+<button id="btnSubmit" type="submit" class="btn btn_submit text-uppercase" onClick="return verify_mobile();">Submit</button>
+</div>
+
+</div>
+</div>
+</form>
 </div>
 </div>
 </div>
@@ -425,7 +564,6 @@ Copyright © Acharya Bangalore B-School. All rights reserved
 <script src="js/wow.min.js"></script> 
 <script src="css/carousel/owl.carousel.min.js"></script>
 <script src="js/custom.js"></script>
-
 <script src="js/course.js"></script>
 <script>
 $(document).ready(function(){
@@ -444,6 +582,13 @@ $(".box").hide();
 
 
 </script>
-<script type="text/javascript"> var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://widgets.nopaperforms.com/emwgts.js"; document.body.appendChild(s); </script>
+
+<!-- validationEngine FORM START --> 
+<link rel="stylesheet" href="js/form/validationEngine.jquery.css" />
+<script src="js/form/jquery.validationEngine.js"></script> 
+<script src="js/form/jquery.validationEngine-en.js"></script> 
+<script src="js/form/script.js"></script> 
+<script src="js/form/state.js"></script>
+<script src="js/form/courseform.js"></script>
 </body>
 </html>
