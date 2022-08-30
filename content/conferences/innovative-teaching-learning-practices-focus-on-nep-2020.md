@@ -40,7 +40,8 @@ sections:
     section_id: int-case-intro
     section_title: ""
     section_text: |-
-      \
+      ![](/static/img/naac1.png)
+
       NAAC Sponsored
 
       National Conference on
@@ -57,6 +58,8 @@ sections:
 
 
 
+      ![](/static/img/00-abbs-logo-black.svg)
+
       Andrahalli Main Road, Off Magadi Road,\
       Bengaluru-560 091, Karnataka, India
   - type: logo_section
@@ -66,6 +69,7 @@ sections:
       - logo_title: ""
         logo_subtitle: ""
         logo_link: ""
+        logo_image: static/img/naac2.jpeg
       - logo_title: ""
         logo_subtitle: ""
         logo_link: ""
@@ -206,38 +210,48 @@ sections:
     section_id: eminent-speakers
     section_title: Eminent Speakers
     logos:
-      - logo_title: ""
-        logo_subtitle: ""
+      - logo_title: Vice Chancellor,  Tamil Nadu Teachers Education University-Chennai
+        logo_subtitle: Dr. Panchanatham,
         logo_link: ""
-      - logo_title: ""
-        logo_subtitle: ""
+        logo_image: static/img/dr panchatam.jpeg
+      - logo_title: Vice Chancellor, Rani Channamma University, Belagavi
+        logo_subtitle: Dr. Ramachandra Gowda
         logo_link: ""
-      - logo_title: ""
-        logo_subtitle: ""
+        logo_image: static/img/ramachandra.jpeg
+      - logo_title: Vice Chancellor  Tamil Nadu Open University (TNOU)
+        logo_subtitle: Dr. Parthasarathy
         logo_link: ""
-      - logo_title: ""
-        logo_subtitle: ""
+        logo_image: static/img/parthasarathy.jpeg
+      - logo_title: Director General,  Sree Saraswati Thyagaraja College, Pollachi,
+          Tamil Nadu
+        logo_subtitle: Prof. Dr. Nandagopal
         logo_link: ""
-      - logo_title: ""
-        logo_subtitle: ""
+        logo_image: static/img/nandagopal.jpeg
+      - logo_title: Director  MBA Department  Acharya Bangalore B-School
+        logo_subtitle: H.R. VENKATESHA
         logo_link: ""
-      - logo_title: ""
-        logo_subtitle: ""
+        logo_image: static/img/venkatesha.jpeg
+      - logo_title: Director IQAC  Acharya Bangalore B-School
+        logo_subtitle: Dr.D.M. Mahishi
         logo_link: ""
+        logo_image: static/img/mahishi.jpeg
     section_grid_size: grid-3
   - type: logo_section
     section_id: chief-patrons
     section_title: Chief Patrons
     logos:
-      - logo_title: ""
-        logo_subtitle: ""
+      - logo_title: Chairman  Acharya Bangalore B-School
+        logo_subtitle: Dr. Vijaypal Reddy
         logo_link: ""
-      - logo_title: ""
-        logo_subtitle: ""
+        logo_image: static/img/01-05-01-dr-b-vijaypal.jpg
+      - logo_title: Managing Director  Acharya Bangalore B-School
+        logo_subtitle: Smt. Poornima Vijaypal Reddy
         logo_link: ""
-      - logo_title: ""
-        logo_subtitle: ""
+        logo_image: static/img/01-05-02-b-poonam-reddy.jpg
+      - logo_title: Executive Director  Acharya Bangalore B-School
+        logo_subtitle: Shri. Ajitesh Basani
         logo_link: ""
+        logo_image: static/img/01-05-03-ajitesh-basani.jpg
     section_grid_size: grid-3
   - type: text_section
     section_id: convenors
