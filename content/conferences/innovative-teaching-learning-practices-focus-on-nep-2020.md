@@ -252,6 +252,10 @@ sections:
         logo_subtitle: Shri. Ajitesh Basani
         logo_link: ""
         logo_image: static/img/01-05-03-ajitesh-basani.jpg
+      - logo_title: Principal  Acharya Bangalore B-School
+        logo_subtitle: Dr. Vijaya Bhaskar K
+        logo_link: ""
+        logo_image: static/img/vijaya-bhaskar.jpg
     section_grid_size: grid-3
   - type: text_section
     section_id: convenors
