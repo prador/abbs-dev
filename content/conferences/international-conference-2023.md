@@ -2,7 +2,8 @@
 slug: icrbsnabm2023
 date: 2022-06-03T13:10:31.424Z
 thumbnail: static/img/Auditorium-min.JPG
-event_date: 2023-01-05T18:34:47.529Z
+event_date: 2023-01-05T10:34:47.529Z
+event_end_date: 2023-01-06T00:37:21.913Z
 asset: static/img/icrbsnabm_2023_abbs.pdf
 sections:
   - type: text_section
@@ -638,7 +639,7 @@ sections:
 
       * Selected few research papers would be considered for publishing in the Institute’s refereed journal – **AMBER ABBS Management Business and Entrepreneurship Review** indexed in J-Gate, i-scholar after a double-blind review process with free of cost.
 
-      * If Authors would like to publish their research articles in the **UGC Approved or Scopus / WoS Journals,** then they need to contact the conference convener.
+      * If Authors would like to publish their research articles in the **UGC Care listed or Scopus / WoS Journals,** then they need to contact the conference convener.
 
       * High-Quality Papers will be given the opportunity to get published in **ABDC Category Journals.**
   - type: table_section
@@ -967,7 +968,6 @@ seo_title: "International Conference  on  Redefining Business Strategies: New
   Age Business Models"
 title: "International Conference  on  Redefining Business Strategies: New Age
   Business Models"
-event_end_date: 2023-01-06T00:37:21.913Z
 event_link: https://docs.google.com/forms/d/e/1FAIpQLSeCyjSojGjG9fxFUMxvBayru6kTbUYJmyVGbeQArAi8vX3tMA/viewform
 ---
 ## International Conference  on  Redefining Business Strategies: New Age Business Models 
