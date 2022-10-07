@@ -30,8 +30,9 @@ hr { width:80%;    margin-top: 1rem;    margin-bottom: 1rem;    border: 0;border
 .top-head{width:100%;padding:15px 0px 15px;}
 .headerRtcontent{position:relative;width:100%;}
 .header .approvalbx{border-right:0px solid #adadac;padding-right:0px;margin-right:0px;}
-.header .approvalbx p{color:#ffffff;font-size:25px;line-height:1.1;font-weight:400;}
-.header .approvalbx p small span{color:#ffffff;font-size:20px;line-height:1.1;font-weight:400;}
+.header .approvalbx p{color:#ffffff;font-size:22px;line-height:1.1;font-weight:400;}
+.header .approvalbx p small { background-color: #d5a800; padding: 3px 5px;}
+.header .approvalbx p small span{color:#ffffff;font-size:20px;line-height:1.1;font-weight:700;}
 .header .approvalbx p b{font-weight:700;}
 .headerRtcontent .approvalbx a{ color: #fff; font-size: 18px;
     background-color: #d5a800; padding: 5px 15px; border-radius: 30px; margin-top: 4px; display: inline-block;} 
