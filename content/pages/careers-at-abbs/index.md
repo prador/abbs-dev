@@ -15,45 +15,9 @@ sections:
     section_id: teaching
     section_title: Teaching
     accordions:
-      - accordion_title: "Faculty - UG Programs "
+      - accordion_title: Assistant Professor English
         accordion_content: >-
-          **Experience:** Min 3 years 
-
-
-          **Campus:** ABBS 
-
-
-          **Key Skills:** Teaching, Research 
-
-
-          **Job Description:** Key responsibilities include teaching & research,  involvement in department administration & community development activities. 
-
-
-          **Subjects:** Commerce /Microbiology or Genetics /Computer Application/ Aviation Management. 
-
-
-          Candidates should have done a Master’s degree in relevant subject with  Ph.D/NET/SLET  and a minimum of 3 years teaching experience in reputed institutions.  Must be active in research.
-      - accordion_title: "Faculty - Part Time UG "
-        accordion_content: >-
-          **Experience:** Min 3 years 
-
-
-          **Campus:** ABBS 
-
-
-          **Key Skills:** Teaching 
-
-
-          **Job Description:** Key responsibilities include teaching & related assignments 
-
-
-          **Subjects:**  History/Psychology/Sociology/Political Science 
-
-
-          Candidates should have done Master’s degree in relevant subject minimum of 3 years teaching experience in reputed institutions.
-      - accordion_title: "Part Time Faculty – History "
-        accordion_content: >-
-          **Experience:** 1-3 years 
+          **Experience:** 3 years 
 
 
           **Campus:** ABBS 
@@ -62,7 +26,9 @@ sections:
           **Key Skills:** Teaching, Evaluation 
 
 
-          **Job Description:** The candidate should have done MA History with experience in teaching UG students. The position is for offline teaching from the campus.
+          **Job Description:** The candidate should have done MA English with minimum 3 years experience in teaching UG students. Preference to candidates with NET/SET/Pursuing Ph.D
+
+          and who are active in research/co-curricular activities.
       - accordion_title: "Faculty – MBA "
         accordion_content: >-
           **Experience:** Min 5 years 
@@ -78,42 +44,12 @@ sections:
 
 
           **Domain:** Finance/Marketing/Operations/General Management
-  - type: accordion_section
-    section_id: non-teaching
-    section_title: Non-Teaching
-    accordions:
-      - accordion_title: Vigilance office
-        accordion_content: >-
-          **Experience:** Min 10 years 
-
-
-          **Campus:** ABBS 
-
-
-          **Key Skills:** Managing Security, Campus Discipline 
-
-
-          **Job Description:** Supervising  Security arrangements, Maintaining discipline in campus and hostels. Candidates should have minimum 10 years prior experience in the above areas. Must have good body build. Knowledge of local languages in addition to English/Hindi.  Ex-servicemen preferred. Maximum Age 50.
-      - accordion_title: Nurse
-        accordion_content: >-
-          **Experience:** Min 0-1 years 
-
-
-          **Campus:** ABBS 
-
-
-          **Key Skills:** First aid 
-
-
-          **Job Description:** Giving first aid care to students and staff as and when needed. Female candidate with GNM/B.Sc Nursing preferred. Free accommodation can be provided, if required.
   - type: anchor_section
     links:
       - anchor_label: Form
         anchor_loc: form
       - anchor_label: Teaching
         anchor_loc: teaching
-      - anchor_label: Non-Teaching
-        anchor_loc: non-teaching
 logo_section:
   - logo_title: ""
     logo_link: ""
