@@ -499,6 +499,7 @@ display:none;
   }
   #main {
     width: 100%;
+    margin-top: 56px;
   }
   #scroll-top-anchor {
     bottom: 30px;
@@ -511,6 +512,7 @@ display:none;
     right: 30px;
   }
   #__eechatIcon {
-    right:20px;
+    right:15px !important;
+    bottom:20px !important;
   }
 }

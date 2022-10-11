@@ -233,7 +233,7 @@ sections:
       - anchor_label: Related News
         anchor_loc: related-news
   - type: program_details
-    next_intake: January 2023
+    next_intake: June 2023
     duration: 3 to 4 Years (6 to 8 semesters)
     credentials: Bachelor’s of Science in Biotechnology, Biochemistry, Microbiology
       and Genetics
