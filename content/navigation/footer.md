@@ -59,8 +59,6 @@ columns:
         links_loc: /research/research-centre
       - links_label: Corporate
         links_loc: /corporate/recruit-students
-      - links_label: Campus Life
-        links_loc: /campus-life/health-wellness
       - links_label: Admissions
         links_loc: /admissions/admission-faqs
   - col_title: Useful Links
