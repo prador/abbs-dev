@@ -2,7 +2,7 @@
 title: UG Graduation Day 2022
 date: 2022-10-12T09:05:37.034Z
 thumbnail: static/img/graduation-day-ug.jpg
-event_date: 2022-10-12T09:05:37.054Z
+event_date: 2022-10-13T09:05:37.054Z
 tags: Education
 ---
 <!--StartFragment-->
