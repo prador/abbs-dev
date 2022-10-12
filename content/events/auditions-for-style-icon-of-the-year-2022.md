@@ -2,7 +2,7 @@
 title: " Auditions for Style Icon of The Year 2022"
 date: 2022-10-12T09:07:50.777Z
 thumbnail: static/img/sity-2022.jpg
-event_date: 2022-10-12T09:07:50.794Z
+event_date: 2022-10-19T09:07:50.794Z
 event_link: ""
 tags: Festivals
 ---
