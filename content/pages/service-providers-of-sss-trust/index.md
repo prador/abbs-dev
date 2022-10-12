@@ -14,8 +14,8 @@ sections:
       the SSS Trust with stationary and uniforms to maintain the requisites of
       classroom learning and campus decorum for their entire course duration.
   - type: text_section
-    section_id: Prashanthi Specialty Clinic
-    section_title: ""
+    section_id: ""
+    section_title: Prashanthi Specialty Clinic
     section_text: The Clinic provides facilities related to health and fitness to
       all the students in the institutes of the Trust. Gym facility is provided
       to the students with a trainer to help students develop mental and
