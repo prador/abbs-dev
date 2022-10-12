@@ -61,6 +61,9 @@ columns:
         links_loc: /corporate/recruit-students
       - links_label: Admissions
         links_loc: /admissions/admission-faqs
+      - links_label: Service Providers of SSS Trust
+        links_loc: /service-providers-of-sss-trust
+        show: true
   - col_title: Useful Links
     col_id: useful-links
     links_list:
