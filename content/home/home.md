@@ -80,6 +80,18 @@ sections:
         slide_button_link: ""
         slide_image: static/img/alum-meet-web-1920-×-940-px-.jpg
         slide_image_mobile: static/img/alum-meet-mobile.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/web-banner-grad-day.jpg
+        slide_image_mobile: static/img/mobile-banner-grad-day.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/web-banner-sity.jpg
+        slide_image_mobile: static/img/mobile-banner-sity.jpg
   - type: program_select
     show_program_select: true
   - type: program_accordion
