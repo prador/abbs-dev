@@ -358,6 +358,9 @@ b, strong {
   padding: 0.5rem 3rem 0.5rem 1rem;  
   cursor: pointer;
 }
+.prog-details .btn {
+  min-width: auto;
+}
 .btn-ghost {
   color: var(--color-grey);
   background:var(--color-ghost);
