@@ -1,21 +1,6 @@
 ---
-title: Financial Aid
+seo_keywords: null
 date: 2021-12-04T06:21:09.365Z
-seo_title: Best Business School in Bangalore | ABBS | Admissions | FInancial Aid
-seo_description: 
-seo_keywords: 
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
 thumbnail: static/img/08-06-financial-aid-banner.jpg
 sections:
   - type: text_section
@@ -44,7 +29,7 @@ sections:
       * Payslips
 
 
-      contact information on our [Portal](www.tachyloans.com) needs to be filled.
+      contact information on our [Portal](https://www.tachyloans.com) needs to be filled.
 
 
       **Step 2:**
@@ -142,6 +127,21 @@ sections:
         anchor_loc: creditap
       - anchor_label: Application Deadlines
         anchor_loc: application-deadlines
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+title: Financial Aid
+seo_title: Best Business School in Bangalore | ABBS | Admissions | FInancial Aid
+links:
+  - anchor_title: ""
+    anchor_id: ""
+seo_description: null
 ---
 An undergraduate or graduate degree is an investment in your future. One way many students choose to fund that investment is through an educational loan. When managed well, an educational loan can be an invaluable instrument in financing your higher education at ABBS. While all loans are to be repaid, applicants are advised to explore all of the options before applying. 
 
