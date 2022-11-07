@@ -241,7 +241,7 @@ top_menu:
       - menu_nav_label: Chat with Students
         menu_nav_link: /admissions/chat-with-students
         submenu_link: null
-        show: true
+        show: false
       - menu_nav_label: Program requirements
         menu_nav_link: /admissions/program-requirements
         submenu_link: null
