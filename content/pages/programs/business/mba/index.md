@@ -126,7 +126,7 @@ sections:
       - accordion_title: Application Process
         accordion_content: >-
           * Step 1: Complete the online application form:
-          [application.abbs.edu.in](http://application.abbs.edu.in)
+          [application.abbs.edu.in](https://application.abbs.edu.in)
 
           * Step 2: Candidate screening and eligibility scan.
 

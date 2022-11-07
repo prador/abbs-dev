@@ -44,7 +44,7 @@ sections:
       * Payslips
 
 
-      contact information on our [Portal](www.tachyloans.com) needs to be filled.
+      contact information on our [Portal](https://www.tachyloans.com) needs to be filled.
 
 
       **Step 2:**
@@ -86,7 +86,7 @@ sections:
       ABBS has partnered with the company, Jodo, to help applicants pay the fees in monthly instalments. With Jodo, you can pay fees every month at 0% interest. The college takes care of the interest charges.
 
 
-      [JODO ](www.jodo.in)(www.jodo.in) is a Bangalore-based company and works with 70+ institutes in Bangalore.
+      [JODO ](https://www.jodo.in)(https://www.jodo.in) is a Bangalore-based company and works with 70+ institutes in Bangalore.
 
 
       To apply for the Jodo monthly plan, fill up the application form on the app jodo.in.
@@ -95,7 +95,7 @@ sections:
   - type: text_section
     section_id: creditap
     section_title: Creditap
-    section_text: >-
+    section_text: >--
       ABBS School of Management has partnered with Creditap to help students pay
       the fees in monthly instalments. 
 
