@@ -330,7 +330,7 @@ sections:
 
       Contact Number: 6361615843
 
-      Website: [www.acharyabbs.edu.in](http://www.acharyabbs.edu.in)
+      Website: [https://www.acharyabbs.edu.in](https://www.acharyabbs.edu.in)
 
       E-mail:  [icc2022@abbs.edu.in](mailto:icc2022@abbs.edu.in)
   - type: text_section

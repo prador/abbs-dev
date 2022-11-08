@@ -349,5 +349,5 @@ sections:
 
       E-mail:   **naac2022@abbs.edu.in**
 
-      Website: [www.acharyabbs.edu.in](http://www.acharyabbs.edu.in)
+      Website: [https://www.acharyabbs.edu.in](https://www.acharyabbs.edu.in)
 ---

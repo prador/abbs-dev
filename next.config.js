@@ -1278,6 +1278,54 @@ module.exports = {
         destination: '/conferences/international-case-conference-2022', 
         permanent: false,
         basePath: false,
+      },
+      {
+        source: '/mandatory-disclosures/category/terms-and-conditions', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/blog/category/terms-and-conditions', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/mandatory-disclosures/category/privacy-policy', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/news-events/static/img/00-abbs-logo-black.svg', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/static/img/00-abbs-logo-black.svg', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/mandatory-disclosures/static/img/00-abbs-logo-black.svg', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/blog/static/img/00-abbs-logo-black.svg', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/undefined', 
+        destination: '/', 
+        permanent: false,
+        basePath: false,
       }
     ]
   }

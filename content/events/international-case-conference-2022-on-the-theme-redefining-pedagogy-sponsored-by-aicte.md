@@ -3,6 +3,7 @@ title: International Case Conference-2022" on the theme "Redefining Pedagogy"
   sponsored by AICTE
 date: 2022-07-27T09:31:11.439Z
 event_date: 2022-10-14T09:31:11.457Z
+thumbnail: static/img/screenshot-2022-07-27-at-11.35.03.png
 event_link: /conferences/international-case-conference-2022
 tags: Education
 ---
