@@ -80,7 +80,7 @@ sections:
   - type: text_section
     section_id: creditap
     section_title: Creditap
-    section_text: >--
+    section_text: >-
       ABBS School of Management has partnered with Creditap to help students pay
       the fees in monthly instalments. 
 
