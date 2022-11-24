@@ -3,7 +3,7 @@ title: 1.1 Number of courses offered by the Institution across all programs
   during the last five years
 description: 1.1 Number of courses offered by the Institution across all
   programs during the last five years
-index: "1.1"
+index: EPD
 section: SSR
 category: Additional Information
 show_toggle: true
