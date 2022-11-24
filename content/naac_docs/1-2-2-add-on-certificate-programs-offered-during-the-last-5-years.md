@@ -1,7 +1,7 @@
 ---
 title: 1.2.2 - Add-on / Certificate Programs offered during the last 5 years.
 description: 1.2.2 - Add-on / Certificate Programs offered during the last 5 years.
-index: "1.2"
+index: 1.2.2
 section: SSR
 category: Criteria - 1 Curricular Aspects
 document: static/img/1.2.2.pdf
