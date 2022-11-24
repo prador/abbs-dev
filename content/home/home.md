@@ -70,28 +70,10 @@ sections:
         slide_image_mobile: static/img/9141-70700-1080-×-1530-px-.jpg
       - slide_title: ""
         slide_text: ""
-        slide_button_label: ""
-        slide_button_link: https://abbs.edu.in/news-events/events/international-case-conference-2022-on-the-theme-redefining-pedagogy-sponsored-by-aicte
-        slide_image: static/img/aicet_2-300x-100.jpg
-        slide_image_mobile: static/img/aicet_1-300x-100.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/alum-meet-web-1920-×-940-px-.jpg
-        slide_image_mobile: static/img/alum-meet-mobile.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/web-banner-grad-day.jpg
-        slide_image_mobile: static/img/mobile-banner-grad-day.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/web-banner-sity.jpg
-        slide_image_mobile: static/img/mobile-banner-sity.jpg
+        slide_button_label: Register Now
+        slide_button_link: https://forms.zohopublic.in/managerit/form/RAGALIA2023/formperma/EIq5j0KV_7DrTBYYYltkOfgEHUdomjNmXfue6NDTfTQ
+        slide_image: static/img/img_7479-min.jpg
+        slide_image_mobile: static/img/img_7480-min.jpg
   - type: program_select
     show_program_select: true
   - type: program_accordion
