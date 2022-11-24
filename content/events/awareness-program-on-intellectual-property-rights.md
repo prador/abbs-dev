@@ -2,7 +2,7 @@
 title: Awareness Program  on Intellectual Property Rights
 date: 2022-11-24T05:55:07.614Z
 thumbnail: static/img/ipr-awareness-program.jpg
-event_date: 2022-11-24T05:55:07.625Z
+event_date: 2022-11-18T05:55:07.625Z
 tags: Education
 ---
 <!--StartFragment-->
