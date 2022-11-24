@@ -1,7 +1,7 @@
 ---
 title: 1.2 Number of programs offered year-wise for last five years
 description: 1.2 Number of programs offered year-wise for last five years
-index: "2"
+index: "1.2"
 section: SSR
 category: Additional Information
 show_toggle: true
