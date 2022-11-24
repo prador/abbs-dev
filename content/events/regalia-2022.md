@@ -2,7 +2,7 @@
 title: Regalia 2022
 date: 2022-11-24T05:56:55.160Z
 thumbnail: static/img/regalia-event-page.jpg
-event_date: 2022-11-24T05:56:55.173Z
+event_date: 2022-12-02T05:56:55.173Z
 tags: Festivals
 ---
 <!--StartFragment-->
