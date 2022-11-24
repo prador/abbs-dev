@@ -1,7 +1,7 @@
 ---
 title: 4.1 Total number of classrooms and seminar halls
 description: 4.1 Total number of classrooms and seminar halls
-index: "8"
+index: EPD
 section: SSR
 category: Additional Information
 show_toggle: true
