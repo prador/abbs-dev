@@ -70,7 +70,7 @@ sections:
         slide_image_mobile: static/img/9141-70700-1080-×-1530-px-.jpg
       - slide_title: ""
         slide_text: ""
-        slide_button_label: Register Now
+        slide_button_label: ""
         slide_button_link: https://forms.zohopublic.in/managerit/form/RAGALIA2023/formperma/EIq5j0KV_7DrTBYYYltkOfgEHUdomjNmXfue6NDTfTQ
         slide_image: static/img/img_7479-min.jpg
         slide_image_mobile: static/img/img_7480-min.jpg
