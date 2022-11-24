@@ -1,7 +1,7 @@
 ---
 title: 2.1 Number of students year-wise during last five years
 description: 2.1 Number of students year-wise during last five years
-index: "3"
+index: EPD
 section: SSR
 category: Additional Information
 show_toggle: true
