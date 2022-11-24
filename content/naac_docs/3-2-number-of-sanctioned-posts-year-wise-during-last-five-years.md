@@ -1,7 +1,7 @@
 ---
 title: 3.2 Number of sanctioned posts year-wise during last five years
 description: 3.2 Number of sanctioned posts year-wise during last five years
-index: "7"
+index: EPD
 section: SSR
 category: Additional Information
 show_toggle: true
