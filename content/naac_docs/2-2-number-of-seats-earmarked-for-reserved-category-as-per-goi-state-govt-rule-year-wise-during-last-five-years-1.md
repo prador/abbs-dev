@@ -3,7 +3,7 @@ title: 2.2 Number of seats earmarked for reserved category as per GOI/State Govt
   rule year-wise during last five years
 description: 2.2 Number of seats earmarked for reserved category as per
   GOI/State Govt rule year-wise during last five years
-index: "4"
+index: EPD
 section: SSR
 category: Additional Information
 show_toggle: true
