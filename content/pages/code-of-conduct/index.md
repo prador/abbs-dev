@@ -115,17 +115,19 @@ sections:
          vii. Sending, receiving, or accessing pornographic materials. 
 
          viii. Defeating or attempting to defeat security restrictions on Institution systems and applications.
-
-
-
-      **F﻿or Students**
-
-
-      * **S﻿tatutory Regulations and Committees**
   - type: anchor_section
     links:
       - anchor_label: "Code of Conduct for Employees "
         anchor_loc: code-of-conduct
+  - type: text_section
+    section_id: Code of Conduct for Students
+    section_title: Code of Conduct for Students
+    section_text: |-
+      
+
+      **F﻿or Students**
+
+      * **S﻿tatutory Regulations and Committees**
 logo_section:
   - logo_title: ""
     logo_link: ""
