@@ -10,13 +10,10 @@ sections:
     section_id: code-of-conduct
     section_title: Code of Conduct for Employees
     section_text: >-
-      The Institution has rules and regulations regarding Employee behaviour
-      that are necessary for the efficient operation of the Institution and for
-      the benefit and safety of all Employees as well as Students (“Code of
-      Conduct”). Code of Conduct that interferes with operations or that is
-      offensive to students or co-workers or Management will not be tolerated,
-      and will be grounds for disciplinary action, up to and including
-      termination. 
+      **F﻿or Employees**
+
+
+      The Institution has rules and regulations regarding Employee behaviour that are necessary for the efficient operation of the Institution and for the benefit and safety of all Employees as well as Students (“Code of Conduct”). Code of Conduct that interferes with operations or that is offensive to students or co-workers or Management will not be tolerated, and will be grounds for disciplinary action, up to and including termination. 
 
 
       Employees are expected to conduct themselves in accordance with (but not limited to) the following guidelines:  
@@ -118,6 +115,13 @@ sections:
          vii. Sending, receiving, or accessing pornographic materials. 
 
          viii. Defeating or attempting to defeat security restrictions on Institution systems and applications.
+
+
+
+      **F﻿or Students**
+
+
+      * **S﻿tatutory Regulations and Committees**
   - type: anchor_section
     links:
       - anchor_label: "Code of Conduct for Employees "
