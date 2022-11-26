@@ -128,6 +128,11 @@ sections:
       **F﻿or Students**
 
       * **S﻿tatutory Regulations and Committees**
+  - type: anchor_section
+  - type: text_section
+    section_id: "- Committees"
+    section_title: "- Committees"
+    section_text: 1﻿. Anti ragging Committee
 logo_section:
   - logo_title: ""
     logo_link: ""
