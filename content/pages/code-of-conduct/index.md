@@ -149,9 +149,7 @@ sections:
       Students can also call the toll free round-the-clock UGC National Anti-ragging Helpline 1800- 180-5522 or write email to helpline@antiragging.in.
 
 
-
-
-      * **Prevention of Sexual Harassment**
+      * **Regulations on Policy on Substance Abuse**
 
 
       **SUBSTANCE ABUSE
@@ -191,8 +189,6 @@ sections:
           • Immediate suspension from the college (admission or employment) pending enquiry.
           • If the individual is a student, the parent / legal guardian will be informed immediately and will be expected to meet the Director at the earliest.
           • The Institutional Disciplinary Committee will conduct an enquiry and submit the report to the Director who will initiate further action in consultation with the Executive Director and Dean. 
-
-
 
       * **Prevention of Sexual Harassment**
 
