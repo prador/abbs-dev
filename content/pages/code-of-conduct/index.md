@@ -220,24 +220,33 @@ sections:
   - type: anchor_section
   - type: text_section
     section_id: "- Committees"
-    section_title: "- Committees"
-    section_text: |-
-      **Antiragging Comittees**
+    section_title: Committees
+    section_text: >-
+      **\-Antiragging squad and Antiragging Committee**
 
 
-      **Anti Ragging squad**	
+      ![](static/img/anti-ragging.jpg "**Antiragging squad and Antiragging Committee**")
 
 
-      **Prevention of sexual harassment comiitee**
 
 
-      **Internal Complaint committee**
+      **\-Prevention of sexual harassment committee**
 
 
-      **Committee for SC / ST**
+      ![](static/img/prevention-of-sexual-harrassment.jpg "**Prevention of sexual harassment committee**")
 
 
-      **Equal Opportunity Committee**
+      **\-Internal Complaint committee**
+
+
+      ![](static/img/internal-complaint-committee.png "**Internal Complaint committee**")
+
+
+      \-**Committee for SC / ST**
+
+
+      ![](static/img/sc-st-committee.png "**Committee for SC / ST**")
+    buttons: []
 logo_section:
   - logo_title: ""
     logo_link: ""
