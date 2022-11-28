@@ -69,6 +69,14 @@ sections:
 
       })();</script>
     embed_size: ""
+  - type: program_details
+    next_intake: ""
+    duration: ""
+    credentials: ""
+    apply_form: ""
+    contact_form: ""
+    request_brochure_link: Download Offline Grievance Redressal Form
+    brochure: static/img/grievance-redressal-form.pdf
 logo_section:
   - logo_title: ""
     logo_link: ""
