@@ -121,13 +121,106 @@ sections:
         anchor_loc: code-of-conduct
   - type: text_section
     section_id: Code of Conduct for Students
-    section_title: Code of Conduct for Students
-    section_text: |-
-      
-
+    section_title: ""
+    section_text: >-
       **F﻿or Students**
 
-      * **S﻿tatutory Regulations and Committees**
+
+      **\-﻿ Statutory Regulations and Policies**
+
+
+      * **Anti ragging policy of institution**
+
+
+      **ANTI RAGGING
+
+      REGULATIONS ON ANTI-RAGGING**
+
+      All students are required to note that they are prohibited from engaging in any form of ragging.
+
+      Based on the directions of the Hon'ble Supreme Court of India, the UGC (University Grants Commission) framed the “UGC Regulations on curbing the menace of ragging in Higher Educational Institutions, 2009”. https://www.ugc.ac.in/oldpdf/ragging/gazzetaug2010.pdf 
+
+      The aim of the Regulations is to prohibit, prevent and eliminate the scourge of ragging including any conduct by any student or students whether by words spoken or written or by an act which has the effect of teasing, treating or handling with rudeness a fresher or any other student, or indulging in rowdy or indisciplined activities by any student or students which causes or is likely to cause annoyance, hardship or psychological harm or to raise fear or apprehension thereof in any fresher or any other student or asking any student to do any act which such student will not in the ordinary course do and which has the effect of causing or generating a sense of shame, or torment or embarrassment so as to adversely affect the physique or psyche of such fresher or any other student, with or without an intent to derive a sadistic pleasure or showing off power, authority or superiority by a student over any fresher or any other student, in all higher education institutions in the country, and thereby, to provide for the healthy development, physically and psychologically, of all students.
+
+      Any student found to be indulging in one or more of the above mentioned activities is liable to be punished. Punishment could include expulsion from the Institute, suspension from the Institute for a limited period, a fine with a public apology, withholding of scholarships, debarring from representation in events, withholding of results and suspension or expulsion from the hostel.
+
+      Students can call on ABBS landline number (080) 23245516 to complain about ragging.
+
+      Students can also call the toll free round-the-clock UGC National Anti-ragging Helpline 1800- 180-5522 or write email to helpline@antiragging.in.
+
+
+
+
+      * **Prevention of Sexual Harassment**
+
+
+      **SUBSTANCE ABUSE
+
+      REGULATIONS ON POLICY ON SUBSTANCE ABUSE**
+
+      Definitions under ABBS Substance Abuse Policy:
+
+
+      1. A “substance” includes alcohol, illegal drugs, inhalants, and prescription and over-the counter
+         drugs.
+      2. An “illegal drug” is any substance that is illegal to use, possess, sell, or transfer.
+
+      3. “Drug paraphernalia” are any items used or intended for use in making, packaging, concealing,
+         injecting, inhaling, or consuming illegal drugs or inhalants.
+      4. An “inhalant” is any substance that produces mind-altering effects when inhaled.
+         An individual is “under the influence” if any substance:
+         • impairs one’s behaviour or ability to work / study safely and productively;
+         • results in a physical or mental condition that creates a risk to one’s own safety, the safety of others, or campus property;
+         • or is shown to be present in one’s body, by laboratory evidence, in one or more than one identifiable trace.
+         Rules:
+      5. One may not use, possess, or be under the influence of alcohol and/ or illegal drugs on institution premises.
+
+      6. One may not sell, buy, transfer, or distribute any drugs and / or drug paraphernalia. It is against the law to do so and there will be legal consequences.
+
+      7. One may not use, possess, sell, buy, transfer, or distribute One may not use or be under the influence of inhalants.
+
+      8. ABBS may consult with a doctor to determine if a prescription or over-the-counter drug may create a risk if one uses it on the campus.
+
+      9. In addition, this policy prohibits the unlawful manufacture, dispensing or distribution of illicit drugs and alcohol by any individual on institution premises, while conducting institution business off the premises, or as part of any institution sponsored activities.
+
+      10. An individual must cooperate with any investigation into substance abuse. An investigation may include tests to detect the use of alcohol, drugs, or inhalants.
+
+      11. This policy delineates the appropriate action to take in the event that any individual exhibits behavior consistent with alcohol or drug use in the institution.
+          Disciplinary Procedures:
+          • Any individual violating the policy on substance abuse will face:
+          • Immediate suspension from the college (admission or employment) pending enquiry.
+          • If the individual is a student, the parent / legal guardian will be informed immediately and will be expected to meet the Director at the earliest.
+          • The Institutional Disciplinary Committee will conduct an enquiry and submit the report to the Director who will initiate further action in consultation with the Executive Director and Dean. 
+
+
+
+      * **Prevention of Sexual Harassment**
+
+
+      According to Sexual Harassment of Women at the Workplace (Prevention, Prohibition and Redressal) Act 2013. Sexual harassment is any unwelcome sexually determined behaviour, such as:-
+
+      • Physical contact
+
+      • A demand or request for sexual favours
+
+      • Sexually coloured remarks
+
+      • Showing pornography
+
+      • Any other physical, verbal or non-verbal conduct of a sexual nature.
+
+      The harassment may relate to a single incident or may happen over time whether directly or by implication.
+
+      Sexual harassment doesn't only involve cases where one person engages in conduct that requests or implies sexual favours or any form of relationship in return for some benefit or safety from reprisal. Sexual harassment could also arise if the action or conduct creates a hostile work or school environment. (e.g., eve teasing, making unwelcome or suggestive sexual remarks or comments, improper touching or inappropriate staring).
+
+      ABBS Policy: Zero Tolerance
+
+      ABBS has a ‘zero tolerance’ policy to any form of sexual harassment. Even a single incident of sexual harassment, if found to be true after investigation as per this policy, will be met with the strictest disciplinary action based on the nature and intensity of the violation. The consequences of violation may even include termination of Admission or expulsion from ABBS and payment of compensation to the victim directly by the person found guilty of sexual harassment. If required by law, ABBS may also report the incident to the police or other authorities for criminal action to be initiated.
+
+      Stakeholders covered under ABBS policy on prevention of sexual harassment:
+
+      The ABBS policy is gender neutral and covers with equal rigor both women and men, including same-sex harassment. This policy will also be applied to protect all students of the ABBS community, irrespective of gender and age, from any form of sexual harassment. The overall goal of the policy is to facilitate a safe working and educational environment for all individuals.
+    buttons: []
   - type: anchor_section
   - type: text_section
     section_id: "- Committees"
