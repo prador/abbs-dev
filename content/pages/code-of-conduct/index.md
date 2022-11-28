@@ -225,7 +225,23 @@ sections:
   - type: text_section
     section_id: "- Committees"
     section_title: "- Committees"
-    section_text: 1﻿. Anti ragging Committee
+    section_text: |-
+      **Antiragging Comittees**
+
+
+      **Anti Ragging squad**	
+
+
+      **Prevention of sexual harassment comiitee**
+
+
+      **Internal Complaint committee**
+
+
+      **Committee for SC / ST**
+
+
+      **Equal Opportunity Committee**
 logo_section:
   - logo_title: ""
     logo_link: ""
