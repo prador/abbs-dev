@@ -8,7 +8,7 @@ thumbnail: static/img/code-of-conduct-banner.jpg
 sections:
   - type: text_section
     section_id: code-of-conduct
-    section_title: Code of Conduct for Employees
+    section_title: Code of Conduct
     section_text: >-
       **F﻿or Employees**
 
