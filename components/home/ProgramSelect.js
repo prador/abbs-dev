@@ -1,6 +1,6 @@
 import * as React from "react";
 
-const ProgramSelect = () => {
+const ProgramSelect = (section) => {
 /** "selected" here is state variable which will hold the
 * value of currently selected dropdown.
 */
@@ -65,8 +65,12 @@ React.useEffect(() => {
 		setSelectedProg("#");
 	}
   }, [selected]);
+console.log(section.att.show_program_select)
 return (
+	<>
+	{section.att.show_program_select ? 
 	<div className="content news-events-wrapper">
+		
       {/* <div className="w-layout-grid contain-block"> */}
       <section className='program-select-section'>
 	<div
@@ -115,6 +119,8 @@ return (
 	</div>
 	</section>
 	</div>
+	: null }
+	</>
 );
 };
 

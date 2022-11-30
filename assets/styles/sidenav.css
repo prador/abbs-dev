@@ -246,12 +246,18 @@
     margin-bottom: 1rem;
     border-bottom: 1px solid #d3d3d3;
   }
+  .nav-apply-btn-wrapper {
+    padding: 1.5rem 0 0.5rem;
+    border-top: 1px solid #d3d3d3;
+    width: 100%;
+    text-align: center;
+    }
   .nav-contact {
     padding: 0.5rem 0.25rem 0.5rem 0.25rem;
   margin: 0 0 1rem 0;
   }
   .nav-apply {
-    width:100%;
+    /* width:100%; */
   }
   @media screen and (max-width:600px) {
     .nav-apply {
@@ -267,6 +273,16 @@
     .nav-apply,.nav-footer {
       display: none;
     }
+    .nav-apply-btn-wrapper {
+      padding: 0;
+      border-top: none;
+      width: 100%;
+      display: flex;
+      }
+      .nav-apply-btn-wrapper .nav-apply {
+        display:flex;
+        align-items: center;
+      }
     .nav-title {
       margin-top:0;
     }

@@ -60,8 +60,8 @@ top_menu:
         menu_nav_link: /conferences
         submenu_link: ""
         show: true
-        nav_link_colour: "#0c38ef"
-        nav_link_color: "#0c38ef"
+        nav_link_colour: ""
+        nav_link_color: ""
     parent_menu_id: "-"
   - menu_title: Profile
     menu_id: profile
@@ -259,7 +259,7 @@ top_menu:
         submenu_link: null
         show: true
       - menu_nav_label: Apply Now
-        menu_nav_link: https://application.abbs.edu.in/bschool/
+        menu_nav_link: https://application.abbs.edu.in/abbs-goi/
         submenu_link: null
         show: true
     parent_menu_id: main
