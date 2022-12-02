@@ -1,5 +1,7 @@
 ---
 slug: /
+title: Home
+seo_title: Top B Schools in Bangalore | Bangalore Business School
 body_scripts: ""
 thumbnail: static/img/00-01-01-hero-desktop.jpg
 seo_keywords: Bangalore b school, Bangalore Business School, B School, B Schools
@@ -54,8 +56,6 @@ program_accordion:
     links:
       - name: BCA
         loc: /programs/information-technology/bca-colleges-in-bangalore
-title: Home
-seo_title: Top B Schools in Bangalore | Bangalore Business School
 date: 2019-03-17T19:31:20.591Z
 sections:
   - type: slider
@@ -63,15 +63,33 @@ sections:
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
-        slide_button_link: /programs/business/best-mba-colleges-in-bangalore
-        slide_image: static/img/9141-70700.jpg
-        slide_image_mobile: static/img/9141-70700-1080-×-1530-px-.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
         slide_button_link: https://forms.zohopublic.in/managerit/form/RAGALIA2023/formperma/EIq5j0KV_7DrTBYYYltkOfgEHUdomjNmXfue6NDTfTQ
         slide_image: static/img/img_7479-min.jpg
         slide_image_mobile: static/img/img_7480-min.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/graduation-day-2022-desktop.jpg
+        slide_image_mobile: static/img/graduation-day-2022-mobile.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/tedx-countdown_website.jpg
+        slide_image_mobile: static/img/tedx-countdown_mobile.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/abbs-rank-post-19-desktop.jpg
+        slide_image_mobile: static/img/abbs-rank-post-19-mobile.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/abbs_website-banne_desktop.jpg
+        slide_image_mobile: static/img/innovative-teaching-mobile.jpg
   - type: program_select
     show_program_select: false
   - type: program_accordion
