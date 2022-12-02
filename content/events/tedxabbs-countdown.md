@@ -1,6 +1,7 @@
 ---
 title: TEDxABBS Countdown
 date: 2022-12-02T08:28:16.498Z
+thumbnail: static/img/tedx-countdown_events-section.jpg
 event_date: 2022-12-22T08:28:16.569Z
 event_link: https://countdown.ted.com/take-action
 tags: Education
