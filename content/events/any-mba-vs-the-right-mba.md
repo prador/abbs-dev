@@ -1,6 +1,7 @@
 ---
 title: Any MBA vs The Right MBA
 date: 2022-12-14T18:29:46.891Z
+thumbnail: static/img/rightmba.jpg
 event_date: 2022-12-17T18:29:46.902Z
 event_link: https://bit.ly/3VS27qr
 tags: Education
