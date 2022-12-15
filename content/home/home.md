@@ -1,7 +1,5 @@
 ---
 slug: /
-title: Home
-seo_title: Top B Schools in Bangalore | Bangalore Business School
 body_scripts: ""
 thumbnail: static/img/00-01-01-hero-desktop.jpg
 seo_keywords: Bangalore b school, Bangalore Business School, B School, B Schools
@@ -56,16 +54,14 @@ program_accordion:
     links:
       - name: BCA
         loc: /programs/information-technology/bca-colleges-in-bangalore
+title: Home
+seo_title: Top B Schools in Bangalore | Bangalore Business School
+seo_description: ABBS is Ranked among the top business school in Bangalore which
+  provides the best MBA /PGDM and Management Programmes.
 date: 2019-03-17T19:31:20.591Z
 sections:
   - type: slider
     slides:
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: https://forms.zohopublic.in/managerit/form/RAGALIA2023/formperma/EIq5j0KV_7DrTBYYYltkOfgEHUdomjNmXfue6NDTfTQ
-        slide_image: static/img/img_7479-min.jpg
-        slide_image_mobile: static/img/img_7480-min.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
@@ -867,8 +863,6 @@ rec_acc_section:
       logo_subtitle: ""
       logo_link: ""
       logo_image: static/img/00-03-01-accreditions.jpg
-seo_description: ABBS is Ranked among the top business school in Bangalore which
-  provides the best MBA /PGDM and Management Programmes.
 faq_section:
   accordions:
     - accordion_title: "What B-school means? "
