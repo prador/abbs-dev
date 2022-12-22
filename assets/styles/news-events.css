@@ -13,10 +13,11 @@
   grid-gap: 1rem;
   }
   .news-post {
-  background-color: var(--color-white);
-  margin-bottom: 10px;
+    background-color: var(--color-white);
+    margin-bottom: 10px;
     display: grid;
     grid-template-columns: 1fr 0.5fr;
+    overflow: hidden;
   }
   .news-post img {
     max-width:200px;
@@ -38,6 +39,7 @@
   .news-post-content {
   padding: 1rem;
   text-align: left !important;
+  height: fit-content;
   }
   .events-post-content {
   padding: 0 20px;

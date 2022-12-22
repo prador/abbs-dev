@@ -6,6 +6,70 @@ top_menu:
   - menu_title: Main
     menu_id: main
     menu_nav_list:
+      - menu_nav_label: Inside ABBS
+        menu_nav_link: /profile/history-overview
+        submenu_link: inside
+        show: true
+      - menu_nav_label: Programs
+        menu_nav_link: /programs
+        submenu_link: programs
+        show: true
+      - menu_nav_label: Profile
+        menu_nav_link: /profile/history-overview
+        submenu_link: profile
+        show: false
+      - menu_nav_label: ABBS Edge
+        menu_nav_link: /abbs-edge/recognition-accreditations
+        submenu_link: abbs-edge
+        show: false
+      - menu_nav_label: Faculty
+        menu_nav_link: /faculty/profiles
+        submenu_link: faculty
+        show: false
+      - menu_nav_label: Research
+        menu_nav_link: /research/research-centre
+        submenu_link: research
+        show: false
+      - menu_nav_label: Corporate
+        menu_nav_link: /corporate/recruit-students
+        submenu_link: corporate
+        show: false
+      - menu_nav_label: Campus Life
+        menu_nav_link: /campus-life/health-wellness
+        submenu_link: campus-life
+        show: false
+      - menu_nav_label: Admissions
+        menu_nav_link: /admissions/admission-faqs
+        submenu_link: admissions
+        show: true
+      - menu_nav_label: News & Events
+        menu_nav_link: /news-events/news
+        submenu_link: news-events
+        show: false
+      - menu_nav_label: NAAC Cycle 3
+        menu_nav_link: /naac-cycle-3
+        submenu_link: ""
+        show: true
+        nav_link_color: transparent
+      - menu_nav_label: Feedback
+        menu_nav_link: /feedback
+        submenu_link: ""
+        show: true
+        nav_link_color: transparent
+      - menu_nav_label: Login
+        menu_nav_link: https://www.tcsion.com/SelfServices/
+        submenu_link: null
+        show: false
+      - menu_nav_label: Conferences
+        menu_nav_link: /conferences
+        submenu_link: ""
+        show: false
+        nav_link_colour: ""
+        nav_link_color: ""
+    parent_menu_id: "-"
+  - menu_title: Inside ABBS
+    menu_id: inside
+    menu_nav_list:
       - menu_nav_label: Profile
         menu_nav_link: /profile/history-overview
         submenu_link: profile
@@ -13,10 +77,6 @@ top_menu:
       - menu_nav_label: ABBS Edge
         menu_nav_link: /abbs-edge/recognition-accreditations
         submenu_link: abbs-edge
-        show: true
-      - menu_nav_label: Programs
-        menu_nav_link: /programs
-        submenu_link: programs
         show: true
       - menu_nav_label: Faculty
         menu_nav_link: /faculty/profiles
@@ -34,35 +94,6 @@ top_menu:
         menu_nav_link: /campus-life/health-wellness
         submenu_link: campus-life
         show: true
-      - menu_nav_label: Admissions
-        menu_nav_link: /admissions/admission-faqs
-        submenu_link: admissions
-        show: true
-      - menu_nav_label: News & Events
-        menu_nav_link: /news-events/news
-        submenu_link: news-events
-        show: true
-      - menu_nav_label: NAAC Cycle 3
-        menu_nav_link: /naac-cycle-3
-        submenu_link: ""
-        show: true
-        nav_link_color: transparent
-      - menu_nav_label: Feedback
-        menu_nav_link: /feedback
-        submenu_link: ""
-        show: true
-        nav_link_color: transparent
-      - menu_nav_label: Login
-        menu_nav_link: https://www.tcsion.com/SelfServices/
-        submenu_link: null
-        show: true
-      - menu_nav_label: Conferences
-        menu_nav_link: /conferences
-        submenu_link: ""
-        show: true
-        nav_link_colour: ""
-        nav_link_color: ""
-    parent_menu_id: "-"
   - menu_title: Profile
     menu_id: profile
     menu_nav_list:
@@ -98,7 +129,7 @@ top_menu:
         menu_nav_link: /profile/visiting-us
         submenu_link: null
         show: true
-    parent_menu_id: main
+    parent_menu_id: inside
   - menu_title: ABBS Edge
     menu_id: abbs-edge
     menu_nav_list:
@@ -109,7 +140,7 @@ top_menu:
       - menu_nav_label: Facts & Figures
         menu_nav_link: /abbs-edge/fact-figures
         submenu_link: null
-        show: true
+        show: false
       - menu_nav_label: Learning Excellence
         menu_nav_link: /abbs-edge/learning-excellence
         submenu_link: null
@@ -122,7 +153,7 @@ top_menu:
         menu_nav_link: /abbs-edge/knowledge-partners
         submenu_link: null
         show: true
-    parent_menu_id: main
+    parent_menu_id: inside
   - menu_title: Programs
     menu_id: programs
     menu_nav_list:
@@ -150,6 +181,14 @@ top_menu:
         menu_nav_link: /programs/information-technology/information-technology-programs
         submenu_link: information-technology
         show: true
+      - menu_nav_label: Executive MBA
+        menu_nav_link: /programs/executive-mba
+        submenu_link: null
+        show: true
+      - menu_nav_label: PhD in Management
+        menu_nav_link: /programs/phd-management
+        submenu_link: null
+        show: false
     parent_menu_id: main
   - menu_title: Faculty
     menu_id: faculty
@@ -170,7 +209,7 @@ top_menu:
         menu_nav_link: /faculty/entrepreneurship
         submenu_link: null
         show: true
-    parent_menu_id: main
+    parent_menu_id: inside
   - menu_title: Research
     menu_id: research
     menu_nav_list:
@@ -182,7 +221,7 @@ top_menu:
         menu_nav_link: /research/research-publications
         submenu_link: null
         show: true
-    parent_menu_id: main
+    parent_menu_id: inside
   - menu_title: Corporate
     menu_id: corporate
     menu_nav_list:
@@ -202,7 +241,7 @@ top_menu:
         menu_nav_link: /corporate/placements
         submenu_link: placements
         show: false
-    parent_menu_id: main
+    parent_menu_id: inside
   - menu_title: Campus Life
     menu_id: campus-life
     menu_nav_list:
@@ -230,24 +269,20 @@ top_menu:
         menu_nav_link: /campus-life/hostels
         submenu_link: null
         show: true
-    parent_menu_id: main
+    parent_menu_id: inside
   - menu_title: Admissions
     menu_id: admissions
     menu_nav_list:
-      - menu_nav_label: Admission - FAQs
-        menu_nav_link: /admissions/admission-faqs
+      - menu_nav_label: Profile Building
+        menu_nav_link: /admissions/profile-building
         submenu_link: null
         show: true
-      - menu_nav_label: Chat with Students
-        menu_nav_link: /admissions/chat-with-students
-        submenu_link: null
-        show: false
-      - menu_nav_label: Program requirements
-        menu_nav_link: /admissions/program-requirements
+      - menu_nav_label: Summer School
+        menu_nav_link: /admissions/summer-school
         submenu_link: null
         show: true
-      - menu_nav_label: International Students
-        menu_nav_link: /admissions/international-students
+      - menu_nav_label: MBA Bootcamp
+        menu_nav_link: /admissions/mba-bootcamp
         submenu_link: null
         show: true
       - menu_nav_label: Scholarship
@@ -258,10 +293,26 @@ top_menu:
         menu_nav_link: /admissions/financial-aid
         submenu_link: null
         show: true
+      - menu_nav_label: FAQs
+        menu_nav_link: /admissions/admission-faqs
+        submenu_link: null
+        show: true
       - menu_nav_label: Apply Now
         menu_nav_link: https://application.abbs.edu.in/abbs-goi/
         submenu_link: null
         show: true
+      - menu_nav_label: Chat with Students
+        menu_nav_link: /admissions/chat-with-students
+        submenu_link: null
+        show: false
+      - menu_nav_label: Program requirements
+        menu_nav_link: /admissions/program-requirements
+        submenu_link: null
+        show: false
+      - menu_nav_label: International Students
+        menu_nav_link: /admissions/international-students
+        submenu_link: null
+        show: false
     parent_menu_id: main
   - menu_title: News & Events
     menu_id: news-events

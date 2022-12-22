@@ -78,7 +78,10 @@ columns:
         links_loc: /news-events/news
       - links_label: Events
         links_loc: /news-events/events
-        show: false
+        show: true
+      - links_label: Conferences
+        links_loc: /conferences
+        show: true
       - links_label: FAQs
         links_loc: /faqs
       - links_label: Code of Conduct

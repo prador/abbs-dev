@@ -43,10 +43,10 @@ function Navbar(props) {
       <div className="nav-apply-btn-wrapper"><a href="https://application.abbs.edu.in/abbs-goi" className="nav-apply btn btn-blue">Apply Now</a></div>
       <ul className="navbar-nav nav-links">
         {props.children}</ul>
-      <button id="npfWidgetButton" onClick={showModal} className="nav-apply btn btn-blue" type="button" class="npfWidgetButton npfWidget-91417a0f63179d933617d74133cf2030">Enquire Now</button>
+      <button id="npfWidgetButton" onClick={showModal} className="nav-apply btn btn-blue" type="button" class="npfWidgetButton npfWidget-a2b92e215659256130ae969905a8f550">Enquire Now</button>
       <div id="npf_wrapper" className={`${modal ? "show": "hide"}`} >
         <div className="close-btn-row"><button onClick={showModal}>Close form</button></div>
-        <div className="npf_wgts" data-height="600px" data-w="1d53de89c59cbc5ee84eba92b1b0c7d7"></div>
+        <div className="npf_wgts" data-height="600px" data-w="a2b92e215659256130ae969905a8f550"></div>
         </div> 
       <div className="nav-footer">
         <a target="_blank" href="tel:+919141707070" className="nav-contact menu-item menu-last">Contact us: +91 9141707070</a>
