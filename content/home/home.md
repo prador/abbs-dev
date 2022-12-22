@@ -56,6 +56,8 @@ program_accordion:
         loc: /programs/information-technology/bca-colleges-in-bangalore
 title: Home
 seo_title: Top B Schools in Bangalore | Bangalore Business School
+seo_description: ABBS is Ranked among the top business school in Bangalore which
+  provides the best MBA /PGDM and Management Programmes.
 date: 2019-03-17T19:31:20.591Z
 sections:
   - type: slider
@@ -63,15 +65,27 @@ sections:
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
-        slide_button_link: /programs/business/best-mba-colleges-in-bangalore
-        slide_image: static/img/9141-70700.jpg
-        slide_image_mobile: static/img/9141-70700-1080-×-1530-px-.jpg
+        slide_button_link: ""
+        slide_image: static/img/graduation-day-2022-desktop.jpg
+        slide_image_mobile: static/img/graduation-day-2022-mobile.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
-        slide_button_link: https://forms.zohopublic.in/managerit/form/RAGALIA2023/formperma/EIq5j0KV_7DrTBYYYltkOfgEHUdomjNmXfue6NDTfTQ
-        slide_image: static/img/img_7479-min.jpg
-        slide_image_mobile: static/img/img_7480-min.jpg
+        slide_button_link: ""
+        slide_image: static/img/tedx-countdown_website.jpg
+        slide_image_mobile: static/img/tedx-countdown_mobile.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/abbs-rank-post-19-desktop.jpg
+        slide_image_mobile: static/img/abbs-rank-post-19-mobile.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/abbs_website-banne_desktop.jpg
+        slide_image_mobile: static/img/innovative-teaching-mobile.jpg
   - type: program_select
     show_program_select: false
   - type: program_accordion
@@ -849,8 +863,6 @@ rec_acc_section:
       logo_subtitle: ""
       logo_link: ""
       logo_image: static/img/00-03-01-accreditions.jpg
-seo_description: ABBS is Ranked among the top business school in Bangalore which
-  provides the best MBA /PGDM and Management Programmes.
 faq_section:
   accordions:
     - accordion_title: "What B-school means? "
