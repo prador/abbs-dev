@@ -260,6 +260,10 @@ top_menu:
       - menu_nav_label: Clubs and Associations
         menu_nav_link: /campus-life/clubs-associations/toastmaster
         submenu_link: clubs-associations
+        show: false
+      - menu_nav_label: Student Clubs
+        menu_nav_link: /campus-life/student-clubs
+        submenu_link: null
         show: true
       - menu_nav_label: Student Support
         menu_nav_link: /campus-life/student-support/anti-sexual-harassment-cell
@@ -432,11 +436,11 @@ top_menu:
       - menu_nav_label: Toastmasters
         menu_nav_link: /campus-life/clubs-associations/toastmaster
         submenu_link: null
-        show: true
+        show: false
       - menu_nav_label: TEDxABBS
         menu_nav_link: /campus-life/clubs-associations/tedxabbs
         submenu_link: null
-        show: true
+        show: false
       - menu_nav_label: NSS
         menu_nav_link: /campus-life/clubs-associations/nss
         submenu_link: null

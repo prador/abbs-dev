@@ -1326,6 +1326,12 @@ module.exports = {
         destination: '/', 
         permanent: false,
         basePath: false,
+      },
+      {
+        source: '/abbs-profile/advisory-council', 
+        destination: '/profile/advisory-council', 
+        permanent: false,
+        basePath: false,
       }
     ]
   }
