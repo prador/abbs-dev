@@ -146,6 +146,8 @@ sections:
 
 
           *Note: Aspirants are instructed to personally confirm the admission dates and timelines from the admissions office.*
+      - accordion_title: Fee Structure
+        accordion_content: P﻿lease read more [here](/admissions/pg-fees)
   - type: accordion_section
     section_id: more-information
     section_title: More Information
@@ -444,5 +446,4 @@ header_scripts: >-
   }
 
   </script>
-
 ---

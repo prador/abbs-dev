@@ -66,26 +66,14 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/graduation-day-2022-desktop.jpg
-        slide_image_mobile: static/img/graduation-day-2022-mobile.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/tedx-countdown_website.jpg
-        slide_image_mobile: static/img/tedx-countdown_mobile.jpg
+        slide_image: static/img/32_rated_271222-04-04.png
+        slide_image_mobile: static/img/32_rated_271222-03.png
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
         slide_image: static/img/abbs-rank-post-19-desktop.jpg
         slide_image_mobile: static/img/abbs-rank-post-19-mobile.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/abbs_website-banne_desktop.jpg
-        slide_image_mobile: static/img/innovative-teaching-mobile.jpg
   - type: program_select
     show_program_select: false
   - type: program_accordion
@@ -137,14 +125,16 @@ sections:
         links:
           - name: BCA
             loc: /programs/information-technology/bca-colleges-in-bangalore
+  - type: news_events_section
+    show_news_events: true
   - type: text_section
-    section_id: main section
+    section_id: main-section
     section_title: "TOP BUSINESS SCHOOL IN BANGALORE "
     section_text: >-
       # Business School in Bangalore
 
 
-      From Developing Business Modules To Resolving Business Affairs, You Learn All At ABBS-Business School in Bangalore……
+      From Developing Business Modules To Resolving Business Affairs, You Learn All At ABBS-Business School in Bangalore.
 
 
       **ABBS- BANGALORE B SCHOOL**
@@ -190,8 +180,8 @@ sections:
 
 
       From all over the world students come to study at ABBS because of its intellectual challenge and its proven capability to enormously boost student career possibilities. The flexible curriculum attracts students. Different courses options are available with different duration and eligibility criteria. Whichever course you want to opt for and whenever you are ready you can get enrolled at ABBS, the best b school in Bangalore.
-  - type: news_events_section
-    show_news_events: true
+    section_image: ""
+    image_position: null
   - type: rec_acc_section
     section_id: rec-acc-section
     section_title: Recognition / Accreditions
