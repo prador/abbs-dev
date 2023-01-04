@@ -117,17 +117,24 @@ z-index: 2;
   background: #000;
 }
 @media screen and (max-width:600px) {
-.slide-img-desktop {
-  display: none;
-}
-.slide-img-mobile {
-display: flex;
-}
-.slide-content {
-  max-width: min(max(25rem, 25vw), 300px);
-  margin-right: 10%;
-  z-index: 2;
-  bottom: 10px;
-  position: absolute;
-}
+  .keen-slider__slide {
+    height: 600px;
+  }
+  .slide-image {
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
+  .slide-img-desktop {
+    display: none;
+  }
+  .slide-img-mobile {
+  display: flex;
+  }
+  .slide-content {
+    max-width: min(max(25rem, 25vw), 300px);
+    margin-right: 10%;
+    z-index: 2;
+    bottom: 10px;
+    position: absolute;
+  }
 }

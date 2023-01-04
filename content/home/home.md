@@ -66,6 +66,12 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
+        slide_image: static/img/desktop-adapt.jpg
+        slide_image_mobile: static/img/mobile-adapt-1.png
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
         slide_image: static/img/32_rated_271222-04-04.png
         slide_image_mobile: static/img/32_rated_271222-03.png
       - slide_title: ""
