@@ -72,6 +72,12 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
+        slide_image: static/img/abbs_profile-building_050123-16.jpg
+        slide_image_mobile: static/img/abbs_profile-building_050123-19.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
         slide_image: static/img/32_rated_271222-04-04.png
         slide_image_mobile: static/img/32_rated_271222-03.png
       - slide_title: ""
@@ -80,12 +86,6 @@ sections:
         slide_button_link: ""
         slide_image: static/img/abbs-rank-post-19-desktop.jpg
         slide_image_mobile: static/img/abbs-rank-post-19-mobile.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/abbs_profile-building_050123-16.jpg
-        slide_image_mobile: static/img/abbs_profile-building_050123-19.jpg
   - type: program_select
     show_program_select: false
   - type: program_accordion
