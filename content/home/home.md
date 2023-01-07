@@ -73,7 +73,7 @@ sections:
         slide_button_label: ""
         slide_button_link: ""
         slide_image: static/img/abbs_profile-building_050123-16.jpg
-        slide_image_mobile: static/img/abbs_profile-building_050123-19.jpg
+        slide_image_mobile: static/img/resized.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
