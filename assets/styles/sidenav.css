@@ -333,10 +333,11 @@
       display: block;
       width: 100vw;
       background-color: #222;
+      background-color: var(--color-blue);
       height: 0px;
       transition: all 0.3s ease-in;
       overflow-y: hidden;
-      top: 45px;
+      top: 30px;
       left: 0px;
       z-index:20;
     }
