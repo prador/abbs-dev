@@ -5,6 +5,8 @@ import newsEventsSection from "../sections/newsEventsSection"
 import programAccordionSection from "../sections/programAccordionSection"
 import recognitionAccreditationSection from "../sections/recognitionAccreditationSection"
 import faqSection from "../sections/faqSection"
+import announceSection from "../sections/announceSection"
+import textColumnSection from "../sections/textColumnSection"
 import textSection from "../sections/textSection"
 import logoSection from "../sections/logoSection"
 import anchorSection from "../sections/anchorSection"
@@ -18,6 +20,7 @@ import personSection from "../sections/personSection"
 import testimonialsSection from "../sections/testimonialsSection"
 import tableSection from "../sections/tableSection"
 import collectionSection from "../sections/collectionSection"
+import highlightSection from "../sections/highlightSection"
 
 const homeConfig = {
     name: "homepage",
@@ -64,6 +67,9 @@ const homeConfig = {
         required: false,
         widget: "list",
         types: [
+          announceSection,
+          textColumnSection,
+          highlightSection,
           sliderSection,
           programSelectorSection,
           newsEventsSection,

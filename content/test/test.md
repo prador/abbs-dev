@@ -80,57 +80,158 @@ sections:
         slide_button_link: ""
         slide_image: static/img/abbs-rank-post-19-desktop.jpg
         slide_image_mobile: static/img/abbs-rank-post-19-mobile.jpg
-  - type: program_accordion
-    programs:
-      - icon: static/img/00-02-01-programs-management-solid.svg
-        bg_image: static/img/00-02-01-programs-management.jpg
-        bg_color: "#cfd1e8"
-        program: Business
-        links:
-          - name: MBA
-            loc: /programs/business/best-mba-colleges-in-bangalore
-          - name: BBA
-            loc: /programs/business/bba
-          - name: BBA Aviation Management
-            loc: /programs/business/bba-aviation-management
-      - icon: static/img/00-02-02-programs-lide-sciences-solid.svg
-        bg_image: static/img/00-02-02-programs-lide-sciences.jpg
-        bg_color: "#cbe9e6"
-        program: Life Sciences
-        links:
-          - name: B. Sc. Biotechnology
-            loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
-      - icon: static/img/00-02-03-programs-commerce-solid.svg
-        bg_image: static/img/00-02-03-programs-commerce.jpg
-        bg_color: "#fbedd3"
-        program: Commerce
-        links:
-          - name: M. Com
-            loc: /programs/commerce/m-com-colleges-in-bangalore
-          - name: B. Com
-            loc: /programs/commerce/b-com-colleges-in-bangalore
-          - name: B. Com Supply Chain & Logistics
-            loc: /programs/commerce/b-com-supply-chain-management
-      - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
-        bg_image: static/img/00-02-04-programs-liberal-arts.jpg
-        bg_color: "#ece0d4"
-        program: Liberal Arts
-        links:
-          - name: BA Psychology
-            loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
-          - name: BA Journalism
-            loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
-          - name: BA Economics
-            loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
-      - icon: static/img/00-02-05-programs-information-technology-solid.svg
-        bg_image: static/img/00-02-05-programs-information-technology.jpg
+  - type: announcement_section
+    announcements:
+      - announcement_title: TEDx ABBS - Lorem ipsum dolor sit amet, consetetur
+          sadipscing elitr Lorem Ipsum dolorem | Register now
+        announcement_link: ""
+  - type: text_column_section
+    section_id: ""
+    section_title: Reimagining higher education. Today.
+    section_text: We challenge what is known and believed about higher education.
+      From re-inviting liberal education in India, to helping you chart your own
+      unique career path; ABBS is not where you are, it is for who you are, and
+      where you want to be.
+    buttons:
+      - section_text: a﻿sdadasdasd
+        button_label: asdad
+        button_link: dasdasd
+    blocks:
+      - block_title: Placements
+        block_subtitle: Chart unique career trajectories
+        block_text: "Top companies, quality profiles and handsome salary packages for
+          the graduating students: These are the goals driving our placement
+          cell. Result: A number of INR 10+ PLA packages with the highest being:
+          INR 22.5 LPA."
+        button_label: Read more
+        button_link: /corporate/recruit-students
+        bg_color: "#efe3fd"
+        block_image: static/img/01-01.jpg
+      - block_title: Scholarships
+        block_subtitle: Uncover questions, discover answers
+        block_text: A diverse and talented cohort is the most essential feature of a top
+          higher education Institute. At ABBS we believe that financial
+          constraints should not be a hindrance in the way of deserving students
+          from across India and even abroad. So, we offer generous scholarships
+          based on various stages of our comprehensive admission process.
+        button_label: Read more
+        button_link: ""
+        block_image: static/img/01-02.jpg
         bg_color: "#fbcbc2"
-        program: Information Technology
-        links:
-          - name: BCA
-            loc: /programs/information-technology/bca-colleges-in-bangalore
+      - block_title: Liberal Education
+        block_subtitle: Learn through personalized mentoring
+        block_text: The VUCA (Volatile, Uncertain, Complex, Ambiguous) world that we
+          live in today requires an interdisciplinary approach to both education
+          and research. At ABBS, students can opt for courses that traditionally
+          are not studied together. This helps them in multiple ways.
+        button_label: Read more
+        button_link: /abbs-edge/learning-excellence
+        bg_color: "#ece0d4"
+        block_image: static/img/01-03.jpg
+      - block_title: Profile building
+        block_subtitle: Explore the world at ABBS University
+        block_text: Students often struggle with a lot of confusion arising out of lack
+          of specialized and professional guidance. This may lead to making
+          wrong career decisions and adversely affect career growth. Profile
+          building is a career guidance and skill building program offered as a
+          complementary value add to every applicant to any of ABBS programs.
+        button_label: Read more
+        button_link: ""
+        bg_color: "#cbe9e6"
+        block_image: static/img/01-04.jpg
   - type: news_events_section
     show_news_events: true
+  - type: highlights_section
+    section_id: ""
+    section_title: ABBS HIGHLIGHTS
+    highlights:
+      - logo_stat: 12000+
+        logo_subtitle: Alumni across the globe
+        logo_link: ""
+        logo_image: static/img/02-02-facts-and-figures-02-07-alumini.png
+      - logo_stat: 22.5LPA
+        logo_subtitle: Highest Offer
+        logo_link: ""
+        logo_image: static/img/03-02-highest-offer.svg
+      - logo_stat: 150+
+        logo_subtitle: Recruiters
+        logo_link: ""
+        logo_image: static/img/02-02-facts-and-figures-02-07-companies-visited.png
+      - logo_stat: 7.5LPA
+        logo_subtitle: Average Package
+        logo_link: ""
+        logo_image: static/img/03-04-average-offer.svg
+      - logo_stat: 9th
+        logo_subtitle: Best B-School in South Times B-School Survey 2022
+        logo_link: ""
+        logo_image: static/img/02-02-facts-and-figures-02-01-area-campus.svg
+  - type: text_section
+    section_id: main-text-section-1
+    section_title: "TOP BUSINESS SCHOOL IN BANGALORE "
+    section_text: >-
+      # Business School in Bangalore
+
+
+      From Developing Business Modules To Resolving Business Affairs, You Learn All At ABBS-Business School in Bangalore.
+    section_image: ""
+    image_position: null
+  - type: text_section
+    section_id: main-text-section-2
+    section_title: ""
+    section_text: >-
+      **ABBS- BANGALORE B SCHOOL**
+
+
+      The reason ABBS pass outs are different from others is the level of their competency which allows them to look at the unforeseen business calamities and develop the solution considering different parameters and looking at the problems from a different perspective. 
+
+
+      Here at Bangalore business school, you don’t just become a degree holder, you become a leader of business management as well. The courses here are designed as a blend of creativity, teamwork and social interaction which makes you stand out from everyone in the crowd. 
+
+
+      Picking the Best b school in Bangalore can be a strenuous task and picking the right program can be a more difficult task. At ABBS you get an opportunity to interact with the education counsellor who guides you through the options available and which is best for you thus making the admission procedure at business school in Bangalore easier for you
+    section_image: static/img/02-01.jpg
+    image_position: Content Left
+  - type: text_section
+    section_id: main-text-section-3
+    section_title: ""
+    section_text: >-
+      **WHO WE ARE**
+
+
+      Established in 2008, Acharya Bangalore B School (ABBS) has completed two cycles of NAAC Accreditation with an ‘A’ grade, two cycles of NBA accreditation (MBA department) and is internationally accredited by IACBE. ABBS represents the Top Business School in Bangalore with its accreditations and rankings.
+
+
+      **WHY CHOOSE ABBS-BUSINESS SCHOOL IN BANGALORE**
+
+
+      **We Build Remarkable Leadership Qualities**
+
+
+      This is a B-school that follows a high-impact, low-ego perspective. We don’t just teach students to walk towards success but also make them a leader who is admired and approached by others. This is a legacy of ABBS that’s inherited by every student. You become a master in how to influence others with your personality, you develop skills which strengthen productivity and inspire loyalty. 
+
+
+      Our Bangalore b school teaches students to gain success for an organization that’s driven by a team, not just a single person. We acknowledge the fact that it takes many hands and minds to carry a load and beat the competition, so our graduates are motivated to work with collaboration. You are taught to become a leader who brings expert minds and hands under one roof.
+    section_image: static/img/02-02.jpg
+    image_position: Content Right
+  - type: text_section
+    section_id: main-text-section-4
+    section_title: ""
+    section_text: >-
+      **OUR COMMITMENT TO YOU**
+
+
+      The ABBS family promotes diversity, equality and inclusion all across the world. We allow candidates to experience an educational environment that allows them to bring their full potential and thrive in their careers. You become Future-Ready at ABBS, the best b school in Bangalore 
+
+
+      Our programs are designed for working professionals not just for degree holders. Unlike other business schools in Bangalore, it is our endeavor to deliver a top-notch education to students in every way possible irrespective of the circumstances. The online lectures are made available if offline lectures are not possible, regular audits of faculty members take place to check if there has been any flaw in their teaching pattern, and it is checked if every student is provided with adequate study material or not. 
+
+
+      The study technique at this top b school in Bangalore is adapted in a way that allows candidates to flourish in their careers and also find a balance between life and career. 
+
+
+      From all over the world students come to study at ABBS because of its intellectual challenge and its proven capability to enormously boost student career possibilities. The flexible curriculum attracts students. Different courses options are available with different duration and eligibility criteria. Whichever course you want to opt for and whenever you are ready you can get enrolled at ABBS, the best b school in Bangalore.
+    section_image: static/img/02-03.jpg
+    image_position: Content Left
   - type: rec_acc_section
     section_id: rec-acc-section
     section_title: Recognition / Accreditions
@@ -377,6 +478,55 @@ sections:
 
           **4. Xavier Institute of Management and Entrepreneurship Bangalore** was established in 1991 with the help of the former director of IIM Bangalore, Professor J. Philip. The Best b school in Bangalore is also accredited by the National Board of Accreditation (NBA). The institute intends to be a globally acknowledged business school and produce competent business professionals.
     section_title: ""
+  - type: program_accordion
+    programs:
+      - icon: static/img/00-02-01-programs-management-solid.svg
+        bg_image: static/img/00-02-01-programs-management.jpg
+        bg_color: "#cfd1e8"
+        program: Business
+        links:
+          - name: MBA
+            loc: /programs/business/best-mba-colleges-in-bangalore
+          - name: BBA
+            loc: /programs/business/bba
+          - name: BBA Aviation Management
+            loc: /programs/business/bba-aviation-management
+      - icon: static/img/00-02-02-programs-lide-sciences-solid.svg
+        bg_image: static/img/00-02-02-programs-lide-sciences.jpg
+        bg_color: "#cbe9e6"
+        program: Life Sciences
+        links:
+          - name: B. Sc. Biotechnology
+            loc: /programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore
+      - icon: static/img/00-02-03-programs-commerce-solid.svg
+        bg_image: static/img/00-02-03-programs-commerce.jpg
+        bg_color: "#fbedd3"
+        program: Commerce
+        links:
+          - name: M. Com
+            loc: /programs/commerce/m-com-colleges-in-bangalore
+          - name: B. Com
+            loc: /programs/commerce/b-com-colleges-in-bangalore
+          - name: B. Com Supply Chain & Logistics
+            loc: /programs/commerce/b-com-supply-chain-management
+      - icon: static/img/00-02-04-programs-liberal-arts-solid.svg
+        bg_image: static/img/00-02-04-programs-liberal-arts.jpg
+        bg_color: "#ece0d4"
+        program: Liberal Arts
+        links:
+          - name: BA Psychology
+            loc: /programs/liberal-arts/ba-sociology-colleges-in-bangalore
+          - name: BA Journalism
+            loc: /programs/liberal-arts/ba-journalism-colleges-in-bangalore
+          - name: BA Economics
+            loc: /programs/liberal-arts/ba-economics-colleges-in-bangalore
+      - icon: static/img/00-02-05-programs-information-technology-solid.svg
+        bg_image: static/img/00-02-05-programs-information-technology.jpg
+        bg_color: "#fbcbc2"
+        program: Information Technology
+        links:
+          - name: BCA
+            loc: /programs/information-technology/bca-colleges-in-bangalore
   - type: program_select
     show_program_select: false
 header_scripts: >-

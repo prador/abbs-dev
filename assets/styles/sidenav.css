@@ -30,8 +30,9 @@
     display: flex;
     justify-content: flex-end;
     padding-left:0;
-    border-top: 1px solid #d3d3d3;
-    margin-top: 1rem;
+    border-top: 2px solid var(--color-offwhite);
+    border-bottom: 2px solid var(--color-offwhite);
+    margin: 2rem 0;
     padding-top: 1rem;
   }
   
@@ -184,6 +185,7 @@
   .nav {
     width: 100%;
     background-color: #222;
+    background-color: var(--color-blue);
     position: fixed;
     display: flex;
     flex-direction: column;
@@ -235,9 +237,13 @@
     text-align: center;
   }
   .nav > .nav-footer {
-    border-top: 1px solid #d3d3d3;
+    /* border-top: 1px solid var(--color-offwhite); */
     padding: 0.5rem 0 2rem 0;
     text-align: center;
+  }
+  #npfWidgetButton {
+    margin: 0 auto;
+    width: 80%;
   }
   .nav-apply-wrapper {
     width: 100%;
@@ -248,7 +254,8 @@
   }
   .nav-apply-btn-wrapper {
     padding: 1.5rem 0 0.5rem;
-    border-top: 1px solid #d3d3d3;
+    margin-top: 3rem;
+    /* border-top: 1px solid #d3d3d3; */
     width: 100%;
     text-align: center;
     }
@@ -299,9 +306,9 @@
     }
     .search-btn {padding-right:20px;
       visibility: hidden;
-  opacity: 0;
-  pointer-events: none;
-}
+      opacity: 0;
+      pointer-events: none;
+    }
     .nav > .nav-btn > label {
       display: inline-block;
       width: 30px;
@@ -361,5 +368,16 @@
     }
     .menu-item.menu-last {
       margin-right: 0rem;
+    }
+    .nav-apply-btn-wrapper {
+      margin-top: 0;
+      max-width: 50%;
+    }
+    .nav-apply-btn-wrapper .btn {
+      min-width: 100px;
+    }
+    .search-btn {
+      display: none;
+      padding-right: 0;
     }
   }

@@ -24,6 +24,9 @@ import HomeNewsEvents from "./home/HomeNewsEvents";
 import ProgramAccordion from "./home/ProgramAccordion";
 import HomeRecAccred from "./home/HomeRecAccred";
 import HomeFaqSection from  "./home/HomeFaqSection"
+import AnnouncementSection from  "./home/AnnouncementSection"
+import TextColumnSection from  "./home/TextColumnSection"
+import HighlightSection from './home/HighlightSection'
 // import '../assets/styles/pagecontent.module.css'
 
 const HomePageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsList}) => {
@@ -35,6 +38,12 @@ const HomePageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsLis
       case "rec_acc_section":
         console.log(section)
         return <HomeRecAccred att={section}/>
+      case "announcement_section":
+        return <AnnouncementSection att={section} />
+      case "text_column_section":
+        return <TextColumnSection att={section} isHome={true} />
+      case "highlights_section":
+        return <HighlightSection att={section} isHome={true} />
       case "faq_section":
         return <HomeFaqSection att={section} />
       case "program_select":

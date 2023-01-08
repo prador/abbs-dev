@@ -289,6 +289,10 @@ top_menu:
         menu_nav_link: /admissions/mba-bootcamp
         submenu_link: null
         show: true
+      - menu_nav_label: UG Fee Structure
+        menu_nav_link: /admissions/ug-fees
+        submenu_link: null
+        show: true
       - menu_nav_label: PG Fee Structure
         menu_nav_link: /admissions/pg-fees
         submenu_link: null
