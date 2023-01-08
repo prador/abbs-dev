@@ -2,8 +2,8 @@
 logo: static/img/00-abbs-logo-black.svg
 social_links:
   - links_label: Twitter
-    links_loc: ""
-    show: false
+    links_loc: https://twitter.com/acharyabschool
+    show: true
   - links_label: Instagram
     links_loc: https://www.instagram.com/acharyabbs/
     show: true
