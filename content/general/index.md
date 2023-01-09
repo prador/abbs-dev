@@ -117,6 +117,5 @@ body_scripts: >-
 
   <script type="text/javascript">    var s=document.createElement("script");    s.type="text/javascript";    s.async=true;    s.src="https://chatbot.nopaperforms.com/en-gb/backend/bots/niaachtbtscpt.js/4425f35478c4c845/03c68097ae8f458fb29a4f08994ce5d9";    document.body.appendChild(s);</script>
 
-  <script src="https://cdn.npfs.co/js/widget/npfwpopup.js"></script><script>let npfWa2b92e215659256130ae969905a8f550 = new NpfWidgetsInit( { 'widgetId':'a2b92e215659256130ae969905a8f550', 'baseurl':'widgets.nopaperforms.com', 'formTitle':'Feedback Form', 'titleColor':'#FF0033', 'backgroundColor':'#ddd', 'iframeHeight':'500px', 'buttonbgColor':'#ff0000', 'buttonTextColor':'#FFF', }); </script>
-  <script type="text/javascript">var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://widgets.nopaperforms.com/emwgts.js"; document.body.appendChild(s);</script>
+  <script src="https://cdn.npfs.co/js/widget/npfwpopup.js"></script><script>let npfWa2b92e215659256130ae969905a8f550 = new NpfWidgetsInit( { 'widgetId':'a2b92e215659256130ae969905a8f550', 'baseurl':'widgets.nopaperforms.com', 'formTitle':'Feedback Form', 'titleColor':'#FF0033', 'backgroundColor':'#ddd', 'iframeHeight':'500px', 'buttonbgColor':'#ff0000', 'buttonTextColor':'#FFF', }); </script> <script type="text/javascript">var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://widgets.nopaperforms.com/emwgts.js"; document.body.appendChild(s);</script>
 ---
