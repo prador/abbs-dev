@@ -66,14 +66,14 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/desktop-adapt.jpg
-        slide_image_mobile: static/img/mobile-adapt-1.png
+        slide_image: static/img/rectangle-3.jpg
+        slide_image_mobile: static/img/rectangle-6.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/27_placement-adv_070123_1900x1240_3.jpg
-        slide_image_mobile: static/img/27_placement-adv_070123_1080x1920_3.jpg
+        slide_image: static/img/desktop-adapt.jpg
+        slide_image_mobile: static/img/mobile-adapt-1.png
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
