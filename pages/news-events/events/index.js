@@ -1,4 +1,6 @@
 import Link from 'next/link'
+import Head from 'next/head'
+import Script from 'next/script'
 import Layout from '../../../components/layout'
 import PageHeader from '../../../components/PageHeader'
 import PageBanner from '../../../components/PageBanner'
@@ -44,6 +46,7 @@ const Events = ({eventsList}) => {
   }
   return(
   <Layout>
+    
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
   <div className="content news-events-page-wrapper">
