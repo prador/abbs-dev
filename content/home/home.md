@@ -137,7 +137,7 @@ sections:
         bg_color: "#ece0d4"
         block_image: static/img/01-03.jpg
       - block_title: Profile building
-        block_subtitle: Explore the world at ABBS University
+        block_subtitle: Explore the world at ABBS
         block_text: Students often struggle with a lot of confusion arising out of lack
           of specialized and professional guidance. This may lead to making
           wrong career decisions and adversely affect career growth. Profile
