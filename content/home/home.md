@@ -90,7 +90,8 @@ sections:
     announcements:
       - announcement_title: "One Day MBA: A webinar to give a 360 degree view of what an
           MBA from a top Institute offers to open the doors to a great career in
-          the corporate world. Date 22nd Jan. Time: 12 pm.  Register:"
+          the corporate world. Date 22nd Jan. Time: 12 pm.  Register:
+          https://bit.ly/3QnSCxk"
         announcement_link: https://bit.ly/3QnSCxk
   - type: text_column_section
     section_id: ""
