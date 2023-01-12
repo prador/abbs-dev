@@ -122,7 +122,7 @@ sections:
           from across India and even abroad. So, we offer generous scholarships
           based on various stages of our comprehensive admission process.
         button_label: Read more
-        button_link: ""
+        button_link: /admissions/fees-scholarships
         block_image: static/img/01-02.jpg
         bg_color: "#fbcbc2"
       - block_title: Liberal Education
@@ -143,7 +143,7 @@ sections:
           building is a career guidance and skill building program offered as a
           complementary value add to every applicant to any of ABBS programs.
         button_label: Read more
-        button_link: ""
+        button_link: admissions/profile-building
         bg_color: "#cbe9e6"
         block_image: static/img/01-04.jpg
   - type: news_events_section
