@@ -15,19 +15,19 @@ import conferenceConfig from './configs/conferenceConfig'
 module.exports = {
   cms_manual_init: true,
   // Backend configuration, in this case with git
-  backend: {
-    name: "git-gateway",
-    branch: "main",
-    squash_merges: true,
-  },
-  // Backend config for vercel and github
   // backend: {
-  //   name:"github",
-  //   repo: "prador/abbs-dev",
-  //   base_url: "https://abbs-dev.vercel.app",
-  //   auth_endpoint: "api/auth",
-  //   branch: "identity-git",
+  //   name: "git-gateway",
+  //   branch: "main",
+  //   squash_merges: true,
   // },
+  // Backend config for vercel and github
+  backend: {
+    name:"github",
+    repo: "prador/abbs-dev",
+    base_url: "https://abbs-dev.vercel.app",
+    auth_endpoint: "api/auth",
+    branch: "identity-git",
+  },
   // Local backend is used during development
   local_backend: true,
 
