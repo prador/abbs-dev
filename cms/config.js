@@ -26,7 +26,7 @@ module.exports = {
     repo: "prador/abbs-dev",
     base_url: "https://abbs-dev.vercel.app",
     auth_endpoint: "api/auth",
-    branch: "identity-git",
+    branch: "updated-github-login",
   },
   // Local backend is used during development
   local_backend: true,
