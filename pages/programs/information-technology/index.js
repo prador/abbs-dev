@@ -30,7 +30,7 @@ import Layout from '../../../components/layout'
 
 //             <img src={post.attributes.thumbnail} />
 //             <h2>{post.attributes.title}</h2>
-//             <Link href="/programs/post/[slug]" as={`/programs/post/${post.slug}`}>
+//             <Link legacyBehavior href="/programs/post/[slug]" as={`/programs/post/${post.slug}`}>
 //           <a>
 //           </a>
 //         </Link>
@@ -66,7 +66,7 @@ const Research = ({ programList }) => (
     <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
     {programList.map((post) => (
       <div key={post.slug} className="post">
-        <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
+        <Link legacyBehavior href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
           <a>
             <img src={post.attributes.thumbnail} />
             <h2>{post.attributes.title}</h2>

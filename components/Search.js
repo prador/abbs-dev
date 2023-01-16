@@ -10,7 +10,7 @@ const ResultBlock = ({ results,type }) => {
        <h4 className={styles.search_block_title}>{type}</h4>
        {results.map(({ type, id, title , index}) => (
             <li key={index} className={styles.result} key={id}>
-              <Link href={`/${type}/[id]`} as={`/${type}/${id}`}>
+              <Link legacyBehavior href={`/${type}/[id]`} as={`/${type}/${id}`}>
                 <a>{title}</a>
               </Link>
             </li>            

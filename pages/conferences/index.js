@@ -52,7 +52,7 @@ const Conferences = ({conferenceList}) => {
       {conferenceList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
         <>{!isPast(post.attributes.event_date) ?
-          <Link href="/conferences/[slug]" as={`/conferences/${post.slug}`} key={post.slug}>
+          <Link legacyBehavior href="/conferences/[slug]" as={`/conferences/${post.slug}`} key={post.slug}>
             <div className="events-post">
               <div className='events-post-date-info'>
                 <h4 className='events-post-day'>{setEventDate(post.attributes.event_date).day}</h4>
@@ -74,7 +74,7 @@ const Conferences = ({conferenceList}) => {
       {conferenceList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
         <>{isPast(post.attributes.event_date) ?
-          <Link href="/conferences/[slug]" as={`/conferences/${post.slug}`} key={post.slug}>
+          <Link legacyBehavior href="/conferences/[slug]" as={`/conferences/${post.slug}`} key={post.slug}>
             <div className="events-post">
               <div className='events-post-date-info'>
                 <h4 className='events-post-day'>{setEventDate(post.attributes.event_date).day}</h4>

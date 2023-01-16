@@ -25,7 +25,7 @@ import Layout from '../../components/layout'
 //     <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
 //     {programList.map((post) => (
 //       <div key={post.slug} className="post">
-//         <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
+//         <Link legacyBehavior href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
 //           <a>
 //             <img src={post.attributes.thumbnail} />
 //             <h2>{post.attributes.title}</h2>
@@ -64,7 +64,7 @@ const Research = ({ programList }) => (
       <div className="black-txt" dangerouslySetInnerHTML={{ __html: html }} />
       {programList.map((post) => (
         <div key={post.slug} className="post">
-          <Link href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
+          <Link legacyBehavior href="/blog/post/[slug]" as={`/blog/post/${post.slug}`}>
             <a>
               <img src={post.attributes.thumbnail} />
               <h2>{post.attributes.title}</h2>

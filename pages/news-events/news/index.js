@@ -44,7 +44,7 @@ const News = ({newsList}) => {
       <section className='news-events-page-section'>
   {filterPosts().sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).map((post) => (
-<Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
+<Link legacyBehavior href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="news-page-post">
             <img className="news-post-image" src={"../"+post.attributes.thumbnail}></img>
               <div className="news-post-content">

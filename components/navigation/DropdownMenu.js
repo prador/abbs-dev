@@ -79,7 +79,7 @@ const DropdownMenu = () => {
 				
 			}
       return (
-        <Link key={key} href={props.url ? props.url : "#"} scroll={false}>
+        <Link legacyBehavior key={key} href={props.url ? props.url : "#"} scroll={false}>
           {/* onClick={props.goToMenu != null ? handleClick : ""} */}
           <a className={props.btn == "back" ? "menu-back" : `menu-item${props.goToMenu ? " menu-top" : " menu-last"}`} href={props.goToMenu != null ? "#" : props.url } onClick={props.goToMenu != null ? handleClick : ""} style={style}>
             {props.children}

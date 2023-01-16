@@ -23,7 +23,7 @@ return (
         <div className='news-block-wrapper'>
         {newsList.sort(function(a,b){  return new Date(b.attributes.date) - new Date(a.attributes.date);
       }).slice(0, 3).map((post) => (
-<Link href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
+<Link legacyBehavior href="/news-events/news/[slug]" as={`/news-events/news/${post.slug}`} key={post.slug}>
             <div className="news-post">
               <div className="news-post-content">
                 <h6>{post.attributes.title}</h6>
@@ -43,7 +43,7 @@ return (
         <div>
         {eventsList.sort(function(a,b){  return new Date(b.attributes.event_date) - new Date(a.attributes.event_date);
       }).slice(0, 4).map((post,index) => (
-<Link href="/news-events/events/[slug]" as={`/news-events/events/${post.slug}`} key={post.slug}>
+<Link legacyBehavior href="/news-events/events/[slug]" as={`/news-events/events/${post.slug}`} key={post.slug}>
             <div className="events-post">
             <div className='events-post-date-info'>
             <h4 className='events-post-day'>{setEventDate(post.attributes.event_date).day}</h4>
