@@ -9,111 +9,100 @@ sections:
   - type: embed_section
     section_id: fees
     section_title: Program based Fees
-    embed_source: >-
-      <table class="c1"><tbody><tr class="c24"><td class="c0" colspan="1"
-      rowspan="1"><p class="c12"><span class="c13">S. No </span></p></td><td
-      class="c14" colspan="1" rowspan="1"><p class="c31"><span
-      class="c13">Program </span></p></td><td class="c22" colspan="1"
-      rowspan="1"><p class="c31"><span class="c13">Description
-      </span></p></td><td class="c23" colspan="1" rowspan="1"><p
-      class="c28"><span class="c13">Fee (INR)</span></p></td></tr><tr
-      class="c24"><td class="c0" colspan="1" rowspan="1"><p class="c7"><span
-      class="c4">1 </span></p></td><td class="c14" colspan="1" rowspan="1"><p
-      class="c7"><span class="c4">MBA </span></p></td><td class="c22"
-      colspan="1" rowspan="1"><p class="c7"><span class="c4">Regular
-      </span></p></td><td class="c23" colspan="1" rowspan="1"><p
-      class="c12"><span class="c4">8.9 Lac</span></p></td></tr><tr
-      class="c24"><td class="c0" colspan="1" rowspan="1"><p class="c28"><span
-      class="c4">2 </span></p></td><td class="c14" colspan="1" rowspan="1"><p
-      class="c7"><span class="c4">PGDM </span></p></td><td class="c22"
-      colspan="1" rowspan="1"><p class="c7"><span class="c4">Regular
-      </span></p></td><td class="c23" colspan="1" rowspan="1"><p
-      class="c12"><span class="c4">8.9 Lac</span></p></td></tr><tr
-      class="c30"><td class="c0" colspan="1" rowspan="1"><p class="c25"><span
-      class="c4">3 </span></p></td><td class="c14" colspan="1" rowspan="1"><p
-      class="c7"><span class="c4">MBA Global </span></p></td><td class="c22"
-      colspan="1" rowspan="1"><p class="c3"><span class="c4">Business Analytics
-      with Virginia Tech Certification </span></p></td><td class="c23"
-      colspan="1" rowspan="1"><p class="c12"><span class="c4">9.9
-      Lac</span></p></td></tr><tr class="c24"><td class="c0" colspan="1"
-      rowspan="1"><p class="c12"><span class="c4">4 </span></p></td><td
-      class="c14" colspan="1" rowspan="1"><p class="c7"><span class="c4">PGDM
-      Global </span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c12"><span class="c4">With Virginia Tech Certification
-      </span></p></td><td class="c23" colspan="1" rowspan="1"><p
-      class="c12"><span class="c4">9.9 Lac</span></p></td></tr><tr
-      class="c24"><td class="c0" colspan="1" rowspan="1"><p class="c25"><span
-      class="c4">5 </span></p></td><td class="c14" colspan="1" rowspan="1"><p
-      class="c7"><span class="c4">International Immersion</span><span
-      class="c9">* </span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c7"><span class="c4">Europe </span></p></td><td class="c23"
-      colspan="1" rowspan="1"><p class="c25"><span class="c4">2
-      Lac</span></p></td></tr><tr class="c24"><td class="c0" colspan="1"
-      rowspan="1"><p class="c28"><span class="c4">6 </span></p></td><td
-      class="c14" colspan="1" rowspan="1"><p class="c7"><span
-      class="c4">International Immersion</span><span class="c9">*
-      </span></p></td><td class="c22" colspan="1" rowspan="1"><p
-      class="c7"><span class="c4">Dubai / Middle East </span></p></td><td
-      class="c23" colspan="1" rowspan="1"><p class="c36"><span class="c4">1
-      Lac</span></p></td></tr></tbody></table>
-
-
-      <br/>
-
-      <br/>
-
-      <strong><em>* Students can opt for Immersion programs with any of the programs. The fee is payable with Semester 2 Fee.</em> </strong>
+    embed_source: <table class="c9"><tbody><tr class="c30"><td class="c3"
+      colspan="1" rowspan="1"><p class="c14"><span class="c17">S. No
+      </span></p></td><td class="c4" colspan="1" rowspan="1"><p
+      class="c33"><span class="c17">Program </span></p></td><td class="c27"
+      colspan="1" rowspan="1"><p class="c33"><span class="c17">Description
+      </span></p></td><td class="c1" colspan="1" rowspan="1"><p
+      class="c23"><span class="c17">Fee (INR)</span></p></td></tr><tr
+      class="c30"><td class="c3" colspan="1" rowspan="1"><p class="c19"><span
+      class="c0">1 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
+      class="c19"><span class="c0">MBA </span></p></td><td class="c27"
+      colspan="1" rowspan="1"><p class="c19"><span class="c0">Regular
+      </span></p></td><td class="c1" colspan="1" rowspan="1"><p
+      class="c31"><span class="c0">8,90,000/-</span></p></td></tr><tr
+      class="c30"><td class="c3" colspan="1" rowspan="1"><p class="c23"><span
+      class="c0">2 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
+      class="c19"><span class="c0">PGDM </span></p></td><td class="c27"
+      colspan="1" rowspan="1"><p class="c19"><span class="c0">Regular
+      </span></p></td><td class="c1" colspan="1" rowspan="1"><p
+      class="c31"><span class="c0">8,90,000/-</span></p></td></tr><tr
+      class="c40"><td class="c3" colspan="1" rowspan="1"><p class="c32"><span
+      class="c0">3 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
+      class="c19"><span class="c0">MBA Global </span></p></td><td class="c27"
+      colspan="1" rowspan="1"><p class="c41"><span class="c0">Business Analytics
+      with Virginia Tech Certification /others</span></p></td><td class="c1"
+      colspan="1" rowspan="1"><p class="c31"><span
+      class="c0">9,90,000/-</span></p></td></tr><tr class="c20"><td class="c3"
+      colspan="1" rowspan="1"><p class="c14"><span class="c0">4
+      </span></p></td><td class="c4" colspan="1" rowspan="1"><p
+      class="c19"><span class="c0">PGDM Global </span></p></td><td class="c27"
+      colspan="1" rowspan="1"><p class="c14"><span class="c0">With Virginia Tech
+      Certification / others </span></p></td><td class="c1" colspan="1"
+      rowspan="1"><p class="c31"><span
+      class="c0">9,90,000/-</span></p></td></tr></tbody></table>
     embed_size: ""
+  - type: text_section
+    section_id: international-immersion
+    section_title: Fee for International Immersion options.
+    section_text: >-
+      1. Dubai / Middle East: Rs. 1,00,000/-
+
+      2. Europe: Rs. 2,00,000/-
+
+
+      ****Students can opt for Immersion programs with any of the programs. The fee is payable with Semester 2 Fee.***
   - type: embed_section
     section_id: fee-structure
     section_title: Fee Structure
     embed_source: >-
-      <table class="c8"><tbody><tr class="c2"><td class="c6" colspan="1"
-      rowspan="1"><p class="c7"><span class="c13">Program </span></p></td><td
-      class="c15" colspan="1" rowspan="1"><p class="c7"><span
-      class="c13">Installment 1 </span></p></td><td class="c16" colspan="1"
-      rowspan="1"><p class="c36"><span class="c13">Installment 2
-      </span></p></td><td class="c11" colspan="1" rowspan="1"><p
-      class="c7"><span class="c13">Installment 3 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c36"><span class="c13">Installment 4
+      <table class="c39"><tbody><tr class="c25"><td class="c6" colspan="1"
+      rowspan="1"><p class="c19"><span class="c28">Program </span></p></td><td
+      class="c21" colspan="1" rowspan="1"><p class="c19"><span
+      class="c28">Instalment 1 </span></p></td><td class="c13" colspan="1"
+      rowspan="1"><p class="c35"><span class="c28">Instalment 2
+      </span></p></td><td class="c18" colspan="1" rowspan="1"><p
+      class="c19"><span class="c28">Instalment 3 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c35"><span class="c28">Instalment 4
+      </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c8"><span
+      class="c28">Total</span></p></td></tr><tr class="c22"><td class="c6"
+      colspan="1" rowspan="1"><p class="c19"><span class="c0">MBA
       </span></p></td><td class="c21" colspan="1" rowspan="1"><p
-      class="c20"><span class="c13">Total</span></p></td></tr><tr class="c2"><td
-      class="c6" colspan="1" rowspan="1"><p class="c7"><span class="c4">MBA
-      </span></p></td><td class="c15" colspan="1" rowspan="1"><p
-      class="c10"><span class="c4">300000 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c10"><span class="c4">200000
-      </span></p></td><td class="c11" colspan="1" rowspan="1"><p
-      class="c10"><span class="c4">205000 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c10"><span class="c4">185000
+      class="c11"><span class="c0">300000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">200000
+      </span></p></td><td class="c18" colspan="1" rowspan="1"><p
+      class="c11"><span class="c0">205000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">185000
+      </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
+      class="c0">890000</span></p></td></tr><tr class="c25"><td class="c6"
+      colspan="1" rowspan="1"><p class="c19"><span class="c0">PGDM
       </span></p></td><td class="c21" colspan="1" rowspan="1"><p
-      class="c17"><span class="c4">890000</span></p></td></tr><tr class="c2"><td
-      class="c6" colspan="1" rowspan="1"><p class="c7"><span class="c4">PGDM
-      </span></p></td><td class="c15" colspan="1" rowspan="1"><p
-      class="c10"><span class="c4">285000 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c10"><span class="c4">198000
-      </span></p></td><td class="c11" colspan="1" rowspan="1"><p
-      class="c10"><span class="c4">217000 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c10"><span class="c4">190000
+      class="c11"><span class="c0">285000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">198000
+      </span></p></td><td class="c18" colspan="1" rowspan="1"><p
+      class="c11"><span class="c0">217000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">190000
+      </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
+      class="c0">890000</span></p></td></tr><tr class="c25"><td class="c6"
+      colspan="1" rowspan="1"><p class="c19"><span class="c0">MBA Global
       </span></p></td><td class="c21" colspan="1" rowspan="1"><p
-      class="c17"><span class="c4">890000</span></p></td></tr><tr class="c2"><td
-      class="c6" colspan="1" rowspan="1"><p class="c7"><span class="c4">MBA
-      Global </span></p></td><td class="c15" colspan="1" rowspan="1"><p
-      class="c10"><span class="c4">325000 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c10"><span class="c4">222000
-      </span></p></td><td class="c11" colspan="1" rowspan="1"><p
-      class="c10"><span class="c4">231000 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c10"><span class="c4">212000
+      class="c11"><span class="c0">325000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">222000
+      </span></p></td><td class="c18" colspan="1" rowspan="1"><p
+      class="c11"><span class="c0">231000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">212000
+      </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
+      class="c0">990000</span></p></td></tr><tr class="c25"><td class="c6"
+      colspan="1" rowspan="1"><p class="c31"><span class="c0">PGDM Global
       </span></p></td><td class="c21" colspan="1" rowspan="1"><p
-      class="c17"><span class="c4">990000</span></p></td></tr><tr
-      class="c18"><td class="c6" colspan="1" rowspan="1"><p class="c3"><span
-      class="c4">PGDM Global </span></p></td><td class="c15" colspan="1"
-      rowspan="1"><p class="c10"><span class="c4">310000 </span></p></td><td
-      class="c16" colspan="1" rowspan="1"><p class="c10"><span class="c4">223000
-      </span></p></td><td class="c11" colspan="1" rowspan="1"><p
-      class="c10"><span class="c4">242000 </span></p></td><td class="c16"
-      colspan="1" rowspan="1"><p class="c10"><span class="c4">215000
-      </span></p></td><td class="c21" colspan="1" rowspan="1"><p
-      class="c17"><span class="c4">990000</span></p></td></tr></tbody></table>
+      class="c11"><span class="c0">310000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">223000
+      </span></p></td><td class="c18" colspan="1" rowspan="1"><p
+      class="c11"><span class="c0">242000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">215000
+      </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
+      class="c0">990000</span></p></td></tr></tbody></table>
 
 
 
@@ -127,6 +116,8 @@ sections:
     links:
       - anchor_label: Program Based Fees
         anchor_loc: fees
+      - anchor_label: International Immersion
+        anchor_loc: international-immersion
       - anchor_label: Fee Structure
         anchor_loc: fee-structure
 ---

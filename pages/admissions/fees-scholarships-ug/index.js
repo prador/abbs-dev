@@ -3,7 +3,7 @@ import Layout from '../../../components/layout'
 import PageHeader from '../../../components/PageHeader'
 import PageBanner from '../../../components/PageBanner'
 import PageContent from '../../../components/PageContent'
-import { attributes, html } from '../../../content/pages/admissions/fees-scholarships/index.md'
+import { attributes, html } from '../../../content/pages/admissions/fees-scholarships-ug/index.md'
 
 const FeesScholarships = () => (
   <Layout>

@@ -293,12 +293,16 @@ top_menu:
         menu_nav_link: /admissions/ug-fees
         submenu_link: null
         show: true
+      - menu_nav_label: UG Scholarship
+        menu_nav_link: /admissions/fees-scholarships-ug
+        submenu_link: null
+        show: true
       - menu_nav_label: PG Fee Structure
         menu_nav_link: /admissions/pg-fees
         submenu_link: null
         show: true
-      - menu_nav_label: Scholarship
-        menu_nav_link: /admissions/fees-scholarships
+      - menu_nav_label: PG Scholarship
+        menu_nav_link: /admissions/fees-scholarships-pg
         submenu_link: null
         show: true
       - menu_nav_label: Financial Aid

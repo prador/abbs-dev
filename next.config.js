@@ -1332,6 +1332,12 @@ module.exports = {
         destination: '/profile/advisory-council', 
         permanent: false,
         basePath: false,
+      },
+      {
+        source: '/admissions/fees-scholarships', 
+        destination: '/admissions/fees-scholarships-ug', 
+        permanent: false,
+        basePath: false,
       }
     ]
   }
