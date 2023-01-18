@@ -9,7 +9,7 @@ thumbnail: static/img/14.jpg
 sections:
   - type: text_section
     section_id: ""
-    section_title: Executive MBA (EMBA
+    section_title: Executive MBA (EMBA)
     section_text: >-
       **Executive MBA (EMBA)** is a professional management education program
       that focuses on developing executives for high-level positions in
