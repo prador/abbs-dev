@@ -1,7 +1,7 @@
 ---
 title: NAAC SSR
 description: NAAC SSR
-index: "0"
+index: "1"
 section: SSR
 category: Self Study Report
 document: static/img/kacogn14538.pdf
