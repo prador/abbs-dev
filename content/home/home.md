@@ -72,8 +72,8 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/desktop-adapt.jpg
-        slide_image_mobile: static/img/mobile-adapt-1.png
+        slide_image: static/img/desktop.gif
+        slide_image_mobile: static/img/mobile-resized.gif
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
@@ -84,8 +84,8 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/abbs-rank-post-19-desktop.jpg
-        slide_image_mobile: static/img/abbs-rank-post-19-mobile.jpg
+        slide_image: static/img/19-banner-desktop-resized.gif
+        slide_image_mobile: static/img/19-banner-resized.gif
   - type: announcement_section
     announcements:
       - announcement_title: "One Day MBA: A webinar to give a 360 degree view of what an
