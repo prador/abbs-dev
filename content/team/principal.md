@@ -1,5 +1,5 @@
 ---
-name: Dr D. M. Mahishi
+name: Dr. D.M. Mahishi
 qualifications: PhD, MSc, BSc
 title: Director-IQAC
 tags:

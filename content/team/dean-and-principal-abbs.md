@@ -1,5 +1,5 @@
 ---
-name: Dr.D.M. Mahishi
+name: " Dr. D.M. Mahishi"
 qualifications: M.Sc.,Ph.D.
 title: Dean and Principal, ABBS
 position: Chairman

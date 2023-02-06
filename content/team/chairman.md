@@ -1,5 +1,5 @@
 ---
-name: Dr B. Vijaypal Reddy
+name: Dr. B.Vijaypal Reddy
 qualifications: MD, MBBS, DCH
 title: Chairman
 tags:
