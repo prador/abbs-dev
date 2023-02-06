@@ -4,6 +4,6 @@ qualifications: BE
 title: MSME Promoter
 position: Member- Industry Representative
 tags:
-  - Advisory Council
+  - Blank
 order: 5
 ---

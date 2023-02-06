@@ -4,6 +4,6 @@ qualifications: MBA, Ph.D
 title: Director, AIMIT, Bengaluru
 position: Member- Academic Representative
 tags:
-  - Advisory Council
+  - Blank
 order: 3
 ---

@@ -1,9 +1,9 @@
 ---
 name: Dr. Manas Chatterji
-qualifications: Professor Emeritus
+qualifications: PhD, Wharton School (U Penn), MA, BA
 title: Binghampton University, USA
 position: Academic Representative
 tags:
   - Advisory Council
-order: 9
+order: 5
 ---

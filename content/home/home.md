@@ -274,6 +274,8 @@ header_scripts: >-
 
   <meta name="facebook-domain-verification" content="htimxyajz3p173zwfwymj1au47xy9d" />
 
+  <meta name="google-site-​verification" content="​Oq219cHn9pJ2ODnE5e9IU2j9EtAMVm​sHHedh3upYvgY" />
+  
   <script type="application/ld+json">
 
   {

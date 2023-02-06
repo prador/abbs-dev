@@ -4,6 +4,6 @@ qualifications: MBA, M.Phil., Ph.D
 title: Managing Director, Disciples Indian Pvt. Ltd.
 position: Member- Industry Representative
 tags:
-  - Advisory Council
+  - Blank
 order: -14
 ---

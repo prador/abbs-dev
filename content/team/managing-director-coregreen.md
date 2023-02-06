@@ -1,9 +1,9 @@
 ---
 name: Mr. Srinivas Sreeramaneni
-qualifications: MS(USA)
-title: Managing Director, Coregreen
+qualifications: MS (USA), B.Tech
+title: CEO, Coregreen Group
 position: Member- Industry Representative
 tags:
   - Advisory Council
-order: 13
+order: 8
 ---

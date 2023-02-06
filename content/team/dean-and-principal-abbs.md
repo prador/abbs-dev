@@ -1,9 +1,10 @@
 ---
 name: " Dr. D.M. Mahishi"
-qualifications: M.Sc.,Ph.D.
-title: Dean and Principal, ABBS
+qualifications: Post Doc, Ph.D, M.Sc.
+title: Director-IQAC, ABBS
 position: Chairman
 tags:
   - Advisory Council
 order: 1
+thumbnail: static/img/mahishi.jpg
 ---
