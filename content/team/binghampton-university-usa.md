@@ -6,4 +6,5 @@ position: Academic Representative
 tags:
   - Advisory Council
 order: 5
+thumbnail: static/img/dr.-manas-chatterji.jpg
 ---

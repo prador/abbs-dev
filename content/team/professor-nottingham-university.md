@@ -6,4 +6,5 @@ position: Member- Academic Representative
 tags:
   - Advisory Council
 order: 7
+thumbnail: static/img/dr.-nagamani-bora.jpeg
 ---

@@ -6,4 +6,5 @@ position: Member- Industry Representative
 tags:
   - Advisory Council
 order: 8
+thumbnail: static/img/mr.-srinivas-sreeramaneni.jpg
 ---

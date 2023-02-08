@@ -7,4 +7,5 @@ position: Member- Academic Representative
 tags:
   - Advisory Council
 order: 4
+thumbnail: static/img/balaveera-reddy.jpg
 ---

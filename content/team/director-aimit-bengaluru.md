@@ -1,5 +1,5 @@
 ---
-name: Dr.Anitha Ramachander
+name: Dr. Anitha Ramachander
 qualifications: MBA, Ph.D
 title: Director, AIMIT, Bengaluru
 position: Member- Academic Representative

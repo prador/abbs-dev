@@ -5,4 +5,5 @@ title: Associate Professor- Analytics & Operations, NUS Business School
 tags:
   - Advisory Council
 order: 3
+thumbnail: static/img/dr.-chaithanya-bandi.jpg
 ---
