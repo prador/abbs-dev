@@ -20,6 +20,8 @@ sections:
         anchor_loc: quality-policy
       - anchor_label: Core Values
         anchor_loc: core-values
+      - anchor_label: Organogram
+        anchor_loc: organogram
   - type: text_section
     section_id: vision
     section_title: Vision
@@ -81,4 +83,10 @@ sections:
       * Global perspective
       * Acting with integrity
       * Ethical value
+  - type: text_section
+    section_id: organogram
+    section_title: Organogram
+    section_text: ""
+    section_image: static/img/66_abbs-organisation-chart_070223-01.jpg
+    image_position: Above Content
 ---
