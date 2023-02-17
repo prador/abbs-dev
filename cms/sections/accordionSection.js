@@ -44,6 +44,12 @@ const accordionSection = {
         widget: "markdown",
         hint: "",
         default: ""
+      },
+      {
+        label: "Asset",
+        name: "accordion_asset",
+        widget: "file",
+        required: false
       }]
     }]
   }

@@ -1,21 +1,6 @@
 ---
-title: Entrepreneurship
-date: 2021-12-04T06:14:26.528Z
-seo_title: Best Business School in Bangalore | Entrepreneurship
-seo_description: 
 seo_keywords: Business School in Bangalore, ABBS, Entrepreneurship
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:14:26.528Z
 thumbnail: static/img/04-04-entrepreneurship-01-banner.jpg
 sections:
   - type: text_section
@@ -106,7 +91,7 @@ sections:
 
       ###### Facilities to Incubatees.
 
-      
+
       Seed Funding: Startup fund and Government seed support. \
 
       Networking: With professional experts, consultants and advisors of incubated companies. \
@@ -122,4 +107,34 @@ sections:
         anchor_loc: startup-centre
       - anchor_label: Innovation and Incubation Centre
         anchor_loc: innovation-incubation-centre
+      - anchor_label: Newsletters
+        anchor_loc: newsletters
+  - type: accordion_section
+    section_id: newsletters
+    section_title: Newsletters
+    accordions:
+      - accordion_title: February 2023
+        accordion_content: ""
+        accordion_asset: static/img/edc-february-2023.pdf
+      - accordion_title: December 2022
+        accordion_content: ""
+        accordion_asset: static/img/edc_news_lette-dec-2022.pdf
+      - accordion_title: November 2022
+        accordion_content: ""
+        accordion_asset: static/img/edc_news_letter-november_2022.pdf
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+title: Entrepreneurship
+seo_title: Best Business School in Bangalore | Entrepreneurship
+links:
+  - anchor_title: ""
+    anchor_id: ""
+seo_description: null
 ---

@@ -24,7 +24,7 @@ const AccordionSection = ({att}) => {
       <ul className="accordion-list">
       {att.accordions.map((acc,index) => (
         <>
-        {acc.accordion_content ? 
+        {acc.accordion_content || acc.accordion_asset ? 
         <li className={`accordion-item ${clicked === index ? "active" : ""}`}>
              <div className="accordion-title" onClick={() => handleToggle(index)}>
                  <h6>{acc.accordion_title}</h6>
@@ -36,6 +36,7 @@ const AccordionSection = ({att}) => {
                  id={index}
              >
                  <ReactMarkdown children={acc.accordion_content} remarkPlugins={[remarkGfm]} />
+                 {acc.accordion_asset? <a href={"/"+acc.accordion_asset} className="doc-btn naac-doc-btn" target="_blank">Read newsletter here</a>: ""}
              </div>
          </li>
          : null}
