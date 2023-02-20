@@ -95,5 +95,11 @@ sections:
           * 10 stamp size photographs 
 
           * Valid student visa (if you are an international student)
+      - accordion_title: "How do I secure my admission upon receiving my offer letter? "
+        accordion_content: To secure your admission, you must pay an initial deposit
+          amount via a demand draft/Online transfer to the ABBS Account
+          **only**. This initial deposit amount varies between programmes. It
+          will be communicated to you via your offer letter. This deposit amount
+          will be deducted from the fees due for your first semester.
   - type: anchor_section
 ---

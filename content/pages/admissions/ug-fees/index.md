@@ -13,12 +13,9 @@ sections:
       colspan="1" rowspan="1"><p class="c12"><span class="c15">Program
       </span></p></td><td class="c2" colspan="1" rowspan="1"><p
       class="c12"><span class="c15">Fee (Rs.)</span></p></td></tr><tr
-      class="c9"><td class="c3" colspan="1" rowspan="1"><p class="c1"><span
-      class="c0">BBA LLB </span></p></td><td class="c2" colspan="1"
+      class="c10"><td class="c3" colspan="1" rowspan="1"><p class="c1"><span
+      class="c0">BCA + AI/CC </span></p></td><td class="c2" colspan="1"
       rowspan="1"><p class="c6"><span
-      class="c0">5,00,000</span></p></td></tr><tr class="c10"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BCA + AI/CC
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
       class="c0">3,90,000</span></p></td></tr><tr class="c10"><td class="c3"
       colspan="1" rowspan="1"><p class="c1"><span class="c0">BBA Aviation
       </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
@@ -29,15 +26,15 @@ sections:
       colspan="1" rowspan="1"><p class="c1"><span class="c0">BCA
       </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
       class="c0">3,00,000</span></p></td></tr><tr class="c9"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BCA (for SAARC
-      Students) </span></p></td><td class="c2" colspan="1" rowspan="1"><p
-      class="c6"><span class="c0">3,50,000</span></p></td></tr><tr
-      class="c10"><td class="c3" colspan="1" rowspan="1"><p class="c1"><span
-      class="c0">B.Com </span></p></td><td class="c2" colspan="1" rowspan="1"><p
-      class="c6"><span class="c0">3,00,000</span></p></td></tr><tr
-      class="c10"><td class="c3" colspan="1" rowspan="1"><p class="c1"><span
-      class="c0">B.Com Logistics </span></p></td><td class="c2" colspan="1"
+      colspan="1" rowspan="1"><p class="c1"><span class="c0">UG Program for
+      SAARC National (3-years) </span></p></td><td class="c2" colspan="1"
       rowspan="1"><p class="c6"><span
+      class="c0">3,50,000</span></p></td></tr><tr class="c10"><td class="c3"
+      colspan="1" rowspan="1"><p class="c1"><span class="c0">B.Com
+      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
+      class="c0">3,00,000</span></p></td></tr><tr class="c10"><td class="c3"
+      colspan="1" rowspan="1"><p class="c1"><span class="c0">B.Com Logistics
+      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
       class="c0">3,00,000</span></p></td></tr><tr class="c9"><td class="c3"
       colspan="1" rowspan="1"><p class="c1"><span class="c0">B.Com + CMA
       </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
