@@ -87,13 +87,13 @@ sections:
       class="c1">81% and above </span></p></td><td class="c3" colspan="1"
       rowspan="1"><p class="c8"><span
       class="c1">1,00,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="5"><p class="c16"><span class="c1">CSO Recommendation
-      </span></p></td><td class="c7" colspan="1" rowspan="5"><p class="c8"><span
-      class="c1">Points (out of 10)</span></p></td><td class="c0" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">6 </span></p></td><td
-      class="c3" colspan="1" rowspan="1"><p class="c16"><span
-      class="c1">20,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="1"><p class="c13"><span class="c1">7
+      colspan="1" rowspan="5"><p class="c16"><span class="c1">Principal's
+      Recommendation </span></p></td><td class="c7" colspan="1" rowspan="5"><p
+      class="c8"><span class="c1">Points (out of 10)</span></p></td><td
+      class="c0" colspan="1" rowspan="1"><p class="c13"><span class="c1">6
+      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
+      class="c16"><span class="c1">20,000</span></p></td></tr><tr class="c9"><td
+      class="c0" colspan="1" rowspan="1"><p class="c13"><span class="c1">7
       </span></p></td><td class="c3" colspan="1" rowspan="1"><p
       class="c10"><span class="c1">40,000</span></p></td></tr><tr class="c9"><td
       class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">8
@@ -164,11 +164,11 @@ sections:
       3. **Any one** category of scholarship shall be applicable for a given student.  
 
       4. Scholarship is subject to fulfilling the basic admission criteria mentioned in Annexure II of ABBS Admission letter.  
-      
+
       5. Scholarship is also subject to submission on the documents mentioned in Annexure III of ABBS Admission Letter.  
-      
+
       6. Following criteria shall be broadly used as the basis for continuation of scholarship beyond Year. 
-      
+
           A. The student is required to secure passing CGPA.
 
          B. The student is required to register at least 75% attendance.  

@@ -110,8 +110,8 @@ sections:
       above </span></p></td><td class="c7" colspan="1" rowspan="1"><p
       class="c12"><span class="c0">1,00,000</span></p></td></tr><tr
       class="c6"><td class="c8" colspan="1" rowspan="5"><p class="c15"><span
-      class="c0">CSO Recommendation </span></p></td><td class="c4" colspan="1"
-      rowspan="5"><p class="c12"><span class="c0">Points (out of
+      class="c0">Director's Recommendation </span></p></td><td class="c4"
+      colspan="1" rowspan="5"><p class="c12"><span class="c0">Points (out of
       10)</span></p></td><td class="c3" colspan="1" rowspan="1"><p
       class="c1"><span class="c0">6 </span></p></td><td class="c7" colspan="1"
       rowspan="1"><p class="c12"><span
