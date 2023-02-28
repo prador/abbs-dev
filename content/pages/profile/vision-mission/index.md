@@ -87,6 +87,6 @@ sections:
     section_id: organogram
     section_title: Organogram
     section_text: ""
-    section_image: static/img/66_abbs-organisation-chart_070223-01.jpg
+    section_image: static/img/66_abbs-organisation-chart_new.jpg
     image_position: Above Content
 ---

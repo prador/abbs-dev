@@ -36,7 +36,7 @@ const AccordionSection = ({att}) => {
                  id={index}
              >
                  <ReactMarkdown children={acc.accordion_content} remarkPlugins={[remarkGfm]} />
-                 {acc.accordion_asset? <a href={"/"+acc.accordion_asset} className="doc-btn naac-doc-btn" target="_blank">Read newsletter here</a>: ""}
+                 {acc.accordion_asset? <a href={"/"+acc.accordion_asset} className="doc-btn naac-doc-btn" target="_blank">Click here to read more</a>: ""}
              </div>
          </li>
          : null}

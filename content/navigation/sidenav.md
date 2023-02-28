@@ -221,6 +221,10 @@ top_menu:
         menu_nav_link: /research/research-publications
         submenu_link: null
         show: true
+      - menu_nav_label: AMBER Journals
+        menu_nav_link: /research/amber
+        submenu_link: null
+        show: true
     parent_menu_id: inside
   - menu_title: Corporate
     menu_id: corporate
