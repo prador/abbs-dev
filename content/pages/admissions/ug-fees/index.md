@@ -1,5 +1,5 @@
 ---
-title: UG Fee Structure 2023
+title: UG Fee Structure 2023 - 26
 seo_title: Best Business School in Bangalore | ABBS | Admissions | Fees
 seo_description: null
 seo_keywords: null
@@ -9,56 +9,47 @@ sections:
   - type: embed_section
     section_id: fees
     section_title: Program based Fees
-    embed_source: <table class="c5"><tbody><tr class="c16"><td class="c3"
-      colspan="1" rowspan="1"><p class="c12"><span class="c15">Program
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p
-      class="c12"><span class="c15">Fee (Rs.)</span></p></td></tr><tr
-      class="c10"><td class="c3" colspan="1" rowspan="1"><p class="c1"><span
-      class="c0">BCA + AI/CC </span></p></td><td class="c2" colspan="1"
-      rowspan="1"><p class="c6"><span
-      class="c0">3,90,000</span></p></td></tr><tr class="c10"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BBA Aviation
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">4,50,000</span></p></td></tr><tr class="c9"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BBA
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c10"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BCA
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c9"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">UG Program for
-      SAARC National (3-years) </span></p></td><td class="c2" colspan="1"
-      rowspan="1"><p class="c6"><span
-      class="c0">3,50,000</span></p></td></tr><tr class="c10"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">B.Com
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c10"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">B.Com Logistics
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c9"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">B.Com + CMA
-      </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">3,90,000</span></p></td></tr><tr class="c10"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">B.Sc.
-      (Biotechnology / Biochemistry / Genetics)</span></p></td><td class="c2"
-      colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c9"><td class="c3"
-      colspan="1" rowspan="1"><p class="c12"><span class="c0">B.Sc.
-      (Biotechnology / Biochemistry / Microbiology)</span></p></td><td
-      class="c2" colspan="1" rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c10"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BA (Psychology /
-      Sociology / Political Science)</span></p></td><td class="c2" colspan="1"
-      rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c8"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BA (Journalism /
-      Tourism / History)</span></p></td><td class="c2" colspan="1"
-      rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr><tr class="c9"><td class="c3"
-      colspan="1" rowspan="1"><p class="c1"><span class="c0">BA (Economics /
-      Marketing / Statistics)</span></p></td><td class="c2" colspan="1"
-      rowspan="1"><p class="c6"><span
-      class="c0">3,00,000</span></p></td></tr></tbody></table>
+    embed_source: <table class="c4"><tbody><tr class="c5"><td class="c0" colspan="1"
+      rowspan="1"><p class="c2"><span class="c1">Program </span></p></td><td
+      class="c6" colspan="1" rowspan="1"><p class="c2"><span class="c1">&nbsp;
+      Fee (In Rs.)</span></p></td></tr><tr class="c5"><td class="c0" colspan="1"
+      rowspan="1"><p class="c2"><span class="c1">BBA</span></p></td><td
+      class="c6" colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">320000</span></p></td></tr><tr class="c5"><td class="c0"
+      colspan="1" rowspan="1"><p class="c2"><span class="c1">BBA-Aviation
+      Management</span></p></td><td class="c6" colspan="1" rowspan="1"><p
+      class="c2"><span class="c1">450000</span></p></td></tr><tr class="c7"><td
+      class="c0" colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">BCA</span></p></td><td class="c6" colspan="1" rowspan="1"><p
+      class="c2"><span class="c1">320000</span></p></td></tr><tr class="c5"><td
+      class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B.
+      Com</span></p></td><td class="c6" colspan="1" rowspan="1"><p
+      class="c2"><span class="c1">215000</span></p></td></tr><tr class="c5"><td
+      class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B. Com +
+      CMA</span></p></td><td class="c6" colspan="1" rowspan="1"><p
+      class="c2"><span class="c1">390000</span></p></td></tr><tr class="c5"><td
+      class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B. Com
+      logistics &amp; Supply Chain </span></p></td><td class="c6" colspan="1"
+      rowspan="1"><p class="c2"><span class="c1">300000</span></p></td></tr><tr
+      class="c5"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">B.Sc. (Biotechnology/Biochemistry/ Genetics)
+      </span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">300000</span></p></td></tr><tr class="c5"><td class="c0"
+      colspan="1" rowspan="1"><p class="c2" id="h.gjdgxs"><span class="c1">B. Sc
+      (Biotechnology/Biochemistry/Microbiology)</span></p></td><td class="c6"
+      colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">300000</span></p></td></tr><tr class="c7"><td class="c0"
+      colspan="1" rowspan="1"><p class="c2"><span class="c1">B.A
+      (Psychology/Sociology/Political Science)</span></p></td><td class="c6"
+      colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">300000</span></p></td></tr><tr class="c7"><td class="c0"
+      colspan="1" rowspan="1"><p class="c2"><span class="c1">B.A (
+      Journalism/Tourism/History)</span></p></td><td class="c6" colspan="1"
+      rowspan="1"><p class="c2"><span class="c1">300000</span></p></td></tr><tr
+      class="c7"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">B.A (Economics/Marketing/Statistics)</span></p></td><td
+      class="c6" colspan="1" rowspan="1"><p class="c2"><span
+      class="c1">300000</span></p></td></tr></tbody></table>
     embed_size: ""
   - type: anchor_section
     links:

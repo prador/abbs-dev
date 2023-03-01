@@ -23,11 +23,12 @@ sections:
       </span></p></td><td class="c1" colspan="1" rowspan="1"><p
       class="c31"><span class="c0">8,90,000/-</span></p></td></tr><tr
       class="c40"><td class="c3" colspan="1" rowspan="1"><p class="c32"><span
-      class="c0">3 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
-      class="c19"><span class="c0">MBA Global </span></p></td><td class="c27"
-      colspan="1" rowspan="1"><p class="c41"><span class="c0">Business Analytics
-      with Virginia Tech Certification /others</span></p></td><td class="c1"
-      colspan="1" rowspan="1"><p class="c31"><span
+      class="c0">2 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
+      class="c19"><span class="c0">MBA Business Analytics </span></p></td><td
+      class="c27" colspan="1" rowspan="1"><p class="c41"><span
+      class="c0">Business Analytics with Virginia Tech Certification
+      /others</span></p></td><td class="c1" colspan="1" rowspan="1"><p
+      class="c31"><span
       class="c0">9,90,000/-</span></p></td></tr></tbody></table>
     embed_size: ""
   - type: text_section
@@ -63,8 +64,8 @@ sections:
       colspan="1" rowspan="1"><p class="c11"><span class="c0">185000
       </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
       class="c0">890000</span></p></td></tr><tr class="c25"><td class="c6"
-      colspan="1" rowspan="1"><p class="c19"><span class="c0">MBA Global
-      </span></p></td><td class="c21" colspan="1" rowspan="1"><p
+      colspan="1" rowspan="1"><p class="c19"><span class="c0">MBA Business
+      Analytics </span></p></td><td class="c21" colspan="1" rowspan="1"><p
       class="c11"><span class="c0">325000 </span></p></td><td class="c13"
       colspan="1" rowspan="1"><p class="c11"><span class="c0">222000
       </span></p></td><td class="c18" colspan="1" rowspan="1"><p
