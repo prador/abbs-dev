@@ -88,8 +88,8 @@ sections:
         slide_image_mobile: static/img/19-banner-resized.gif
   - type: announcement_section
     announcements:
-      - announcement_title: First Application Cycle for all Undergraduate and
-          Postgraduate Programs Closes on February 25, 2023. Hurry! Apply now!
+      - announcement_title: Second Application Cycle for all Undergraduate and
+          Postgraduate Programs Closes on March 31, 2023. Hurry! Apply now!
         announcement_link: ""
   - type: text_column_section
     section_id: ""
