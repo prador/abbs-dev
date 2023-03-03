@@ -72,8 +72,8 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/desktop-adapt.jpg
-        slide_image_mobile: static/img/mobile-adapt-1.png
+        slide_image: static/img/desktop.gif
+        slide_image_mobile: static/img/mobile-resized.gif
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
@@ -84,15 +84,13 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/abbs-rank-post-19-desktop.jpg
-        slide_image_mobile: static/img/abbs-rank-post-19-mobile.jpg
+        slide_image: static/img/19-banner-desktop-resized.gif
+        slide_image_mobile: static/img/19-banner-resized.gif
   - type: announcement_section
     announcements:
-      - announcement_title: "One Day MBA: A webinar to give a 360 degree view of what an
-          MBA from a top Institute offers to open the doors to a great career in
-          the corporate world. Date 22nd Jan. Time: 12 pm.  Register:
-          https://bit.ly/3QnSCxk"
-        announcement_link: https://bit.ly/3QnSCxk
+      - announcement_title: Second Application Cycle for all Undergraduate and
+          Postgraduate Programs Closes on March 31, 2023. Hurry! Apply now!
+        announcement_link: ""
   - type: text_column_section
     section_id: ""
     section_title: Reimagining higher education. Today.
@@ -273,6 +271,8 @@ header_scripts: >-
   <meta name="ICBM" content="13.003505, 77.484434" />
 
   <meta name="facebook-domain-verification" content="htimxyajz3p173zwfwymj1au47xy9d" />
+
+  <meta name="google-site-verification" content="Oq219cHn9pJ2ODnE5e9IU2j9EtAMVmsHHedh3upYvgY" />
 
   <script type="application/ld+json">
 

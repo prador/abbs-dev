@@ -4,6 +4,6 @@ qualifications: MBA
 title: Relationship Manager, Deccan Herald
 position: Member- Alumni Representative
 tags:
-  - Advisory Council
+  - Blank
 order: 7
 ---

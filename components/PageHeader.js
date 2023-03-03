@@ -38,8 +38,8 @@ const PageHeader = ({attributes,children}) => {
           
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
           {attributes.header_scripts ? parse(attributes.header_scripts) : "" }
-          <link rel="canonical" href={canonical} />
-          <meta name="google-site-​verification" content="​Oq219cHn9pJ2ODnE5e9IU2j9EtAMVm​sHHedh3upYvgY" />
+          <link rel="canonical" href={canonical} /> 
+          <meta name="google-site-verification" content="Oq219cHn9pJ2ODnE5e9IU2j9EtAMVmsHHedh3upYvgY" />
     </Head>
   </>
 )}

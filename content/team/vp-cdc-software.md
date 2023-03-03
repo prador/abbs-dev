@@ -4,6 +4,6 @@ qualifications: MBA, Ph.D
 title: VP, CDC Software
 position: Member- Industry Representative
 tags:
-  - Advisory Council
+  - Blank
 order: 8
 ---

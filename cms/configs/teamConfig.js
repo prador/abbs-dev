@@ -36,7 +36,7 @@ const teamConfig = {
         widget: "select",
         multiple: true,
         required: true,
-        options: ["Leadership Team", "Advisory Council", "Faculty Directory"],
+        options: ["Leadership Team", "Advisory Council", "Faculty Directory","Blank"],
       },
       {
         label: "Order",

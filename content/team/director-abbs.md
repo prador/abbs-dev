@@ -1,7 +1,7 @@
 ---
 name: Dr. H.R.Venkatesh
-qualifications: M.Com, MBA, Ph.D
-title: Director, ABBS
+qualifications: Ph.D, MBA, M.Com
+title: Director-MBA, ABBS
 position: Member Secretary
 tags:
   - Advisory Council

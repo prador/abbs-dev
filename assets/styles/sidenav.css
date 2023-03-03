@@ -298,7 +298,8 @@
       margin-top:0;
     }
     .nav-title img{
-      height:30px;
+      height:75px;
+      margin-top: -20px;
     }
     .nav-search {
       margin-right: 20px;
@@ -315,8 +316,8 @@
     }
     .nav > .nav-btn > label {
       display: inline-block;
-      width: 30px;
-      height: 30px;
+      width: 20px;
+      height: 20px;
       padding: 10px;
     }
     .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
@@ -379,10 +380,14 @@
       max-width: 50%;
     }
     .nav-apply-btn-wrapper .btn {
-      min-width: 100px;
+      min-width: 90px;
+      padding: 0.5rem 0rem 0.5rem 1rem;
     }
     .search-btn {
       display: none;
       padding-right: 0;
     }
+  }
+  .npfWidget-a2b92e215659256130ae969905a8f550.npfWidgetButton {
+    background: #222 !important;
   }

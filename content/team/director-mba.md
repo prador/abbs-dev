@@ -1,5 +1,5 @@
 ---
-name: D.r H. R. Venkatesha
+name: Dr. H.R. Venkatesha
 qualifications: PhD, MBA, M.Com, B.Com
 title: Director, MBA
 tags:

@@ -24827,7 +24827,6 @@ a.text-dark:focus {
 .slider_main .slider_main_inner .sign-up-form-wrap {
     border-radius: 10px;
     box-shadow: 0px -10px 0px 0px rgb(197 156 2);
-    margin-bottom: -50px;
     background: #f9f9f9;
     border: 1px solid rgb(0 169 180 / 7%);
 }
@@ -24838,8 +24837,13 @@ a.text-dark:focus {
 
 .slider_main {
     background: url("../img/bg/banner-bg.jpg");
+    background-size: cover;
 }
-
+.banner-courses{
+    padding: 10px;
+    background: rgb(255 255 255 / 14%);
+    border-radius: 10px;
+}
 .content-grid {
     overflow: hidden;
     margin: 0;
@@ -25049,7 +25053,23 @@ a.text-dark:focus {
     margin-bottom: 25px;
     box-shadow: 0px 3px 4px gainsboro;
 }
+.counter-main:after{    
+    content: "";
+    background: #000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
 
+}
+.counter-main{
+    background: url(../img/bg/banner-bg.jpg);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
 .heading-02::after{
     content: '';
     background: linear-gradient(90deg,rgb(99 22 135) 0%,rgb(113 37 182) 51%,rgb(129 54 238) 90%);
@@ -25188,3 +25208,4 @@ a.text-dark:focus {
         transform: translateY(-15px);
     }
 }
+

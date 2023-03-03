@@ -1,10 +1,5 @@
 "use strict";
 
-/*
-* Apdash v1.0.0 (https://themeforest.net/user/themetags)
-* Copyright 2020 Themetags
-* Licensed under ThemeForest License
-*/
 // TABLE OF CONTENTS
 //  1. preloader
 //  2. page scrolling feature - requires jQuery Easing plugin
@@ -134,13 +129,13 @@ jQuery(function ($) {
         items: 1
       },
       600: {
-        items: 2
+        items: 1
       },
       800: {
         items: 2
       },
       1200: {
-        items: 3
+        items: 2
       }
     }
   }); // 9. magnify popup video

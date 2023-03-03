@@ -1,5 +1,5 @@
 ---
-name: Ajitesh Basani
+name: Mr. Ajitesh Basani
 qualifications: MS, BE
 title: Executive Director
 tags:

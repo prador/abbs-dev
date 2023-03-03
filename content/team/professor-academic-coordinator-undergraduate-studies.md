@@ -1,5 +1,5 @@
 ---
-name: Dr Vijaya Bhaskar K
+name: Dr. Vijaya Bhaskar K
 qualifications: PhD, MPhil, MBA, M.Com, B.Com
 title: Principal, Acharya Bangalore B School
 tags:
