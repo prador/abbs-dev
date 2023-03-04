@@ -1,5 +1,5 @@
 ---
-title: AMBER Journal
+title: AMBER Journals
 seo_title: Best Business School in Bangalore | AMBER Journal
 date: 2023-02-28T12:10:41.191Z
 thumbnail: static/img/05-02-research-publications-banner.jpg
