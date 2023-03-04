@@ -55,7 +55,7 @@ program_accordion:
       - name: BCA
         loc: /programs/information-technology/bca-colleges-in-bangalore
 title: Home
-seo_title: Top B Schools in Bangalore ||| Bangalore Business School
+seo_title: Top B Schools in Bangalore | Bangalore Business School
 seo_description: ABBS is Ranked among the top business school in Bangalore which
   provides the best MBA /PGDM and Management Programmes.
 date: 2019-03-17T19:31:20.591Z
