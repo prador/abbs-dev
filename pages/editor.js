@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 import Head from "next/head";
-
+import Script from "next/script";
 import config from "../cms/config";
 import ImgCaption from "../components/cms/ImgCaption";
 import TextSection from "../components/cms/TextSection";
@@ -39,6 +39,9 @@ const AdminPage = () => {
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> 
       </Head>
       <CMS className="cms-editor"/>
+      <Script id="show-banner" strategy="afterInteractive">
+        {`document.getElementById('__next').remove()`}
+      </Script>
     </>
   );
 };

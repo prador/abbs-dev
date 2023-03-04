@@ -1338,6 +1338,90 @@ module.exports = {
         destination: '/admissions/fees-scholarships-ug', 
         permanent: false,
         basePath: false,
+      },
+      {
+        source: '/lp/mba-analytics',
+        destination: '/lp/mba-analytics/index.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/mba',
+        destination: '/lp/mba/index.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/PGDM',
+        destination: '/lp/PGDM/index.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/ug',
+        destination: '/lp/ug/index.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/mba-analytics/thank-you',
+        destination: '/lp/mba-analytics/thank-you.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/mba/thankyou',
+        destination: '/lp/mba/thankyou.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/PGDM/thankyou',
+        destination: '/lp/PGDM/thankyou.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/ug/thankyou',
+        destination: '/lp/ug/thankyou.html',
+        permanent: false,
+        basePath: false,
+      }
+    ]
+  },
+  async rewrites() {
+    return [
+      {
+        source: '/lp/mba-analytics',
+        destination: '/lp/mba-analytics/index.html'
+      },
+      {
+        source: '/lp/mba',
+        destination: '/lp/mba/index.html'
+      },
+      {
+        source: '/lp/PGDM',
+        destination: '/lp/PGDM/index.html'
+      },
+      {
+        source: '/lp/ug',
+        destination: '/lp/ug/index.html'
+      },
+      {
+        source: '/lp/mba-analytics/thank-you',
+        destination: '/lp/mba-analytics/thank-you.html'
+      },
+      {
+        source: '/lp/mba/thankyou',
+        destination: '/lp/mba/thankyou.html'
+      },
+      {
+        source: '/lp/PGDM/thankyou',
+        destination: '/lp/PGDM/thankyou.html'
+      },
+      {
+        source: '/lp/ug/thankyou',
+        destination: '/lp/ug/thankyou.html'
       }
     ]
   }
