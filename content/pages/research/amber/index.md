@@ -157,7 +157,7 @@ sections:
     accordions:
       - accordion_title: AMBER_Vol.No.13_Issue.No.02_Apr 2022 - Sep.2022
         accordion_content: ""
-        accordion_asset: null
+        accordion_asset: static/img/amber_vol.no.13_issue.no.02_apr-2022-sep-2022.pdf
   - type: accordion_section
     section_id: archives
     section_title: Archives
@@ -170,7 +170,7 @@ sections:
         accordion_asset: static/img/AMBER_Vol.No.12_Issue.No.02_Apr 2021 - Sep.2021.pdf
       - accordion_title: AMBER_Vol.No.12_Issue.No.01_Oct 2020 - Mar 2021
         accordion_content: ""
-        accordion_asset: null
+        accordion_asset: static/img/amber_vol.no.12_issue.no.01_oct-2020-mar-2021.pdf
       - accordion_title: AMBER_Vol.No.11_Issue.No.02_Apr 2020 - Sep 2020
         accordion_content: ""
         accordion_asset: static/img/AMBER_Vol.No.11_Issue.No.02_Apr 2020 - Sep 2020.pdf
