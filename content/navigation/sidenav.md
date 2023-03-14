@@ -188,7 +188,7 @@ top_menu:
       - menu_nav_label: PhD in Management
         menu_nav_link: /programs/phd-management
         submenu_link: null
-        show: false
+        show: true
     parent_menu_id: main
   - menu_title: Faculty
     menu_id: faculty
@@ -355,6 +355,10 @@ top_menu:
         show: true
       - menu_nav_label: MBA
         menu_nav_link: /programs/business/best-mba-colleges-in-bangalore
+        submenu_link: null
+        show: true
+      - menu_nav_label: MBA Business Analytics
+        menu_nav_link: /programs/business/mba-business-analytics
         submenu_link: null
         show: true
       - menu_nav_label: BBA

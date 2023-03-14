@@ -10,9 +10,10 @@ const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
     }
     return imgPos
   }
+  console.log(att)
   return (
   <>
-    {testimonials.length > 0 ? 
+    {testimonials.length > 0 && att.show_toggle === true ? 
     <section className="testimonial-section-wrapper">
     <>
      <div key={att.id} className="testimonial-section-block">
