@@ -23,3 +23,8 @@ Attend the webinar: The Road to Investment Banking to get key insights into:
 3. The power of professional certifications
 4. Pathway to become an Investment banker.
 5. PGDM-BFSI Program - A job Guarantee Program at ABBS School of Management Bangalore.
+
+To Register, click here: http://bit.ly/3YJdce9
+
+
+
