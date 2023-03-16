@@ -88,8 +88,9 @@ sections:
         slide_image_mobile: static/img/19-banner-resized.gif
   - type: announcement_section
     announcements:
-      - announcement_title: Second Application Cycle for all Undergraduate and
-          Postgraduate Programs Closes on March 31, 2023. Hurry! Apply now!
+      - announcement_title: "Career Guidance Webinar: Road to Investment Banking.
+          Scheduled on March 20, 2023, at 6 pm. To register, click here:
+          http://bit.ly/3YJdce9"
         announcement_link: ""
   - type: text_column_section
     section_id: ""
