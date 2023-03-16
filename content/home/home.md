@@ -91,7 +91,7 @@ sections:
       - announcement_title: "Career Guidance Webinar: Road to Investment Banking.
           Scheduled on March 20, 2023, at 6 pm. To register, click here:
           http://bit.ly/3YJdce9"
-        announcement_link: ""
+        announcement_link: http://bit.ly/3YJdce9
   - type: text_column_section
     section_id: ""
     section_title: Reimagining higher education. Today.
