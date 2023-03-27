@@ -88,10 +88,9 @@ sections:
         slide_image_mobile: static/img/19-banner-resized.gif
   - type: announcement_section
     announcements:
-      - announcement_title: "Career Guidance Webinar: Road to Investment Banking.
-          Scheduled on March 20, 2023, at 6 pm. To register, click here:
-          http://bit.ly/3YJdce9"
-        announcement_link: http://bit.ly/3YJdce9
+      - announcement_title: "Application cycle for all Undergraduate and Postgraduate
+          programs closes on April 15, 2023. Apply Now. "
+        announcement_link: ""
   - type: text_column_section
     section_id: ""
     section_title: Reimagining higher education. Today.
