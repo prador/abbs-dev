@@ -225,7 +225,7 @@ sections:
     section_text: "For further details, kindly contact: Dr.C.Sengottuvelu, Head-
       ABBS Centre for Research and Innovation, Email Id:
       [dr.sengottuvelu@acharyabbs.ac.in](mailto:dr.sengottuvelu@acharyabbs.ac.i\
-      n), M: +91 7358533819."
+      n)"
   - type: anchor_section
     links:
       - anchor_label: Introduction
