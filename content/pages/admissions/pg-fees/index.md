@@ -8,7 +8,7 @@ thumbnail: static/img/08-05-fees-and-scholarships-01-banner.jpg
 sections:
   - type: embed_section
     section_id: fees
-    section_title: Program based Fees
+    section_title: Program Fees
     embed_source: <table class="c9"><tbody><tr class="c30"><td class="c3"
       colspan="1" rowspan="1"><p class="c14"><span class="c17">S. No
       </span></p></td><td class="c4" colspan="1" rowspan="1"><p
@@ -40,10 +40,10 @@ sections:
       2. Europe: Rs. 2,00,000/-
 
 
-      ****Students can opt for Immersion programs with any of the programs. The fee is payable with Semester 2 Fee.***
+      ****Students can opt for Immersion programs with any of the programs. The fee for Immersion is payable 2 weeks prior to its commencement.***
   - type: embed_section
     section_id: fee-structure
-    section_title: Fee Structure
+    section_title: Installment wise Fee Structure
     embed_source: >-
       <table class="c39"><tbody><tr class="c25"><td class="c6" colspan="1"
       rowspan="1"><p class="c19"><span class="c28">Program </span></p></td><td
