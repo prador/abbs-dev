@@ -244,4 +244,11 @@ sections:
         anchor_loc: specializations
       - anchor_label: Research Supervisors
         anchor_loc: research-supervisors
+  - type: accordion_section
+    section_id: Recent Notifications
+    section_title: Recent Notifications
+    accordions:
+      - accordion_title: Admission Notice
+        accordion_content: ""
+        accordion_asset: static/img/notification-on-admission-to-phd-programme-of-bangalore-university.pdf
 ---
