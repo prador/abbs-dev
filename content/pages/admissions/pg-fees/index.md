@@ -43,7 +43,7 @@ sections:
       ****Students can opt for Immersion programs with any of the programs. The fee for Immersion is payable 2 weeks prior to its commencement.***
   - type: embed_section
     section_id: fee-structure
-    section_title: Installment wise Fee Structure
+    section_title: Installment-wise Fee Structure
     embed_source: >-
       <table class="c39"><tbody><tr class="c25"><td class="c6" colspan="1"
       rowspan="1"><p class="c19"><span class="c28">Program </span></p></td><td
