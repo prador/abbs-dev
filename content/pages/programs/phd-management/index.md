@@ -249,6 +249,6 @@ sections:
     section_title: Recent Notifications
     accordions:
       - accordion_title: Admission Notice
-        accordion_content: ""
+        accordion_content: L﻿ink to Notification PDF
         accordion_asset: static/img/notification-on-admission-to-phd-programme-of-bangalore-university.pdf
 ---
