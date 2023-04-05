@@ -127,10 +127,10 @@ sections:
       6. To coordinate with Bangalore University regarding ‘Research Centre’ activities leading to Ph.D.
   - type: accordion_section
     section_id: Recent Notifications
-    section_title: ""
+    section_title: Recent Notification
     accordions:
-      - accordion_title: ""
-        accordion_content: ""
+      - accordion_title: Admission Notice 2023
+        accordion_content: L﻿ink to Notification PDF
         accordion_asset: static/img/notification-on-admission-to-phd-programme-of-bangalore-university.pdf
   - type: text_section
     section_id: research-consultancy
