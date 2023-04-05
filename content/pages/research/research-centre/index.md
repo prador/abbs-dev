@@ -19,6 +19,72 @@ sections:
 
 
       **Profile of Head (Research & Innovation)**
+  - type: embed_section
+    section_id: ""
+    section_title: ""
+    embed_source: <table class="c25"><tbody><tr class="c0"><td class="c2"
+      colspan="1" rowspan="1"><p class="c12"><span class="c10">Volume &amp;
+      Issue</span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c12"><span class="c10">Period</span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c12"><span
+      class="c10">Theme</span></p></td></tr><tr class="c0"><td class="c2"
+      colspan="1" rowspan="1"><p class="c1"><span class="c4">Vol 8, Issue
+      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Apr 2017 – Sep 2017</span></p></td><td
+      class="c13" colspan="1" rowspan="1"><p class="c1"><span
+      class="c4">Ecosystem for Growth of Business</span></p></td></tr><tr
+      class="c0"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
+      class="c4">Vol. 9, Issue 1</span></p></td><td class="c17" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Oct 2017 – Mar
+      2018</span></p></td><td class="c13" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Entrepreneurship and
+      Start-ups</span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Vol. 9, Issue
+      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Apr 2018 – Sep 2018</span></p></td><td
+      class="c13" colspan="1" rowspan="1"><p class="c1"><span
+      class="c4">Logistics and Supply Chain Management</span></p></td></tr><tr
+      class="c0"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
+      class="c4">Vol. 10, Issue 1</span></p></td><td class="c17" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Oct 2018 – Mar
+      2019</span></p></td><td class="c13" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Role of MSMEs in India’s Development
+      </span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Vol. 10, Issue
+      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Apr 2019 – Sep 2019</span></p></td><td
+      class="c13" colspan="1" rowspan="1"><p class="c1"><span
+      class="c4">Marketing in 21th Century</span></p></td></tr><tr
+      class="c0"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
+      class="c4">Vol. 11 , Issue 1</span></p></td><td class="c17" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Oct 2019 – Mar
+      2020</span></p></td><td class="c13" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Opportunities and Challenges Faced By
+      &nbsp;Aggregators in the Global Business Environment
+      </span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Vol. 11. Issue
+      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Apr 2020 – Sep 2020 </span></p></td><td
+      class="c13" colspan="1" rowspan="1"><p class="c1"><span
+      class="c4">Emerging Business Trends- Post Covid
+      -19</span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Vol. 12 , Issue 1
+      </span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Oct 2020 – Mar 2020 </span></p></td><td
+      class="c13" colspan="1" rowspan="1"><p class="c1"><span class="c4">Digital
+      Supply Chain</span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
+      rowspan="1"><p class="c1"><span class="c4">Vol. 12 , Issue
+      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Apr 2020 – Sep 2021</span></p></td><td
+      class="c13" colspan="1" rowspan="1"><p class="c1"><span class="c4">India
+      Africa Business Opportunities</span></p></td></tr><tr class="c0"><td
+      class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c4">Vol. 13,
+      Issue</span></p></td><td class="c17" colspan="1" rowspan="1"><p
+      class="c1"><span class="c4">Oct 2021 – Mar 2022</span></p></td><td
+      class="c13" colspan="1" rowspan="1"><p class="c1"><span class="c4">An
+      Insight into Fintech Revolution – New
+      Opportunities</span></p></td></tr></tbody></table>
+    embed_size: ""
   - type: image_section
     section_id: ""
     section_title: Profile of Head (Research & Innovation)
@@ -59,6 +125,13 @@ sections:
       5. To foster the research culture in the campus. 
 
       6. To coordinate with Bangalore University regarding ‘Research Centre’ activities leading to Ph.D.
+  - type: accordion_section
+    section_id: Recent Notifications
+    section_title: ""
+    accordions:
+      - accordion_title: ""
+        accordion_content: ""
+        accordion_asset: static/img/notification-on-admission-to-phd-programme-of-bangalore-university.pdf
   - type: text_section
     section_id: research-consultancy
     section_title: Research and Consultancy activities carried out during last 5 years
@@ -207,72 +280,6 @@ sections:
 
 
       ABBS publishes a bi-annual in house journal, AMBER (Acharya Management Business and Entrepreneurship Review – ISSN: 0976-3341) since 2009 regularly. AMBER is a theme based journal indexed in i-Scholar and J-Gate. Papers published on different themes during last 5 years i.e 10 issues are:
-  - type: embed_section
-    section_id: ""
-    section_title: ""
-    embed_source: <table class="c25"><tbody><tr class="c0"><td class="c2"
-      colspan="1" rowspan="1"><p class="c12"><span class="c10">Volume &amp;
-      Issue</span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c12"><span class="c10">Period</span></p></td><td class="c13"
-      colspan="1" rowspan="1"><p class="c12"><span
-      class="c10">Theme</span></p></td></tr><tr class="c0"><td class="c2"
-      colspan="1" rowspan="1"><p class="c1"><span class="c4">Vol 8, Issue
-      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Apr 2017 – Sep 2017</span></p></td><td
-      class="c13" colspan="1" rowspan="1"><p class="c1"><span
-      class="c4">Ecosystem for Growth of Business</span></p></td></tr><tr
-      class="c0"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
-      class="c4">Vol. 9, Issue 1</span></p></td><td class="c17" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Oct 2017 – Mar
-      2018</span></p></td><td class="c13" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Entrepreneurship and
-      Start-ups</span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Vol. 9, Issue
-      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Apr 2018 – Sep 2018</span></p></td><td
-      class="c13" colspan="1" rowspan="1"><p class="c1"><span
-      class="c4">Logistics and Supply Chain Management</span></p></td></tr><tr
-      class="c0"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
-      class="c4">Vol. 10, Issue 1</span></p></td><td class="c17" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Oct 2018 – Mar
-      2019</span></p></td><td class="c13" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Role of MSMEs in India’s Development
-      </span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Vol. 10, Issue
-      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Apr 2019 – Sep 2019</span></p></td><td
-      class="c13" colspan="1" rowspan="1"><p class="c1"><span
-      class="c4">Marketing in 21th Century</span></p></td></tr><tr
-      class="c0"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
-      class="c4">Vol. 11 , Issue 1</span></p></td><td class="c17" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Oct 2019 – Mar
-      2020</span></p></td><td class="c13" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Opportunities and Challenges Faced By
-      &nbsp;Aggregators in the Global Business Environment
-      </span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Vol. 11. Issue
-      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Apr 2020 – Sep 2020 </span></p></td><td
-      class="c13" colspan="1" rowspan="1"><p class="c1"><span
-      class="c4">Emerging Business Trends- Post Covid
-      -19</span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Vol. 12 , Issue 1
-      </span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Oct 2020 – Mar 2020 </span></p></td><td
-      class="c13" colspan="1" rowspan="1"><p class="c1"><span class="c4">Digital
-      Supply Chain</span></p></td></tr><tr class="c0"><td class="c2" colspan="1"
-      rowspan="1"><p class="c1"><span class="c4">Vol. 12 , Issue
-      2</span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Apr 2020 – Sep 2021</span></p></td><td
-      class="c13" colspan="1" rowspan="1"><p class="c1"><span class="c4">India
-      Africa Business Opportunities</span></p></td></tr><tr class="c0"><td
-      class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c4">Vol. 13,
-      Issue</span></p></td><td class="c17" colspan="1" rowspan="1"><p
-      class="c1"><span class="c4">Oct 2021 – Mar 2022</span></p></td><td
-      class="c13" colspan="1" rowspan="1"><p class="c1"><span class="c4">An
-      Insight into Fintech Revolution – New
-      Opportunities</span></p></td></tr></tbody></table>
-    embed_size: ""
   - type: text_section
     section_id: recognized-research-centre
     section_title: Recognized Research Centre
