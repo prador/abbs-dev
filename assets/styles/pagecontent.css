@@ -476,7 +476,9 @@ table:not(.organizing-committee) tr:nth-of-type(1) td{
   border: 1px solid #999;
   background-color: var(--color-black);
 }
-
+table td p span.c15 {
+  font-size: 14px;
+}
 .conference-layout #int-case-intro img {
   max-width:150px;
 }
