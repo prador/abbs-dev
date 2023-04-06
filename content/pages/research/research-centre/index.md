@@ -132,6 +132,9 @@ sections:
       - accordion_title: Admission Notice 2023
         accordion_content: L﻿ink to Notification PDF
         accordion_asset: static/img/notification-on-admission-to-phd-programme-of-bangalore-university.pdf
+      - accordion_title: Research Policy and Guidelines
+        accordion_content: ""
+        accordion_asset: static/img/abbs_cri-research-policy.pdf
   - type: text_section
     section_id: research-consultancy
     section_title: Research and Consultancy activities carried out during last 5 years
