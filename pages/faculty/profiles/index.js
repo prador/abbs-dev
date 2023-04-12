@@ -23,7 +23,7 @@ const FacultyProfiles = ({ facultyList }) => (
   <Layout>
   <PageHeader attributes={attributes} />
   <PageBanner att={attributes}/>
-  <PageContent att={attributes} html={html} list={facultyList.sort((a,b)=>(a.attributes.order>b.attributes.order ? 1 : -1))}/>
+  <PageContent att={attributes} html={html} list={facultyList.sort((a,b)=>(a.attributes.order>b.attributes.order ? 1 : -1))} class="faculty-profiles"/>
 </Layout>
 )
 export async function getStaticProps() {
