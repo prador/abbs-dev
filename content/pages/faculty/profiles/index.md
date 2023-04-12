@@ -1043,8 +1043,7 @@ sections:
       Sanskrit</span></p></td><td class="c8" colspan="1" rowspan="1"><p
       class="c0"><span class="c1">2</span></p></td><td class="c5" colspan="1"
       rowspan="1"><p class="c0 c7"><span
-      class="c1"></span></p></td></tr></tbody></table> <p>(Sl. No. 77 to 81 -
-      Adjunct)</p>
+      class="c1"></span></p></td></tr></tbody></table>
   - type: collection_section
     section_id: faculty-directory
     section_title: Faculty Directory
