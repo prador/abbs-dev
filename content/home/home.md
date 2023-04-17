@@ -78,12 +78,6 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/abbs-best-rated-desk-min.jpg
-        slide_image_mobile: static/img/abbs-best-rated-mob-min.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
         slide_image: static/img/19-banner-desktop-resized.gif
         slide_image_mobile: static/img/19-banner-resized.gif
   - type: announcement_section
