@@ -1386,6 +1386,18 @@ module.exports = {
         destination: '/lp/ug/thankyou.html',
         permanent: false,
         basePath: false,
+      },
+      {
+        source: '/lp/allprograms',
+        destination: '/lp/allprograms/index.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/allprograms/thankyou',
+        destination: '/lp/allprograms/thankyou.html',
+        permanent: false,
+        basePath: false,
       }
     ]
   },
@@ -1408,6 +1420,10 @@ module.exports = {
         destination: '/lp/ug/index.html'
       },
       {
+        source: '/lp/allprograms',
+        destination: '/lp/allprograms/index.html'
+      },
+      {
         source: '/lp/mba-analytics/thank-you',
         destination: '/lp/mba-analytics/thank-you.html'
       },
@@ -1422,6 +1438,10 @@ module.exports = {
       {
         source: '/lp/ug/thankyou',
         destination: '/lp/ug/thankyou.html'
+      },
+      {
+        source: '/lp/allprograms/thankyou',
+        destination: '/lp/allprograms/thankyou.html'
       }
     ]
   }
