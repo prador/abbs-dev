@@ -9,147 +9,107 @@ sections:
   - type: embed_section
     section_id: scholarship-slabs
     section_title: Scholarship Slabs based on diverse factors
-    embed_source: <table class="c28"><tbody><tr class="c24"><td class="c0"
-      colspan="1" rowspan="1"><p class="c11"><span class="c15">Category
-      </span></p></td><td class="c7" colspan="1" rowspan="1"><p
-      class="c11"><span class="c15">Criteria </span></p></td><td class="c0"
-      colspan="1" rowspan="1"><p class="c11"><span class="c15">Level
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c11"><span class="c15">Scholarship </span></p><p class="c18"><span
-      class="c15">(INR)</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="4"><p class="c21"><span class="c1">Academic Merit
-      </span></p></td><td class="c7" colspan="1" rowspan="4"><p class="c8"><span
-      class="c1">Marks in XIIth grade </span></p></td><td class="c0" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">60-74 % </span></p></td><td
-      class="c3" colspan="1" rowspan="1"><p class="c16"><span
-      class="c1">20,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="1"><p class="c13"><span class="c1">75-84%
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c10"><span class="c1">40,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">85-95 %
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c13"><span class="c1">60,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">96% and
-      above </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c4"><span class="c1">80,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="5"><p class="c13"><span class="c1">SOP
-      </span></p></td><td class="c7" colspan="1" rowspan="5"><p class="c8"><span
-      class="c1">Points (out of 10)</span></p></td><td class="c0" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">6 </span></p></td><td
-      class="c3" colspan="1" rowspan="1"><p class="c16"><span
-      class="c1">20,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="1"><p class="c13"><span class="c1">7
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c10"><span class="c1">40,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">8
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c13"><span class="c1">60,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">9
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span
-      class="c1">80,000</span></p></td></tr><tr class="c17"><td class="c0"
-      colspan="1" rowspan="1"><p class="c8"><span class="c1">10
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c8"><span
-      class="c1">1,00,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="5"><p class="c26"><span class="c1">Interview Score
-      </span></p></td><td class="c7" colspan="1" rowspan="5"><p class="c8"><span
-      class="c1">Points (out of 10)</span></p></td><td class="c0" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">6 </span></p></td><td
-      class="c3" colspan="1" rowspan="1"><p class="c16"><span
-      class="c1">20,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="1"><p class="c13"><span class="c1">7
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c10"><span class="c1">40,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">8
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c13"><span class="c1">60,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">9
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span
-      class="c1">80,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="1"><p class="c8"><span class="c1">10
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c8"><span
-      class="c1">1,00,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="5"><p class="c21"><span class="c1">ABSAT Score
-      </span></p></td><td class="c7" colspan="1" rowspan="5"><p class="c8"><span
-      class="c1">Percent Score</span></p></td><td class="c0" colspan="1"
-      rowspan="1"><p class="c10"><span class="c1">40 % -50% </span></p></td><td
-      class="c3" colspan="1" rowspan="1"><p class="c16"><span
-      class="c1">20,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="1"><p class="c13"><span class="c1">51% - 60%
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c10"><span class="c1">40,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c13"><span class="c1">61% -
-      70% </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c13"><span class="c1">60,000</span></p></td></tr><tr
-      class="c17"><td class="c0" colspan="1" rowspan="1"><p class="c13"><span
-      class="c1">71% - 80% </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c4"><span class="c1">80,000</span></p></td></tr><tr
-      class="c9"><td class="c0" colspan="1" rowspan="1"><p class="c4"><span
-      class="c1">81% and above </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c8"><span
-      class="c1">1,00,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="5"><p class="c16"><span class="c1">Principal's
-      Recommendation </span></p></td><td class="c7" colspan="1" rowspan="5"><p
-      class="c8"><span class="c1">Points (out of 10)</span></p></td><td
-      class="c0" colspan="1" rowspan="1"><p class="c13"><span class="c1">6
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c16"><span class="c1">20,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c13"><span class="c1">7
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c10"><span class="c1">40,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">8
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c13"><span class="c1">60,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c4"><span class="c1">9
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c4"><span
-      class="c1">80,000</span></p></td></tr><tr class="c9"><td class="c0"
-      colspan="1" rowspan="1"><p class="c8"><span class="c1">10
-      </span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c8"><span
-      class="c1">1,00,000</span></p></td></tr><tr class="c34"><td class="c0"
-      colspan="1" rowspan="1"><p class="c4"><span class="c1">Ward of Defence
-      &nbsp;</span></p><p class="c25"><span
-      class="c1">Personnel</span></p></td><td class="c7" colspan="1"
-      rowspan="1"><p class="c10"><span class="c1">Valid Document
-      </span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
-      class="c1">Uniform </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">30,000</span></p></td></tr><tr
-      class="c22"><td class="c0" colspan="1" rowspan="2"><p class="c13"><span
-      class="c1">Sports </span></p></td><td class="c7" colspan="1"
-      rowspan="2"><p class="c10"><span class="c1">Valid Certificate
-      </span></p></td><td class="c0" colspan="1" rowspan="1"><p
-      class="c19"><span class="c1">Represented District /
-      &nbsp;Zone</span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c13"><span class="c1">30,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c8"><span
-      class="c1">Represented State </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">50,000</span></p></td></tr><tr
-      class="c9"><td class="c0" colspan="1" rowspan="2"><p class="c26"><span
-      class="c1">EWS </span></p></td><td class="c7" colspan="1" rowspan="2"><p
-      class="c8"><span class="c1">EWS Document </span></p></td><td class="c0"
-      colspan="1" rowspan="1"><p class="c8"><span class="c1">Family Income &lt;
-      5 LPA </span></p></td><td class="c3" colspan="1" rowspan="1"><p
-      class="c13"><span class="c1">50,000</span></p></td></tr><tr class="c9"><td
-      class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c1">Family
-      Income &lt; 8 LPA </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">30,000</span></p></td></tr><tr
-      class="c9"><td class="c0" colspan="1" rowspan="1"><p class="c13"><span
-      class="c1">SC/ST Category </span></p></td><td class="c7" colspan="1"
-      rowspan="1"><p class="c10"><span class="c1">Valid Document / Certificate
-      </span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
-      class="c1">Uniform </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">30,000</span></p></td></tr><tr
-      class="c17"><td class="c0" colspan="1" rowspan="1"><p class="c13"><span
-      class="c1">Single Girl Child </span></p></td><td class="c7" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">Original Affidavit
-      </span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
-      class="c1">Uniform </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c13"><span class="c1">30,000</span></p></td></tr><tr
-      class="c32"><td class="c0" colspan="1" rowspan="1"><p class="c26"><span
-      class="c1">Differentially Abled </span></p></td><td class="c7" colspan="1"
-      rowspan="1"><p class="c10"><span class="c1">Valid Document / Certificate
-      </span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
-      class="c1">Uniform </span></p></td><td class="c3" colspan="1"
-      rowspan="1"><p class="c13"><span
-      class="c1">30,000</span></p></td></tr></tbody></table>
+    embed_source: <table class="c12"><tbody><tr class="c15"><td class="c2"
+      colspan="1" rowspan="1"><p class="c3"><span
+      class="c8">Category</span></p></td><td class="c6" colspan="1"
+      rowspan="1"><p class="c3"><span class="c8">Criteria</span></p></td><td
+      class="c10" colspan="1" rowspan="1"><p class="c3"><span
+      class="c8">Level</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c3"><span class="c8">Scholarship (INR)</span></p></td></tr><tr
+      class="c11"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">Academic Merit</span></p></td><td class="c6" colspan="1"
+      rowspan="1"><p class="c1"><span class="c5">Marks in XIIth grade /
+      PU</span></p></td><td class="c10" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">Above 96%</span></p></td><td class="c0"
+      colspan="1" rowspan="1"><p class="c1"><span class="c5">10,000 –
+      30,000</span></p></td></tr><tr class="c11"><td class="c2" colspan="1"
+      rowspan="5"><p class="c1"><span class="c5">SOP</span></p></td><td
+      class="c6" colspan="1" rowspan="5"><p class="c1"><span class="c5">Points
+      (out of 10)</span></p></td><td class="c10" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">6</span></p></td><td class="c0" colspan="1"
+      rowspan="1"><p class="c1"><span class="c5">10,000</span></p></td></tr><tr
+      class="c11"><td class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">7</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">20,000</span></p></td></tr><tr class="c11"><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">8</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">30,000</span></p></td></tr><tr class="c11"><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">9</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">40,000</span></p></td></tr><tr class="c11"><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">10</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">50,000</span></p></td></tr><tr class="c11"><td
+      class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c5">ABSAT
+      Score</span></p></td><td class="c6" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">Percent Score</span></p></td><td class="c10"
+      colspan="1" rowspan="1"><p class="c1"><span class="c5">70% and
+      above</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">10,000 – 30,000</span></p></td></tr><tr
+      class="c11"><td class="c2" colspan="1" rowspan="5"><p class="c1"><span
+      class="c5">Principal’s Recommendation</span></p></td><td class="c6"
+      colspan="1" rowspan="5"><p class="c1"><span class="c5">Points (out of
+      10)</span></p></td><td class="c10" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">6</span></p></td><td class="c0" colspan="1"
+      rowspan="1"><p class="c1"><span class="c5">20,000</span></p></td></tr><tr
+      class="c11"><td class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">7</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">40,000</span></p></td></tr><tr class="c11"><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">8</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">60,000</span></p></td></tr><tr class="c11"><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">9</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">80,000</span></p></td></tr><tr class="c11"><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">10</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">1,00,000</span></p></td></tr><tr
+      class="c13"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">Ward of Defence Personnel</span></p></td><td class="c6"
+      colspan="1" rowspan="1"><p class="c1"><span class="c5">Valid
+      Document</span></p></td><td class="c10" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">Uniform</span></p></td><td class="c0"
+      colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">30,000</span></p></td></tr><tr class="c13"><td class="c2"
+      colspan="1" rowspan="2"><p class="c1"><span
+      class="c5">Sports</span></p></td><td class="c6" colspan="1" rowspan="2"><p
+      class="c1"><span class="c5">Valid Certificate</span></p></td><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">Represented District / Zone</span></p></td><td class="c0"
+      colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">30,000</span></p></td></tr><tr class="c11"><td class="c10"
+      colspan="1" rowspan="1"><p class="c1"><span class="c5">Represented
+      State</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">50,000</span></p></td></tr><tr class="c13"><td
+      class="c2" colspan="1" rowspan="2"><p class="c1"><span
+      class="c5">EWS</span></p></td><td class="c6" colspan="1" rowspan="2"><p
+      class="c1"><span class="c5">EWS Document</span></p></td><td class="c10"
+      colspan="1" rowspan="1"><p class="c1"><span class="c5">Family Income &lt;
+      5 LPA</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">50,000</span></p></td></tr><tr class="c13"><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span class="c5">Family
+      Income &lt; 8 LPA</span></p></td><td class="c0" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">30,000</span></p></td></tr><tr class="c11"><td
+      class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c5">SC/ST
+      Category</span></p></td><td class="c6" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">Valid Document /
+      Certificate</span></p></td><td class="c10" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">Uniform</span></p></td><td class="c0"
+      colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">30,000</span></p></td></tr><tr class="c11"><td class="c2"
+      colspan="1" rowspan="1"><p class="c1"><span class="c5">Single Girl
+      Child</span></p></td><td class="c6" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">Original Affidavit</span></p></td><td
+      class="c10" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">Uniform</span></p></td><td class="c0" colspan="1"
+      rowspan="1"><p class="c1"><span class="c5">30,000</span></p></td></tr><tr
+      class="c11"><td class="c2" colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">Differentially Abled</span></p></td><td class="c6" colspan="1"
+      rowspan="1"><p class="c1"><span class="c5">Valid Document /
+      Certificate</span></p></td><td class="c10" colspan="1" rowspan="1"><p
+      class="c1"><span class="c5">Uniform</span></p></td><td class="c0"
+      colspan="1" rowspan="1"><p class="c1"><span
+      class="c5">30,000</span></p></td></tr></tbody></table>
     embed_size: ""
   - type: text_section
     section_id: scholarship-policy
