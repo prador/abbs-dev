@@ -20,7 +20,7 @@ sections:
       class="c5">Academic Merit</span></p></td><td class="c6" colspan="1"
       rowspan="1"><p class="c1"><span class="c5">Marks in XIIth grade /
       PU</span></p></td><td class="c10" colspan="1" rowspan="1"><p
-      class="c1"><span class="c5">Above 96%</span></p></td><td class="c0"
+      class="c1"><span class="c5">90% and above</span></p></td><td class="c0"
       colspan="1" rowspan="1"><p class="c1"><span class="c5">10,000 –
       30,000</span></p></td></tr><tr class="c11"><td class="c2" colspan="1"
       rowspan="5"><p class="c1"><span class="c5">SOP</span></p></td><td
