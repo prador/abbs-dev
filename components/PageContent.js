@@ -32,7 +32,7 @@ const PageContent = ({att,html,list,testimonials,docs,cls,newsList,eventsList}) 
       case "slider":
         return <HomeSlideshow att={section.slides} className="animate__animated animate__fadeInUp"/> 
       case "rec_acc_section":
-        console.log(section)
+        // // console.log(section)
         return <HomeRecAccred att={section}/>
       case "faq_section":
         return <HomeFaqSection att={section} />

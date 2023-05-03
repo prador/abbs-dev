@@ -6,7 +6,7 @@ import PageContent from '../../../../components/PageContent'
 import { attributes, html } from '../../../../content/pages/programs/life-sciences/life-sciences-programs/index.md'
 
 const LifeSciencesPrograms = (props) => {
-  // console.log(props)
+  // // console.log(props)
   return(
   <Layout>
   <PageHeader attributes={attributes} />

@@ -4,7 +4,7 @@ import ProgramAccordion from '../components/home/ProgramAccordion'
 import { attributes, html } from '../content/home/home.md'
 
 export default function Custom404() {
-  console.log(attributes.program_accordion)
+  // console.log(attributes.program_accordion)
     return (
     <Layout>
         <div className="content home-faq-wrapper">

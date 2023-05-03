@@ -10,7 +10,7 @@ const TestimonialsSection = ({ att, testimonials, show, program, limit }) => {
     }
     return imgPos
   }
-  console.log(att)
+  // // console.log(att)
   return (
   <>
     {testimonials.length > 0 && att.show_toggle === true ? 

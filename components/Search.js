@@ -3,8 +3,8 @@ import Link from 'next/link'
 import styles from '../assets/styles/search.module.css'
 
 const ResultBlock = ({ results,type }) => {
-  console.log(type)
-  console.log(results.filter((obj) => console.log(obj.type)))
+  // console.log(type)
+  // console.log(results.filter((obj) => // console.log(obj.type)))
   return <>
   {results.filter((obj) => obj.type === type).length ? <div className={styles.search_block}>
        <h4 className={styles.search_block_title}>{type}</h4>

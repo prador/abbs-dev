@@ -1,11 +1,11 @@
 jQuery(document).ready(function(){
     jQuery("#formID").validationEngine();
-    $("#formID").bind("jqv.field.result", function(event, field, errorFound, prompText){ console.log(errorFound) })
+    $("#formID").bind("jqv.field.result", function(event, field, errorFound, prompText){ // console.log(errorFound) })
 });
 
 jQuery(document).ready(function(){
     jQuery("#formID1").validationEngine();
-    $("#formID1").bind("jqv.field.result", function(event, field, errorFound, prompText){ console.log(errorFound) })
+    $("#formID1").bind("jqv.field.result", function(event, field, errorFound, prompText){ // console.log(errorFound) })
 });
 
 function get_query()

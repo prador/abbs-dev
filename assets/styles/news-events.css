@@ -51,3 +51,36 @@
 #past_events,#upcoming_events {
   grid-column-end: span 2;
 }
+
+.content.news-events-wrapper {
+  padding: 0;
+}
+
+.content.news-events-wrapper .w-layout-grid.contain-block {
+  gap:0;
+}
+.content.news-events-wrapper .news-events-section {
+  gap: 0;
+  margin-bottom:0;
+}
+.content.news-events-wrapper .news-events-section .news-block {
+  padding: 20px 2rem 50px 5rem;
+}
+.content.news-events-wrapper .news-events-section .events-block {
+  background: #CBE9E6;
+  padding: 20px 5rem 50px 4rem;
+}
+.content.news-events-wrapper .news-events-section .events-block .events-post-date-info {
+  background-color: var(--color-blue);
+  color: #FFF;
+  min-width: 40px;
+}
+.content.news-events-wrapper .news-events-section .events-block .btn-ghost {
+  color: var(--color-black);
+}
+@media screen and (max-width: 1160px) {
+  .content.news-events-wrapper .news-events-section .news-block {
+    padding: 20px 3rem 50px 3rem;
+    background: #f2f2f2;
+  }
+}

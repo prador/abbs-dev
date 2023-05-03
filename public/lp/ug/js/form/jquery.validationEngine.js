@@ -1475,7 +1475,7 @@
 			if(data.status == 0 && transport == null)
 				alert("The page is not served from a server! ajax call failed");
 			else if(typeof console != "undefined")
-				console.log("Ajax error: " + data.status + " " + transport);
+				// console.log("Ajax error: " + data.status + " " + transport);
 		},
 		/**
 		* date -> string

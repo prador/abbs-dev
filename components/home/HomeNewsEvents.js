@@ -42,7 +42,7 @@ return (
         <h2 className='home-section-title'><span className="header-hyphen"></span>Events</h2>
         <div>
         {eventsList.sort(function(a,b){  return new Date(b.attributes.event_date) - new Date(a.attributes.event_date);
-      }).slice(0, 4).map((post,index) => (
+      }).slice(0, 5).map((post,index) => (
 <Link legacyBehavior href="/news-events/events/[slug]" as={`/news-events/events/${post.slug}`} key={post.slug}>
             <div className="events-post">
             <div className='events-post-date-info'>
@@ -54,7 +54,7 @@ return (
             <h6>{post.attributes.title}</h6>
             <div className='event-post-info'>
               <span className='event-tag'>{post.attributes.tags}</span>
-              {post.attributes? <a href={post.attributes.event_link ? post.attributes.event_link : `/news-events/events/${post.slug}`} className='event-tag btn btn-ghost'>Register</a> : null }
+              {post.attributes? <a href={post.attributes.event_link ? post.attributes.event_link : `/news-events/events/${post.slug}`} className='event-tag btn btn-ghost slide-btn'>Register</a> : null }
             </div>
             </div>
               </div>

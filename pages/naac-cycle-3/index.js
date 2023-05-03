@@ -31,7 +31,7 @@ const MandatoryDisclosures = (docList) => {
   const handleChange = (event) => {
     setSearchValue(event.target.value);
   };
-  // console.log(docList.docList.filter((obj) => obj.attributes.section == "SSR"))
+  // // console.log(docList.docList.filter((obj) => obj.attributes.section == "SSR"))
   const filterDocs = () => {
     return docList.docList.filter((obj) => obj.attributes.section == docSection && obj.attributes.title.toLowerCase().indexOf(searchValue.toLowerCase()) !== -1);
   };

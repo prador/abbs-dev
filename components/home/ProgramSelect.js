@@ -65,7 +65,7 @@ React.useEffect(() => {
 		setSelectedProg("#");
 	}
   }, [selected]);
-console.log(section.att.show_program_select)
+// console.log(section.att.show_program_select)
 return (
 	<>
 	{section.att.show_program_select ? 

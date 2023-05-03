@@ -12,9 +12,9 @@ const Feedback = () => {
   
   useEffect(() => {
     if(document.querySelector("#zf_div_r6LPLwaeViZz2coWAbcw-VL4zeh66gQ2XJHjnfprDYc > iframe")) {
-      console.log("exists")
+      // console.log("exists")
     } else {
-      console.log("doesn't exist")
+      // console.log("doesn't exist")
       router.reload();
     }
   }, []);
