@@ -80,6 +80,12 @@ sections:
         slide_button_link: ""
         slide_image: static/img/19-banner-desktop-resized.gif
         slide_image_mobile: static/img/19-banner-resized.gif
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/abbs-2-.png
+        slide_image_mobile: static/img/111_glimpse-placement-march-2023_040523_mobile.jpg
   - type: announcement_section
     announcements:
       - announcement_title: "Application cycle for all Undergraduate and Postgraduate
