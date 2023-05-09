@@ -66,12 +66,6 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/abbs-2-.png
-        slide_image_mobile: static/img/111_glimpse-placement-march-2023_040523_mobile.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
         slide_image: static/img/desktop.gif
         slide_image_mobile: static/img/mobile-resized.gif
       - slide_title: ""
