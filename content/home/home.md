@@ -72,20 +72,20 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/desktop.gif
-        slide_image_mobile: static/img/mobile-resized.gif
+        slide_image: static/img/bba-ghrdc-ranking_150523.jpg
+        slide_image_mobile: static/img/bba-ghrdc-ranking_150523_mobile.jpg
+      - slide_title: ""
+        slide_text: ""
+        slide_button_label: ""
+        slide_button_link: ""
+        slide_image: static/img/bca-ghrdc-ranking_150523.jpg
+        slide_image_mobile: static/img/bca-ghrdc-ranking_150523_mobile.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
         slide_image: static/img/rectangle-3.jpg
         slide_image_mobile: static/img/rectangle-6.jpg
-      - slide_title: ""
-        slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/19-banner-desktop-resized.gif
-        slide_image_mobile: static/img/19-banner-resized.gif
   - type: announcement_section
     announcements:
       - announcement_title: "Application cycle for all Undergraduate and Postgraduate
