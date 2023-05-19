@@ -82,10 +82,10 @@ sections:
         slide_image_mobile: static/img/bca-ghrdc-ranking_150523_mobile.jpg
       - slide_title: ""
         slide_text: ""
-        slide_button_label: ""
-        slide_button_link: ""
-        slide_image: static/img/rectangle-3.jpg
-        slide_image_mobile: static/img/rectangle-6.jpg
+        slide_button_label: Register Now
+        slide_button_link: https://forms.gle/pcwExBbCzwtR9eEZA
+        slide_image: static/img/104_abbs-sat-2023_170523_website-banner_v2.jpg
+        slide_image_mobile: static/img/104_abbs-sat-2023_170523_mobile-website-banner_v2.jpg
   - type: announcement_section
     announcements:
       - announcement_title: "Application cycle for all Undergraduate and Postgraduate
