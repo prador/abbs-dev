@@ -9,3 +9,5 @@ tags: Education
 Registration fee is Rs. 400/-.  Participants shall be provided video recordings and E certificate. 
 
 FDP timings: 2-4 pm on all 5 days.
+
+Register Here: [](https://forms.gle/yey8vjV2eZ6osXAu7)<https://forms.gle/yey8vjV2eZ6osXAu7>
