@@ -13,9 +13,10 @@ Speaker: Dr. D.M. Mahishi, Director-IQAC - ABBS Bangalore.\
 Date May 30, 2023\
 Time 6 pm.\
 Take aways: 1. Roadmap for what after XII\
+
 2. Awareness on Emerging Careers\
 3. Q&A
 
-Register Here : https://bit.ly/432KZBX
+Register Here : <https://bit.ly/432KZBX>
 
 <!--EndFragment-->
