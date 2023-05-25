@@ -44,6 +44,28 @@ sections:
 
 
           **Domain:** Finance/Marketing/Operations/General Management
+      - accordion_title: PART TIME FACULTY - TOURISM
+        accordion_content: >-
+          **Experience:** Min 2-3 years
+
+
+          **Campus:** ABBS 
+
+
+          **Key Skills:** Teaching 
+
+
+          **Job Description:** Key responsibilities include teaching Tourism subjects for UG students, conducts examination/valuation.\
+
+
+          Candidates should have **Master’s degree in Tourism with 2-3 years
+
+          teaching at UG Level.** NET/SLET an added advantage.
+
+          Must ready to join immediately.
+
+
+          **Domain:** Finance/Marketing/Operations/General Management
   - type: anchor_section
     links:
       - anchor_label: Form
