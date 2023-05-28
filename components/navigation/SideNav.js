@@ -37,7 +37,7 @@ function Navbar(props) {
         <div className="nav-title">
           <a href="/"><img src={"../../"+attributes.logo} width="auto" height="50px" alt="Abbs Logo" /></a>
         </div>
-        
+        <img style={{marginTop:"1rem"}} src={"/static/img/g20-logo.jpg"} width="100%" height="auto" alt="g20 Logo" />
       </div>
       <button className="nav-btn search-btn"><Image src={searchIcon} width="30px" className="nav-search"/></button>
       <div className="nav-apply-btn-wrapper"><a href="https://application.abbs.edu.in/abbs-goi" className="nav-apply btn btn-white">Apply Now</a></div>
