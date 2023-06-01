@@ -1,5 +1,5 @@
 ---
-title: "Webinar: Emerging Careers i Law"
+title: "Webinar: Emerging Careers in Law"
 date: 2023-06-01T05:55:19.457Z
 thumbnail: static/img/13_emerging-careers-in-law_220523_v3-min.png
 event_date: 2023-06-08T05:55:19.484Z
