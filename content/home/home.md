@@ -89,7 +89,7 @@ sections:
   - type: announcement_section
     announcements:
       - announcement_title: "Application cycle for all Undergraduate and Postgraduate
-          programs closes on May 31, 2023. Apply Now. "
+          programs closes on June 30, 2023. Apply Now. "
         announcement_link: ""
   - type: text_column_section
     section_id: ""
