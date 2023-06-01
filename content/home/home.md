@@ -66,8 +66,8 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: https://forms.gle/pcwExBbCzwtR9eEZA
-        slide_image: static/img/104_abbs-sat-2023_170523_website-banner_v2.jpg
-        slide_image_mobile: static/img/104_abbs-sat-2023_170523_mobile-website-banner_v2.jpg
+        slide_image: static/img/104_abbs-sat-2023_210423_website-banner_dk.jpg
+        slide_image_mobile: static/img/104_abbs-sat-2023_210423_website-banner-mobile.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
