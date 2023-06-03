@@ -38,16 +38,16 @@ sections:
     embed_size: ""
   - type: embed_section
     section_id: fee-structure
-    section_title: Installment-wise Fee Structure
+    section_title: Semester-wise Fee Structure
     embed_source: >-
       <table class="c39"><tbody><tr class="c25"><td class="c6" colspan="1"
       rowspan="1"><p class="c19"><span class="c28">Program </span></p></td><td
       class="c21" colspan="1" rowspan="1"><p class="c19"><span
-      class="c28">Instalment 1 </span></p></td><td class="c13" colspan="1"
-      rowspan="1"><p class="c35"><span class="c28">Instalment 2
+      class="c28">Semester 1 </span></p></td><td class="c13" colspan="1"
+      rowspan="1"><p class="c35"><span class="c28">Semester 2
       </span></p></td><td class="c18" colspan="1" rowspan="1"><p
-      class="c19"><span class="c28">Instalment 3 </span></p></td><td class="c13"
-      colspan="1" rowspan="1"><p class="c35"><span class="c28">Instalment 4
+      class="c19"><span class="c28">Semester 3 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c35"><span class="c28">Semester 4
       </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c8"><span
       class="c28">Total</span></p></td></tr><tr class="c22"><td class="c6"
       colspan="1" rowspan="1"><p class="c19"><span class="c0">MBA
@@ -67,7 +67,16 @@ sections:
       class="c11"><span class="c0">231000 </span></p></td><td class="c13"
       colspan="1" rowspan="1"><p class="c11"><span class="c0">212000
       </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
-      class="c0">990000</span></p></td></tr></tbody></table>
+      class="c0">990000</span></p></td></tr><tr class="c22"><td class="c6"
+      colspan="1" rowspan="1"><p class="c19"><span class="c0">M.Com
+      </span></p></td><td class="c21" colspan="1" rowspan="1"><p
+      class="c11"><span class="c0">89000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">
+      </span></p></td><td class="c18" colspan="1" rowspan="1"><p
+      class="c11"><span class="c0">61000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">
+      </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
+      class="c0">150000</span></p></td></tr></tbody></table>
 
 
 
