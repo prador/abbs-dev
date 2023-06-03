@@ -27,7 +27,7 @@ sections:
       class="c2"><span class="c1">215000</span></p></td></tr><tr class="c5"><td
       class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B. Com +
       CMA</span></p></td><td class="c6" colspan="1" rowspan="1"><p
-      class="c2"><span class="c1">390000</span></p></td></tr><tr class="c5"><td
+      class="c2"><span class="c1">320000</span></p></td></tr><tr class="c5"><td
       class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B. Com
       logistics &amp; Supply Chain </span></p></td><td class="c6" colspan="1"
       rowspan="1"><p class="c2"><span class="c1">300000</span></p></td></tr><tr
