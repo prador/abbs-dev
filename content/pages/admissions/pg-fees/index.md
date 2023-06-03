@@ -26,21 +26,10 @@ sections:
       class="c0">2 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
       class="c19"><span class="c0">MBA Business Analytics </span></p></td><td
       class="c27" colspan="1" rowspan="1"><p class="c41"><span
-      class="c0">Business Analytics with Virginia Tech Certification
-      /others</span></p></td><td class="c1" colspan="1" rowspan="1"><p
+      class="c0"></span></p></td><td class="c1" colspan="1" rowspan="1"><p
       class="c31"><span
       class="c0">9,90,000/-</span></p></td></tr></tbody></table>
     embed_size: ""
-  - type: text_section
-    section_id: international-immersion
-    section_title: Fee for International Immersion options.
-    section_text: >-
-      1. Dubai / Middle East: Rs. 1,00,000/-
-
-      2. Europe: Rs. 2,00,000/-
-
-
-      ****Students can opt for Immersion programs with any of the programs. The fee for Immersion is payable 2 weeks prior to its commencement.***
   - type: embed_section
     section_id: fee-structure
     section_title: Installment-wise Fee Structure
