@@ -29,7 +29,7 @@ sections:
       Regular</span></p></td><td class="c1" colspan="1" rowspan="1"><p
       class="c31"><span class="c0">9,90,000/-</span></p></td></tr><tr
       class="c30"><td class="c3" colspan="1" rowspan="1"><p class="c19"><span
-      class="c0">1 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
+      class="c0">3 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
       class="c19"><span class="c0">MCom </span></p></td><td class="c27"
       colspan="1" rowspan="1"><p class="c19"><span class="c0">Regular
       </span></p></td><td class="c1" colspan="1" rowspan="1"><p
