@@ -25,8 +25,8 @@ sections:
       class="c40"><td class="c3" colspan="1" rowspan="1"><p class="c32"><span
       class="c0">2 </span></p></td><td class="c4" colspan="1" rowspan="1"><p
       class="c19"><span class="c0">MBA Business Analytics </span></p></td><td
-      class="c27" colspan="1" rowspan="1"><p class="c41"><span
-      class="c0"></span></p></td><td class="c1" colspan="1" rowspan="1"><p
+      class="c27" colspan="1" rowspan="1"><p class="c41"><span class="c0">
+      Regular</span></p></td><td class="c1" colspan="1" rowspan="1"><p
       class="c31"><span
       class="c0">9,90,000/-</span></p></td></tr></tbody></table>
     embed_size: ""
