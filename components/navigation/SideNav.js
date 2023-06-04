@@ -37,12 +37,14 @@ function Navbar(props) {
         <div className="nav-title">
           <a href="/"><img src={"../../"+attributes.logo} width="auto" height="50px" alt="Abbs Logo" /></a>
         </div>
-        <img style={{marginTop:"1rem"}} src={"/static/img/g20-logo.jpg"} width="100%" height="auto" alt="g20 Logo" />
+        <img className="mob-hide" style={{marginTop:"1rem"}} src={"/static/img/g20-logo.jpg"} width="100%" height="auto" alt="g20 Logo" />
       </div>
       <button className="nav-btn search-btn"><Image src={searchIcon} width="30px" className="nav-search"/></button>
       <div className="nav-apply-btn-wrapper"><a href="https://application.abbs.edu.in/abbs-goi" className="nav-apply btn btn-white">Apply Now</a></div>
       <ul className="navbar-nav nav-links">
-        {props.children}</ul>
+        {props.children}
+       <li className='mob-g20-logo'> <img className="desk-hide" src={"/static/img/g20-logo.jpg"} width="auto" height="100px" alt="g20 Logo" /></li> 
+        </ul>
 
       <a className="nav-apply btn nav-whatsapp-btn" target="_blank" href={"https://api.whatsapp.com/send/?phone=919148977317&text&app_absent=0"} >
         <svg width="30" height="30" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
