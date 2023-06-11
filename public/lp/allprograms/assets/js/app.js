@@ -91,7 +91,6 @@ jQuery(function ($) {
     autoplay: true,
     loop: true,
     margin: 15,
-    nav:true,
     dots: false,
     slideTransition: 'linear',
     autoplayTimeout: 4500,
@@ -136,7 +135,7 @@ jQuery(function ($) {
         items: 2
       },
       1200: {
-        items: 2
+        items: 3
       }
     }
   }); // 9. magnify popup video
