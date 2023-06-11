@@ -1,7 +1,6 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700");
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 html,
 body,
 div,
@@ -210,7 +209,8 @@ section {
 
 body {
     margin: 0;
-    font-family: "Open Sans", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-size: 0.938rem;
     font-weight: 400;
     line-height: 1.75;
@@ -15699,7 +15699,8 @@ a.close.disabled {
     z-index: 1070;
     display: block;
     margin: 0;
-    font-family: "Open Sans", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
     line-height: 1.75;
@@ -15824,7 +15825,8 @@ a.close.disabled {
     z-index: 1060;
     display: block;
     max-width: 276px;
-    font-family: "Open Sans", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
     line-height: 1.75;
@@ -16946,7 +16948,8 @@ footer a {
 
 .btn {
     position: relative;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-size: 0.838rem;
     font-weight: 500;
     padding: .55em 1.735em;
@@ -18075,7 +18078,8 @@ footer a {
     left: 30px;
     font-size: 12px;
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     background-color: inherit;
     color: #8392a5;
@@ -18919,6 +18923,7 @@ footer a {
 .custom-breadcrumb ol li.breadcrumb-item.active {
     opacity: 0.7;
     font-size: 13px;
+    /* font-family: "Montserrat", sans-serif; */
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
 }
@@ -19330,7 +19335,8 @@ footer a {
 
 .counter-wrap li .single-counter span {
     font-weight: bold;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-size: 25px;
     line-height: 28px;
 }
@@ -19472,7 +19478,8 @@ footer a {
 
 .check-list-wrap li span {
     font-weight: 600;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
 }
 
 .check-list-wrap li:before {
@@ -19644,7 +19651,8 @@ footer a {
     color: #1b2e4b;
     background: #fff;
     font-weight: 700;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
 }
@@ -19995,7 +20003,8 @@ footer a {
     text-transform: uppercase;
     font-size: 11px;
     font-weight: 700;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
 }
 
 .pricing-switch-wrap span.year-switch {
@@ -20069,7 +20078,8 @@ footer a {
     font-size: 40px;
     line-height: 45px;
     font-weight: 700;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
 }
 
 .single-pricing-pack .pricing-header .price span {
@@ -20090,7 +20100,8 @@ footer a {
 
 .single-pricing-pack .pricing-content .pricing-feature-list li span {
     font-weight: 700;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     color: #434343;
 }
@@ -20290,7 +20301,8 @@ footer a {
     font-size: 16px;
     font-weight: 600;
     color: #696969;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
 }
 
 .single-blog-card .card-body a:hover {
@@ -20565,7 +20577,8 @@ button,
 
 .widget .widget-title>h6 {
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     letter-spacing: 1px;
     font-weight: 600;
     font-size: 12px;
@@ -20594,7 +20607,8 @@ button,
 .widget a {
     color: #788487;
     display: block;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     text-align: left;
     line-height: 22px;
@@ -20643,7 +20657,8 @@ button,
     font-size: 10px !important;
     color: #222;
     font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
 }
 
 .tag-cloud>a:hover,
@@ -20671,7 +20686,8 @@ button,
     line-height: 33px;
     border-radius: 100%;
     padding: inherit;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     color: #9629e6;
 }
@@ -20704,7 +20720,7 @@ button,
 .login-signup-form .form-group label {
     font-size: 14px;
     font-weight: 500;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
     margin-bottom: 0;
 }
 
@@ -25003,10 +25019,6 @@ a.text-dark:focus {
     margin: 0 5%;
 }
 
-.Merriweather_font {
-    font-family: 'Merriweather', serif;
-}
-
 .whatsapp_link img {
     width: 50px;
     -webkit-filter: drop-shadow(2px 2px 2px rgb(0 0 0 / 24%));
@@ -25093,7 +25105,30 @@ a.text-dark:focus {
     margin-bottom: 25px;
     box-shadow: 0px 3px 4px gainsboro;
 }
-
+.owl-nav .owl-next, .owl-nav .owl-prev {
+    position: absolute;
+    top: 30%;
+    border-radius: 50px !important;
+    width: 40px;
+    height: 40px;
+    background: rgb(99 23 136 / 60%) !important;
+    color: #ffffff !important;
+    font-size: 40px !important;
+    line-height: 0 !important;
+}
+.owl-nav .owl-prev {
+    left: -25px;
+}
+.owl-nav .owl-next {
+    right: -25px;
+}
+.owl-nav .owl-next span, .owl-nav .owl-prev span {
+    position: relative;
+    top: -5px;
+}
+button:focus{
+    outline:none;
+}
 @media (max-width: 767px) {
     .thriving-lives{
         min-height: 135px;

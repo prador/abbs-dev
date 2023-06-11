@@ -91,6 +91,7 @@ jQuery(function ($) {
     autoplay: true,
     loop: true,
     margin: 15,
+    nav:true,
     dots: false,
     slideTransition: 'linear',
     autoplayTimeout: 4500,
