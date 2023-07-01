@@ -65,7 +65,7 @@ sections:
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
-        slide_button_link: https://forms.gle/pcwExBbCzwtR9eEZA
+        slide_button_link: ""
         slide_image: static/img/133_girls-scholarship_260623_v3.jpg
         slide_image_mobile: static/img/133_girls-scholarship_260623_mobile-1-.jpg
       - slide_title: ""
