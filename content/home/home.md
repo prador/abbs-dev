@@ -66,8 +66,8 @@ sections:
         slide_text: ""
         slide_button_label: ""
         slide_button_link: ""
-        slide_image: static/img/111_glimpse-placement-march-2023_040523.jpeg
-        slide_image_mobile: static/img/111_glimpse-placement-march-2023_040523_mobile.jpeg
+        slide_image: static/img/111_glimpse-placement_110723.jpg
+        slide_image_mobile: static/img/111_glimpse-placement_110723_mobile.jpg
       - slide_title: ""
         slide_text: ""
         slide_button_label: ""
