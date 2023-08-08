@@ -82,7 +82,8 @@ sections:
         slide_image_mobile: static/img/bca-ghrdc-ranking_150523_mobile.jpg
   - type: announcement_section
     announcements:
-      - announcement_title: "Final Admission Deadline for AY 2023-24 is July 31, 2023. Apply Now. "
+      - announcement_title: "Final Admission Deadline for AY 2023-24 is August 31, 2023.
+          Apply Now. "
         announcement_link: https://application.abbs.edu.in/abbs-goi
   - type: text_column_section
     section_id: ""
