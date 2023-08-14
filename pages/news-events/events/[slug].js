@@ -24,7 +24,9 @@ const Post = ({ blogpost }) => {
           <div id="content-wrapper" className={attributes.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
       <article>
         <h1>{attributes.title}</h1>
-        <img src={"../../"+attributes.thumbnail} />
+        <a href={attributes.event_link ? attributes.event_link : ''} className=''>
+          <img src={"../../"+attributes.thumbnail} />
+        </a>
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </article>
       </div>
