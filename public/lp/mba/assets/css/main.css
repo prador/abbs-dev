@@ -22659,7 +22659,14 @@ button.bg-dark:focus {
         z-index: 1020;
     }
 }
-
+@media (min-width: 992px){
+    .sticky-side {
+        height: fit-content;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 20px;
+    }
+}
 .sr-only {
     border: 0;
     clip: rect(0, 0, 0, 0);
@@ -24841,18 +24848,18 @@ a.text-dark:focus {
 }
 
 .slider_main .slider_main_inner .sign-up-form-wrap {
-    border-radius: 10px;
+    border-radius: 4px;
     box-shadow: 0px -10px 0px 0px rgb(197 156 2);
-    background: #f9f9f9;
+    background: #fff;
     border: 1px solid rgb(0 169 180 / 7%);
 }
 
 .slider_main .slider_main_inner {
-    background: linear-gradient(90deg,rgb(99 22 135 / 70%) 0%,rgb(113 37 182 / 70%) 51%,rgb(129 54 238 / 70%) 90%);
+    background: linear-gradient(180deg, #1c4698, rgb(28 70 152 / 75%));
 }
 
 .slider_main {
-    background: url("../img/bg/banner-bg.jpg");
+    background: url(../img/bg/banner-bg.webp);
     background-size: cover;
 }
 .banner-courses{
@@ -24954,9 +24961,8 @@ a.text-dark:focus {
 
 .Advisory_Board_box {
     min-height: 270px;
-    border: 2px solid gainsboro;
     margin-bottom: 20px;
-    background: linear-gradient(15deg, #c59c02, transparent);
+    background: linear-gradient(15deg, #1c4698, rgb(28 70 152 / 76%));
 }
 
 .Advisory_Board_box img {
@@ -25004,7 +25010,7 @@ a.text-dark:focus {
 }
 .gain-box:before {
     content: '';
-    background: linear-gradient(15deg, #c59c02, transparent);
+    background: linear-gradient(15deg, #1c4698, transparent);
     position: absolute;
     width: 100%;
     transition: 0.3s;
@@ -25015,7 +25021,7 @@ a.text-dark:focus {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-color: #631788;
+    background-color: #1c4698;
     margin: 0 5%;
 }
 
@@ -25042,68 +25048,23 @@ a.text-dark:focus {
     -moz-animation: none;
     -o-animation: none;
 }
-.heading-01::after{
-    content: '';
-    background: linear-gradient(90deg,rgb(99 22 135) 0%,rgb(113 37 182) 51%,rgb(129 54 238) 90%);
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    opacity: 0.9;
-}
-.heading-01{
-    border: 2px solid gainsboro;
-    min-height: 280px;
-    display: grid;
-    align-items: center;
-    margin-top: -90px;
-
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    border-radius: 3px;
-    overflow: hidden;
-    margin-bottom: 25px;
-    box-shadow: 0px 3px 4px gainsboro;
-}
 .counter-main:after{    
     content: "";
-    background: #000;
+    background: #1c4698;
     position: absolute;
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
-    opacity: 0.7;
+    opacity: 0.9;
 
 }
 .counter-main{
-    background: url(../img/bg/banner-bg.jpg);
+    background: url(../img/bg/banner-bg.webp);
     position: relative;
     background-position: center;
     background-size: cover;
-}
-.heading-02::after{
-    content: '';
-    background: linear-gradient(90deg,rgb(99 22 135) 0%,rgb(113 37 182) 51%,rgb(129 54 238) 90%);
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    opacity: 0.9;
-}
-.heading-02{
-    border: 2px solid gainsboro;
-    min-height: 280px;
-    display: grid;
-    align-items: center;
-    margin-top: -90px;
-
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    border-radius: 3px;
-    overflow: hidden;
-    margin-bottom: 25px;
-    box-shadow: 0px 3px 4px gainsboro;
+    background-attachment: fixed;
 }
 .owl-nav .owl-next, .owl-nav .owl-prev {
     position: absolute;
@@ -25130,6 +25091,7 @@ button:focus{
     outline:none;
 }
 @media (max-width: 767px) {
+    
     .thriving-lives{
         min-height: 135px;
     }
@@ -25139,11 +25101,8 @@ button:focus{
     .gain-box{
         min-height: 130px;
     }
-    .heading-02, .heading-01{
-        min-height: 120px;
-    }
     .font-sm-h3 {
-        font-size: 1.6rem !important;
+        font-size: 2.6rem !important;
         font-weight: 600 !important;
         margin-top: 20px;
     }
