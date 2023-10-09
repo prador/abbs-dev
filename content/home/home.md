@@ -82,9 +82,9 @@ sections:
         slide_image_mobile: static/img/bca-ghrdc-ranking_150523_mobile.jpg
   - type: announcement_section
     announcements:
-      - announcement_title: "Final Admission Deadline for AY 2023-24 is August 31, 2023.
-          Apply Now. "
-        announcement_link: https://application.abbs.edu.in/abbs-goi
+      - announcement_title: "Join the flagship MBA program PGCET CODE: B106 | Admissions
+          2024 now open "
+        announcement_link: ""
   - type: text_column_section
     section_id: ""
     section_title: Reimagining higher education. Today.
