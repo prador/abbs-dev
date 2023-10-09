@@ -83,8 +83,8 @@ sections:
   - type: announcement_section
     announcements:
       - announcement_title: "Join the flagship MBA program PGCET CODE: B106 | Admissions
-          2024 now open "
-        announcement_link: "#"
+          2024 now open"
+        announcement_link: ""
   - type: text_column_section
     section_id: ""
     section_title: Reimagining higher education. Today.
