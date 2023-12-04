@@ -1,7 +1,7 @@
 ---
 name: Mr. Ajitesh Basani
 qualifications: MS, BE
-title: Executive Director
+title: Executive Director - Administration
 tags:
   - Leadership Team
 order: 3

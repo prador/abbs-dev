@@ -107,12 +107,12 @@ transition:color .25s ease, transform 2s ease;
 /*************************************/
 /* Hero Section Slide */
 .hero-section-slide{height: 470px;}
-.bc-img01{background:url(../images/banner.jpg);background-size:cover;background-position: 50% 90%;background-repeat:no-repeat;}
+.bc-img01{background:url(../images/banner.webp);background-size:cover;background-position: 50% 90%;background-repeat:no-repeat;}
 
 
 
 .bc-img011 {
-	background: url(../images/banner.jpg);
+	background: url(../images/banner.webp);
 	background-size: cover;
 	background-position: top center;
 	background-repeat: no-repeat;

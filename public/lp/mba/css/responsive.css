@@ -631,6 +631,7 @@ h3.text-white.pls {
 }
 @media only screen and (max-width:736px){
 .container{max-width:100%;}
+#applyBox {padding-right:0px;padding-left:0px; margin-top: 0;}
 .header .approvalbx{border:0px;padding:0px;margin:0px;}
 .header .top-head .logo.pr-0{padding-right:15px!important;}
 .header .top-head .logo-right.text-right.pl-0{padding-left:15px!important;}
@@ -677,6 +678,7 @@ font-size:22px;}
 
 }
 @media only screen and (max-width:576px){
+    #applyBox {padding-right:0px;padding-left:0px; margin-top: 0;margin: 0px 20px !important;}
 #ent-slider.owl-carousel .items p{font-size:15px;}
 
 
@@ -840,7 +842,7 @@ section.position-relative.Specializations.specSection.py-5 {
 }
 @media only screen and (max-width:414px){
 .header .approvalbx p small span{color:#ffffff;font-size:18px; display:block; line-height:1.1;font-weight:600; padding-top: 10px;}
-#applyBox {padding-right:0px;padding-left:0px; margin-top: 0;}
+#applyBox {padding-right:0px;padding-left:0px; margin-top: 0}
 .applyBox,.dsu-form{width:100%;     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;}
 .f-size22{font-size:18px;}
