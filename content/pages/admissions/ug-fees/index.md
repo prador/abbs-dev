@@ -1,5 +1,5 @@
 ---
-title: UG Fee Structure 2023 - 26
+title: UG Fee Structure 2024 - 27
 seo_title: Best Business School in Bangalore | ABBS | Admissions | Fees
 seo_description: null
 seo_keywords: null

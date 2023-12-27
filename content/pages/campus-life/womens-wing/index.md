@@ -1,21 +1,6 @@
 ---
-title: Women's wing
-date: 2021-12-04T06:22:57.409Z
-seo_title: Best Business School in Bangalore | Women's Wing | Campus Life 
-seo_description: 
 seo_keywords: Business School in Bangalore, ABBS, Women's Wing
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:22:57.409Z
 thumbnail: static/img/07-03-womens-wing-01-banner.jpg
 sections:
   - type: text_section
@@ -67,6 +52,16 @@ sections:
       Counselor is appointed by the College. The external member is nominated by
       the Women’s Cell. The student members are nominated by the respective
       course HOD.
+  - type: accordion_section
+    section_id: ""
+    section_title: ""
+    accordions:
+      - accordion_title: Women's Wing 2023
+        accordion_content: ""
+        accordion_asset: static/img/womens-wing-2023.pdf
+      - accordion_title: Women's wing 2022
+        accordion_content: ""
+        accordion_asset: static/img/womens-wing-2022.pdf
   - type: anchor_section
     links:
       - anchor_label: Preamble
@@ -75,4 +70,19 @@ sections:
         anchor_loc: objectives
       - anchor_label: Members of women’s cell
         anchor_loc: members
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+title: Women's wing
+seo_title: Best Business School in Bangalore | Women's Wing | Campus Life
+links:
+  - anchor_title: ""
+    anchor_id: ""
+seo_description: null
 ---

@@ -1,5 +1,5 @@
 ---
-title: PG Fee Structure 2023-25
+title: PG Fee Structure 2024-26
 seo_title: Best Business School in Bangalore | ABBS | Admissions | Fees
 seo_description: null
 seo_keywords: null
