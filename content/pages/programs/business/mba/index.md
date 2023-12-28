@@ -181,7 +181,7 @@ sections:
       - anchor_label: Related News
         anchor_loc: related-news
   - type: program_details
-    next_intake: June 2023
+    next_intake: June 2024
     duration: 24 months
     credentials: Masters in Business Administration
     contact_form: ""

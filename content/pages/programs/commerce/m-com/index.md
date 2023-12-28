@@ -191,7 +191,7 @@ sections:
       - anchor_label: Related News
         anchor_loc: related-news
   - type: program_details
-    next_intake: June 2023
+    next_intake: June 2024
     duration: 2 Years (4 semesters)
     credentials: Masters of Commerce
     apply_form: https://application.abbs.edu.in/bschool/
