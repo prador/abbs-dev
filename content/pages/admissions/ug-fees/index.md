@@ -21,7 +21,7 @@ sections:
       class="c2"><span class="c1">450000</span></p></td></tr><tr class="c7"><td
       class="c0" colspan="1" rowspan="1"><p class="c2"><span
       class="c1">BCA</span></p></td><td class="c6" colspan="1" rowspan="1"><p
-      class="c2"><span class="c1">320000</span></p></td></tr><tr class="c5"><td
+      class="c2"><span class="c1">330000</span></p></td></tr><tr class="c5"><td
       class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B.
       Com</span></p></td><td class="c6" colspan="1" rowspan="1"><p
       class="c2"><span class="c1">215000</span></p></td></tr><tr class="c5"><td
