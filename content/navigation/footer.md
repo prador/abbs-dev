@@ -1,5 +1,5 @@
 ---
-logo: static/img/00-abbs-logo-black.svg
+logo: static/img/abbs-new-black.png
 social_links:
   - links_label: Twitter
     links_loc: https://twitter.com/acharyabschool
@@ -97,6 +97,9 @@ columns:
         show: true
       - links_label: Feedback
         links_loc: /feedback
+        show: true
+      - links_label: Patents
+        links_loc: /patents
         show: true
 ---
 

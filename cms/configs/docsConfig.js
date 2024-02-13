@@ -35,7 +35,7 @@ const docsConfig = {
         required: true,
         widget: "select",
         multiple: false,
-        options: ["Academics","Affiliation Copy","AISHE","AICTE","AQAR","PO&CO","Calendar of Events","Compliance with RTI","Code of Conduct","Form 10B","IACBE","IQAC","NAAC","NBA","NIRF Data","Student Hand Book","Student feedback survey","UGC"],
+        options: ["Academics","Affiliation Copy","AISHE","AICTE","AQAR","PO&CO","Calendar of Events","Compliance with RTI","Code of Conduct","Form 10B","IACBE","IQAC","NAAC","NBA","NIRF Data","Student Hand Book","Student feedback survey","UGC","Patents"],
         hint: "",
         default: ""
       },{

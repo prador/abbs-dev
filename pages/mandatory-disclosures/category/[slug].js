@@ -28,8 +28,11 @@ const importDocs = async () => {
 const Docs = ({ docList }) => {
   const router = useRouter();
     let routes= router.route.split('/');
-    
   const { slug } = router.query
+
+  console.log(slug)
+
+
   const setDate = (date) => {
     let newDate = new Date(date)
     return newDate.toLocaleDateString('en-US',{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
@@ -42,6 +45,12 @@ const Docs = ({ docList }) => {
       <div className="w-layout-grid contain-block">
       <Breadcrumbs att={attributes}/>
       <section id="content-wrapper" className='has-anchors'>
+      {slug == "IACBE" ?
+      <div>
+        <p> The Philosophy of IACBE is that academic quality and excellence in business education is measures in terms of educational outcomes of an academic business unit relative to its mission rather than by perspective standards relating to academic resources. This emphasis on mission-related outcomes is fundamental to the entire quality assurance and accreditation process. </p>
+        <p> Programs offered at Acharya Bangalore Business School are accredited for the 2nd time by IACBE, USA which is a CHEA recognized Global Accreditation Body. </p>
+      </div>
+      : ""}
       {/* <PageContent att={attributes} html={html} docs={docList}/> */}
       {docList? <DocumentsSection docs={docList.filter((obj) => !obj.attributes.certification.localeCompare(slug, undefined, { sensitivity: 'accent' }))} /> : ""}
     

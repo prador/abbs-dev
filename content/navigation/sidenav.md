@@ -1,7 +1,7 @@
 ---
 title: Sidenav
 date: 2019-03-17T19:31:20.591Z
-logo: static/img/00-abbs-logo-white.svg
+logo: static/img/abbs-new-white.png
 top_menu:
   - menu_title: Main
     menu_id: main
