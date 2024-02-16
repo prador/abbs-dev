@@ -12,11 +12,14 @@ const sliderSection = {
         label: "Slide Image",
         name: "slide_image",
         widget: "image",
-        required: false
+        required: false,
+        hint: "desktop: 1900(w) x 1240(h) px. File size <500kb",
+        max_file_size: 10240
       }, {
         label: "Slide Image Mobile",
         name: "slide_image_mobile",
         widget: "image",
+        hint: "mobile: 1080(w) x 1920(h) px. File size <300kb",
         required: false
       }, {
         label: "Slide Title",

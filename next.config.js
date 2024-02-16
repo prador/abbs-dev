@@ -1412,6 +1412,14 @@ module.exports = {
         destination: '/lp/mba/index.html'
       },
       {
+        source: '/lp/bba',
+        destination: '/lp/bba/index.html'
+      },
+      {
+        source: '/lp/bca',
+        destination: '/lp/bca/index.html'
+      },
+      {
         source: '/lp/PGDM',
         destination: '/lp/PGDM/index.html'
       },
@@ -1430,6 +1438,14 @@ module.exports = {
       {
         source: '/lp/mba/thankyou',
         destination: '/lp/mba/thankyou.html'
+      },
+      {
+        source: '/lp/bba/thankyou',
+        destination: '/lp/bba/thankyou.html'
+      },
+      {
+        source: '/lp/bca/thankyou',
+        destination: '/lp/bca/thankyou.html'
       },
       {
         source: '/lp/PGDM/thankyou',
