@@ -33,7 +33,7 @@ module.exports = {
 
   // Where to store the images
   media_folder: "public/static/img/",
-  display_url: "abbs.edu.in",
+  display_url: "/admin/help",
   logo_url: "static/img/00-abbs-logo-black.svg",
   // Where to link the images
   public_folder: "static/img/",

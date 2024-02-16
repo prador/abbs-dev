@@ -1352,6 +1352,30 @@ module.exports = {
         basePath: false,
       },
       {
+        source: '/lp/bba',
+        destination: '/lp/bba/index.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/bba/thankyou',
+        destination: '/lp/bba/thankyou.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/bca/thankyou',
+        destination: '/lp/bca/thankyou.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/lp/bca',
+        destination: '/lp/bca/index.html',
+        permanent: false,
+        basePath: false,
+      },
+      {
         source: '/lp/PGDM',
         destination: '/lp/PGDM/index.html',
         permanent: false,
