@@ -1364,14 +1364,14 @@ module.exports = {
         basePath: false,
       },
       {
-        source: '/lp/bca/thankyou',
-        destination: '/lp/bca/thankyou.html',
+        source: '/lp/bca',
+        destination: '/lp/bca/index.html',
         permanent: false,
         basePath: false,
       },
       {
-        source: '/lp/bca',
-        destination: '/lp/bca/index.html',
+        source: '/lp/bca/thankyou',
+        destination: '/lp/bca/thankyou.html',
         permanent: false,
         basePath: false,
       },
