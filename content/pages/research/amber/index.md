@@ -155,13 +155,16 @@ sections:
     section_id: current_issue
     section_title: Current Issue
     accordions:
-      - accordion_title: AMBER_Vol.No.14_Issue.No.01_Oct 2022 - Mar 2023
+      - accordion_title: AMBER_Vol.No.14_Issue.No.02_Apr 2023 - Sep 2023
         accordion_content: ""
-        accordion_asset: static/img/amber_vol.no.14_issue.no.01_oct-2022-mar-2023.pdf
+        accordion_asset: static/img/amber-14-issue_2.pdf
   - type: accordion_section
     section_id: archives
     section_title: Archives
     accordions:
+      - accordion_title: AMBER_Vol.No.14_Issue.No.01_Oct 2022 - Mar 2023
+        accordion_content: ""
+        accordion_asset: static/img/AMBER_Vol.No.14_Issue.No.01_Oct 2022 - Mar 2023.pdf
       - accordion_title: AMBER_Vol.No.13_Issue.No.02_Apr 2022 - Sep.2022
         accordion_content: ""
         accordion_asset: static/img/amber_vol.no.13_issue.no.02_apr-2022-sep-2022.pdf
