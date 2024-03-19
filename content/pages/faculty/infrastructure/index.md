@@ -1,9 +1,11 @@
 ---
 title: Infrastructure
-date: 2021-12-04T06:14:12.660Z
 seo_title: Best Business School in Bangalore | Infrastructure
-seo_description: 
+seo_description: Discover the best business school in Bangalore with
+  state-of-the-art infrastructure. Elevate your learning experience for a
+  successful career journey.
 seo_keywords: Business School in Bangalore, ABBS, Infrastructure
+date: 2021-12-04T06:14:12.660Z
 thumbnail: static/img/04-03-infrastructure-01-banner.jpg
 sections:
   - type: text_section

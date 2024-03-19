@@ -1,7 +1,9 @@
 ---
 title: PG Fee Structure 2024-26
 seo_title: Best Business School in Bangalore | ABBS | Admissions | Fees
-seo_description: null
+seo_description: Unlock your potential at the best business school in Bangalore.
+  Navigate admissions and fees seamlessly with ABBS. Invest in your future
+  success
 seo_keywords: null
 date: 2021-12-04T06:20:50.148Z
 thumbnail: static/img/08-05-fees-and-scholarships-01-banner.jpg

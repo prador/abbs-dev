@@ -1,21 +1,11 @@
 ---
 title: Counselling cell
-date: 2021-12-04T06:25:54.632Z
-seo_title: Best Business School in Bangalore | Student Support | Counselling cell
-seo_description: 
+seo_title: Best B School in Bangalore| Student Support |Counseling
+seo_description: Leading B-School in Bangalore prioritizing student support
+  through a dedicated counseling cell. Ensuring holistic well-being for academic
+  and personal success.
 seo_keywords: Business School in Bangalore, ABBS, Counselling cell
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:25:54.632Z
 thumbnail: static/img/07-05-03-counselling-cell-01-banner.jpg
 sections:
   - type: text_section
@@ -53,4 +43,16 @@ sections:
 
       Departmental level by all coordinators
   - type: anchor_section
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---

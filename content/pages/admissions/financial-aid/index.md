@@ -1,4 +1,9 @@
 ---
+title: Financial Aid
+seo_title: Best Business School in Bangalore | ABBS | Admissions | FInancial Aid
+seo_description: Transform your future with the best business school in
+  Bangalore. Navigate admissions and discover financial aid options at ABBS.
+  Invest in success
 seo_keywords: null
 date: 2021-12-04T06:21:09.365Z
 thumbnail: static/img/08-06-financial-aid-banner.jpg
@@ -136,12 +141,9 @@ text_section:
     section_text: ""
     button_label: ""
     button_link: ""
-title: Financial Aid
-seo_title: Best Business School in Bangalore | ABBS | Admissions | FInancial Aid
 links:
   - anchor_title: ""
     anchor_id: ""
-seo_description: null
 ---
 An undergraduate or graduate degree is an investment in your future. One way many students choose to fund that investment is through an educational loan. When managed well, an educational loan can be an invaluable instrument in financing your higher education at ABBS. While all loans are to be repaid, applicants are advised to explore all of the options before applying. 
 

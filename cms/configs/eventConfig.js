@@ -12,6 +12,12 @@ const eventConfig = {
         required: true
       },
       {
+        label: "SEO Description",
+        name: "seo_description",
+        widget: "string",
+        required: false
+      },
+      {
         label: "Publish Date",
         name: "date",
         widget: "datetime",

@@ -1,9 +1,12 @@
 ---
-title: "Why can you consider this to be a good time to apply into an MBA"
-date: "2021-05-08"
-categories: 
-  - "post-graduate"
-thumbnail: "static/img/MBA-blog-post-img.jpg"
+title: Why can you consider this to be a good time to apply into an MBA
+date: 2021-05-08
+categories:
+  - post-graduate
+seo_description: Unlock new opportunities and professional growth! Explore why
+  now is the perfect time to apply for an MBA and elevate your career to new
+  heights.
+thumbnail: static/img/MBA-blog-post-img.jpg
 ---
 
 ![](images/MBA-blog-post-img-300x140.jpg)

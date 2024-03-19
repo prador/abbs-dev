@@ -1,21 +1,11 @@
 ---
 title: Anti-ragging committee members
-date: 2021-12-04T06:25:36.035Z
-seo_title: Best Business School in Bangalore | Student Support | Anti-ragging committee members
-seo_description: 
+seo_title: Best business  school in Bangalore | Student Support | Anti-ragging
+seo_description: Premier Bangalore business school with robust student support
+  and a dedicated Anti-ragging initiative, fostering a safe and inclusive
+  learning environment
 seo_keywords: Business School in Bangalore, ABBS, Anti-ragging committee members
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:25:36.035Z
 thumbnail: static/img/07-05-02-anti-ragging-committee-members-01-banner.jpg
 sections:
   - type: text_section
@@ -38,4 +28,16 @@ sections:
     links:
       - anchor_label: Anti Ragging Committee Members
         anchor_loc: anti-ragging
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---

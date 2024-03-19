@@ -1,9 +1,12 @@
 ---
-title: "Becoming a thought leader in times of crisis"
-date: "2021-01-02"
-categories: 
-  - "related-one"
-thumbnail: "static/img/ABBS-Blog-article-image-1.jpg"
+title: Becoming a thought leader in times of crisis |Top Bangalore B-School
+date: 2021-01-02
+categories:
+  - related-one
+seo_description: Navigate challenges with our guidance. Cultivate thought
+  leadership during crises at the top Bangalore B-School. Shape your future with
+  us
+thumbnail: static/img/ABBS-Blog-article-image-1.jpg
 ---
 
 ![](images/ABBS-Blog-article-image-1.jpg)

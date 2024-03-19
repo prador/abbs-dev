@@ -1,7 +1,9 @@
 ---
 title: Summer School
 seo_title: Best Business School in Bangalore | ABBS | Admissions | Summer School
-seo_description: null
+seo_description: Discover excellence at the best business school in Bangalore.
+  ABBS offers admissions and a transformative Summer School experience. Unlock
+  your potential
 seo_keywords: null
 date: 2021-12-04T06:21:09.365Z
 thumbnail: static/img/08-04-international-students-01-banner.jpg

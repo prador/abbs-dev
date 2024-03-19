@@ -1,21 +1,11 @@
 ---
 title: Recreational Sports
-date: 2021-12-04T06:22:37.914Z
-seo_title: Best Business School in Bangalore | Recreational Sports | Campus Life 
-seo_description: 
+seo_title: Best Business School in Bangalore | Recreational Sports | Campus Life
+seo_description: Experience holistic development at the best business school in
+  Bangalore. Enjoy recreational sports and vibrant campus life for a
+  well-rounded education
 seo_keywords: Business School in Bangalore, ABBS, Recreational Sports
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:22:37.914Z
 thumbnail: static/img/07-02-recreational-sports-01-banner.jpg
 sections:
   - type: logo_section
@@ -100,5 +90,17 @@ sections:
         anchor_loc: sports-games
       - anchor_label: Gallery
         anchor_loc: gallery
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---
 Our recreational sports centre brims with games and activities that will have you calling for more. Whether you are a football novice or an accomplished basketball enthusiast, chances are, you will find something at ABBS that will capture your interest.

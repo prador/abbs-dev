@@ -35,19 +35,9 @@ header_scripts: >-
 
   <!-- End Meta Pixel Code -->
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-
-
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136154294-1"></script>
-
-
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-136154294-1');
-  </script>
+  <!-- Google tag (gtag.js) --> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1JHPTC03H3"></script> 
+  <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-1JHPTC03H3'); </script>
 
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

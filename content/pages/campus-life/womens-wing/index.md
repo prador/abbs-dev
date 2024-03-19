@@ -1,4 +1,9 @@
 ---
+title: Women's wing
+seo_title: Best Business School in Bangalore | Women's Wing | Campus Life
+seo_description: Empowering women leaders at the best business school in
+  Bangalore. Join our Women's Wing for a supportive community and enriching
+  campus life experience
 seo_keywords: Business School in Bangalore, ABBS, Women's Wing
 date: 2021-12-04T06:22:57.409Z
 thumbnail: static/img/07-03-womens-wing-01-banner.jpg
@@ -79,10 +84,7 @@ text_section:
     section_text: ""
     button_label: ""
     button_link: ""
-title: Women's wing
-seo_title: Best Business School in Bangalore | Women's Wing | Campus Life
 links:
   - anchor_title: ""
     anchor_id: ""
-seo_description: null
 ---

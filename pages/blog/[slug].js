@@ -10,7 +10,7 @@ const Post = ({ blogpost }) => {
   if (!blogpost) return <div>not found</div>
 
   const { html, attributes } = blogpost
-
+console.log(attributes)
   return (
     <Layout>
     <PageHeader attributes={attributes} />
@@ -21,7 +21,7 @@ const Post = ({ blogpost }) => {
       <Breadcrumbs att={attributes}/>
         <div id="content-wrapper" className={attributes.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
     <article>
-      <h1>{attributes.title}</h1>
+      <h2>{attributes.title}</h2>
       {/* <img src={"../../"+attributes.thumbnail} /> */}
       <div dangerouslySetInnerHTML={{ __html: html }} />
     </article>

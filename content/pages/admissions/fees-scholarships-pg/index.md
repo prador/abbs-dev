@@ -1,7 +1,9 @@
 ---
 title: PG Scholarships
 seo_title: Best Business School in Bangalore | ABBS | Admissions | PG Scholarships
-seo_description: null
+seo_description: Shape your future at the best business school in Bangalore.
+  Navigate admissions and explore PG scholarships at ABBS. A pathway to academic
+  excellence.
 seo_keywords: null
 date: 2021-12-04T06:20:50.148Z
 thumbnail: static/img/08-05-fees-and-scholarships-01-banner.jpg

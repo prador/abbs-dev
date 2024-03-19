@@ -1,10 +1,13 @@
 ---
 title: Visiting Us
+seo_title: Best Business School in Bangalore | Visiting Us | ABBS
+seo_description: The Acharya Bangalore Business School offers rigorous
+  curriculum and excellent faculty. Explore our variety of undergraduate,
+  graduate, and doctoral programs in management. Visit us today
+seo_keywords: Bangalore's Leading B-School , MBA Excellence Bangalore, MBA
+  Courses in Bangalore, Bangalore Business Education
 date: 2021-12-04T06:05:57.423Z
 thumbnail: static/img/01-08-visiting-us-01-banner.jpg
-seo_title: Best Business School in Bangalore | Visiting Us | ABBS
-seo_description: The Acharya Bangalore Business School is known for its rigorous curriculum and excellent faculty. The School offers a variety of undergraduate, graduate and doctoral programs in management and business. Visit us today!
-seo_keywords: business School in Bangalore, Visiting Us, ABBS
 sections:
   - type: anchor_section
     links:

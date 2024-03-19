@@ -1,21 +1,11 @@
 ---
 title: Anti-sexual harassment cell
-date: 2021-12-04T06:23:41.585Z
-seo_title: Best Business School in Bangalore | Student Support | Anti-sexual harassment cell
-seo_description: 
+seo_title: Supportive Bangalore Business School | Anti-Harassment Cell
+seo_description: hoose a supportive Bangalore Business School with a dedicated
+  Anti-Harassment Cell. Ensuring a safe and inclusive environment for all
+  students
 seo_keywords: Business School in Bangalore, ABBS, Anti-sexual harassment cell
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:23:41.585Z
 thumbnail: static/img/07-05-01-anti-sexual-harrasment-cell-01-banner.jpg
 sections:
   - type: text_section
@@ -32,4 +22,16 @@ sections:
     links:
       - anchor_label: Anti-Sexual Harassment Cell
         anchor_loc: anti-sexual-harassment-cell
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---

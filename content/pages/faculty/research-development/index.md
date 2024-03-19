@@ -1,21 +1,11 @@
 ---
 title: Research & Development
-date: 2021-12-04T06:13:45.618Z
 seo_title: Best Business School in Bangalore | Research & Development
-seo_description: 
+seo_description: Explore the best business school in Bangalore with a focus on
+  cutting-edge research and development. Propel your career with innovation and
+  excellence.
 seo_keywords: Business School in Bangalore, ABBS, Research & Development
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:13:45.618Z
 thumbnail: static/img/04-02-research-and-development-01-banner.jpg
 sections:
   - type: text_section
@@ -49,4 +39,16 @@ sections:
 
       The research hub is underpinned by technology specialists, industry partners, associate researchers, faculty members, research staff and postgraduate students.
   - type: anchor_section
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---

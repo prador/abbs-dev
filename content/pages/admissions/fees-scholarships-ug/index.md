@@ -1,7 +1,9 @@
 ---
 title: UG Scholarships
-seo_title: Best Business School in Bangalore | ABBS | Admissions | UG Scholarships
-seo_description: null
+seo_title: Best Business School in Bangalore | Admissions | UG Scholarships
+seo_description: Explore opportunities at the best business school in Bangalore.
+  Navigate admissions and UG scholarships at ABBS for a transformative education
+  journey
 seo_keywords: null
 date: 2021-12-04T06:20:50.148Z
 thumbnail: static/img/08-05-fees-and-scholarships-01-banner.jpg

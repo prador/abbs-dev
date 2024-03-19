@@ -18,7 +18,7 @@ const PageBanner = ({att}) => {
         <div className="div-block-4">
           <div className="div-block-5"></div>
           {/* <Image src={att.thumbnail} loading="lazy" alt="" className="image" layout="fill" /> */}
-          <img src={"../".repeat(pageLevel)+att.thumbnail} className="image"/>
+          <img src={"../".repeat(pageLevel)+att.thumbnail} className="image" alt={`${att.title} banner`}/>
         </div>
         <div className="div-block-7">
           <div id="w-node-_5eb63cd6-7a5a-d031-e524-17bf1b83033c-fe48c5ce" className="post-title-section">

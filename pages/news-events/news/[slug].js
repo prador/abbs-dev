@@ -22,7 +22,7 @@ const Post = ({ blogpost }) => {
           {/* <div id="content-wrapper" className={getContainer()}> */}
           <div id="content-wrapper" className={attributes.sections ? `${getContainer() ? "has-anchors" : "full"}` : ""}>
       <article>
-        <h1>{attributes.title}</h1>
+        <h2>{attributes.title}</h2>
         <img src={"../../"+attributes.thumbnail} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </article>

@@ -57,7 +57,7 @@ module.exports = {
       },
       {
         source: '/news-events', 
-        destination: '/news-events/news', 
+        destination: '/news-events/events', 
         permanent: false,
         basePath: false,
       },
@@ -1246,6 +1246,12 @@ module.exports = {
       {
         source: '/programs/life-sciences/b-sc', 
         destination: '/programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore', 
+        permanent: false,
+        basePath: false,
+      },
+      {
+        source: '/programs/life-sciences/b-sc-biotechnology-colleges-in-bangalore',
+        destination: '/programs/life-sciences/life-sciences-programs', 
         permanent: false,
         basePath: false,
       },

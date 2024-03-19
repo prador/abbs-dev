@@ -1,21 +1,11 @@
 ---
 title: Consultancy & MDP
-date: 2021-12-04T06:17:22.566Z
 seo_title: Best Business School in Bangalore | Consultancy & MDP
-seo_description: 
+seo_description: Transform your career with the best business school in
+  Bangalore, offering top-notch consultancy and MDP programs. Unleash your
+  leadership potential
 seo_keywords: Business School in Bangalore, ABBS, Consultancy & MDP
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T06:17:22.566Z
 thumbnail: static/img/06-02-consultancy-and-mdp-01-banner.jpg
 sections:
   - type: text_section
@@ -239,4 +229,16 @@ sections:
         anchor_loc: coordinator-profiles
       - anchor_label: Management Development Programmes(MDP)
         anchor_loc: mdp
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---

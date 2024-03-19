@@ -1,7 +1,9 @@
 ---
 title: Student Clubs
-seo_title: Best Business School in Bangalore | Student Clubs | Campus Life
-seo_description: null
+seo_title: Top Bangalore B-School | Vibrant Campus| Student Clubs
+seo_description: Fuel your passions at the best business school in Bangalore.
+  Engage in vibrant campus life with diverse student clubs, shaping leaders of
+  tomorrow
 seo_keywords: Business School in Bangalore, ABBS, Student Clubs
 date: 2021-12-04T06:22:57.409Z
 thumbnail: static/img/07-04-04-toastmaster-banner.jpg

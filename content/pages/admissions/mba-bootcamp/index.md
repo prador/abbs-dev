@@ -1,7 +1,9 @@
 ---
 title: MBA Bootcamp
-seo_title: Best Business School in Bangalore | ABBS | Admissions | MBA Bootcamp
-seo_description: null
+seo_title: Best Business School in Bangalore | Admissions | MBA Bootcamp
+seo_description: Enroll at the best business school in Bangalore. Experience
+  top-notch admissions and an impactful MBA Bootcamp at ABBS. Elevate your
+  career today
 seo_keywords: null
 date: 2021-12-04T06:21:09.365Z
 thumbnail: static/img/02-03-learning-excellence-01-banner.jpg

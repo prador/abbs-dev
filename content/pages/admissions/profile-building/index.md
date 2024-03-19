@@ -1,7 +1,9 @@
 ---
 title: Profile Building
-seo_title: Best Business School in Bangalore | ABBS | Admissions | Profile Building
-seo_description: null
+seo_title: Best Business School in Bangalore | ABBS | Admissions | Profile
+seo_description: Elevate your career with the best business school in Bangalore.
+  Explore ABBS for admissions and profile building. Unlock your potential for
+  success
 seo_keywords: null
 date: 2021-12-04T06:21:09.365Z
 thumbnail: static/img/02-02-facts-and-figures-01-banner.jpg

@@ -32,6 +32,8 @@ const Blog = ({ postsList }) => {
     let newDate = new Date(date)
     return newDate.toLocaleDateString('en-US',{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
   }
+  attributes.seo_description = "Discover excellence at Acharya Bangalore Business School, ranked among the top business schools in Bangalore. Explore our blogs for valuable insights"
+  attributes.seo_keywords="Business School Excellence , Educational Insights, Management Studies Bangalore"
   return (
   <Layout>
     <PageHeader attributes={attributes} />

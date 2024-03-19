@@ -1,21 +1,11 @@
 ---
 title: Learning Excellence
-date: 2021-12-04T05:40:48.578Z
 seo_title: Business School | Learning Excellence | Acharya Bangalore Business School
-seo_description: 
+seo_description: Acharya Bangalore Business School - Your hub for learning
+  excellence in business. Elevate your career with our top-notch business school
+  programs.
 seo_keywords: Business School in Bangalore, ABBS, Learning Excellence
-text_section:
-  - section_id: ""
-    section_title: ""
-    section_text: ""
-    button_label: ""
-    button_link: ""
-logo_section:
-  - logo_title: ""
-    logo_link: ""
-links:
-  - anchor_title: ""
-    anchor_id: ""
+date: 2021-12-04T05:40:48.578Z
 thumbnail: static/img/02-03-learning-excellence-01-banner.jpg
 sections:
   - type: text_section
@@ -84,4 +74,16 @@ sections:
     links:
       - anchor_label: "Best Practices at ABBS "
         anchor_loc: best-practices
+logo_section:
+  - logo_title: ""
+    logo_link: ""
+text_section:
+  - section_id: ""
+    section_title: ""
+    section_text: ""
+    button_label: ""
+    button_link: ""
+links:
+  - anchor_title: ""
+    anchor_id: ""
 ---

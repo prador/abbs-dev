@@ -1,6 +1,9 @@
 ---
 title: AMBER Journals
 seo_title: Best Business School in Bangalore | AMBER Journal
+seo_description: Dive into excellence at the best business school in Bangalore
+  with the AMBER Journal. Elevate your research and stay at the forefront of
+  business trends
 date: 2023-02-28T12:10:41.191Z
 thumbnail: static/img/05-02-research-publications-banner.jpg
 sections:

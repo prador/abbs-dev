@@ -1,7 +1,9 @@
 ---
 title: UG Fee Structure 2024 - 27
 seo_title: Best Business School in Bangalore | ABBS | Admissions | Fees
-seo_description: null
+seo_description: Join the best business school in Bangalore - ABBS. Explore
+  admissions and fees for a rewarding educational journey. Secure your future
+  with us
 seo_keywords: null
 date: 2021-12-04T06:20:50.148Z
 thumbnail: static/img/08-05-fees-and-scholarships-01-banner.jpg

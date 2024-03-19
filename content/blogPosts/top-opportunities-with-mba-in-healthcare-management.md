@@ -1,5 +1,7 @@
 ---
-title: Top Opportunities with MBA in Healthcare Management
+title: Top Opportunities with MBA in Healthcare Management | ABBS
+seo_description: Explore top opportunities with an MBA in Healthcare Management
+  at ABBS. Elevate your career in healthcare leadership and strategic management
 date: 2022-05-24T05:43:36.033Z
 thumbnail: static/img/mba-healthcare.jpg
 ---

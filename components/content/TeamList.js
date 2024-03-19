@@ -6,7 +6,7 @@ const TeamList = ({list,tag}) => {
           <>
           { item.attributes.tags[0] == tag ?
             <div key={item.slug} className={"bio-card "+`${item.attributes.tags ? item.attributes.tags[0].replace(/\s/g , "-").toLowerCase() : null}`}> 
-              <div className="bio-image"><img src={"../"+item.attributes.thumbnail} /></div>
+              <div className="bio-image"><img src={"../"+item.attributes.thumbnail} alt={`${item.attributes.name} - ABBS Faculty`} /></div>
               <div className="bio-content">
                 <h4 className="bio-name">{item.attributes.name}</h4>
                 <p className="bio-qualifications">{item.attributes.qualifications}</p>
