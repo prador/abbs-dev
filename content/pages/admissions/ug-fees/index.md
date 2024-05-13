@@ -26,13 +26,13 @@ sections:
       class="c2"><span class="c1">330000</span></p></td></tr><tr class="c5"><td
       class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B.
       Com</span></p></td><td class="c6" colspan="1" rowspan="1"><p
-      class="c2"><span class="c1">215000</span></p></td></tr><tr class="c5"><td
+      class="c2"><span class="c1">218000</span></p></td></tr><tr class="c5"><td
       class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B. Com +
       CMA</span></p></td><td class="c6" colspan="1" rowspan="1"><p
-      class="c2"><span class="c1">320000</span></p></td></tr><tr class="c5"><td
+      class="c2"><span class="c1">350000</span></p></td></tr><tr class="c5"><td
       class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">B. Com
       logistics &amp; Supply Chain </span></p></td><td class="c6" colspan="1"
-      rowspan="1"><p class="c2"><span class="c1">300000</span></p></td></tr><tr
+      rowspan="1"><p class="c2"><span class="c1">350000</span></p></td></tr><tr
       class="c5"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
       class="c1">B.Sc. (Biotechnology/Biochemistry/ Genetics)
       </span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c2"><span
@@ -44,14 +44,14 @@ sections:
       colspan="1" rowspan="1"><p class="c2"><span class="c1">B.A
       (Psychology/Sociology/Political Science)</span></p></td><td class="c6"
       colspan="1" rowspan="1"><p class="c2"><span
-      class="c1">300000</span></p></td></tr><tr class="c7"><td class="c0"
+      class="c1">210000</span></p></td></tr><tr class="c7"><td class="c0"
       colspan="1" rowspan="1"><p class="c2"><span class="c1">B.A (
       Journalism/Tourism/History)</span></p></td><td class="c6" colspan="1"
-      rowspan="1"><p class="c2"><span class="c1">300000</span></p></td></tr><tr
+      rowspan="1"><p class="c2"><span class="c1">210000</span></p></td></tr><tr
       class="c7"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span
       class="c1">B.A (Economics/Marketing/Statistics)</span></p></td><td
       class="c6" colspan="1" rowspan="1"><p class="c2"><span
-      class="c1">300000</span></p></td></tr></tbody></table>
+      class="c1">210000</span></p></td></tr></tbody></table>
     embed_size: ""
   - type: anchor_section
     links:
