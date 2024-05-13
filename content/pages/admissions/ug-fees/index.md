@@ -17,7 +17,7 @@ sections:
       Fee (In Rs.)</span></p></td></tr><tr class="c5"><td class="c0" colspan="1"
       rowspan="1"><p class="c2"><span class="c1">BBA</span></p></td><td
       class="c6" colspan="1" rowspan="1"><p class="c2"><span
-      class="c1">320000</span></p></td></tr><tr class="c5"><td class="c0"
+      class="c1">350000</span></p></td></tr><tr class="c5"><td class="c0"
       colspan="1" rowspan="1"><p class="c2"><span class="c1">BBA-Aviation
       Management</span></p></td><td class="c6" colspan="1" rowspan="1"><p
       class="c2"><span class="c1">450000</span></p></td></tr><tr class="c7"><td
