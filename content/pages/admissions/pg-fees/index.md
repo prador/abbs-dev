@@ -57,8 +57,8 @@ sections:
       class="c11"><span class="c0">300000 </span></p></td><td class="c13"
       colspan="1" rowspan="1"><p class="c11"><span class="c0">200000
       </span></p></td><td class="c18" colspan="1" rowspan="1"><p
-      class="c11"><span class="c0">205000 </span></p></td><td class="c13"
-      colspan="1" rowspan="1"><p class="c11"><span class="c0">185000
+      class="c11"><span class="c0">206000 </span></p></td><td class="c13"
+      colspan="1" rowspan="1"><p class="c11"><span class="c0">184000
       </span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span
       class="c0">890000</span></p></td></tr><tr class="c25"><td class="c6"
       colspan="1" rowspan="1"><p class="c19"><span class="c0">MBA Business
