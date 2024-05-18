@@ -50,6 +50,7 @@ const Footer = () => (
       <div className="footer_row3">
         <div className="social-links">
           <div className="copyright">{attributes.footer_copyright}</div>
+          <div className="delim">|</div> <div class="copyright">Created by <a href="https://suramprady.com">Suramprady</a></div>
           {attributes.footer_links.map(((link,id) => 
             <><div className="delim">|</div>{link.show !== false ? <a key={id} className="footer-link" href={link.links_loc ? link.links_loc : "#"}>{link.links_label}</a> : null}</>
           ))}
